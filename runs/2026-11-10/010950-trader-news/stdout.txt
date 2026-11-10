@@ -1,0 +1,878 @@
+AA     41.82 +5.77% vs yesterday's close 39.54 at 16:00 ET  MOVING
+AADX   10.90 +12.72% vs yesterday's close 9.67 at 16:00 ET  MOVING
+AAL    14.16 +7.44% vs yesterday's close 13.18 at 16:00 ET  MOVING
+AAPL   350.69 +2.43% vs yesterday's close 342.37 at 16:00 ET  
+ABCL   12.50 +5.22% vs yesterday's close 11.88 at 16:00 ET  MOVING
+ABNB   190.29 +0.16% vs yesterday's close 189.99 at 16:00 ET  
+ACAD   16.50 -22.28% vs yesterday's close 21.23 at 16:00 ET  MOVING
+ACHC   38.61 +4.35% vs yesterday's close 37.00 at 16:00 ET  MOVING
+ACHV   6.78 +0.89% vs yesterday's close 6.72 at 16:00 ET  
+ACIW   61.45 +2.38% vs yesterday's close 60.02 at 16:00 ET  
+ACM    70.21 +5.20% vs yesterday's close 66.74 at 16:00 ET  MOVING
+ACN    254.37 -2.35% vs yesterday's close 260.50 at 16:00 ET  
+ADAM   5.69 +0.00% vs yesterday's close 5.69 at 16:00 ET  
+ADEA   16.28 +5.03% vs yesterday's close 15.50 at 16:00 ET  MOVING
+ADM    69.84 -0.19% vs yesterday's close 69.97 at 16:00 ET  
+ADPT   30.26 +8.15% vs yesterday's close 27.98 at 16:00 ET  MOVING
+ADT    9.93 +0.71% vs yesterday's close 9.86 at 16:00 ET  
+AEE    114.02 +1.04% vs yesterday's close 112.85 at 16:00 ET  
+AEG    8.59 +3.49% vs yesterday's close 8.30 at 16:00 ET  MOVING
+AEM    200.80 +4.82% vs yesterday's close 191.57 at 16:00 ET  MOVING
+AEO    21.75 +9.19% vs yesterday's close 19.92 at 16:00 ET  MOVING
+AEP    128.33 +1.42% vs yesterday's close 126.53 at 16:00 ET  
+AER    175.43 +3.41% vs yesterday's close 169.64 at 16:00 ET  MOVING
+AESI   5.54 +2.40% vs yesterday's close 5.41 at 16:00 ET  
+AEVA   12.30 +11.82% vs yesterday's close 11.00 at 16:00 ET  MOVING
+AG     15.87 +4.68% vs yesterday's close 15.16 at 16:00 ET  MOVING
+AGCO   116.52 +5.51% vs yesterday's close 110.44 at 16:00 ET  MOVING
+AGI    32.59 +2.39% vs yesterday's close 31.83 at 16:00 ET  
+AHR    58.96 +1.81% vs yesterday's close 57.91 at 16:00 ET  
+AI     12.00 +2.65% vs yesterday's close 11.69 at 16:00 ET  
+AKR    19.97 +0.86% vs yesterday's close 19.80 at 16:00 ET  
+ALAB   216.87 +13.72% vs yesterday's close 190.71 at 16:00 ET  MOVING
+ALGN   174.26 +4.98% vs yesterday's close 166.00 at 16:00 ET  MOVING
+ALH    24.04 +6.37% vs yesterday's close 22.60 at 16:00 ET  MOVING
+ALK    41.70 +7.09% vs yesterday's close 38.94 at 16:00 ET  MOVING
+ALKS   46.17 +0.59% vs yesterday's close 45.90 at 16:00 ET  
+ALKT   14.22 +6.04% vs yesterday's close 13.41 at 16:00 ET  MOVING
+ALLY   38.53 +0.94% vs yesterday's close 38.17 at 16:00 ET  
+ALM    8.78 +8.07% vs yesterday's close 8.12 at 16:00 ET  MOVING
+ALMS   6.55 +8.62% vs yesterday's close 6.03 at 16:00 ET  MOVING
+ALNY   156.61 +0.43% vs yesterday's close 155.94 at 16:00 ET  
+ALOY   6.85 +11.84% vs yesterday's close 6.12 at 16:00 ET  MOVING
+AMLX   30.21 +2.41% vs yesterday's close 29.50 at 16:00 ET  
+AMPX   9.52 +9.17% vs yesterday's close 8.72 at 16:00 ET  MOVING
+AMRX   21.28 +5.66% vs yesterday's close 20.14 at 16:00 ET  MOVING
+AMX    26.05 +1.28% vs yesterday's close 25.72 at 16:00 ET  
+AMZN   266.93 +2.94% vs yesterday's close 259.30 at 16:00 ET  
+ANET   186.17 +9.00% vs yesterday's close 170.80 at 16:00 ET  MOVING
+AON    335.77 +0.29% vs yesterday's close 334.81 at 16:00 ET  
+AOS    65.20 +1.01% vs yesterday's close 64.55 at 16:00 ET  
+AOSL   29.17 +23.55% vs yesterday's close 23.61 at 16:00 ET  MOVING
+APAM   39.83 +1.79% vs yesterday's close 39.13 at 16:00 ET  
+APG    42.49 +3.96% vs yesterday's close 40.87 at 16:00 ET  MOVING
+APH    80.71 +8.20% vs yesterday's close 74.59 at 16:00 ET  MOVING
+APLE   19.68 +4.24% vs yesterday's close 18.88 at 16:00 ET  MOVING
+APP    410.00 +4.80% vs yesterday's close 391.22 at 16:00 ET  MOVING
+APPS   11.30 +8.86% vs yesterday's close 10.38 at 16:00 ET  MOVING
+AQN    5.66 +2.54% vs yesterday's close 5.52 at 16:00 ET  
+ARDT   17.97 +3.87% vs yesterday's close 17.30 at 16:00 ET  MOVING
+ARES   139.58 +4.18% vs yesterday's close 133.98 at 16:00 ET  MOVING
+ARHS   15.02 +5.85% vs yesterday's close 14.19 at 16:00 ET  MOVING
+ARIS   16.64 +6.33% vs yesterday's close 15.65 at 16:00 ET  MOVING
+ARMK   54.74 +4.19% vs yesterday's close 52.54 at 16:00 ET  MOVING
+ARWR   49.24 -15.34% vs yesterday's close 58.16 at 16:00 ET  MOVING
+AS     32.46 +3.15% vs yesterday's close 31.47 at 16:00 ET  MOVING
+ASO    71.18 +5.82% vs yesterday's close 67.27 at 16:00 ET  MOVING
+ASPN   6.11 +24.44% vs yesterday's close 4.91 at 16:00 ET  MOVING
+ASTL   5.81 +7.99% vs yesterday's close 5.38 at 16:00 ET  MOVING
+ATEN   27.06 +9.29% vs yesterday's close 24.76 at 16:00 ET  MOVING
+ATI    184.85 +5.15% vs yesterday's close 175.79 at 16:00 ET  MOVING
+AU     99.37 +6.86% vs yesterday's close 92.99 at 16:00 ET  MOVING
+AURA   7.66 +16.77% vs yesterday's close 6.56 at 16:00 ET  MOVING
+AVAV   126.96 +12.59% vs yesterday's close 112.76 at 16:00 ET  MOVING
+AVPT   16.81 +1.57% vs yesterday's close 16.55 at 16:00 ET  
+AVTX   7.27 +4.91% vs yesterday's close 6.93 at 16:00 ET  MOVING
+AWK    149.22 -0.71% vs yesterday's close 150.29 at 16:00 ET  
+AXON   303.18 -3.14% vs yesterday's close 313.00 at 16:00 ET  MOVING
+AXSM   133.96 +1.20% vs yesterday's close 132.37 at 16:00 ET  
+AXTA   37.53 +2.96% vs yesterday's close 36.45 at 16:00 ET  
+AZN    189.39 +1.59% vs yesterday's close 186.43 at 16:00 ET  
+B      42.27 +4.22% vs yesterday's close 40.56 at 16:00 ET  MOVING
+BAH    86.70 +1.58% vs yesterday's close 85.35 at 16:00 ET  
+BAM    54.18 +2.32% vs yesterday's close 52.95 at 16:00 ET  
+BBIO   77.93 +4.90% vs yesterday's close 74.29 at 16:00 ET  MOVING
+BBVA   26.44 +5.55% vs yesterday's close 25.05 at 16:00 ET  MOVING
+BBY    106.28 +6.67% vs yesterday's close 99.63 at 16:00 ET  MOVING
+BCAX   9.98 +15.38% vs yesterday's close 8.65 at 16:00 ET  MOVING
+BCS    23.19 +3.85% vs yesterday's close 22.33 at 16:00 ET  MOVING
+BDX    215.25 +1.59% vs yesterday's close 211.88 at 16:00 ET  
+BEN    35.87 +6.34% vs yesterday's close 33.73 at 16:00 ET  MOVING
+BEPC   31.88 +0.44% vs yesterday's close 31.74 at 16:00 ET  
+BETA   28.52 +5.16% vs yesterday's close 27.12 at 16:00 ET  MOVING
+BFAM   51.97 -2.90% vs yesterday's close 53.52 at 16:00 ET  
+BHP    82.86 +3.72% vs yesterday's close 79.89 at 16:00 ET  MOVING
+BIIB   254.87 +2.63% vs yesterday's close 248.35 at 16:00 ET  
+BILL   53.81 +2.67% vs yesterday's close 52.41 at 16:00 ET  
+BIP    39.67 +0.56% vs yesterday's close 39.45 at 16:00 ET  
+BIPC   39.87 +0.53% vs yesterday's close 39.66 at 16:00 ET  
+BIRK   38.72 +3.75% vs yesterday's close 37.32 at 16:00 ET  MOVING
+BKH    86.35 +1.74% vs yesterday's close 84.87 at 16:00 ET  
+BKSY   23.90 +12.05% vs yesterday's close 21.33 at 16:00 ET  MOVING
+BKV    18.42 +4.96% vs yesterday's close 17.55 at 16:00 ET  MOVING
+BLMN   10.28 +5.44% vs yesterday's close 9.75 at 16:00 ET  MOVING
+BLSH   22.80 +6.99% vs yesterday's close 21.31 at 16:00 ET  MOVING
+BMGL   5.40 +2.08% vs yesterday's close 5.29 at 16:00 ET  
+BNL    17.84 +1.88% vs yesterday's close 17.51 at 16:00 ET  
+BOBS   20.97 +7.98% vs yesterday's close 19.42 at 16:00 ET  MOVING
+BRBR   9.62 +5.02% vs yesterday's close 9.16 at 16:00 ET  MOVING
+BRKR   66.54 +8.53% vs yesterday's close 61.31 at 16:00 ET  MOVING
+BROS   36.01 +6.63% vs yesterday's close 33.77 at 16:00 ET  MOVING
+BRX    30.30 +0.93% vs yesterday's close 30.02 at 16:00 ET  
+BRZE   46.08 +0.63% vs yesterday's close 45.79 at 16:00 ET  
+BSM    13.74 -1.72% vs yesterday's close 13.98 at 16:00 ET  
+BSY    45.40 +1.68% vs yesterday's close 44.65 at 16:00 ET  
+BTG    5.68 +5.19% vs yesterday's close 5.40 at 16:00 ET  MOVING
+BTU    17.03 +6.24% vs yesterday's close 16.03 at 16:03 ET  MOVING
+BURL   257.17 +4.22% vs yesterday's close 246.76 at 16:00 ET  MOVING
+BV     11.85 +1.54% vs yesterday's close 11.67 at 16:00 ET  
+BWA    51.44 +5.39% vs yesterday's close 48.81 at 16:00 ET  MOVING
+BXDC   16.70 +4.31% vs yesterday's close 16.01 at 16:00 ET  MOVING
+BXMT   11.18 +0.18% vs yesterday's close 11.16 at 16:00 ET  
+BXP    66.19 +1.82% vs yesterday's close 65.01 at 16:00 ET  
+CAH    274.29 +0.95% vs yesterday's close 271.72 at 16:00 ET  
+CALM   68.83 +6.55% vs yesterday's close 64.60 at 16:00 ET  MOVING
+CALX   32.16 +5.10% vs yesterday's close 30.60 at 16:00 ET  MOVING
+CALY   17.43 +3.57% vs yesterday's close 16.83 at 16:00 ET  MOVING
+CAPR   9.85 +9.44% vs yesterday's close 9.00 at 16:00 ET  MOVING
+CART   58.46 +0.58% vs yesterday's close 58.12 at 16:00 ET  
+CAT    598.88 +7.21% vs yesterday's close 558.63 at 16:00 ET  MOVING
+CAVA   62.35 +5.41% vs yesterday's close 59.15 at 16:00 ET  MOVING
+CBC    38.53 +2.07% vs yesterday's close 37.75 at 16:00 ET  
+CBRS   96.70 +7.83% vs yesterday's close 89.68 at 16:00 ET  MOVING
+CBSH   56.03 +1.80% vs yesterday's close 55.04 at 16:00 ET  
+CC     13.28 +4.16% vs yesterday's close 12.75 at 16:00 ET  MOVING
+CCEP   117.49 +1.17% vs yesterday's close 116.13 at 16:00 ET  
+CDNS   336.53 +5.19% vs yesterday's close 319.92 at 16:00 ET  MOVING
+CDP    33.46 +1.79% vs yesterday's close 32.87 at 16:00 ET  
+CE     48.75 +4.86% vs yesterday's close 46.49 at 16:00 ET  MOVING
+CEG    276.09 +10.46% vs yesterday's close 249.95 at 16:00 ET  MOVING
+CELH   33.19 +3.20% vs yesterday's close 32.16 at 16:00 ET  MOVING
+CENX   36.62 +9.41% vs yesterday's close 33.47 at 16:00 ET  MOVING
+CERT   12.22 +1.41% vs yesterday's close 12.05 at 16:00 ET  
+CFG    65.10 +2.94% vs yesterday's close 63.24 at 16:00 ET  
+CGAU   23.04 +5.79% vs yesterday's close 21.78 at 16:00 ET  MOVING
+CHDN   98.77 +0.85% vs yesterday's close 97.94 at 16:00 ET  
+CHYM   32.53 +3.83% vs yesterday's close 31.33 at 16:00 ET  MOVING
+CIM    7.28 -0.41% vs yesterday's close 7.31 at 16:00 ET  
+CKX    16.40 +58.15% vs yesterday's close 10.37 at 16:00 ET  MOVING
+CLBK   11.35 +2.16% vs yesterday's close 11.11 at 16:00 ET  
+CLBT   12.70 +2.01% vs yesterday's close 12.45 at 16:00 ET  
+CLDX   31.24 +4.59% vs yesterday's close 29.87 at 16:00 ET  MOVING
+CLM    6.13 +2.34% vs yesterday's close 5.99 at 16:00 ET  
+CLMT   36.06 -9.03% vs yesterday's close 39.64 at 16:00 ET  MOVING
+CLS    222.92 +7.86% vs yesterday's close 206.68 at 16:00 ET  MOVING
+CLX    105.53 +5.57% vs yesterday's close 99.96 at 16:00 ET  MOVING
+CLYM   11.01 +7.00% vs yesterday's close 10.29 at 16:00 ET  MOVING
+CMG    35.74 +3.80% vs yesterday's close 34.43 at 16:03 ET  MOVING
+CMI    466.47 +3.64% vs yesterday's close 450.07 at 16:02 ET  MOVING
+CNH    12.82 +10.90% vs yesterday's close 11.56 at 16:00 ET  MOVING
+CNK    40.89 +5.12% vs yesterday's close 38.90 at 16:00 ET  MOVING
+COGT   33.54 +5.99% vs yesterday's close 31.64 at 16:00 ET  MOVING
+COHR   225.19 +16.79% vs yesterday's close 192.81 at 16:00 ET  MOVING
+COLB   31.00 +1.71% vs yesterday's close 30.48 at 16:00 ET  
+COLD   16.06 +0.31% vs yesterday's close 16.01 at 16:00 ET  
+COLM   72.45 +2.87% vs yesterday's close 70.43 at 16:00 ET  
+COMP   10.79 +5.68% vs yesterday's close 10.21 at 16:00 ET  MOVING
+COR    345.76 +3.66% vs yesterday's close 333.56 at 16:00 ET  MOVING
+CORT   75.03 +3.10% vs yesterday's close 72.77 at 16:00 ET  MOVING
+COST   1,066.18 +1.20% vs yesterday's close 1,053.56 at 16:00 ET  
+CPRI   21.38 +4.09% vs yesterday's close 20.54 at 16:00 ET  MOVING
+CPRT   32.45 +1.56% vs yesterday's close 31.95 at 16:00 ET  
+CRBG   35.89 +5.28% vs yesterday's close 34.09 at 16:00 ET  MOVING
+CRF    5.99 +3.63% vs yesterday's close 5.78 at 16:00 ET  MOVING
+CRGY   10.98 -2.14% vs yesterday's close 11.22 at 16:00 ET  
+CRI    34.72 +8.47% vs yesterday's close 32.01 at 16:00 ET  MOVING
+CRMD   5.47 +2.82% vs yesterday's close 5.32 at 16:00 ET  
+CROX   160.23 +5.51% vs yesterday's close 151.86 at 16:00 ET  MOVING
+CRS    305.35 +9.72% vs yesterday's close 278.31 at 16:00 ET  MOVING
+CRVS   11.35 +7.69% vs yesterday's close 10.54 at 16:00 ET  MOVING
+CSCO   98.65 +5.11% vs yesterday's close 93.85 at 16:00 ET  MOVING
+CSQR   15.27 +6.49% vs yesterday's close 14.34 at 16:00 ET  MOVING
+CSX    50.48 +2.77% vs yesterday's close 49.12 at 16:00 ET  
+CTOS   10.02 +7.40% vs yesterday's close 9.33 at 16:00 ET  MOVING
+CTRE   38.86 +1.70% vs yesterday's close 38.21 at 16:00 ET  
+CTRI   22.56 +10.75% vs yesterday's close 20.37 at 16:00 ET  MOVING
+CUBE   45.00 -0.04% vs yesterday's close 45.02 at 16:00 ET  
+CVE    27.59 +0.51% vs yesterday's close 27.45 at 16:00 ET  
+CVI    39.10 +2.54% vs yesterday's close 38.13 at 16:00 ET  
+CWEN   34.70 +1.76% vs yesterday's close 34.10 at 16:00 ET  
+CX     11.09 +3.45% vs yesterday's close 10.72 at 16:00 ET  MOVING
+CXM    6.56 -1.65% vs yesterday's close 6.67 at 16:00 ET  
+CYRX   20.47 +7.17% vs yesterday's close 19.10 at 16:00 ET  MOVING
+CYTK   55.14 +2.70% vs yesterday's close 53.69 at 16:00 ET  
+DAL    91.80 +5.28% vs yesterday's close 87.20 at 16:00 ET  MOVING
+DAN    23.11 +7.49% vs yesterday's close 21.50 at 16:00 ET  MOVING
+DAR    52.53 +4.66% vs yesterday's close 50.19 at 16:00 ET  MOVING
+DC     6.45 +8.40% vs yesterday's close 5.95 at 16:00 ET  MOVING
+DCTH   20.27 +35.77% vs yesterday's close 14.93 at 16:00 ET  MOVING
+DD     155.14 +5.88% vs yesterday's close 146.52 at 16:00 ET  MOVING
+DDI    15.70 +15.61% vs yesterday's close 13.58 at 16:00 ET  MOVING
+DDOG   179.62 +0.32% vs yesterday's close 179.04 at 16:00 ET  
+DE     691.28 +2.92% vs yesterday's close 671.65 at 16:00 ET  
+DEC    12.91 +1.65% vs yesterday's close 12.70 at 16:00 ET  
+DECK   90.43 +4.29% vs yesterday's close 86.71 at 16:00 ET  MOVING
+DELL   346.31 +5.41% vs yesterday's close 328.53 at 16:04 ET  MOVING
+DEO    101.29 +1.53% vs yesterday's close 99.76 at 16:00 ET  
+DFTX   35.39 +6.37% vs yesterday's close 33.27 at 16:00 ET  MOVING
+DGX    259.67 +1.58% vs yesterday's close 255.63 at 16:00 ET  
+DINO   99.76 +2.65% vs yesterday's close 97.18 at 16:00 ET  
+DIS    119.12 +2.03% vs yesterday's close 116.75 at 16:02 ET  
+DKS    147.69 +4.88% vs yesterday's close 140.82 at 16:00 ET  MOVING
+DLO    14.39 +3.15% vs yesterday's close 13.95 at 16:00 ET  MOVING
+DLR    180.10 +3.39% vs yesterday's close 174.20 at 16:00 ET  MOVING
+DOC    20.62 +1.78% vs yesterday's close 20.26 at 16:00 ET  
+DOCN   78.30 +8.03% vs yesterday's close 72.48 at 16:00 ET  MOVING
+DOCS   32.87 +1.11% vs yesterday's close 32.51 at 16:00 ET  
+DOLE   13.98 +0.72% vs yesterday's close 13.88 at 16:00 ET  
+DOX    41.74 -0.83% vs yesterday's close 42.09 at 16:00 ET  
+DPC    32.73 +13.72% vs yesterday's close 28.78 at 16:00 ET  MOVING
+DRS    36.41 +6.96% vs yesterday's close 34.04 at 16:00 ET  MOVING
+DT     43.97 +1.22% vs yesterday's close 43.44 at 16:00 ET  
+DTE    138.35 +2.42% vs yesterday's close 135.08 at 16:00 ET  
+DVN    42.40 +0.45% vs yesterday's close 42.21 at 16:00 ET  
+DYN    18.62 +3.04% vs yesterday's close 18.07 at 16:00 ET  MOVING
+EBC    23.35 +2.23% vs yesterday's close 22.84 at 16:00 ET  
+ECVT   10.76 +2.57% vs yesterday's close 10.49 at 16:00 ET  
+EFX    188.33 -0.66% vs yesterday's close 189.59 at 16:00 ET  
+EHC    141.15 +2.62% vs yesterday's close 137.54 at 16:00 ET  
+EL     113.16 +2.82% vs yesterday's close 110.06 at 16:00 ET  
+ELAN   26.84 +4.27% vs yesterday's close 25.74 at 16:00 ET  MOVING
+ELF    119.35 +2.76% vs yesterday's close 116.14 at 16:00 ET  
+EMN    65.39 +1.52% vs yesterday's close 64.41 at 16:00 ET  
+EMR    169.52 +4.42% vs yesterday's close 162.35 at 16:03 ET  MOVING
+EQH    55.41 +5.22% vs yesterday's close 52.66 at 16:00 ET  MOVING
+EQPT   16.21 +10.42% vs yesterday's close 14.68 at 16:00 ET  MOVING
+EQX    12.09 +4.95% vs yesterday's close 11.52 at 16:00 ET  MOVING
+ERAS   15.61 +8.33% vs yesterday's close 14.41 at 16:00 ET  MOVING
+ERII   7.39 +3.36% vs yesterday's close 7.15 at 16:00 ET  MOVING
+ESAB   89.93 +8.57% vs yesterday's close 82.83 at 16:00 ET  MOVING
+ESRT   5.33 +0.38% vs yesterday's close 5.31 at 16:00 ET  
+ETON   64.35 +13.97% vs yesterday's close 56.46 at 16:00 ET  MOVING
+EVC    9.30 +3.45% vs yesterday's close 8.99 at 16:00 ET  MOVING
+EVRG   87.99 +0.51% vs yesterday's close 87.54 at 16:00 ET  
+EW     104.71 +2.52% vs yesterday's close 102.14 at 16:00 ET  
+EWTX   48.74 +8.21% vs yesterday's close 45.04 at 16:00 ET  MOVING
+EXK    8.34 +6.38% vs yesterday's close 7.84 at 16:00 ET  MOVING
+EXR    160.16 +0.61% vs yesterday's close 159.19 at 16:00 ET  
+EXTR   25.60 +6.53% vs yesterday's close 24.03 at 16:00 ET  MOVING
+EYE    18.97 +5.98% vs yesterday's close 17.90 at 16:00 ET  MOVING
+FAST   54.57 +2.98% vs yesterday's close 52.99 at 16:00 ET  
+FBIN   51.64 +7.40% vs yesterday's close 48.08 at 16:00 ET  MOVING
+FER    61.39 +4.56% vs yesterday's close 58.71 at 16:00 ET  MOVING
+FERG   259.93 +11.22% vs yesterday's close 233.70 at 16:00 ET  MOVING
+FG     25.55 +9.28% vs yesterday's close 23.38 at 16:00 ET  MOVING
+FHN    23.53 +2.13% vs yesterday's close 23.04 at 16:00 ET  
+FIBK   38.42 +1.64% vs yesterday's close 37.80 at 16:00 ET  
+FIGR   24.52 +7.90% vs yesterday's close 22.73 at 16:00 ET  MOVING
+FIGS   21.58 +8.88% vs yesterday's close 19.82 at 16:00 ET  MOVING
+FIS    28.34 -1.36% vs yesterday's close 28.73 at 16:00 ET  
+FISV   63.52 +1.02% vs yesterday's close 62.88 at 16:00 ET  
+FLR    50.33 +8.28% vs yesterday's close 46.48 at 16:00 ET  MOVING
+FLS    85.83 +6.79% vs yesterday's close 80.37 at 16:00 ET  MOVING
+FLUT   81.99 +0.35% vs yesterday's close 81.70 at 16:00 ET  
+FLY    24.31 +17.10% vs yesterday's close 20.76 at 16:00 ET  MOVING
+FLYW   22.13 +2.60% vs yesterday's close 21.57 at 16:00 ET  
+FN     365.94 +11.86% vs yesterday's close 327.13 at 16:00 ET  MOVING
+FNF    45.04 +2.74% vs yesterday's close 43.84 at 16:00 ET  
+FNKO   7.12 +6.03% vs yesterday's close 6.72 at 16:00 ET  MOVING
+FOSL   8.06 +3.20% vs yesterday's close 7.81 at 16:00 ET  MOVING
+FOUR   45.01 +2.39% vs yesterday's close 43.96 at 16:03 ET  
+FOXF   18.69 +5.00% vs yesterday's close 17.80 at 16:00 ET  MOVING
+FRNM   10.57 +3.83% vs yesterday's close 10.18 at 16:00 ET  MOVING
+FROG   108.18 +7.13% vs yesterday's close 100.98 at 16:00 ET  MOVING
+FRVO   11.38 +26.09% vs yesterday's close 9.03 at 16:00 ET  MOVING
+FSCO   5.24 +1.75% vs yesterday's close 5.15 at 16:00 ET  
+FSK    11.84 +1.20% vs yesterday's close 11.70 at 16:00 ET  
+FSM    10.07 +4.68% vs yesterday's close 9.62 at 16:00 ET  MOVING
+FTDR   100.73 +3.75% vs yesterday's close 97.09 at 16:00 ET  MOVING
+FTH    12.68 -42.49% vs yesterday's close 22.05 at 16:00 ET  MOVING
+FTNT   122.47 +3.05% vs yesterday's close 118.84 at 16:00 ET  MOVING
+FTV    67.10 +2.65% vs yesterday's close 65.37 at 16:00 ET  
+FUBO   8.04 +5.79% vs yesterday's close 7.60 at 16:00 ET  MOVING
+FWONK  108.01 +1.58% vs yesterday's close 106.33 at 16:00 ET  
+FWRG   13.85 +7.70% vs yesterday's close 12.86 at 16:00 ET  MOVING
+G      42.55 +0.66% vs yesterday's close 42.27 at 16:00 ET  
+GAB    5.38 +2.48% vs yesterday's close 5.25 at 16:00 ET  
+GBCI   49.08 +1.91% vs yesterday's close 48.16 at 16:00 ET  
+GDYN   13.30 +1.53% vs yesterday's close 13.10 at 16:00 ET  
+GE     335.54 +3.81% vs yesterday's close 323.24 at 16:00 ET  MOVING
+GEN    29.80 +0.03% vs yesterday's close 29.79 at 16:00 ET  
+GEO    30.14 +8.42% vs yesterday's close 27.80 at 16:00 ET  MOVING
+GFI    41.04 +4.77% vs yesterday's close 39.17 at 16:00 ET  MOVING
+GFR    7.73 +38.04% vs yesterday's close 5.60 at 16:00 ET  MOVING
+GILD   169.32 +1.46% vs yesterday's close 166.89 at 16:00 ET  
+GLPI   39.44 +1.41% vs yesterday's close 38.89 at 16:00 ET  
+GLW    115.95 +9.25% vs yesterday's close 106.13 at 16:03 ET  MOVING
+GME    25.59 +1.87% vs yesterday's close 25.12 at 16:00 ET  
+GNL    6.87 +0.29% vs yesterday's close 6.85 at 16:00 ET  
+GOOD   10.22 +0.74% vs yesterday's close 10.15 at 16:00 ET  
+GOOG   286.01 +0.73% vs yesterday's close 283.93 at 16:00 ET  
+GOOGL  288.15 +1.18% vs yesterday's close 284.78 at 16:00 ET  
+GPCR   21.41 +5.21% vs yesterday's close 20.35 at 16:00 ET  MOVING
+GPGI   15.35 +8.02% vs yesterday's close 14.21 at 16:00 ET  MOVING
+GPN    97.77 +0.38% vs yesterday's close 97.40 at 16:00 ET  
+GRFS   8.69 +3.08% vs yesterday's close 8.43 at 16:00 ET  MOVING
+GRNT   5.67 +7.18% vs yesterday's close 5.29 at 16:00 ET  MOVING
+GS     906.22 +4.67% vs yesterday's close 865.82 at 16:00 ET  MOVING
+GSAT   85.78 +1.73% vs yesterday's close 84.32 at 16:00 ET  
+GSK    51.54 +2.40% vs yesterday's close 50.33 at 16:00 ET  
+GTN    5.60 +13.82% vs yesterday's close 4.92 at 16:00 ET  MOVING
+HALO   102.92 -0.69% vs yesterday's close 103.63 at 16:00 ET  
+HAS    120.92 +1.69% vs yesterday's close 118.91 at 16:00 ET  
+HAWK   15.06 +1.83% vs yesterday's close 14.79 at 16:00 ET  
+HAYW   16.89 +4.00% vs yesterday's close 16.24 at 16:00 ET  MOVING
+HBAN   15.92 +2.91% vs yesterday's close 15.47 at 16:00 ET  
+HDB    25.81 +2.67% vs yesterday's close 25.14 at 16:00 ET  
+HE     9.07 +7.72% vs yesterday's close 8.42 at 16:00 ET  MOVING
+HGV    44.60 +1.48% vs yesterday's close 43.95 at 16:00 ET  
+HHH    85.60 +10.12% vs yesterday's close 77.73 at 16:00 ET  MOVING
+HIG    134.86 +0.65% vs yesterday's close 133.99 at 16:00 ET  
+HIMX   8.61 +1.41% vs yesterday's close 8.49 at 16:00 ET  
+HLF    15.70 +2.75% vs yesterday's close 15.28 at 16:00 ET  
+HLIO   49.48 +4.30% vs yesterday's close 47.44 at 16:00 ET  MOVING
+HMY    17.60 +2.50% vs yesterday's close 17.17 at 16:00 ET  
+HNGE   122.19 +5.55% vs yesterday's close 115.76 at 16:00 ET  MOVING
+HNST   5.17 +10.71% vs yesterday's close 4.67 at 16:00 ET  MOVING
+HON    229.00 +4.07% vs yesterday's close 220.05 at 16:00 ET  MOVING
+HONA   164.77 +7.75% vs yesterday's close 152.92 at 16:00 ET  MOVING
+HOS    5.38 +1.32% vs yesterday's close 5.31 at 16:00 ET  
+HR     19.36 +0.83% vs yesterday's close 19.20 at 16:00 ET  
+HSBC   90.22 +3.63% vs yesterday's close 87.06 at 16:00 ET  MOVING
+HSIC   88.41 +2.74% vs yesterday's close 86.05 at 16:00 ET  
+HST    25.28 +2.68% vs yesterday's close 24.62 at 16:00 ET  
+HTFL   56.66 +8.13% vs yesterday's close 52.40 at 16:00 ET  MOVING
+HWC    73.28 +2.52% vs yesterday's close 71.48 at 16:00 ET  
+HWM    216.24 +5.07% vs yesterday's close 205.81 at 16:04 ET  MOVING
+HYMC   21.27 +13.32% vs yesterday's close 18.77 at 16:00 ET  MOVING
+HYT    8.03 +1.13% vs yesterday's close 7.94 at 16:00 ET  
+IAG    19.84 +5.76% vs yesterday's close 18.76 at 16:00 ET  MOVING
+IBN    34.45 +1.65% vs yesterday's close 33.89 at 16:00 ET  
+ICLR   207.59 +1.39% vs yesterday's close 204.74 at 16:00 ET  
+IE     8.26 +8.97% vs yesterday's close 7.58 at 16:00 ET  MOVING
+IMMX   8.57 +6.33% vs yesterday's close 8.06 at 16:00 ET  MOVING
+IMVT   35.15 +15.13% vs yesterday's close 30.53 at 16:00 ET  MOVING
+IMXI   7.57 +3.13% vs yesterday's close 7.34 at 16:00 ET  MOVING
+INFQ   9.66 +8.66% vs yesterday's close 8.89 at 16:00 ET  MOVING
+ING    33.20 +4.34% vs yesterday's close 31.82 at 16:00 ET  MOVING
+INOD   36.96 -0.19% vs yesterday's close 37.03 at 16:00 ET  
+INSM   116.10 +1.48% vs yesterday's close 114.41 at 16:00 ET  
+INTC   59.37 +5.49% vs yesterday's close 56.28 at 16:00 ET  MOVING
+IONS   31.00 -21.36% vs yesterday's close 39.42 at 16:00 ET  MOVING
+IOT    42.23 +3.05% vs yesterday's close 40.98 at 16:00 ET  MOVING
+IR     86.88 +4.69% vs yesterday's close 82.99 at 16:00 ET  MOVING
+IRDM   45.08 +2.36% vs yesterday's close 44.04 at 16:00 ET  
+IRTC   88.73 -1.65% vs yesterday's close 90.22 at 16:00 ET  
+ITT    218.21 +6.16% vs yesterday's close 205.55 at 16:00 ET  MOVING
+IVZ    28.91 +6.76% vs yesterday's close 27.08 at 16:00 ET  MOVING
+JAN    32.02 +0.09% vs yesterday's close 31.99 at 16:00 ET  
+JBS    13.12 +5.13% vs yesterday's close 12.48 at 16:00 ET  MOVING
+JHX    29.94 +7.50% vs yesterday's close 27.85 at 16:00 ET  MOVING
+JMIA   5.65 +2.91% vs yesterday's close 5.49 at 16:00 ET  
+JNJ    282.11 +2.13% vs yesterday's close 276.22 at 16:00 ET  
+JOBY   6.18 +4.22% vs yesterday's close 5.93 at 16:00 ET  MOVING
+JPM    342.08 +2.27% vs yesterday's close 334.49 at 16:00 ET  
+KBR    38.65 +3.98% vs yesterday's close 37.17 at 16:00 ET  MOVING
+KDP    36.94 +0.85% vs yesterday's close 36.63 at 16:00 ET  
+KGC    22.85 +2.74% vs yesterday's close 22.24 at 16:00 ET  
+KIM    25.78 +1.02% vs yesterday's close 25.52 at 16:00 ET  
+KLRA   13.70 +5.63% vs yesterday's close 12.97 at 16:00 ET  MOVING
+KMT    24.18 +6.05% vs yesterday's close 22.80 at 16:00 ET  MOVING
+KMX    54.11 +5.11% vs yesterday's close 51.48 at 16:00 ET  MOVING
+KO     96.03 +0.38% vs yesterday's close 95.67 at 16:00 ET  
+KOD    107.10 +7.85% vs yesterday's close 99.30 at 16:00 ET  MOVING
+KRMN   45.90 +0.64% vs yesterday's close 45.61 at 16:00 ET  
+KSS    24.92 +8.16% vs yesterday's close 23.04 at 16:03 ET  MOVING
+KT     19.17 +1.21% vs yesterday's close 18.94 at 16:00 ET  
+KTB    81.98 +6.38% vs yesterday's close 77.06 at 16:00 ET  MOVING
+KURA   7.57 +4.13% vs yesterday's close 7.27 at 16:00 ET  MOVING
+KVYO   20.82 +0.53% vs yesterday's close 20.71 at 16:00 ET  
+KYMR   138.86 +5.41% vs yesterday's close 131.73 at 16:00 ET  MOVING
+LAND   6.98 -0.57% vs yesterday's close 7.02 at 16:00 ET  
+LASR   43.21 +13.65% vs yesterday's close 38.02 at 16:00 ET  MOVING
+LBRT   12.93 +8.11% vs yesterday's close 11.96 at 16:00 ET  MOVING
+LBTYA  9.99 +0.91% vs yesterday's close 9.90 at 16:00 ET  
+LBTYK  9.73 +0.10% vs yesterday's close 9.72 at 16:00 ET  
+LEGN   24.29 +3.80% vs yesterday's close 23.40 at 16:00 ET  MOVING
+LEU    117.34 +12.18% vs yesterday's close 104.60 at 16:00 ET  MOVING
+LEVI   24.10 +5.38% vs yesterday's close 22.87 at 16:00 ET  MOVING
+LFST   14.60 +6.03% vs yesterday's close 13.77 at 16:00 ET  MOVING
+LGN    32.16 +15.23% vs yesterday's close 27.91 at 16:00 ET  MOVING
+LILAK  9.34 +4.36% vs yesterday's close 8.95 at 16:00 ET  MOVING
+LINC   22.00 +24.58% vs yesterday's close 17.66 at 16:00 ET  MOVING
+LINE   39.66 +1.35% vs yesterday's close 39.13 at 16:00 ET  
+LITE   596.16 +10.69% vs yesterday's close 538.59 at 16:00 ET  MOVING
+LKQ    20.41 +1.80% vs yesterday's close 20.05 at 16:00 ET  
+LLY    1,411.95 +4.28% vs yesterday's close 1,354.00 at 16:03 ET  MOVING
+LMT    588.19 +3.72% vs yesterday's close 567.08 at 16:00 ET  MOVING
+LNC    42.98 +7.32% vs yesterday's close 40.05 at 16:00 ET  MOVING
+LOAR   78.57 +4.34% vs yesterday's close 75.30 at 16:00 ET  MOVING
+LOW    232.10 +3.36% vs yesterday's close 224.55 at 16:04 ET  MOVING
+LPTH   8.01 +13.46% vs yesterday's close 7.06 at 16:00 ET  MOVING
+LQDA   47.87 +7.82% vs yesterday's close 44.40 at 16:00 ET  MOVING
+LTM    50.58 +6.10% vs yesterday's close 47.67 at 16:00 ET  MOVING
+LULU   112.53 +1.57% vs yesterday's close 110.79 at 16:00 ET  
+LUNR   12.04 +15.00% vs yesterday's close 10.47 at 16:00 ET  MOVING
+LW     57.16 +3.48% vs yesterday's close 55.24 at 16:00 ET  MOVING
+M      24.95 +8.10% vs yesterday's close 23.08 at 16:00 ET  MOVING
+MAC    25.29 +1.81% vs yesterday's close 24.84 at 16:00 ET  
+MAIR   24.53 +6.47% vs yesterday's close 23.04 at 16:00 ET  MOVING
+MBC    7.10 +5.65% vs yesterday's close 6.72 at 16:00 ET  MOVING
+MCD    281.44 +1.78% vs yesterday's close 276.52 at 16:00 ET  
+MCHP   61.49 +5.39% vs yesterday's close 58.35 at 16:00 ET  MOVING
+MDLN   40.71 +2.70% vs yesterday's close 39.64 at 16:00 ET  
+MDU    19.25 +3.33% vs yesterday's close 18.63 at 16:00 ET  MOVING
+MET    101.67 +3.46% vs yesterday's close 98.27 at 16:00 ET  MOVING
+MF     14.33 +38.05% vs yesterday's close 10.38 at 16:00 ET  MOVING
+MFA    6.28 +1.13% vs yesterday's close 6.21 at 16:00 ET  
+MGM    32.91 +1.76% vs yesterday's close 32.34 at 16:00 ET  
+MGNI   29.04 +6.02% vs yesterday's close 27.39 at 16:00 ET  MOVING
+MHK    156.60 +4.04% vs yesterday's close 150.52 at 16:00 ET  MOVING
+MIAX   35.13 +1.89% vs yesterday's close 34.48 at 16:00 ET  
+MIDD   138.00 +1.10% vs yesterday's close 136.50 at 16:00 ET  
+MIR    19.48 +8.40% vs yesterday's close 17.97 at 16:00 ET  MOVING
+MKSI   211.59 +10.05% vs yesterday's close 192.27 at 16:00 ET  MOVING
+MLTX   12.62 +9.45% vs yesterday's close 11.53 at 16:00 ET  MOVING
+MLYS   15.81 +3.13% vs yesterday's close 15.33 at 16:00 ET  MOVING
+MNTN   5.19 -2.63% vs yesterday's close 5.33 at 16:00 ET  
+MOD    106.15 +9.87% vs yesterday's close 96.61 at 16:00 ET  MOVING
+MOS    22.77 +1.83% vs yesterday's close 22.36 at 16:00 ET  
+MPWR   1,388.05 +16.60% vs yesterday's close 1,190.44 at 16:00 ET  MOVING
+MRNA   269.00 +5.83% vs yesterday's close 254.19 at 16:00 ET  MOVING
+MRP    26.61 +2.66% vs yesterday's close 25.92 at 16:00 ET  
+MRVL   154.60 +9.49% vs yesterday's close 141.20 at 16:00 ET  MOVING
+MS     187.10 +3.12% vs yesterday's close 181.44 at 16:03 ET  MOVING
+MSFT   545.18 +2.75% vs yesterday's close 530.61 at 16:00 ET  
+MSI    527.97 +2.62% vs yesterday's close 514.51 at 16:00 ET  
+MT     64.22 +5.31% vs yesterday's close 60.98 at 16:00 ET  MOVING
+MTZ    189.05 +8.59% vs yesterday's close 174.10 at 16:00 ET  MOVING
+MUFG   21.70 +3.48% vs yesterday's close 20.97 at 16:00 ET  MOVING
+MWA    24.46 +2.04% vs yesterday's close 23.97 at 16:00 ET  
+MWH    27.40 +6.86% vs yesterday's close 25.64 at 16:00 ET  MOVING
+NAVN   26.08 +2.35% vs yesterday's close 25.48 at 16:00 ET  
+NBIX   168.86 +2.57% vs yesterday's close 164.63 at 16:00 ET  
+NCNO   22.94 +1.19% vs yesterday's close 22.67 at 16:00 ET  
+NDAQ   108.50 +1.29% vs yesterday's close 107.12 at 16:00 ET  
+NEA    10.59 +0.38% vs yesterday's close 10.55 at 16:00 ET  
+NEM    125.16 +3.52% vs yesterday's close 120.91 at 16:00 ET  MOVING
+NEO    17.60 +4.51% vs yesterday's close 16.84 at 16:00 ET  MOVING
+NEOG   12.08 +2.72% vs yesterday's close 11.76 at 16:00 ET  
+NG     6.88 +7.50% vs yesterday's close 6.40 at 16:00 ET  MOVING
+NHP    15.95 +4.66% vs yesterday's close 15.24 at 16:00 ET  MOVING
+NIQ    21.42 +4.90% vs yesterday's close 20.42 at 16:00 ET  MOVING
+NLY    18.95 +1.07% vs yesterday's close 18.75 at 16:00 ET  
+NNE    12.48 +12.33% vs yesterday's close 11.11 at 16:00 ET  MOVING
+NNN    41.69 +1.39% vs yesterday's close 41.12 at 16:00 ET  
+NOW    102.76 +0.77% vs yesterday's close 101.97 at 16:00 ET  
+NPKI   8.92 +3.24% vs yesterday's close 8.64 at 16:00 ET  MOVING
+NRG    97.40 +10.32% vs yesterday's close 88.29 at 16:00 ET  MOVING
+NRIX   16.14 +5.49% vs yesterday's close 15.30 at 16:00 ET  MOVING
+NTLA   12.11 +6.70% vs yesterday's close 11.35 at 16:00 ET  MOVING
+NTNX   59.49 +1.92% vs yesterday's close 58.37 at 16:00 ET  
+NTR    72.29 +1.13% vs yesterday's close 71.48 at 16:00 ET  
+NTRA   320.39 +3.13% vs yesterday's close 310.67 at 16:00 ET  MOVING
+NTSK   22.49 +5.59% vs yesterday's close 21.30 at 16:00 ET  MOVING
+NTST   19.09 +1.54% vs yesterday's close 18.80 at 16:00 ET  
+NVAX   10.89 +1.02% vs yesterday's close 10.78 at 16:00 ET  
+NVDA   178.67 -4.27% vs yesterday's close 186.64 at 16:00 ET  MOVING
+NVTS   9.58 +11.27% vs yesterday's close 8.61 at 16:00 ET  MOVING
+NWL    5.89 +7.68% vs yesterday's close 5.47 at 16:00 ET  MOVING
+NXE    8.75 +6.06% vs yesterday's close 8.25 at 16:00 ET  MOVING
+NYT    72.17 +5.57% vs yesterday's close 68.36 at 16:00 ET  MOVING
+OABI   5.30 +5.37% vs yesterday's close 5.03 at 16:00 ET  MOVING
+OBDC   11.17 +2.10% vs yesterday's close 10.94 at 16:00 ET  
+OCFC   18.26 +1.84% vs yesterday's close 17.93 at 16:00 ET  
+OCTV   21.06 +1.01% vs yesterday's close 20.85 at 16:00 ET  
+OCUL   6.85 +3.87% vs yesterday's close 6.59 at 16:00 ET  MOVING
+OII    34.85 +1.78% vs yesterday's close 34.24 at 16:00 ET  
+OKLO   26.84 +13.97% vs yesterday's close 23.55 at 16:00 ET  MOVING
+OLLI   94.81 +4.88% vs yesterday's close 90.40 at 16:00 ET  MOVING
+OLN    17.56 +1.44% vs yesterday's close 17.31 at 16:00 ET  
+OMC    88.50 +2.47% vs yesterday's close 86.37 at 16:00 ET  
+OMH    25.84 +251.09% vs yesterday's close 7.36 at 16:00 ET  MOVING
+ONB    25.36 +1.72% vs yesterday's close 24.93 at 16:00 ET  
+ONT    23.59 +7.62% vs yesterday's close 21.92 at 16:00 ET  MOVING
+ORC    5.01 +1.42% vs yesterday's close 4.94 at 16:00 ET  
+ORKA   104.56 +1.65% vs yesterday's close 102.86 at 16:00 ET  
+OSS    5.05 +17.17% vs yesterday's close 4.31 at 16:00 ET  MOVING
+OTF    9.83 +3.36% vs yesterday's close 9.51 at 16:00 ET  MOVING
+OTIS   78.77 -0.24% vs yesterday's close 78.96 at 16:00 ET  
+OUST   38.57 +10.85% vs yesterday's close 34.80 at 16:00 ET  MOVING
+OXLC   5.08 +3.25% vs yesterday's close 4.92 at 16:00 ET  MOVING
+PAAS   42.36 +2.89% vs yesterday's close 41.17 at 16:00 ET  
+PAR    21.81 +6.13% vs yesterday's close 20.55 at 16:00 ET  MOVING
+PBR    18.35 -0.97% vs yesterday's close 18.53 at 16:00 ET  
+PBR.A  16.31 -0.55% vs yesterday's close 16.40 at 16:00 ET  
+PCG    13.14 +1.31% vs yesterday's close 12.97 at 16:00 ET  
+PCOR   76.46 +1.50% vs yesterday's close 75.33 at 16:00 ET  
+PCTY   177.81 +2.69% vs yesterday's close 173.15 at 16:00 ET  
+PDI    15.11 +1.96% vs yesterday's close 14.82 at 16:00 ET  
+PDM    10.08 +1.10% vs yesterday's close 9.97 at 16:00 ET  
+PEG    75.03 +3.33% vs yesterday's close 72.61 at 16:00 ET  MOVING
+PENN   18.54 +6.37% vs yesterday's close 17.43 at 16:00 ET  MOVING
+PERI   11.40 +0.09% vs yesterday's close 11.39 at 16:00 ET  
+PFGC   111.77 +3.97% vs yesterday's close 107.50 at 16:00 ET  MOVING
+PG     168.32 +1.77% vs yesterday's close 165.40 at 16:03 ET  
+PGNY   35.95 +3.19% vs yesterday's close 34.84 at 16:00 ET  MOVING
+PK     16.46 +4.57% vs yesterday's close 15.74 at 16:00 ET  MOVING
+PL     14.37 +14.50% vs yesterday's close 12.55 at 16:00 ET  MOVING
+PLD    130.55 +2.83% vs yesterday's close 126.96 at 16:03 ET  
+PLNT   61.11 +1.33% vs yesterday's close 60.31 at 16:00 ET  
+PNFP   102.91 +2.26% vs yesterday's close 100.64 at 16:00 ET  
+PNW    105.26 +1.00% vs yesterday's close 104.22 at 16:00 ET  
+PODD   149.81 +2.25% vs yesterday's close 146.51 at 16:00 ET  
+PPG    125.31 +2.39% vs yesterday's close 122.38 at 16:00 ET  
+PPLI   43.38 +3.09% vs yesterday's close 42.08 at 16:00 ET  MOVING
+PPTA   21.16 +8.35% vs yesterday's close 19.53 at 16:00 ET  MOVING
+PRAA   12.71 -1.63% vs yesterday's close 12.92 at 16:00 ET  
+PRAX   332.97 +19.94% vs yesterday's close 277.62 at 16:00 ET  MOVING
+PRCT   22.37 +8.49% vs yesterday's close 20.62 at 16:00 ET  MOVING
+PRGO   16.95 +6.94% vs yesterday's close 15.85 at 16:00 ET  MOVING
+PRKS   43.21 +8.05% vs yesterday's close 39.99 at 16:00 ET  MOVING
+PRM    31.58 +7.05% vs yesterday's close 29.50 at 16:00 ET  MOVING
+PRMB   24.13 +7.77% vs yesterday's close 22.39 at 16:00 ET  MOVING
+PRVA   24.54 +0.49% vs yesterday's close 24.42 at 16:00 ET  
+PSA    338.15 +0.20% vs yesterday's close 337.46 at 16:00 ET  
+PSNL   15.95 +1.01% vs yesterday's close 15.79 at 16:00 ET  
+PTC    195.87 +0.41% vs yesterday's close 195.07 at 16:00 ET  
+PTON   5.95 +6.06% vs yesterday's close 5.61 at 16:00 ET  MOVING
+PTRN   19.43 +6.35% vs yesterday's close 18.27 at 16:00 ET  MOVING
+PTY    11.28 +0.36% vs yesterday's close 11.24 at 16:00 ET  
+PZZA   20.75 +5.17% vs yesterday's close 19.73 at 16:00 ET  MOVING
+Q      125.09 +6.91% vs yesterday's close 117.00 at 16:03 ET  MOVING
+QBTS   11.47 +7.40% vs yesterday's close 10.68 at 16:00 ET  MOVING
+QUBT   6.86 +8.37% vs yesterday's close 6.33 at 16:00 ET  MOVING
+QXO    13.78 +19.20% vs yesterday's close 11.56 at 16:00 ET  MOVING
+RAL    69.98 +3.40% vs yesterday's close 67.68 at 16:00 ET  MOVING
+RARE   16.41 +6.35% vs yesterday's close 15.43 at 16:00 ET  MOVING
+RBA    95.77 +2.41% vs yesterday's close 93.52 at 16:00 ET  
+RBLX   51.60 +4.67% vs yesterday's close 49.30 at 16:04 ET  MOVING
+RCL    336.98 +3.00% vs yesterday's close 327.16 at 16:01 ET  MOVING
+RDDT   100.79 +5.98% vs yesterday's close 95.10 at 16:03 ET  MOVING
+RDY    15.05 +0.94% vs yesterday's close 14.91 at 16:00 ET  
+REAL   14.65 +13.83% vs yesterday's close 12.87 at 16:00 ET  MOVING
+REPL   22.26 +2.96% vs yesterday's close 21.62 at 16:00 ET  
+RGEN   178.94 +3.14% vs yesterday's close 173.49 at 16:00 ET  MOVING
+RGLD   282.66 +6.34% vs yesterday's close 265.81 at 16:00 ET  MOVING
+RGNX   8.07 +5.91% vs yesterday's close 7.62 at 16:00 ET  MOVING
+RIO    86.39 +3.18% vs yesterday's close 83.73 at 16:00 ET  MOVING
+RIOT   17.66 +5.69% vs yesterday's close 16.71 at 16:00 ET  MOVING
+RITM   9.44 +2.28% vs yesterday's close 9.23 at 16:00 ET  
+RKLB   58.86 +10.91% vs yesterday's close 53.07 at 16:00 ET  MOVING
+RKT    15.19 +0.86% vs yesterday's close 15.06 at 16:00 ET  
+RLAY   20.39 +9.62% vs yesterday's close 18.60 at 16:00 ET  MOVING
+RLJ    12.87 +2.63% vs yesterday's close 12.54 at 16:00 ET  
+RNW    6.94 +0.14% vs yesterday's close 6.93 at 16:00 ET  
+ROIV   40.67 +4.60% vs yesterday's close 38.88 at 16:00 ET  MOVING
+ROK    389.36 +3.59% vs yesterday's close 375.86 at 16:02 ET  MOVING
+ROL    38.74 +2.08% vs yesterday's close 37.95 at 16:00 ET  
+ROP    471.64 -1.04% vs yesterday's close 476.60 at 16:00 ET  
+ROST   237.00 +2.56% vs yesterday's close 231.09 at 16:00 ET  
+RPC    9.96 +2.68% vs yesterday's close 9.70 at 16:00 ET  
+RPD    14.97 +1.98% vs yesterday's close 14.68 at 16:00 ET  
+RPRX   68.77 +2.18% vs yesterday's close 67.30 at 16:00 ET  
+RRX    180.78 +6.93% vs yesterday's close 169.07 at 16:00 ET  MOVING
+RSI    12.11 -1.38% vs yesterday's close 12.28 at 16:00 ET  
+RTO    23.87 +1.10% vs yesterday's close 23.61 at 16:00 ET  
+RTX    196.31 +3.58% vs yesterday's close 189.53 at 16:00 ET  MOVING
+RVLV   20.18 +8.90% vs yesterday's close 18.53 at 16:00 ET  MOVING
+RVMD   200.15 +4.09% vs yesterday's close 192.28 at 16:00 ET  MOVING
+RVTY   160.72 +3.62% vs yesterday's close 155.11 at 16:00 ET  MOVING
+RYAAY  61.75 +4.13% vs yesterday's close 59.30 at 16:00 ET  MOVING
+RYAM   5.69 -3.56% vs yesterday's close 5.90 at 16:00 ET  MOVING
+RYTM   113.94 +1.48% vs yesterday's close 112.28 at 16:00 ET  
+S      23.52 +8.04% vs yesterday's close 21.77 at 16:00 ET  MOVING
+SAIL   20.36 +5.99% vs yesterday's close 19.21 at 16:00 ET  MOVING
+SANM   149.64 +11.11% vs yesterday's close 134.68 at 16:00 ET  MOVING
+SARO   28.97 +4.85% vs yesterday's close 27.63 at 16:00 ET  MOVING
+SBGI   14.23 +4.02% vs yesterday's close 13.68 at 16:00 ET  MOVING
+SBH    19.49 +6.44% vs yesterday's close 18.31 at 16:00 ET  MOVING
+SBRA   21.47 +2.14% vs yesterday's close 21.02 at 16:00 ET  
+SCHW   92.73 +1.36% vs yesterday's close 91.49 at 16:00 ET  
+SDGR   33.39 +11.97% vs yesterday's close 29.82 at 16:00 ET  MOVING
+SF     73.21 +2.61% vs yesterday's close 71.35 at 16:00 ET  
+SFL    10.90 -0.55% vs yesterday's close 10.96 at 16:00 ET  
+SG     13.36 +11.24% vs yesterday's close 12.01 at 16:00 ET  MOVING
+SGHT   11.01 +9.23% vs yesterday's close 10.08 at 16:00 ET  MOVING
+SGI    66.27 +3.27% vs yesterday's close 64.17 at 16:00 ET  MOVING
+SGMT   10.83 +9.95% vs yesterday's close 9.85 at 16:00 ET  MOVING
+SGRY   26.45 +14.01% vs yesterday's close 23.20 at 16:00 ET  MOVING
+SHAK   77.15 +7.32% vs yesterday's close 71.89 at 16:00 ET  MOVING
+SIBN   25.60 +5.61% vs yesterday's close 24.24 at 16:00 ET  MOVING
+SKM    32.31 +3.46% vs yesterday's close 31.23 at 16:00 ET  MOVING
+SLDB   7.02 +6.53% vs yesterday's close 6.59 at 16:00 ET  MOVING
+SLM    16.91 -0.18% vs yesterday's close 16.94 at 16:00 ET  
+SM     29.10 -2.74% vs yesterday's close 29.92 at 16:00 ET  
+SMFG   24.28 +4.16% vs yesterday's close 23.31 at 16:00 ET  MOVING
+SMMT   17.84 +9.25% vs yesterday's close 16.33 at 16:00 ET  MOVING
+SMX    9.35 +89.73% vs yesterday's close 4.93 at 16:00 ET  MOVING
+SN     229.51 +2.94% vs yesterday's close 222.95 at 16:00 ET  
+SNDK   886.51 +6.16% vs yesterday's close 835.06 at 16:00 ET  MOVING
+SNDX   9.55 +0.10% vs yesterday's close 9.54 at 16:00 ET  
+SNPS   466.97 +3.67% vs yesterday's close 450.46 at 16:00 ET  MOVING
+SNY    48.12 +2.30% vs yesterday's close 47.04 at 16:00 ET  
+SOLS   63.65 +9.74% vs yesterday's close 58.00 at 16:00 ET  MOVING
+SOLV   90.43 +0.06% vs yesterday's close 90.38 at 16:00 ET  
+SPG    233.01 +2.01% vs yesterday's close 228.42 at 16:00 ET  
+SPGI   471.09 +0.70% vs yesterday's close 467.80 at 16:00 ET  
+SPOT   609.10 +1.01% vs yesterday's close 603.01 at 16:00 ET  
+SRRK   51.55 +9.82% vs yesterday's close 46.94 at 16:00 ET  MOVING
+SRTA   6.05 +8.81% vs yesterday's close 5.56 at 16:00 ET  MOVING
+SSRM   29.66 +4.53% vs yesterday's close 28.38 at 16:00 ET  MOVING
+STE    256.94 +1.84% vs yesterday's close 252.30 at 16:00 ET  
+STEP   49.12 +3.52% vs yesterday's close 47.45 at 16:00 ET  MOVING
+STOK   27.71 +4.41% vs yesterday's close 26.54 at 16:00 ET  MOVING
+STRL   290.67 +14.97% vs yesterday's close 252.82 at 16:00 ET  MOVING
+STT    170.88 +3.21% vs yesterday's close 165.56 at 16:00 ET  MOVING
+STVN   13.73 +1.18% vs yesterday's close 13.57 at 16:00 ET  
+STX    506.14 +9.79% vs yesterday's close 460.99 at 16:00 ET  MOVING
+STZ    145.51 +2.49% vs yesterday's close 141.97 at 16:02 ET  
+SUNB   81.63 +5.94% vs yesterday's close 77.05 at 16:00 ET  MOVING
+SUPN   27.62 +5.58% vs yesterday's close 26.16 at 16:00 ET  MOVING
+SUZ    9.78 +1.24% vs yesterday's close 9.66 at 16:00 ET  
+SVC    5.15 -0.96% vs yesterday's close 5.20 at 16:00 ET  
+SVM    9.73 +9.33% vs yesterday's close 8.90 at 16:00 ET  MOVING
+SVRA   5.05 +4.55% vs yesterday's close 4.83 at 16:00 ET  MOVING
+SVV    10.61 +7.83% vs yesterday's close 9.84 at 16:00 ET  MOVING
+SWIM   8.40 +7.01% vs yesterday's close 7.85 at 16:00 ET  MOVING
+SWKS   82.83 +0.78% vs yesterday's close 82.19 at 16:00 ET  
+SYRE   109.00 +4.95% vs yesterday's close 103.86 at 16:00 ET  MOVING
+TBBB   67.58 +2.99% vs yesterday's close 65.62 at 16:00 ET  
+TDAY   6.87 +4.57% vs yesterday's close 6.57 at 16:00 ET  MOVING
+TEAM   154.90 +0.79% vs yesterday's close 153.68 at 16:00 ET  
+TECH   72.83 +0.07% vs yesterday's close 72.78 at 16:00 ET  
+TECK   64.67 +6.96% vs yesterday's close 60.46 at 16:00 ET  MOVING
+TEL    218.75 +5.67% vs yesterday's close 207.01 at 16:03 ET  MOVING
+TEM    84.44 +11.03% vs yesterday's close 76.05 at 16:00 ET  MOVING
+TER    246.00 +12.73% vs yesterday's close 218.22 at 16:00 ET  MOVING
+TEVA   42.97 +0.84% vs yesterday's close 42.61 at 16:00 ET  
+TEX    58.05 +5.95% vs yesterday's close 54.79 at 16:00 ET  MOVING
+TGT    165.90 +4.73% vs yesterday's close 158.41 at 16:03 ET  MOVING
+TGTX   63.38 +5.94% vs yesterday's close 59.83 at 16:00 ET  MOVING
+TH     11.06 -2.64% vs yesterday's close 11.36 at 16:00 ET  
+TIC    11.29 +8.87% vs yesterday's close 10.37 at 16:00 ET  MOVING
+TIGO   86.76 +4.23% vs yesterday's close 83.24 at 16:00 ET  MOVING
+TKO    199.65 +4.53% vs yesterday's close 191.00 at 16:00 ET  MOVING
+TLN    363.13 +7.23% vs yesterday's close 338.64 at 16:00 ET  MOVING
+TLS    7.17 +48.76% vs yesterday's close 4.82 at 16:00 ET  MOVING
+TMDX   93.79 +6.29% vs yesterday's close 88.24 at 16:00 ET  MOVING
+TMO    721.63 +3.87% vs yesterday's close 694.76 at 16:00 ET  MOVING
+TMUS   168.71 +4.14% vs yesterday's close 162.01 at 16:00 ET  MOVING
+TNDM   18.17 +7.45% vs yesterday's close 16.91 at 16:00 ET  MOVING
+TPC    94.70 +5.35% vs yesterday's close 89.89 at 16:00 ET  MOVING
+TPR    136.07 +2.46% vs yesterday's close 132.80 at 16:03 ET  
+TREX   58.74 +7.31% vs yesterday's close 54.74 at 16:00 ET  MOVING
+TRIN   17.98 +1.01% vs yesterday's close 17.80 at 16:00 ET  
+TRP    62.83 +1.47% vs yesterday's close 61.92 at 16:00 ET  
+TRVI   15.31 +6.84% vs yesterday's close 14.33 at 16:00 ET  MOVING
+TSCO   37.40 +2.89% vs yesterday's close 36.35 at 16:00 ET  
+TTD    14.93 +15.47% vs yesterday's close 12.93 at 16:00 ET  MOVING
+TTEK   41.09 +1.99% vs yesterday's close 40.29 at 16:00 ET  
+TVTX   51.63 +4.09% vs yesterday's close 49.60 at 16:00 ET  MOVING
+TW     128.25 +0.41% vs yesterday's close 127.73 at 16:00 ET  
+TWI    5.04 +2.23% vs yesterday's close 4.93 at 16:00 ET  
+TXN    295.73 +6.62% vs yesterday's close 277.36 at 16:00 ET  MOVING
+TXT    85.41 +2.24% vs yesterday's close 83.54 at 16:00 ET  
+UAL    120.38 +6.78% vs yesterday's close 112.74 at 16:00 ET  MOVING
+UGP    5.49 +1.29% vs yesterday's close 5.42 at 16:00 ET  
+ULCC   8.35 +12.38% vs yesterday's close 7.43 at 16:00 ET  MOVING
+UMAC   13.48 +13.28% vs yesterday's close 11.90 at 16:00 ET  MOVING
+UMC    14.89 +7.51% vs yesterday's close 13.85 at 16:00 ET  MOVING
+UNM    80.23 +4.53% vs yesterday's close 76.75 at 16:00 ET  MOVING
+UNP    297.01 +2.36% vs yesterday's close 290.16 at 16:00 ET  
+URGN   26.31 +6.30% vs yesterday's close 24.75 at 16:00 ET  MOVING
+USA    6.06 +1.68% vs yesterday's close 5.96 at 16:00 ET  
+USFD   109.94 +3.07% vs yesterday's close 106.67 at 16:02 ET  MOVING
+UTI    21.95 +10.14% vs yesterday's close 19.93 at 16:00 ET  MOVING
+UUUU   7.31 +9.76% vs yesterday's close 6.66 at 16:00 ET  MOVING
+VCEL   58.39 +6.90% vs yesterday's close 54.62 at 16:00 ET  MOVING
+VCTR   126.80 +6.34% vs yesterday's close 119.24 at 16:00 ET  MOVING
+VCYT   25.92 +7.28% vs yesterday's close 24.16 at 16:00 ET  MOVING
+VET    10.23 -2.11% vs yesterday's close 10.45 at 16:00 ET  
+VFC    20.88 +2.60% vs yesterday's close 20.35 at 16:00 ET  
+VIA    42.55 +12.80% vs yesterday's close 37.72 at 16:00 ET  MOVING
+VIR    13.64 +11.75% vs yesterday's close 12.21 at 16:00 ET  MOVING
+VIRT   56.60 +4.99% vs yesterday's close 53.91 at 16:00 ET  MOVING
+VIST   57.74 +0.56% vs yesterday's close 57.42 at 16:00 ET  
+VKTX   28.99 +8.01% vs yesterday's close 26.84 at 16:00 ET  MOVING
+VLRS   8.38 +5.67% vs yesterday's close 7.93 at 16:00 ET  MOVING
+VLTO   118.06 +0.83% vs yesterday's close 117.09 at 16:00 ET  
+VLY    14.30 +1.56% vs yesterday's close 14.08 at 16:00 ET  
+VMRK   66.14 +0.96% vs yesterday's close 65.51 at 16:00 ET  
+VNO    36.65 +2.32% vs yesterday's close 35.82 at 16:00 ET  
+VNT    43.88 +3.91% vs yesterday's close 42.23 at 16:00 ET  MOVING
+VOYG   27.90 +16.35% vs yesterday's close 23.98 at 16:00 ET  MOVING
+VRA    8.05 +14.18% vs yesterday's close 7.05 at 16:00 ET  MOVING
+VRDN   30.19 +5.97% vs yesterday's close 28.49 at 16:00 ET  MOVING
+VRTX   550.87 +0.69% vs yesterday's close 547.09 at 16:00 ET  
+VSAT   74.37 +16.29% vs yesterday's close 63.95 at 16:00 ET  MOVING
+VSNT   35.09 +4.16% vs yesterday's close 33.69 at 16:00 ET  MOVING
+VSXY   113.52 +5.06% vs yesterday's close 108.05 at 16:00 ET  MOVING
+VTR    89.49 +0.83% vs yesterday's close 88.75 at 16:03 ET  
+VTRS   20.49 +2.91% vs yesterday's close 19.91 at 16:00 ET  
+VYX    9.89 +1.44% vs yesterday's close 9.75 at 16:00 ET  
+W      116.87 +4.59% vs yesterday's close 111.74 at 16:00 ET  MOVING
+WAB    298.19 +5.15% vs yesterday's close 283.59 at 16:00 ET  MOVING
+WCN    190.02 +0.50% vs yesterday's close 189.07 at 16:00 ET  
+WDC    289.78 +9.86% vs yesterday's close 263.78 at 16:00 ET  MOVING
+WEN    8.30 +1.84% vs yesterday's close 8.15 at 16:00 ET  
+WES    41.00 +2.89% vs yesterday's close 39.85 at 16:00 ET  
+WING   176.98 +8.39% vs yesterday's close 163.28 at 16:00 ET  MOVING
+WLTH   11.15 +4.89% vs yesterday's close 10.63 at 16:00 ET  MOVING
+WOLF   26.12 +9.79% vs yesterday's close 23.79 at 16:03 ET  MOVING
+WPC    65.90 +1.31% vs yesterday's close 65.05 at 16:00 ET  
+WPM    143.94 +5.60% vs yesterday's close 136.31 at 16:00 ET  MOVING
+WRBY   30.21 +18.56% vs yesterday's close 25.48 at 16:00 ET  MOVING
+WSC    20.63 +9.38% vs yesterday's close 18.86 at 16:00 ET  MOVING
+WSE    11.31 +1.43% vs yesterday's close 11.15 at 16:00 ET  
+WTRG   45.10 -0.77% vs yesterday's close 45.45 at 16:00 ET  
+WTTR   15.07 -6.86% vs yesterday's close 16.18 at 16:00 ET  MOVING
+WULF   12.38 +8.88% vs yesterday's close 11.37 at 16:00 ET  MOVING
+WYNN   86.70 +4.32% vs yesterday's close 83.11 at 16:00 ET  MOVING
+XE     11.16 +7.00% vs yesterday's close 10.43 at 16:00 ET  MOVING
+XENE   40.45 +3.27% vs yesterday's close 39.17 at 16:00 ET  MOVING
+XERS   15.86 +4.34% vs yesterday's close 15.20 at 16:00 ET  MOVING
+XIFR   7.32 +0.00% vs yesterday's close 7.32 at 16:00 ET  
+XNCR   38.59 +7.94% vs yesterday's close 35.75 at 16:00 ET  MOVING
+XPO    188.03 +6.26% vs yesterday's close 176.95 at 16:00 ET  MOVING
+XYZ    88.56 +3.60% vs yesterday's close 85.48 at 16:04 ET  MOVING
+YPF    38.09 -1.47% vs yesterday's close 38.66 at 16:00 ET  
+YSS    7.11 +13.58% vs yesterday's close 6.26 at 16:00 ET  MOVING
+ZION   66.25 +2.30% vs yesterday's close 64.76 at 16:00 ET  
+ZLAB   26.86 +5.42% vs yesterday's close 25.48 at 16:00 ET  MOVING
+ZTS    82.32 +3.68% vs yesterday's close 79.40 at 16:00 ET  MOVING
+ZVRA   12.14 +4.75% vs yesterday's close 11.59 at 16:00 ET  MOVING
+
+  2026-11-10 01:00 ET  AMZN,EL,LEVI Yahoo Finance Amazon's Black Friday Week and Cyber Monday Return November 19-30 with Millions of Deals to Deliver Joy This Holiday Season
+      tags: deal  https://finance.yahoo.com/media-advertising/articles/amazons-black-friday-week-cyber-060000001.html?.tsrc=rss
+  2026-11-10 00:59 ET  NVDA        Yahoo Finance AMD Stock Clocks Best Day In 6 Months —  But Michael Burry Won’t Touch The Nvidia Headline Trade
+      https://stocktwits.com/news-articles/markets/equity/amd-stock-michael-burry-wont-touch-nvidia-headline-trade/cNGu40nR97l?.tsrc=rss
+  2026-11-10 00:58 ET  MSFT        Yahoo Finance CRWV Rallies Ahead Of Quarterly Report: Wells Fargo Calls CoreWeave ‘Highest Quality’ Firm Among Neocloud Peers, Sees Upside
+      https://stocktwits.com/news-articles/markets/equity/crwv-rallies-ahead-of-quarterly-report-wells-fargo-calls-core-weave-highest-quality-firm-among-neocloud-peers-sees-upside/cNGu4iQR97k?.tsrc=rss
+  2026-11-10 00:43 ET  NVDA        Yahoo Finance Moonshot AI rents Nvidia’s top chips in China, Bloomberg reports
+      https://finance.yahoo.com/technology/ai/articles/moonshot-ai-rents-nvidia-top-054313159.html?.tsrc=rss
+  2026-11-09 17:22 ET  MWA         SEC EDGAR     Mueller Water Products, Inc. filed a 8-K: Regulation FD disclosure
+      https://www.sec.gov/Archives/edgar/data/1350593/000135059326000045/0001350593-26-000045-index.htm
+! 2026-11-09 16:57 ET  EQPT        SEC EDGAR     EquipmentShare.com Inc filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1693736/000169373626000028/0001693736-26-000028-index.htm
+  2026-11-09 16:52 ET  JBS         SEC EDGAR     JBS N.V. filed a 8-K: unregistered share sale, Regulation FD disclosure, other events
+      https://www.sec.gov/Archives/edgar/data/1791942/000121390026117580/0001213900-26-117580-index.htm
+! 2026-11-09 16:48 ET  UUUU        SEC EDGAR     ENERGY FUELS INC filed a 8-K: director or officer change
+      https://www.sec.gov/Archives/edgar/data/1385849/000106299326005841/0001062993-26-005841-index.htm
+  2026-11-09 16:42 ET  QXO         SEC EDGAR     QXO, Inc. filed a 8-K: Regulation FD disclosure
+      https://www.sec.gov/Archives/edgar/data/1236275/000095014226002986/0000950142-26-002986-index.htm
+  2026-11-09 16:30 ET  AAPL        SEC EDGAR     Apple Inc. filed a 8-K: other events
+      https://www.sec.gov/Archives/edgar/data/320193/000114036126042798/0001140361-26-042798-index.htm
+! 2026-11-09 16:30 ET  KBR         SEC EDGAR     KBR, INC. filed a 8-K: director or officer change, Regulation FD disclosure
+      https://www.sec.gov/Archives/edgar/data/1357615/000135761526000201/0001357615-26-000201-index.htm
+! 2026-11-09 16:30 ET  JBS         SEC EDGAR     JBS N.V. filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1791942/000179194226000009/0001791942-26-000009-index.htm
+! 2026-11-09 16:26 ET  TRVI        SEC EDGAR     Trevi Therapeutics, Inc. filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1563880/000119312526453670/0001193125-26-453670-index.htm
+! 2026-11-09 16:22 ET  ABCL        SEC EDGAR     AbCellera Biologics Inc. filed a 8-K: earnings results, Regulation FD disclosure
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1703057/000170305726000058/0001703057-26-000058-index.htm
+  2026-11-09 16:22 ET  HOS         SEC EDGAR     HORNBECK OFFSHORE SERVICES, INC. filed a 8-K: other events
+      https://www.sec.gov/Archives/edgar/data/866829/000086682926000032/0000866829-26-000032-index.htm
+  2026-11-09 16:19 ET  PSA         SEC EDGAR     Public Storage filed a 8-K: other events
+      https://www.sec.gov/Archives/edgar/data/1393311/000119312526453645/0001193125-26-453645-index.htm
+! 2026-11-09 16:18 ET  LINC        SEC EDGAR     LINCOLN EDUCATIONAL SERVICES CORP filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1286613/000114036126042792/0001140361-26-042792-index.htm
+! 2026-11-09 16:17 ET  LINE        SEC EDGAR     Lineage, Inc. filed a 8-K: earnings results, Regulation FD disclosure
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1868159/000186815926000050/0001868159-26-000050-index.htm
+! 2026-11-09 16:12 ET  SGRY        SEC EDGAR     Surgery Partners, Inc. filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1638833/000163883326000089/0001638833-26-000089-index.htm
+! 2026-11-09 16:11 ET  GPCR        SEC EDGAR     Structure Therapeutics Inc. filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1888886/000110465926124494/0001104659-26-124494-index.htm
+! 2026-11-09 16:11 ET  CWEN        SEC EDGAR     Clearway Energy, Inc. filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1567683/000162828026072177/0001628280-26-072177-index.htm
+  2026-11-09 16:10 ET  TXN         SEC EDGAR     TEXAS INSTRUMENTS INC filed a 8-K: other events
+      https://www.sec.gov/Archives/edgar/data/97476/000119312526453606/0001193125-26-453606-index.htm
+! 2026-11-09 16:10 ET  FBIN        SEC EDGAR     Fortune Brands Innovations, Inc. filed a 8-K: director or officer change, Regulation FD disclosure
+      https://www.sec.gov/Archives/edgar/data/1519751/000119312526453599/0001193125-26-453599-index.htm
+! 2026-11-09 16:10 ET  DFTX        SEC EDGAR     Definium Therapeutics, Inc. filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1813814/000119312526453595/0001193125-26-453595-index.htm
+! 2026-11-09 16:09 ET  TTD         SEC EDGAR     Trade Desk, Inc. filed a 8-K: earnings results, other events
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1671933/000167193326000115/0001671933-26-000115-index.htm
+! 2026-11-09 16:09 ET  QUBT        SEC EDGAR     Quantum Computing Inc. filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1758009/000162828026072163/0001628280-26-072163-index.htm
+! 2026-11-09 16:07 ET  CSQR        SEC EDGAR     Csquare, Inc. filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/2105398/000210539826000007/0002105398-26-000007-index.htm
+! 2026-11-09 16:06 ET  RKLB        SEC EDGAR     Rocket Lab Corp filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1819994/000181999426000073/0001819994-26-000073-index.htm
+! 2026-11-09 16:05 ET  SANM        SEC EDGAR     SANMINA CORP filed a 8-K: earnings results, other events
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/897723/000089772326000044/0000897723-26-000044-index.htm
+! 2026-11-09 16:05 ET  APPS        SEC EDGAR     Digital Turbine, Inc. filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/317788/000162828026072130/0001628280-26-072130-index.htm
+! 2026-11-09 16:00 ET  XENE        SEC EDGAR     Xenon Pharmaceuticals Inc. filed a 8-K: earnings results, Regulation FD disclosure
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1582313/000119312526453521/0001193125-26-453521-index.htm
+  2026-11-09 09:15 ET  SGRY        SEC EDGAR     Surgery Partners, Inc. filed a 8-K: material agreement, Regulation FD disclosure
+      https://www.sec.gov/Archives/edgar/data/1638833/000110465926124236/0001104659-26-124236-index.htm
+  2026-11-09 09:07 ET  SGI         SEC EDGAR     SOMNIGROUP INTERNATIONAL INC. filed a 8-K: Regulation FD disclosure
+      https://www.sec.gov/Archives/edgar/data/1206264/000120626426000132/0001206264-26-000132-index.htm
+! 2026-11-09 09:00 ET  TLS         SEC EDGAR     TELOS CORP filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/320121/000032012126000041/0000320121-26-000041-index.htm
+! 2026-11-09 08:55 ET  SM          SEC EDGAR     SM Energy Co filed a 8-K: director or officer change
+      https://www.sec.gov/Archives/edgar/data/893538/000089353826000149/0000893538-26-000149-index.htm
+  2026-11-09 08:45 ET  FTH         SEC EDGAR     Faeth Therapeutics, Inc. filed a 8-K: other events
+      https://www.sec.gov/Archives/edgar/data/1829802/000119312526452755/0001193125-26-452755-index.htm
+! 2026-11-09 08:37 ET  FRVO        SEC EDGAR     Fervo Energy Co filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1853868/000162828026071911/0001628280-26-071911-index.htm
+! 2026-11-09 08:35 ET  NWL         SEC EDGAR     NEWELL BRANDS INC. filed a 8-K: director or officer change
+      https://www.sec.gov/Archives/edgar/data/814453/000081445326000043/0000814453-26-000043-index.htm
+  2026-11-09 08:31 ET  VIR         SEC EDGAR     Vir Biotechnology, Inc. filed a 8-K: Regulation FD disclosure, other events
+      https://www.sec.gov/Archives/edgar/data/1706431/000162828026071908/0001628280-26-071908-index.htm
+! 2026-11-09 08:05 ET  LKQ         SEC EDGAR     LKQ CORP filed a 8-K: director or officer change
+      https://www.sec.gov/Archives/edgar/data/1065696/000106569626000058/0001065696-26-000058-index.htm
+! 2026-11-09 08:02 ET  DCTH        SEC EDGAR     DELCATH SYSTEMS, INC. filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/872912/000162828026071894/0001628280-26-071894-index.htm
+! 2026-11-09 08:02 ET  RBA         SEC EDGAR     RB GLOBAL INC. filed a 8-K: earnings results, other events
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1046102/000162828026071893/0001628280-26-071893-index.htm
+  2026-11-09 08:02 ET  CNH         SEC EDGAR     CNH Industrial N.V. filed a 8-K: material agreement, Regulation FD disclosure
+      https://www.sec.gov/Archives/edgar/data/1567094/000119312526452698/0001193125-26-452698-index.htm
+  2026-11-09 08:00 ET  CVI         SEC EDGAR     CVR ENERGY INC filed a 8-K: Regulation FD disclosure
+      https://www.sec.gov/Archives/edgar/data/1376139/000119312526452694/0001193125-26-452694-index.htm
+! 2026-11-09 07:52 ET  BCAX        SEC EDGAR     Bicara Therapeutics Inc. filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/2023658/000162828026071886/0001628280-26-071886-index.htm
+  2026-11-09 07:49 ET  CRMD        SEC EDGAR     CorMedix Inc. filed a 8-K: material agreement, new debt, unregistered share sale, Regulation FD disclosure
+      https://www.sec.gov/Archives/edgar/data/1410098/000121390026117213/0001213900-26-117213-index.htm
+  2026-11-09 07:33 ET  VRDN        SEC EDGAR     Viridian Therapeutics, Inc.\DE filed a 8-K: Regulation FD disclosure, other events
+      https://www.sec.gov/Archives/edgar/data/1590750/000119312526452665/0001193125-26-452665-index.htm
+! 2026-11-09 07:28 ET  OCUL        SEC EDGAR     OCULAR THERAPEUTIX, INC filed a 8-K: director or officer change
+      https://www.sec.gov/Archives/edgar/data/1393434/000110465926124159/0001104659-26-124159-index.htm
+  2026-11-09 07:19 ET  FTH         SEC EDGAR     Faeth Therapeutics, Inc. filed a 8-K: Regulation FD disclosure
+      https://www.sec.gov/Archives/edgar/data/1829802/000119312526452643/0001193125-26-452643-index.htm
+! 2026-11-09 07:17 ET  ROIV        SEC EDGAR     Roivant Sciences Ltd. filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1635088/000163508826000130/0001635088-26-000130-index.htm
+! 2026-11-09 07:09 ET  IMVT        SEC EDGAR     Immunovant, Inc. filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1764013/000176401326000121/0001764013-26-000121-index.htm
+! 2026-11-09 07:08 ET  OCUL        SEC EDGAR     OCULAR THERAPEUTIX, INC filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1393434/000110465926124151/0001104659-26-124151-index.htm
+! 2026-11-09 07:05 ET  WTTR        SEC EDGAR     Select Water Solutions, Inc. filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1693256/000114036126042601/0001140361-26-042601-index.htm
+! 2026-11-09 07:05 ET  AURA        SEC EDGAR     Aura Biosciences, Inc. filed a 8-K: earnings results, other events
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1501796/000119312526452620/0001193125-26-452620-index.htm
+! 2026-11-09 07:04 ET  TGTX        SEC EDGAR     TG THERAPEUTICS, INC. filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1001316/000162828026071870/0001628280-26-071870-index.htm
+  2026-11-09 07:02 ET  NRG         SEC EDGAR     NRG ENERGY, INC. filed a 8-K: Regulation FD disclosure
+      https://www.sec.gov/Archives/edgar/data/1013871/000110465926124147/0001104659-26-124147-index.htm
+! 2026-11-09 07:02 ET  PRAX        SEC EDGAR     Praxis Precision Medicines, Inc. filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1689548/000168954826000086/0001689548-26-000086-index.htm
+! 2026-11-09 07:00 ET  IONS        SEC EDGAR     IONIS PHARMACEUTICALS INC filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/874015/000114036126042598/0001140361-26-042598-index.htm
+! 2026-11-09 06:59 ET  VIA         SEC EDGAR     Via Transportation, Inc. filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1603015/000160301526000033/0001603015-26-000033-index.htm
+! 2026-11-09 06:53 ET  CEG         SEC EDGAR     Constellation Energy Corp filed a 8-K: earnings results, Regulation FD disclosure
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1868275/000186827526000116/0001868275-26-000116-index.htm
+! 2026-11-09 06:51 ET  TH          SEC EDGAR     Target Hospitality Corp. filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1712189/000110465926124138/0001104659-26-124138-index.htm
+! 2026-11-09 06:50 ET  FERG        SEC EDGAR     Ferguson Enterprises Inc. /DE/ filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/2011641/000201164126000042/0002011641-26-000042-index.htm
+! 2026-11-09 06:45 ET  NRG         SEC EDGAR     NRG ENERGY, INC. filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1013871/000101387126000022/0001013871-26-000022-index.htm
+  2026-11-09 06:37 ET  CNH         SEC EDGAR     CNH Industrial N.V. filed a 8-K: Regulation FD disclosure
+      https://www.sec.gov/Archives/edgar/data/1567094/000156709426000020/0001567094-26-000020-index.htm
+! 2026-11-09 06:37 ET  SGI         SEC EDGAR     SOMNIGROUP INTERNATIONAL INC. filed a 8-K: earnings results, other events
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1206264/000120626426000129/0001206264-26-000129-index.htm
+! 2026-11-09 06:30 ET  NHP         SEC EDGAR     National Healthcare Properties, Inc. filed a 8-K: director or officer change
+      https://www.sec.gov/Archives/edgar/data/1561032/000114036126042582/0001140361-26-042582-index.htm
+  2026-11-09 06:19 ET  CKX         SEC EDGAR     CKX LANDS, INC. filed a 8-K: other events
+      https://www.sec.gov/Archives/edgar/data/352955/000143774926035669/0001437749-26-035669-index.htm
+  2026-11-09 06:07 ET  HE          SEC EDGAR     HAWAIIAN ELECTRIC INDUSTRIES INC filed a 8-K: Regulation FD disclosure
+      https://www.sec.gov/Archives/edgar/data/354707/000035470726000082/0000354707-26-000082-index.htm
+  2026-11-09 06:02 ET  CRBG        SEC EDGAR     Corebridge Financial, Inc. filed a 8-K: material agreement
+      https://www.sec.gov/Archives/edgar/data/1889539/000188953926000162/0001889539-26-000162-index.htm
+! 2026-11-09 06:02 ET  QXO         SEC EDGAR     QXO, Inc. filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1236275/000162828026071846/0001628280-26-071846-index.htm
+! 2026-11-09 06:01 ET  DOLE        SEC EDGAR     Dole plc filed a 8-K: earnings results, Regulation FD disclosure
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1857475/000185747526000091/0001857475-26-000091-index.htm
+Checked 2026-11-10 01:09 ET. Headlines are leads, not facts; open the story before acting. Not financial advice.
