@@ -1,0 +1,57 @@
+Daily scan, Tue 2026-11-10 00:41 ET, closes through 2026-11-09 (Yahoo spark, daily closes only).
+Fetched 5,933 of 5,933 charts. 1,628 passed the liquidity filter ($5+ and 1,000,000+ shares), 2 had under 30 days; 1,626 scanned.
+734 charts matched a setup: 376 20-day closing-high breakout, 72 bull flag, 201 reclaimed the 20-day average, 67 oversold (RSI under 30), 90 oversold bounce.
+Most traded first (price x volume):
+  NVDA      $178.67  RSI  27.3  oversold (RSI under 30)
+  AAPL      $350.69  RSI  57.7  20-day closing-high breakout, reclaimed the 20-day average
+  MSFT      $545.18  RSI  57.1  reclaimed the 20-day average
+  AMZN      $266.93  RSI  58.9  20-day closing-high breakout
+  SNDK      $886.51  RSI  30.3  oversold bounce
+  GOOGL     $288.15  RSI  32.6  oversold bounce
+  INTC       $59.37  RSI  29.4  oversold (RSI under 30), oversold bounce
+  GOOG      $286.01  RSI  31.6  oversold bounce
+  LLY     $1,411.95  RSI  67.7  bull flag
+  MRVL      $154.60  RSI  32.2  oversold bounce
+  LITE      $596.16  RSI  35.3  oversold bounce
+  COHR      $225.19  RSI  46.9  reclaimed the 20-day average
+  MRNA      $269.00  RSI  67.3  20-day closing-high breakout
+  APP       $410.00  RSI  78.5  20-day closing-high breakout
+  STX       $506.14  RSI  32.1  oversold bounce
+  TXN       $295.73  RSI  52.7  reclaimed the 20-day average
+  WDC       $289.78  RSI  35.7  oversold bounce
+  JPM       $342.08  RSI  52.6  reclaimed the 20-day average
+  COST    $1,066.18  RSI  69.5  20-day closing-high breakout
+  DELL      $346.31  RSI  32.7  oversold bounce
+  MPWR    $1,388.05  RSI  58.8  20-day closing-high breakout, reclaimed the 20-day average
+  CAT       $598.88  RSI  32.6  oversold bounce
+  ANET      $186.17  RSI  51.5  reclaimed the 20-day average
+  CSCO       $98.65  RSI  38.2  oversold bounce
+  GS        $906.22  RSI  50.3  reclaimed the 20-day average
+  JNJ       $282.11  RSI  63.6  20-day closing-high breakout
+  CEG       $276.09  RSI  55.7  reclaimed the 20-day average
+  RKLB       $58.86  RSI  51.2  reclaimed the 20-day average
+  MS        $187.10  RSI  48.9  reclaimed the 20-day average
+  TMO       $721.63  RSI  61.5  20-day closing-high breakout
+  KO         $96.03  RSI  65.4  20-day closing-high breakout
+  PG        $168.32  RSI  67.4  20-day closing-high breakout
+  ALAB      $216.87  RSI  37.3  oversold bounce
+  APH        $80.71  RSI  51.1  reclaimed the 20-day average
+  MCHP       $61.50  RSI  32.8  oversold bounce
+  MCD       $281.44  RSI  76.0  20-day closing-high breakout
+  GE        $335.54  RSI  61.9  20-day closing-high breakout
+  NOW       $102.76  RSI  28.5  oversold (RSI under 30), oversold bounce
+  TER       $246.00  RSI  34.3  oversold bounce
+  TTD        $14.93  RSI  68.6  20-day closing-high breakout
+  TMUS      $168.71  RSI  59.7  20-day closing-high breakout
+  DE        $691.28  RSI  62.4  20-day closing-high breakout
+  ABNB      $190.29  RSI  66.2  20-day closing-high breakout
+  GLW       $115.95  RSI  39.2  oversold bounce
+  ACN       $254.37  RSI  61.1  bull flag
+  JHX        $29.94  RSI  65.2  20-day closing-high breakout
+  SPOT      $609.10  RSI  63.6  bull flag
+  AAL        $14.16  RSI  62.9  20-day closing-high breakout
+  CLS       $222.92  RSI  35.1  oversold bounce
+  AXON      $303.18  RSI  22.6  oversold (RSI under 30)
+  ... and 684 more in the watchlist (--show N for more).
+Wrote trader/watchlist.json (mode daily, 734 hits).
+A scan is a list of charts that match a rule, not a list of stocks to buy. Next: pick one chart, then /trader-news TICKER.
