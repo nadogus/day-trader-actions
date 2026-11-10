@@ -1,0 +1,57 @@
+Opening-range breakout scan, Mon 2026-11-09 11:15 AM ET: 15-minute range (9:30 to 9:45 AM), 5-minute bars, Yahoo.
+Fetched 5,933 of 5,933 charts; 1,885 usable (304 under the price / volume floor); 1,467 candidates, 200 confirmed with real highs and lows.
+PARTIAL: 1,267 more candidates were not checked (only the 200 most traded are; --max-confirm 0 checks all).
+162 of the 200 checked charts closed above their opening-range high by 11:15 AM:
+   9:50 AM  AAOI       $52.43  range 48.32 to 51.49  +1.83% over
+   9:50 AM  ADI       $379.62  range 367.12 to 378.50  +0.30% over
+   9:50 AM  ALAB      $207.78  range 195.31 to 204.59  +1.56% over
+   9:50 AM  AMAT      $360.17  range 342.98 to 357.57  +0.73% over
+   9:50 AM  AMD       $488.69  range 468.21 to 480.60  +1.68% over
+   9:50 AM  ANET      $184.04  range 176.25 to 182.94  +0.60% over
+   9:50 AM  APH        $77.44  range 75.51 to 76.90  +0.70% over
+   9:50 AM  ARM       $183.59  range 174.76 to 180.88  +1.50% over
+   9:50 AM  ASML    $1,503.93  range 1,468.02 to 1,501.94  +0.13% over
+   9:50 AM  ASTS       $34.57  range 32.26 to 34.34  +0.67% over
+   9:50 AM  ASX        $33.90  range 32.94 to 33.55  +1.04% over
+   9:50 AM  BE        $192.89  range 180.50 to 191.05  +0.96% over
+   9:50 AM  BKR        $48.29  range 47.65 to 48.25  +0.08% over
+   9:50 AM  BLK     $1,205.01  range 1,192.83 to 1,204.56  +0.04% over
+   9:50 AM  BMNR       $18.67  range 17.98 to 18.45  +1.16% over
+   9:50 AM  BX        $123.00  range 120.77 to 122.59  +0.33% over
+   9:50 AM  CAT       $585.16  range 572.05 to 583.82  +0.23% over
+   9:50 AM  CDNS      $328.25  range 321.93 to 326.62  +0.50% over
+   9:50 AM  CIEN      $267.01  range 252.00 to 262.40  +1.76% over
+   9:50 AM  CLS       $218.35  range 208.22 to 215.20  +1.47% over
+   9:50 AM  COHR      $213.36  range 197.19 to 209.35  +1.92% over
+   9:50 AM  COIN      $136.01  range 131.12 to 135.09  +0.68% over
+   9:50 AM  CRDO      $131.49  range 122.27 to 128.66  +2.20% over
+   9:50 AM  CRWD      $221.86  range 216.25 to 220.87  +0.45% over
+   9:50 AM  CRWV       $49.34  range 45.15 to 47.65  +3.55% over
+   9:50 AM  CSCO       $97.64  range 94.97 to 96.72  +0.96% over
+   9:50 AM  CSX        $49.72  range 49.16 to 49.70  +0.04% over
+   9:50 AM  DDOG      $180.50  range 176.51 to 179.69  +0.45% over
+   9:50 AM  DE        $689.09  range 681.40 to 688.97  +0.02% over
+   9:50 AM  DELL      $344.18  range 328.30 to 339.00  +1.53% over
+   9:50 AM  ENTG      $139.98  range 131.34 to 139.43  +0.40% over
+   9:50 AM  EQIX    $1,045.42  range 1,028.05 to 1,042.89  +0.24% over
+   9:50 AM  ETN       $353.62  range 345.28 to 352.99  +0.18% over
+   9:50 AM  FIX     $1,078.86  range 1,041.83 to 1,074.15  +0.44% over
+   9:50 AM  FLEX       $76.46  range 72.18 to 75.52  +1.24% over
+   9:50 AM  GEV       $823.92  range 797.26 to 819.05  +0.60% over
+   9:50 AM  GLW       $112.48  range 107.91 to 111.27  +1.09% over
+   9:50 AM  GS        $896.41  range 878.61 to 893.69  +0.30% over
+   9:50 AM  HOOD       $83.91  range 80.55 to 82.84  +1.29% over
+   9:50 AM  HPE        $47.19  range 45.40 to 46.67  +1.11% over
+   9:50 AM  IBM       $247.42  range 245.20 to 247.09  +0.13% over
+   9:50 AM  INTC       $57.59  range 55.83 to 57.54  +0.08% over
+   9:50 AM  JCI       $140.52  range 137.43 to 139.89  +0.45% over
+   9:50 AM  KLAC      $145.40  range 141.51 to 145.36  +0.03% over
+   9:50 AM  LITE      $597.33  range 545.01 to 585.75  +1.98% over
+   9:50 AM  LMT       $576.52  range 566.27 to 574.34  +0.38% over
+   9:50 AM  LNG       $279.15  range 273.56 to 278.39  +0.27% over
+   9:50 AM  LRCX      $212.34  range 203.90 to 210.88  +0.69% over
+   9:50 AM  MPC       $381.87  range 370.05 to 381.26  +0.16% over
+   9:50 AM  MPWR    $1,279.00  range 1,210.00 to 1,260.00  +1.51% over
+  ... and 112 more in the watchlist (--show N for more).
+Wrote trader/watchlist.json (mode orb, 162 hits).
+A scan is a list of charts that match a rule, not a list of stocks to buy. Next: pick one chart, then /trader-news TICKER and /trader-entry TICKER.
