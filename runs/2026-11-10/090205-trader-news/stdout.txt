@@ -1,0 +1,1492 @@
+AA     41.82 +5.77% vs yesterday's close 39.54 at 16:00 ET  MOVING
+AADX   10.90 +12.72% vs yesterday's close 9.67 at 16:00 ET  MOVING
+AAL    14.16 +7.44% vs yesterday's close 13.18 at 16:00 ET  MOVING
+AAPL   350.69 +2.43% vs yesterday's close 342.37 at 16:00 ET  
+ABCL   12.50 +5.22% vs yesterday's close 11.88 at 16:00 ET  MOVING
+ABNB   190.29 +0.16% vs yesterday's close 189.99 at 16:00 ET  
+ACAD   16.50 -22.28% vs yesterday's close 21.23 at 16:00 ET  MOVING
+ACHC   38.61 +4.35% vs yesterday's close 37.00 at 16:00 ET  MOVING
+ACHV   6.78 +0.89% vs yesterday's close 6.72 at 16:00 ET  
+ACIW   61.45 +2.38% vs yesterday's close 60.02 at 16:00 ET  
+ACM    70.21 +5.20% vs yesterday's close 66.74 at 16:00 ET  MOVING
+ACN    254.37 -2.35% vs yesterday's close 260.50 at 16:00 ET  
+ADAM   5.69 +0.00% vs yesterday's close 5.69 at 16:00 ET  
+ADEA   16.28 +5.03% vs yesterday's close 15.50 at 16:00 ET  MOVING
+ADM    69.84 -0.19% vs yesterday's close 69.97 at 16:00 ET  
+ADPT   30.26 +8.15% vs yesterday's close 27.98 at 16:00 ET  MOVING
+ADT    9.93 +0.71% vs yesterday's close 9.86 at 16:00 ET  
+AEE    114.02 +1.04% vs yesterday's close 112.85 at 16:00 ET  
+AEG    8.59 +3.49% vs yesterday's close 8.30 at 16:00 ET  MOVING
+AEM    200.80 +4.82% vs yesterday's close 191.57 at 16:00 ET  MOVING
+AEO    21.75 +9.19% vs yesterday's close 19.92 at 16:00 ET  MOVING
+AEP    128.33 +1.42% vs yesterday's close 126.53 at 16:00 ET  
+AER    175.43 +3.41% vs yesterday's close 169.64 at 16:00 ET  MOVING
+AESI   5.54 +2.40% vs yesterday's close 5.41 at 16:00 ET  
+AEVA   12.30 +11.82% vs yesterday's close 11.00 at 16:00 ET  MOVING
+AG     15.87 +4.68% vs yesterday's close 15.16 at 16:00 ET  MOVING
+AGCO   116.52 +5.51% vs yesterday's close 110.44 at 16:00 ET  MOVING
+AGI    32.59 +2.39% vs yesterday's close 31.83 at 16:00 ET  
+AHR    58.96 +1.81% vs yesterday's close 57.91 at 16:00 ET  
+AI     12.00 +2.65% vs yesterday's close 11.69 at 16:00 ET  
+AKR    19.97 +0.86% vs yesterday's close 19.80 at 16:00 ET  
+ALAB   216.87 +13.72% vs yesterday's close 190.71 at 16:00 ET  MOVING
+ALGN   174.26 +4.98% vs yesterday's close 166.00 at 16:00 ET  MOVING
+ALH    24.04 +6.37% vs yesterday's close 22.60 at 16:00 ET  MOVING
+ALK    41.70 +7.09% vs yesterday's close 38.94 at 16:00 ET  MOVING
+ALKS   46.17 +0.59% vs yesterday's close 45.90 at 16:00 ET  
+ALKT   14.22 +6.04% vs yesterday's close 13.41 at 16:00 ET  MOVING
+ALLY   38.53 +0.94% vs yesterday's close 38.17 at 16:00 ET  
+ALM    8.78 +8.07% vs yesterday's close 8.12 at 16:00 ET  MOVING
+ALMS   6.55 +8.62% vs yesterday's close 6.03 at 16:00 ET  MOVING
+ALNY   156.61 +0.43% vs yesterday's close 155.94 at 16:00 ET  
+ALOY   6.85 +11.84% vs yesterday's close 6.12 at 16:00 ET  MOVING
+AMLX   30.21 +2.41% vs yesterday's close 29.50 at 16:00 ET  
+AMPX   9.52 +9.17% vs yesterday's close 8.72 at 16:00 ET  MOVING
+AMRX   21.28 +5.66% vs yesterday's close 20.14 at 16:00 ET  MOVING
+AMX    26.05 +1.28% vs yesterday's close 25.72 at 16:00 ET  
+AMZN   266.93 +2.94% vs yesterday's close 259.30 at 16:00 ET  
+ANET   186.17 +9.00% vs yesterday's close 170.80 at 16:00 ET  MOVING
+AON    335.77 +0.29% vs yesterday's close 334.81 at 16:00 ET  
+AOS    65.20 +1.01% vs yesterday's close 64.55 at 16:00 ET  
+AOSL   29.17 +23.55% vs yesterday's close 23.61 at 16:00 ET  MOVING
+APAM   39.83 +1.79% vs yesterday's close 39.13 at 16:00 ET  
+APG    42.49 +3.96% vs yesterday's close 40.87 at 16:00 ET  MOVING
+APH    80.71 +8.20% vs yesterday's close 74.59 at 16:00 ET  MOVING
+APLE   19.68 +4.24% vs yesterday's close 18.88 at 16:00 ET  MOVING
+APP    410.00 +4.80% vs yesterday's close 391.22 at 16:00 ET  MOVING
+APPS   11.30 +8.86% vs yesterday's close 10.38 at 16:00 ET  MOVING
+AQN    5.66 +2.54% vs yesterday's close 5.52 at 16:00 ET  
+ARDT   17.97 +3.87% vs yesterday's close 17.30 at 16:00 ET  MOVING
+ARES   139.58 +4.18% vs yesterday's close 133.98 at 16:00 ET  MOVING
+ARHS   15.02 +5.85% vs yesterday's close 14.19 at 16:00 ET  MOVING
+ARIS   16.64 +6.33% vs yesterday's close 15.65 at 16:00 ET  MOVING
+ARMK   54.74 +4.19% vs yesterday's close 52.54 at 16:00 ET  MOVING
+ARWR   49.24 -15.34% vs yesterday's close 58.16 at 16:00 ET  MOVING
+AS     32.46 +3.15% vs yesterday's close 31.47 at 16:00 ET  MOVING
+ASO    71.18 +5.82% vs yesterday's close 67.27 at 16:00 ET  MOVING
+ASPN   6.11 +24.44% vs yesterday's close 4.91 at 16:00 ET  MOVING
+ASTL   5.81 +7.99% vs yesterday's close 5.38 at 16:00 ET  MOVING
+ATEN   27.06 +9.29% vs yesterday's close 24.76 at 16:00 ET  MOVING
+ATI    184.85 +5.15% vs yesterday's close 175.79 at 16:00 ET  MOVING
+AU     99.37 +6.86% vs yesterday's close 92.99 at 16:00 ET  MOVING
+AURA   7.66 +16.77% vs yesterday's close 6.56 at 16:00 ET  MOVING
+AVAV   126.96 +12.59% vs yesterday's close 112.76 at 16:00 ET  MOVING
+AVPT   16.81 +1.57% vs yesterday's close 16.55 at 16:00 ET  
+AVTX   7.27 +4.91% vs yesterday's close 6.93 at 16:00 ET  MOVING
+AWK    149.22 -0.71% vs yesterday's close 150.29 at 16:00 ET  
+AXON   303.18 -3.14% vs yesterday's close 313.00 at 16:00 ET  MOVING
+AXSM   133.96 +1.20% vs yesterday's close 132.37 at 16:00 ET  
+AXTA   37.53 +2.96% vs yesterday's close 36.45 at 16:00 ET  
+AZN    189.39 +1.59% vs yesterday's close 186.43 at 16:00 ET  
+B      42.27 +4.22% vs yesterday's close 40.56 at 16:00 ET  MOVING
+BAH    86.70 +1.58% vs yesterday's close 85.35 at 16:00 ET  
+BAM    54.18 +2.32% vs yesterday's close 52.95 at 16:00 ET  
+BBIO   77.93 +4.90% vs yesterday's close 74.29 at 16:00 ET  MOVING
+BBVA   26.44 +5.55% vs yesterday's close 25.05 at 16:00 ET  MOVING
+BBY    106.28 +6.67% vs yesterday's close 99.63 at 16:00 ET  MOVING
+BCAX   9.98 +15.38% vs yesterday's close 8.65 at 16:00 ET  MOVING
+BCS    23.19 +3.85% vs yesterday's close 22.33 at 16:00 ET  MOVING
+BDX    215.25 +1.59% vs yesterday's close 211.88 at 16:00 ET  
+BEN    35.87 +6.34% vs yesterday's close 33.73 at 16:00 ET  MOVING
+BEPC   31.88 +0.44% vs yesterday's close 31.74 at 16:00 ET  
+BETA   28.52 +5.16% vs yesterday's close 27.12 at 16:00 ET  MOVING
+BFAM   51.97 -2.90% vs yesterday's close 53.52 at 16:00 ET  
+BHP    82.86 +3.72% vs yesterday's close 79.89 at 16:00 ET  MOVING
+BIIB   254.87 +2.63% vs yesterday's close 248.35 at 16:00 ET  
+BILL   53.81 +2.67% vs yesterday's close 52.41 at 16:00 ET  
+BIP    39.67 +0.56% vs yesterday's close 39.45 at 16:00 ET  
+BIPC   39.87 +0.53% vs yesterday's close 39.66 at 16:00 ET  
+BIRK   38.72 +3.75% vs yesterday's close 37.32 at 16:00 ET  MOVING
+BKH    86.35 +1.74% vs yesterday's close 84.87 at 16:00 ET  
+BKSY   23.90 +12.05% vs yesterday's close 21.33 at 16:00 ET  MOVING
+BKV    18.42 +4.96% vs yesterday's close 17.55 at 16:00 ET  MOVING
+BLMN   10.28 +5.44% vs yesterday's close 9.75 at 16:00 ET  MOVING
+BLSH   22.80 +6.99% vs yesterday's close 21.31 at 16:00 ET  MOVING
+BMGL   5.40 +2.08% vs yesterday's close 5.29 at 16:00 ET  
+BNL    17.84 +1.88% vs yesterday's close 17.51 at 16:00 ET  
+BOBS   20.97 +7.98% vs yesterday's close 19.42 at 16:00 ET  MOVING
+BRBR   9.62 +5.02% vs yesterday's close 9.16 at 16:00 ET  MOVING
+BRKR   66.54 +8.53% vs yesterday's close 61.31 at 16:00 ET  MOVING
+BROS   36.01 +6.63% vs yesterday's close 33.77 at 16:00 ET  MOVING
+BRX    30.30 +0.93% vs yesterday's close 30.02 at 16:00 ET  
+BRZE   46.08 +0.63% vs yesterday's close 45.79 at 16:00 ET  
+BSM    13.74 -1.72% vs yesterday's close 13.98 at 16:00 ET  
+BSY    45.40 +1.68% vs yesterday's close 44.65 at 16:00 ET  
+BTG    5.68 +5.19% vs yesterday's close 5.40 at 16:00 ET  MOVING
+BTU    17.03 +6.24% vs yesterday's close 16.03 at 16:03 ET  MOVING
+BURL   257.17 +4.22% vs yesterday's close 246.76 at 16:00 ET  MOVING
+BV     11.85 +1.54% vs yesterday's close 11.67 at 16:00 ET  
+BWA    51.44 +5.39% vs yesterday's close 48.81 at 16:00 ET  MOVING
+BXDC   16.70 +4.31% vs yesterday's close 16.01 at 16:00 ET  MOVING
+BXMT   11.18 +0.18% vs yesterday's close 11.16 at 16:00 ET  
+BXP    66.19 +1.82% vs yesterday's close 65.01 at 16:00 ET  
+CAH    274.29 +0.95% vs yesterday's close 271.72 at 16:00 ET  
+CALM   68.83 +6.55% vs yesterday's close 64.60 at 16:00 ET  MOVING
+CALX   32.16 +5.10% vs yesterday's close 30.60 at 16:00 ET  MOVING
+CALY   17.43 +3.57% vs yesterday's close 16.83 at 16:00 ET  MOVING
+CAPR   9.85 +9.44% vs yesterday's close 9.00 at 16:00 ET  MOVING
+CART   58.46 +0.58% vs yesterday's close 58.12 at 16:00 ET  
+CAT    598.88 +7.21% vs yesterday's close 558.63 at 16:00 ET  MOVING
+CAVA   62.35 +5.41% vs yesterday's close 59.15 at 16:00 ET  MOVING
+CBC    38.53 +2.07% vs yesterday's close 37.75 at 16:00 ET  
+CBRS   96.70 +7.83% vs yesterday's close 89.68 at 16:00 ET  MOVING
+CBSH   56.03 +1.80% vs yesterday's close 55.04 at 16:00 ET  
+CC     13.28 +4.16% vs yesterday's close 12.75 at 16:00 ET  MOVING
+CCEP   117.49 +1.17% vs yesterday's close 116.13 at 16:00 ET  
+CDNS   336.53 +5.19% vs yesterday's close 319.92 at 16:00 ET  MOVING
+CDP    33.46 +1.79% vs yesterday's close 32.87 at 16:00 ET  
+CE     48.75 +4.86% vs yesterday's close 46.49 at 16:00 ET  MOVING
+CEG    276.09 +10.46% vs yesterday's close 249.95 at 16:00 ET  MOVING
+CELH   33.19 +3.20% vs yesterday's close 32.16 at 16:00 ET  MOVING
+CENX   36.62 +9.41% vs yesterday's close 33.47 at 16:00 ET  MOVING
+CERT   12.22 +1.41% vs yesterday's close 12.05 at 16:00 ET  
+CFG    65.10 +2.94% vs yesterday's close 63.24 at 16:00 ET  
+CGAU   23.04 +5.79% vs yesterday's close 21.78 at 16:00 ET  MOVING
+CHDN   98.77 +0.85% vs yesterday's close 97.94 at 16:00 ET  
+CHYM   32.53 +3.83% vs yesterday's close 31.33 at 16:00 ET  MOVING
+CIM    7.28 -0.41% vs yesterday's close 7.31 at 16:00 ET  
+CKX    16.40 +58.15% vs yesterday's close 10.37 at 16:00 ET  MOVING
+CLBK   11.35 +2.16% vs yesterday's close 11.11 at 16:00 ET  
+CLBT   12.70 +2.01% vs yesterday's close 12.45 at 16:00 ET  
+CLDX   31.24 +4.59% vs yesterday's close 29.87 at 16:00 ET  MOVING
+CLM    6.13 +2.34% vs yesterday's close 5.99 at 16:00 ET  
+CLMT   36.06 -9.03% vs yesterday's close 39.64 at 16:00 ET  MOVING
+CLS    222.92 +7.86% vs yesterday's close 206.68 at 16:00 ET  MOVING
+CLX    105.53 +5.57% vs yesterday's close 99.96 at 16:00 ET  MOVING
+CLYM   11.01 +7.00% vs yesterday's close 10.29 at 16:00 ET  MOVING
+CMG    35.74 +3.80% vs yesterday's close 34.43 at 16:03 ET  MOVING
+CMI    466.47 +3.64% vs yesterday's close 450.07 at 16:02 ET  MOVING
+CNH    12.82 +10.90% vs yesterday's close 11.56 at 16:00 ET  MOVING
+CNK    40.89 +5.12% vs yesterday's close 38.90 at 16:00 ET  MOVING
+COGT   33.54 +5.99% vs yesterday's close 31.64 at 16:00 ET  MOVING
+COHR   225.19 +16.79% vs yesterday's close 192.81 at 16:00 ET  MOVING
+COLB   31.00 +1.71% vs yesterday's close 30.48 at 16:00 ET  
+COLD   16.06 +0.31% vs yesterday's close 16.01 at 16:00 ET  
+COLM   72.45 +2.87% vs yesterday's close 70.43 at 16:00 ET  
+COMP   10.79 +5.68% vs yesterday's close 10.21 at 16:00 ET  MOVING
+COR    345.76 +3.66% vs yesterday's close 333.56 at 16:00 ET  MOVING
+CORT   75.03 +3.10% vs yesterday's close 72.77 at 16:00 ET  MOVING
+COST   1,066.18 +1.20% vs yesterday's close 1,053.56 at 16:00 ET  
+CPRI   21.38 +4.09% vs yesterday's close 20.54 at 16:00 ET  MOVING
+CPRT   32.45 +1.56% vs yesterday's close 31.95 at 16:00 ET  
+CRBG   35.89 +5.28% vs yesterday's close 34.09 at 16:00 ET  MOVING
+CRF    5.99 +3.63% vs yesterday's close 5.78 at 16:00 ET  MOVING
+CRGY   10.98 -2.14% vs yesterday's close 11.22 at 16:00 ET  
+CRI    34.72 +8.47% vs yesterday's close 32.01 at 16:00 ET  MOVING
+CRMD   5.47 +2.82% vs yesterday's close 5.32 at 16:00 ET  
+CROX   160.23 +5.51% vs yesterday's close 151.86 at 16:00 ET  MOVING
+CRS    305.35 +9.72% vs yesterday's close 278.31 at 16:00 ET  MOVING
+CRVS   11.35 +7.69% vs yesterday's close 10.54 at 16:00 ET  MOVING
+CSCO   98.65 +5.11% vs yesterday's close 93.85 at 16:00 ET  MOVING
+CSQR   15.27 +6.49% vs yesterday's close 14.34 at 16:00 ET  MOVING
+CSX    50.48 +2.77% vs yesterday's close 49.12 at 16:00 ET  
+CTOS   10.02 +7.40% vs yesterday's close 9.33 at 16:00 ET  MOVING
+CTRE   38.86 +1.70% vs yesterday's close 38.21 at 16:00 ET  
+CTRI   22.56 +10.75% vs yesterday's close 20.37 at 16:00 ET  MOVING
+CUBE   45.00 -0.04% vs yesterday's close 45.02 at 16:00 ET  
+CVE    27.59 +0.51% vs yesterday's close 27.45 at 16:00 ET  
+CVI    39.10 +2.54% vs yesterday's close 38.13 at 16:00 ET  
+CWEN   34.70 +1.76% vs yesterday's close 34.10 at 16:00 ET  
+CX     11.09 +3.45% vs yesterday's close 10.72 at 16:00 ET  MOVING
+CXM    6.56 -1.65% vs yesterday's close 6.67 at 16:00 ET  
+CYRX   20.47 +7.17% vs yesterday's close 19.10 at 16:00 ET  MOVING
+CYTK   55.14 +2.70% vs yesterday's close 53.69 at 16:00 ET  
+DAL    91.80 +5.28% vs yesterday's close 87.20 at 16:00 ET  MOVING
+DAN    23.11 +7.49% vs yesterday's close 21.50 at 16:00 ET  MOVING
+DAR    52.53 +4.66% vs yesterday's close 50.19 at 16:00 ET  MOVING
+DC     6.45 +8.40% vs yesterday's close 5.95 at 16:00 ET  MOVING
+DCTH   20.27 +35.77% vs yesterday's close 14.93 at 16:00 ET  MOVING
+DD     155.14 +5.88% vs yesterday's close 146.52 at 16:00 ET  MOVING
+DDI    15.70 +15.61% vs yesterday's close 13.58 at 16:00 ET  MOVING
+DDOG   179.62 +0.32% vs yesterday's close 179.04 at 16:00 ET  
+DE     691.28 +2.92% vs yesterday's close 671.65 at 16:00 ET  
+DEC    12.91 +1.65% vs yesterday's close 12.70 at 16:00 ET  
+DECK   90.43 +4.29% vs yesterday's close 86.71 at 16:00 ET  MOVING
+DELL   346.31 +5.41% vs yesterday's close 328.53 at 16:04 ET  MOVING
+DEO    101.29 +1.53% vs yesterday's close 99.76 at 16:00 ET  
+DFTX   35.39 +6.37% vs yesterday's close 33.27 at 16:00 ET  MOVING
+DGX    259.67 +1.58% vs yesterday's close 255.63 at 16:00 ET  
+DINO   99.76 +2.65% vs yesterday's close 97.18 at 16:00 ET  
+DIS    119.12 +2.03% vs yesterday's close 116.75 at 16:02 ET  
+DKS    147.69 +4.88% vs yesterday's close 140.82 at 16:00 ET  MOVING
+DLO    14.39 +3.15% vs yesterday's close 13.95 at 16:00 ET  MOVING
+DLR    180.10 +3.39% vs yesterday's close 174.20 at 16:00 ET  MOVING
+DOC    20.62 +1.78% vs yesterday's close 20.26 at 16:00 ET  
+DOCN   78.30 +8.03% vs yesterday's close 72.48 at 16:00 ET  MOVING
+DOCS   32.87 +1.11% vs yesterday's close 32.51 at 16:00 ET  
+DOLE   13.98 +0.72% vs yesterday's close 13.88 at 16:00 ET  
+DOX    41.74 -0.83% vs yesterday's close 42.09 at 16:00 ET  
+DPC    32.73 +13.72% vs yesterday's close 28.78 at 16:00 ET  MOVING
+DRS    36.41 +6.96% vs yesterday's close 34.04 at 16:00 ET  MOVING
+DT     43.97 +1.22% vs yesterday's close 43.44 at 16:00 ET  
+DTE    138.35 +2.42% vs yesterday's close 135.08 at 16:00 ET  
+DVN    42.40 +0.45% vs yesterday's close 42.21 at 16:00 ET  
+DYN    18.62 +3.04% vs yesterday's close 18.07 at 16:00 ET  MOVING
+EBC    23.35 +2.23% vs yesterday's close 22.84 at 16:00 ET  
+ECVT   10.76 +2.57% vs yesterday's close 10.49 at 16:00 ET  
+EFX    188.33 -0.66% vs yesterday's close 189.59 at 16:00 ET  
+EHC    141.15 +2.62% vs yesterday's close 137.54 at 16:00 ET  
+EL     113.16 +2.82% vs yesterday's close 110.06 at 16:00 ET  
+ELAN   26.84 +4.27% vs yesterday's close 25.74 at 16:00 ET  MOVING
+ELF    119.35 +2.76% vs yesterday's close 116.14 at 16:00 ET  
+EMN    65.39 +1.52% vs yesterday's close 64.41 at 16:00 ET  
+EMR    169.52 +4.42% vs yesterday's close 162.35 at 16:03 ET  MOVING
+EQH    55.41 +5.22% vs yesterday's close 52.66 at 16:00 ET  MOVING
+EQPT   16.21 +10.42% vs yesterday's close 14.68 at 16:00 ET  MOVING
+EQX    12.09 +4.95% vs yesterday's close 11.52 at 16:00 ET  MOVING
+ERAS   15.61 +8.33% vs yesterday's close 14.41 at 16:00 ET  MOVING
+ERII   7.39 +3.36% vs yesterday's close 7.15 at 16:00 ET  MOVING
+ESAB   89.93 +8.57% vs yesterday's close 82.83 at 16:00 ET  MOVING
+ESRT   5.33 +0.38% vs yesterday's close 5.31 at 16:00 ET  
+ETON   64.35 +13.97% vs yesterday's close 56.46 at 16:00 ET  MOVING
+EVC    9.30 +3.45% vs yesterday's close 8.99 at 16:00 ET  MOVING
+EVRG   87.99 +0.51% vs yesterday's close 87.54 at 16:00 ET  
+EW     104.71 +2.52% vs yesterday's close 102.14 at 16:00 ET  
+EWTX   48.74 +8.21% vs yesterday's close 45.04 at 16:00 ET  MOVING
+EXK    8.34 +6.38% vs yesterday's close 7.84 at 16:00 ET  MOVING
+EXR    160.16 +0.61% vs yesterday's close 159.19 at 16:00 ET  
+EXTR   25.60 +6.53% vs yesterday's close 24.03 at 16:00 ET  MOVING
+EYE    18.97 +5.98% vs yesterday's close 17.90 at 16:00 ET  MOVING
+FAST   54.57 +2.98% vs yesterday's close 52.99 at 16:00 ET  
+FBIN   51.64 +7.40% vs yesterday's close 48.08 at 16:00 ET  MOVING
+FER    61.39 +4.56% vs yesterday's close 58.71 at 16:00 ET  MOVING
+FERG   259.93 +11.22% vs yesterday's close 233.70 at 16:00 ET  MOVING
+FG     25.55 +9.28% vs yesterday's close 23.38 at 16:00 ET  MOVING
+FHN    23.53 +2.13% vs yesterday's close 23.04 at 16:00 ET  
+FIBK   38.42 +1.64% vs yesterday's close 37.80 at 16:00 ET  
+FIGR   24.52 +7.90% vs yesterday's close 22.73 at 16:00 ET  MOVING
+FIGS   21.58 +8.88% vs yesterday's close 19.82 at 16:00 ET  MOVING
+FIS    28.34 -1.36% vs yesterday's close 28.73 at 16:00 ET  
+FISV   63.52 +1.02% vs yesterday's close 62.88 at 16:00 ET  
+FLR    50.33 +8.28% vs yesterday's close 46.48 at 16:00 ET  MOVING
+FLS    85.83 +6.79% vs yesterday's close 80.37 at 16:00 ET  MOVING
+FLUT   81.99 +0.35% vs yesterday's close 81.70 at 16:00 ET  
+FLY    24.31 +17.10% vs yesterday's close 20.76 at 16:00 ET  MOVING
+FLYW   22.13 +2.60% vs yesterday's close 21.57 at 16:00 ET  
+FN     365.94 +11.86% vs yesterday's close 327.13 at 16:00 ET  MOVING
+FNF    45.04 +2.74% vs yesterday's close 43.84 at 16:00 ET  
+FNKO   7.12 +6.03% vs yesterday's close 6.72 at 16:00 ET  MOVING
+FOSL   8.06 +3.20% vs yesterday's close 7.81 at 16:00 ET  MOVING
+FOUR   45.01 +2.39% vs yesterday's close 43.96 at 16:03 ET  
+FOXF   18.69 +5.00% vs yesterday's close 17.80 at 16:00 ET  MOVING
+FRNM   10.57 +3.83% vs yesterday's close 10.18 at 16:00 ET  MOVING
+FROG   108.18 +7.13% vs yesterday's close 100.98 at 16:00 ET  MOVING
+FRVO   11.38 +26.09% vs yesterday's close 9.03 at 16:00 ET  MOVING
+FSCO   5.24 +1.75% vs yesterday's close 5.15 at 16:00 ET  
+FSK    11.84 +1.20% vs yesterday's close 11.70 at 16:00 ET  
+FSM    10.07 +4.68% vs yesterday's close 9.62 at 16:00 ET  MOVING
+FTDR   100.73 +3.75% vs yesterday's close 97.09 at 16:00 ET  MOVING
+FTH    12.68 -42.49% vs yesterday's close 22.05 at 16:00 ET  MOVING
+FTNT   122.47 +3.05% vs yesterday's close 118.84 at 16:00 ET  MOVING
+FTV    67.10 +2.65% vs yesterday's close 65.37 at 16:00 ET  
+FUBO   8.04 +5.79% vs yesterday's close 7.60 at 16:00 ET  MOVING
+FWONK  108.01 +1.58% vs yesterday's close 106.33 at 16:00 ET  
+FWRG   13.85 +7.70% vs yesterday's close 12.86 at 16:00 ET  MOVING
+G      42.55 +0.66% vs yesterday's close 42.27 at 16:00 ET  
+GAB    5.38 +2.48% vs yesterday's close 5.25 at 16:00 ET  
+GBCI   49.08 +1.91% vs yesterday's close 48.16 at 16:00 ET  
+GDYN   13.30 +1.53% vs yesterday's close 13.10 at 16:00 ET  
+GE     335.54 +3.81% vs yesterday's close 323.24 at 16:00 ET  MOVING
+GEN    29.80 +0.03% vs yesterday's close 29.79 at 16:00 ET  
+GEO    30.14 +8.42% vs yesterday's close 27.80 at 16:00 ET  MOVING
+GFI    41.04 +4.77% vs yesterday's close 39.17 at 16:00 ET  MOVING
+GFR    7.73 +38.04% vs yesterday's close 5.60 at 16:00 ET  MOVING
+GILD   169.32 +1.46% vs yesterday's close 166.89 at 16:00 ET  
+GLPI   39.44 +1.41% vs yesterday's close 38.89 at 16:00 ET  
+GLW    115.95 +9.25% vs yesterday's close 106.13 at 16:03 ET  MOVING
+GME    25.59 +1.87% vs yesterday's close 25.12 at 16:00 ET  
+GNL    6.87 +0.29% vs yesterday's close 6.85 at 16:00 ET  
+GOOD   10.22 +0.74% vs yesterday's close 10.15 at 16:00 ET  
+GOOG   286.01 +0.73% vs yesterday's close 283.93 at 16:00 ET  
+GOOGL  288.15 +1.18% vs yesterday's close 284.78 at 16:00 ET  
+GPCR   21.41 +5.21% vs yesterday's close 20.35 at 16:00 ET  MOVING
+GPGI   15.35 +8.02% vs yesterday's close 14.21 at 16:00 ET  MOVING
+GPN    97.77 +0.38% vs yesterday's close 97.40 at 16:00 ET  
+GRFS   8.69 +3.08% vs yesterday's close 8.43 at 16:00 ET  MOVING
+GRNT   5.67 +7.18% vs yesterday's close 5.29 at 16:00 ET  MOVING
+GS     906.22 +4.67% vs yesterday's close 865.82 at 16:00 ET  MOVING
+GSAT   85.78 +1.73% vs yesterday's close 84.32 at 16:00 ET  
+GSK    51.54 +2.40% vs yesterday's close 50.33 at 16:00 ET  
+GTN    5.60 +13.82% vs yesterday's close 4.92 at 16:00 ET  MOVING
+HALO   102.92 -0.69% vs yesterday's close 103.63 at 16:00 ET  
+HAS    120.92 +1.69% vs yesterday's close 118.91 at 16:00 ET  
+HAWK   15.06 +1.83% vs yesterday's close 14.79 at 16:00 ET  
+HAYW   16.89 +4.00% vs yesterday's close 16.24 at 16:00 ET  MOVING
+HBAN   15.92 +2.91% vs yesterday's close 15.47 at 16:00 ET  
+HDB    25.81 +2.67% vs yesterday's close 25.14 at 16:00 ET  
+HE     9.07 +7.72% vs yesterday's close 8.42 at 16:00 ET  MOVING
+HGV    44.60 +1.48% vs yesterday's close 43.95 at 16:00 ET  
+HHH    85.60 +10.12% vs yesterday's close 77.73 at 16:00 ET  MOVING
+HIG    134.86 +0.65% vs yesterday's close 133.99 at 16:00 ET  
+HIMX   8.61 +1.41% vs yesterday's close 8.49 at 16:00 ET  
+HLF    15.70 +2.75% vs yesterday's close 15.28 at 16:00 ET  
+HLIO   49.48 +4.30% vs yesterday's close 47.44 at 16:00 ET  MOVING
+HMY    17.60 +2.50% vs yesterday's close 17.17 at 16:00 ET  
+HNGE   122.19 +5.55% vs yesterday's close 115.76 at 16:00 ET  MOVING
+HNST   5.17 +10.71% vs yesterday's close 4.67 at 16:00 ET  MOVING
+HON    229.00 +4.07% vs yesterday's close 220.05 at 16:00 ET  MOVING
+HONA   164.77 +7.75% vs yesterday's close 152.92 at 16:00 ET  MOVING
+HOS    5.38 +1.32% vs yesterday's close 5.31 at 16:00 ET  
+HR     19.36 +0.83% vs yesterday's close 19.20 at 16:00 ET  
+HSBC   90.22 +3.63% vs yesterday's close 87.06 at 16:00 ET  MOVING
+HSIC   88.41 +2.74% vs yesterday's close 86.05 at 16:00 ET  
+HST    25.28 +2.68% vs yesterday's close 24.62 at 16:00 ET  
+HTFL   56.66 +8.13% vs yesterday's close 52.40 at 16:00 ET  MOVING
+HWC    73.28 +2.52% vs yesterday's close 71.48 at 16:00 ET  
+HWM    216.24 +5.07% vs yesterday's close 205.81 at 16:04 ET  MOVING
+HYMC   21.27 +13.32% vs yesterday's close 18.77 at 16:00 ET  MOVING
+HYT    8.03 +1.13% vs yesterday's close 7.94 at 16:00 ET  
+IAG    19.84 +5.76% vs yesterday's close 18.76 at 16:00 ET  MOVING
+IBN    34.45 +1.65% vs yesterday's close 33.89 at 16:00 ET  
+ICLR   207.59 +1.39% vs yesterday's close 204.74 at 16:00 ET  
+IE     8.26 +8.97% vs yesterday's close 7.58 at 16:00 ET  MOVING
+IMMX   8.57 +6.33% vs yesterday's close 8.06 at 16:00 ET  MOVING
+IMVT   35.15 +15.13% vs yesterday's close 30.53 at 16:00 ET  MOVING
+IMXI   7.57 +3.13% vs yesterday's close 7.34 at 16:00 ET  MOVING
+INFQ   9.66 +8.66% vs yesterday's close 8.89 at 16:00 ET  MOVING
+ING    33.20 +4.34% vs yesterday's close 31.82 at 16:00 ET  MOVING
+INOD   36.96 -0.19% vs yesterday's close 37.03 at 16:00 ET  
+INSM   116.10 +1.48% vs yesterday's close 114.41 at 16:00 ET  
+INTC   59.37 +5.49% vs yesterday's close 56.28 at 16:00 ET  MOVING
+IONS   31.00 -21.36% vs yesterday's close 39.42 at 16:00 ET  MOVING
+IOT    42.23 +3.05% vs yesterday's close 40.98 at 16:00 ET  MOVING
+IR     86.88 +4.69% vs yesterday's close 82.99 at 16:00 ET  MOVING
+IRDM   45.08 +2.36% vs yesterday's close 44.04 at 16:00 ET  
+IRTC   88.73 -1.65% vs yesterday's close 90.22 at 16:00 ET  
+ITT    218.21 +6.16% vs yesterday's close 205.55 at 16:00 ET  MOVING
+IVZ    28.91 +6.76% vs yesterday's close 27.08 at 16:00 ET  MOVING
+JAN    32.02 +0.09% vs yesterday's close 31.99 at 16:00 ET  
+JBS    13.12 +5.13% vs yesterday's close 12.48 at 16:00 ET  MOVING
+JHX    29.94 +7.50% vs yesterday's close 27.85 at 16:00 ET  MOVING
+JMIA   5.65 +2.91% vs yesterday's close 5.49 at 16:00 ET  
+JNJ    282.11 +2.13% vs yesterday's close 276.22 at 16:00 ET  
+JOBY   6.18 +4.22% vs yesterday's close 5.93 at 16:00 ET  MOVING
+JPM    342.08 +2.27% vs yesterday's close 334.49 at 16:00 ET  
+KBR    38.65 +3.98% vs yesterday's close 37.17 at 16:00 ET  MOVING
+KDP    36.94 +0.85% vs yesterday's close 36.63 at 16:00 ET  
+KGC    22.85 +2.74% vs yesterday's close 22.24 at 16:00 ET  
+KIM    25.78 +1.02% vs yesterday's close 25.52 at 16:00 ET  
+KLRA   13.70 +5.63% vs yesterday's close 12.97 at 16:00 ET  MOVING
+KMT    24.18 +6.05% vs yesterday's close 22.80 at 16:00 ET  MOVING
+KMX    54.11 +5.11% vs yesterday's close 51.48 at 16:00 ET  MOVING
+KO     96.03 +0.38% vs yesterday's close 95.67 at 16:00 ET  
+KOD    107.10 +7.85% vs yesterday's close 99.30 at 16:00 ET  MOVING
+KRMN   45.90 +0.64% vs yesterday's close 45.61 at 16:00 ET  
+KSS    24.92 +8.16% vs yesterday's close 23.04 at 16:03 ET  MOVING
+KT     19.17 +1.21% vs yesterday's close 18.94 at 16:00 ET  
+KTB    81.98 +6.38% vs yesterday's close 77.06 at 16:00 ET  MOVING
+KURA   7.57 +4.13% vs yesterday's close 7.27 at 16:00 ET  MOVING
+KVYO   20.82 +0.53% vs yesterday's close 20.71 at 16:00 ET  
+KYMR   138.86 +5.41% vs yesterday's close 131.73 at 16:00 ET  MOVING
+LAND   6.98 -0.57% vs yesterday's close 7.02 at 16:00 ET  
+LASR   43.21 +13.65% vs yesterday's close 38.02 at 16:00 ET  MOVING
+LBRT   12.93 +8.11% vs yesterday's close 11.96 at 16:00 ET  MOVING
+LBTYA  9.99 +0.91% vs yesterday's close 9.90 at 16:00 ET  
+LBTYK  9.73 +0.10% vs yesterday's close 9.72 at 16:00 ET  
+LEGN   24.29 +3.80% vs yesterday's close 23.40 at 16:00 ET  MOVING
+LEU    117.34 +12.18% vs yesterday's close 104.60 at 16:00 ET  MOVING
+LEVI   24.10 +5.38% vs yesterday's close 22.87 at 16:00 ET  MOVING
+LFST   14.60 +6.03% vs yesterday's close 13.77 at 16:00 ET  MOVING
+LGN    32.16 +15.23% vs yesterday's close 27.91 at 16:00 ET  MOVING
+LILAK  9.34 +4.36% vs yesterday's close 8.95 at 16:00 ET  MOVING
+LINC   22.00 +24.58% vs yesterday's close 17.66 at 16:00 ET  MOVING
+LINE   39.66 +1.35% vs yesterday's close 39.13 at 16:00 ET  
+LITE   596.16 +10.69% vs yesterday's close 538.59 at 16:00 ET  MOVING
+LKQ    20.41 +1.80% vs yesterday's close 20.05 at 16:00 ET  
+LLY    1,411.95 +4.28% vs yesterday's close 1,354.00 at 16:03 ET  MOVING
+LMT    588.19 +3.72% vs yesterday's close 567.08 at 16:00 ET  MOVING
+LNC    42.98 +7.32% vs yesterday's close 40.05 at 16:00 ET  MOVING
+LOAR   78.57 +4.34% vs yesterday's close 75.30 at 16:00 ET  MOVING
+LOW    232.10 +3.36% vs yesterday's close 224.55 at 16:04 ET  MOVING
+LPTH   8.01 +13.46% vs yesterday's close 7.06 at 16:00 ET  MOVING
+LQDA   47.87 +7.82% vs yesterday's close 44.40 at 16:00 ET  MOVING
+LTM    50.58 +6.10% vs yesterday's close 47.67 at 16:00 ET  MOVING
+LULU   112.53 +1.57% vs yesterday's close 110.79 at 16:00 ET  
+LUNR   12.04 +15.00% vs yesterday's close 10.47 at 16:00 ET  MOVING
+LW     57.16 +3.48% vs yesterday's close 55.24 at 16:00 ET  MOVING
+M      24.95 +8.10% vs yesterday's close 23.08 at 16:00 ET  MOVING
+MAC    25.29 +1.81% vs yesterday's close 24.84 at 16:00 ET  
+MAIR   24.53 +6.47% vs yesterday's close 23.04 at 16:00 ET  MOVING
+MBC    7.10 +5.65% vs yesterday's close 6.72 at 16:00 ET  MOVING
+MCD    281.44 +1.78% vs yesterday's close 276.52 at 16:00 ET  
+MCHP   61.49 +5.39% vs yesterday's close 58.35 at 16:00 ET  MOVING
+MDLN   40.71 +2.70% vs yesterday's close 39.64 at 16:00 ET  
+MDU    19.25 +3.33% vs yesterday's close 18.63 at 16:00 ET  MOVING
+MET    101.67 +3.46% vs yesterday's close 98.27 at 16:00 ET  MOVING
+MF     14.33 +38.05% vs yesterday's close 10.38 at 16:00 ET  MOVING
+MFA    6.28 +1.13% vs yesterday's close 6.21 at 16:00 ET  
+MGM    32.91 +1.76% vs yesterday's close 32.34 at 16:00 ET  
+MGNI   29.04 +6.02% vs yesterday's close 27.39 at 16:00 ET  MOVING
+MHK    156.60 +4.04% vs yesterday's close 150.52 at 16:00 ET  MOVING
+MIAX   35.13 +1.89% vs yesterday's close 34.48 at 16:00 ET  
+MIDD   138.00 +1.10% vs yesterday's close 136.50 at 16:00 ET  
+MIR    19.48 +8.40% vs yesterday's close 17.97 at 16:00 ET  MOVING
+MKSI   211.59 +10.05% vs yesterday's close 192.27 at 16:00 ET  MOVING
+MLTX   12.62 +9.45% vs yesterday's close 11.53 at 16:00 ET  MOVING
+MLYS   15.81 +3.13% vs yesterday's close 15.33 at 16:00 ET  MOVING
+MNTN   5.19 -2.63% vs yesterday's close 5.33 at 16:00 ET  
+MOD    106.15 +9.87% vs yesterday's close 96.61 at 16:00 ET  MOVING
+MOS    22.77 +1.83% vs yesterday's close 22.36 at 16:00 ET  
+MPWR   1,388.05 +16.60% vs yesterday's close 1,190.44 at 16:00 ET  MOVING
+MRNA   269.00 +5.83% vs yesterday's close 254.19 at 16:00 ET  MOVING
+MRP    26.61 +2.66% vs yesterday's close 25.92 at 16:00 ET  
+MRVL   154.60 +9.49% vs yesterday's close 141.20 at 16:00 ET  MOVING
+MS     187.10 +3.12% vs yesterday's close 181.44 at 16:03 ET  MOVING
+MSFT   545.18 +2.75% vs yesterday's close 530.61 at 16:00 ET  
+MSI    527.97 +2.62% vs yesterday's close 514.51 at 16:00 ET  
+MT     64.22 +5.31% vs yesterday's close 60.98 at 16:00 ET  MOVING
+MTZ    189.05 +8.59% vs yesterday's close 174.10 at 16:00 ET  MOVING
+MUFG   21.70 +3.48% vs yesterday's close 20.97 at 16:00 ET  MOVING
+MWA    24.46 +2.04% vs yesterday's close 23.97 at 16:00 ET  
+MWH    27.40 +6.86% vs yesterday's close 25.64 at 16:00 ET  MOVING
+NAVN   26.08 +2.35% vs yesterday's close 25.48 at 16:00 ET  
+NBIX   168.86 +2.57% vs yesterday's close 164.63 at 16:00 ET  
+NCNO   22.94 +1.19% vs yesterday's close 22.67 at 16:00 ET  
+NDAQ   108.50 +1.29% vs yesterday's close 107.12 at 16:00 ET  
+NEA    10.59 +0.38% vs yesterday's close 10.55 at 16:00 ET  
+NEM    125.16 +3.52% vs yesterday's close 120.91 at 16:00 ET  MOVING
+NEO    17.60 +4.51% vs yesterday's close 16.84 at 16:00 ET  MOVING
+NEOG   12.08 +2.72% vs yesterday's close 11.76 at 16:00 ET  
+NG     6.88 +7.50% vs yesterday's close 6.40 at 16:00 ET  MOVING
+NHP    15.95 +4.66% vs yesterday's close 15.24 at 16:00 ET  MOVING
+NIQ    21.42 +4.90% vs yesterday's close 20.42 at 16:00 ET  MOVING
+NLY    18.95 +1.07% vs yesterday's close 18.75 at 16:00 ET  
+NNE    12.48 +12.33% vs yesterday's close 11.11 at 16:00 ET  MOVING
+NNN    41.69 +1.39% vs yesterday's close 41.12 at 16:00 ET  
+NOW    102.76 +0.77% vs yesterday's close 101.97 at 16:00 ET  
+NPKI   8.92 +3.24% vs yesterday's close 8.64 at 16:00 ET  MOVING
+NRG    97.40 +10.32% vs yesterday's close 88.29 at 16:00 ET  MOVING
+NRIX   16.14 +5.49% vs yesterday's close 15.30 at 16:00 ET  MOVING
+NTLA   12.11 +6.70% vs yesterday's close 11.35 at 16:00 ET  MOVING
+NTNX   59.49 +1.92% vs yesterday's close 58.37 at 16:00 ET  
+NTR    72.29 +1.13% vs yesterday's close 71.48 at 16:00 ET  
+NTRA   320.39 +3.13% vs yesterday's close 310.67 at 16:00 ET  MOVING
+NTSK   22.49 +5.59% vs yesterday's close 21.30 at 16:00 ET  MOVING
+NTST   19.09 +1.54% vs yesterday's close 18.80 at 16:00 ET  
+NVAX   10.89 +1.02% vs yesterday's close 10.78 at 16:00 ET  
+NVDA   178.67 -4.27% vs yesterday's close 186.64 at 16:00 ET  MOVING
+NVTS   9.58 +11.27% vs yesterday's close 8.61 at 16:00 ET  MOVING
+NWL    5.89 +7.68% vs yesterday's close 5.47 at 16:00 ET  MOVING
+NXE    8.75 +6.06% vs yesterday's close 8.25 at 16:00 ET  MOVING
+NYT    72.17 +5.57% vs yesterday's close 68.36 at 16:00 ET  MOVING
+OABI   5.30 +5.37% vs yesterday's close 5.03 at 16:00 ET  MOVING
+OBDC   11.17 +2.10% vs yesterday's close 10.94 at 16:00 ET  
+OCFC   18.26 +1.84% vs yesterday's close 17.93 at 16:00 ET  
+OCTV   21.06 +1.01% vs yesterday's close 20.85 at 16:00 ET  
+OCUL   6.85 +3.87% vs yesterday's close 6.59 at 16:00 ET  MOVING
+OII    34.85 +1.78% vs yesterday's close 34.24 at 16:00 ET  
+OKLO   26.84 +13.97% vs yesterday's close 23.55 at 16:00 ET  MOVING
+OLLI   94.81 +4.88% vs yesterday's close 90.40 at 16:00 ET  MOVING
+OLN    17.56 +1.44% vs yesterday's close 17.31 at 16:00 ET  
+OMC    88.50 +2.47% vs yesterday's close 86.37 at 16:00 ET  
+OMH    25.84 +251.09% vs yesterday's close 7.36 at 16:00 ET  MOVING
+ONB    25.36 +1.72% vs yesterday's close 24.93 at 16:00 ET  
+ONT    23.59 +7.62% vs yesterday's close 21.92 at 16:00 ET  MOVING
+ORC    5.01 +1.42% vs yesterday's close 4.94 at 16:00 ET  
+ORKA   104.56 +1.65% vs yesterday's close 102.86 at 16:00 ET  
+OSS    5.05 +17.17% vs yesterday's close 4.31 at 16:00 ET  MOVING
+OTF    9.83 +3.36% vs yesterday's close 9.51 at 16:00 ET  MOVING
+OTIS   78.77 -0.24% vs yesterday's close 78.96 at 16:00 ET  
+OUST   38.57 +10.85% vs yesterday's close 34.80 at 16:00 ET  MOVING
+OXLC   5.08 +3.25% vs yesterday's close 4.92 at 16:00 ET  MOVING
+PAAS   42.36 +2.89% vs yesterday's close 41.17 at 16:00 ET  
+PAR    21.81 +6.13% vs yesterday's close 20.55 at 16:00 ET  MOVING
+PBR    18.35 -0.97% vs yesterday's close 18.53 at 16:00 ET  
+PBR.A  16.31 -0.55% vs yesterday's close 16.40 at 16:00 ET  
+PCG    13.14 +1.31% vs yesterday's close 12.97 at 16:00 ET  
+PCOR   76.46 +1.50% vs yesterday's close 75.33 at 16:00 ET  
+PCTY   177.81 +2.69% vs yesterday's close 173.15 at 16:00 ET  
+PDI    15.11 +1.96% vs yesterday's close 14.82 at 16:00 ET  
+PDM    10.08 +1.10% vs yesterday's close 9.97 at 16:00 ET  
+PEG    75.03 +3.33% vs yesterday's close 72.61 at 16:00 ET  MOVING
+PENN   18.54 +6.37% vs yesterday's close 17.43 at 16:00 ET  MOVING
+PERI   11.40 +0.09% vs yesterday's close 11.39 at 16:00 ET  
+PFGC   111.77 +3.97% vs yesterday's close 107.50 at 16:00 ET  MOVING
+PG     168.32 +1.77% vs yesterday's close 165.40 at 16:03 ET  
+PGNY   35.95 +3.19% vs yesterday's close 34.84 at 16:00 ET  MOVING
+PK     16.46 +4.57% vs yesterday's close 15.74 at 16:00 ET  MOVING
+PL     14.37 +14.50% vs yesterday's close 12.55 at 16:00 ET  MOVING
+PLD    130.55 +2.83% vs yesterday's close 126.96 at 16:03 ET  
+PLNT   61.11 +1.33% vs yesterday's close 60.31 at 16:00 ET  
+PNFP   102.91 +2.26% vs yesterday's close 100.64 at 16:00 ET  
+PNW    105.26 +1.00% vs yesterday's close 104.22 at 16:00 ET  
+PODD   149.81 +2.25% vs yesterday's close 146.51 at 16:00 ET  
+PPG    125.31 +2.39% vs yesterday's close 122.38 at 16:00 ET  
+PPLI   43.38 +3.09% vs yesterday's close 42.08 at 16:00 ET  MOVING
+PPTA   21.16 +8.35% vs yesterday's close 19.53 at 16:00 ET  MOVING
+PRAA   12.71 -1.63% vs yesterday's close 12.92 at 16:00 ET  
+PRAX   332.97 +19.94% vs yesterday's close 277.62 at 16:00 ET  MOVING
+PRCT   22.37 +8.49% vs yesterday's close 20.62 at 16:00 ET  MOVING
+PRGO   16.95 +6.94% vs yesterday's close 15.85 at 16:00 ET  MOVING
+PRKS   43.21 +8.05% vs yesterday's close 39.99 at 16:00 ET  MOVING
+PRM    31.58 +7.05% vs yesterday's close 29.50 at 16:00 ET  MOVING
+PRMB   24.13 +7.77% vs yesterday's close 22.39 at 16:00 ET  MOVING
+PRVA   24.54 +0.49% vs yesterday's close 24.42 at 16:00 ET  
+PSA    338.15 +0.20% vs yesterday's close 337.46 at 16:00 ET  
+PSNL   15.95 +1.01% vs yesterday's close 15.79 at 16:00 ET  
+PTC    195.87 +0.41% vs yesterday's close 195.07 at 16:00 ET  
+PTON   5.95 +6.06% vs yesterday's close 5.61 at 16:00 ET  MOVING
+PTRN   19.43 +6.35% vs yesterday's close 18.27 at 16:00 ET  MOVING
+PTY    11.28 +0.36% vs yesterday's close 11.24 at 16:00 ET  
+PZZA   20.75 +5.17% vs yesterday's close 19.73 at 16:00 ET  MOVING
+Q      125.09 +6.91% vs yesterday's close 117.00 at 16:03 ET  MOVING
+QBTS   11.47 +7.40% vs yesterday's close 10.68 at 16:00 ET  MOVING
+QUBT   6.86 +8.37% vs yesterday's close 6.33 at 16:00 ET  MOVING
+QXO    13.78 +19.20% vs yesterday's close 11.56 at 16:00 ET  MOVING
+RAL    69.98 +3.40% vs yesterday's close 67.68 at 16:00 ET  MOVING
+RARE   16.41 +6.35% vs yesterday's close 15.43 at 16:00 ET  MOVING
+RBA    95.77 +2.41% vs yesterday's close 93.52 at 16:00 ET  
+RBLX   51.60 +4.67% vs yesterday's close 49.30 at 16:04 ET  MOVING
+RCL    336.98 +3.00% vs yesterday's close 327.16 at 16:01 ET  MOVING
+RDDT   100.79 +5.98% vs yesterday's close 95.10 at 16:03 ET  MOVING
+RDY    15.05 +0.94% vs yesterday's close 14.91 at 16:00 ET  
+REAL   14.65 +13.83% vs yesterday's close 12.87 at 16:00 ET  MOVING
+REPL   22.26 +2.96% vs yesterday's close 21.62 at 16:00 ET  
+RGEN   178.94 +3.14% vs yesterday's close 173.49 at 16:00 ET  MOVING
+RGLD   282.66 +6.34% vs yesterday's close 265.81 at 16:00 ET  MOVING
+RGNX   8.07 +5.91% vs yesterday's close 7.62 at 16:00 ET  MOVING
+RIO    86.39 +3.18% vs yesterday's close 83.73 at 16:00 ET  MOVING
+RIOT   17.66 +5.69% vs yesterday's close 16.71 at 16:00 ET  MOVING
+RITM   9.44 +2.28% vs yesterday's close 9.23 at 16:00 ET  
+RKLB   58.86 +10.91% vs yesterday's close 53.07 at 16:00 ET  MOVING
+RKT    15.19 +0.86% vs yesterday's close 15.06 at 16:00 ET  
+RLAY   20.39 +9.62% vs yesterday's close 18.60 at 16:00 ET  MOVING
+RLJ    12.87 +2.63% vs yesterday's close 12.54 at 16:00 ET  
+RNW    6.94 +0.14% vs yesterday's close 6.93 at 16:00 ET  
+ROIV   40.67 +4.60% vs yesterday's close 38.88 at 16:00 ET  MOVING
+ROK    389.36 +3.59% vs yesterday's close 375.86 at 16:02 ET  MOVING
+ROL    38.74 +2.08% vs yesterday's close 37.95 at 16:00 ET  
+ROP    471.64 -1.04% vs yesterday's close 476.60 at 16:00 ET  
+ROST   237.00 +2.56% vs yesterday's close 231.09 at 16:00 ET  
+RPC    9.96 +2.68% vs yesterday's close 9.70 at 16:00 ET  
+RPD    14.97 +1.98% vs yesterday's close 14.68 at 16:00 ET  
+RPRX   68.77 +2.18% vs yesterday's close 67.30 at 16:00 ET  
+RRX    180.78 +6.93% vs yesterday's close 169.07 at 16:00 ET  MOVING
+RSI    12.11 -1.38% vs yesterday's close 12.28 at 16:00 ET  
+RTO    23.87 +1.10% vs yesterday's close 23.61 at 16:00 ET  
+RTX    196.31 +3.58% vs yesterday's close 189.53 at 16:00 ET  MOVING
+RVLV   20.18 +8.90% vs yesterday's close 18.53 at 16:00 ET  MOVING
+RVMD   200.15 +4.09% vs yesterday's close 192.28 at 16:00 ET  MOVING
+RVTY   160.72 +3.62% vs yesterday's close 155.11 at 16:00 ET  MOVING
+RYAAY  61.75 +4.13% vs yesterday's close 59.30 at 16:00 ET  MOVING
+RYAM   5.69 -3.56% vs yesterday's close 5.90 at 16:00 ET  MOVING
+RYTM   113.94 +1.48% vs yesterday's close 112.28 at 16:00 ET  
+S      23.52 +8.04% vs yesterday's close 21.77 at 16:00 ET  MOVING
+SAIL   20.36 +5.99% vs yesterday's close 19.21 at 16:00 ET  MOVING
+SANM   149.64 +11.11% vs yesterday's close 134.68 at 16:00 ET  MOVING
+SARO   28.97 +4.85% vs yesterday's close 27.63 at 16:00 ET  MOVING
+SBGI   14.23 +4.02% vs yesterday's close 13.68 at 16:00 ET  MOVING
+SBH    19.49 +6.44% vs yesterday's close 18.31 at 16:00 ET  MOVING
+SBRA   21.47 +2.14% vs yesterday's close 21.02 at 16:00 ET  
+SCHW   92.73 +1.36% vs yesterday's close 91.49 at 16:00 ET  
+SDGR   33.39 +11.97% vs yesterday's close 29.82 at 16:00 ET  MOVING
+SF     73.21 +2.61% vs yesterday's close 71.35 at 16:00 ET  
+SFL    10.90 -0.55% vs yesterday's close 10.96 at 16:00 ET  
+SG     13.36 +11.24% vs yesterday's close 12.01 at 16:00 ET  MOVING
+SGHT   11.01 +9.23% vs yesterday's close 10.08 at 16:00 ET  MOVING
+SGI    66.27 +3.27% vs yesterday's close 64.17 at 16:00 ET  MOVING
+SGMT   10.83 +9.95% vs yesterday's close 9.85 at 16:00 ET  MOVING
+SGRY   26.45 +14.01% vs yesterday's close 23.20 at 16:00 ET  MOVING
+SHAK   77.15 +7.32% vs yesterday's close 71.89 at 16:00 ET  MOVING
+SIBN   25.60 +5.61% vs yesterday's close 24.24 at 16:00 ET  MOVING
+SKM    32.31 +3.46% vs yesterday's close 31.23 at 16:00 ET  MOVING
+SLDB   7.02 +6.53% vs yesterday's close 6.59 at 16:00 ET  MOVING
+SLM    16.91 -0.18% vs yesterday's close 16.94 at 16:00 ET  
+SM     29.10 -2.74% vs yesterday's close 29.92 at 16:00 ET  
+SMFG   24.28 +4.16% vs yesterday's close 23.31 at 16:00 ET  MOVING
+SMMT   17.84 +9.25% vs yesterday's close 16.33 at 16:00 ET  MOVING
+SMX    9.35 +89.73% vs yesterday's close 4.93 at 16:00 ET  MOVING
+SN     229.51 +2.94% vs yesterday's close 222.95 at 16:00 ET  
+SNDK   886.51 +6.16% vs yesterday's close 835.06 at 16:00 ET  MOVING
+SNDX   9.55 +0.10% vs yesterday's close 9.54 at 16:00 ET  
+SNPS   466.97 +3.67% vs yesterday's close 450.46 at 16:00 ET  MOVING
+SNY    48.12 +2.30% vs yesterday's close 47.04 at 16:00 ET  
+SOLS   63.65 +9.74% vs yesterday's close 58.00 at 16:00 ET  MOVING
+SOLV   90.43 +0.06% vs yesterday's close 90.38 at 16:00 ET  
+SPG    233.01 +2.01% vs yesterday's close 228.42 at 16:00 ET  
+SPGI   471.09 +0.70% vs yesterday's close 467.80 at 16:00 ET  
+SPOT   609.10 +1.01% vs yesterday's close 603.01 at 16:00 ET  
+SRRK   51.55 +9.82% vs yesterday's close 46.94 at 16:00 ET  MOVING
+SRTA   6.05 +8.81% vs yesterday's close 5.56 at 16:00 ET  MOVING
+SSRM   29.66 +4.53% vs yesterday's close 28.38 at 16:00 ET  MOVING
+STE    256.94 +1.84% vs yesterday's close 252.30 at 16:00 ET  
+STEP   49.12 +3.52% vs yesterday's close 47.45 at 16:00 ET  MOVING
+STOK   27.71 +4.41% vs yesterday's close 26.54 at 16:00 ET  MOVING
+STRL   290.67 +14.97% vs yesterday's close 252.82 at 16:00 ET  MOVING
+STT    170.88 +3.21% vs yesterday's close 165.56 at 16:00 ET  MOVING
+STVN   13.73 +1.18% vs yesterday's close 13.57 at 16:00 ET  
+STX    506.14 +9.79% vs yesterday's close 460.99 at 16:00 ET  MOVING
+STZ    145.51 +2.49% vs yesterday's close 141.97 at 16:02 ET  
+SUNB   81.63 +5.94% vs yesterday's close 77.05 at 16:00 ET  MOVING
+SUPN   27.62 +5.58% vs yesterday's close 26.16 at 16:00 ET  MOVING
+SUZ    9.78 +1.24% vs yesterday's close 9.66 at 16:00 ET  
+SVC    5.15 -0.96% vs yesterday's close 5.20 at 16:00 ET  
+SVM    9.73 +9.33% vs yesterday's close 8.90 at 16:00 ET  MOVING
+SVRA   5.05 +4.55% vs yesterday's close 4.83 at 16:00 ET  MOVING
+SVV    10.61 +7.83% vs yesterday's close 9.84 at 16:00 ET  MOVING
+SWIM   8.40 +7.01% vs yesterday's close 7.85 at 16:00 ET  MOVING
+SWKS   82.83 +0.78% vs yesterday's close 82.19 at 16:00 ET  
+SYRE   109.00 +4.95% vs yesterday's close 103.86 at 16:00 ET  MOVING
+TBBB   67.58 +2.99% vs yesterday's close 65.62 at 16:00 ET  
+TDAY   6.87 +4.57% vs yesterday's close 6.57 at 16:00 ET  MOVING
+TEAM   154.90 +0.79% vs yesterday's close 153.68 at 16:00 ET  
+TECH   72.83 +0.07% vs yesterday's close 72.78 at 16:00 ET  
+TECK   64.67 +6.96% vs yesterday's close 60.46 at 16:00 ET  MOVING
+TEL    218.75 +5.67% vs yesterday's close 207.01 at 16:03 ET  MOVING
+TEM    84.44 +11.03% vs yesterday's close 76.05 at 16:00 ET  MOVING
+TER    246.00 +12.73% vs yesterday's close 218.22 at 16:00 ET  MOVING
+TEVA   42.97 +0.84% vs yesterday's close 42.61 at 16:00 ET  
+TEX    58.05 +5.95% vs yesterday's close 54.79 at 16:00 ET  MOVING
+TGT    165.90 +4.73% vs yesterday's close 158.41 at 16:03 ET  MOVING
+TGTX   63.38 +5.94% vs yesterday's close 59.83 at 16:00 ET  MOVING
+TH     11.06 -2.64% vs yesterday's close 11.36 at 16:00 ET  
+TIC    11.29 +8.87% vs yesterday's close 10.37 at 16:00 ET  MOVING
+TIGO   86.76 +4.23% vs yesterday's close 83.24 at 16:00 ET  MOVING
+TKO    199.65 +4.53% vs yesterday's close 191.00 at 16:00 ET  MOVING
+TLN    363.13 +7.23% vs yesterday's close 338.64 at 16:00 ET  MOVING
+TLS    7.17 +48.76% vs yesterday's close 4.82 at 16:00 ET  MOVING
+TMDX   93.79 +6.29% vs yesterday's close 88.24 at 16:00 ET  MOVING
+TMO    721.63 +3.87% vs yesterday's close 694.76 at 16:00 ET  MOVING
+TMUS   168.71 +4.14% vs yesterday's close 162.01 at 16:00 ET  MOVING
+TNDM   18.17 +7.45% vs yesterday's close 16.91 at 16:00 ET  MOVING
+TPC    94.70 +5.35% vs yesterday's close 89.89 at 16:00 ET  MOVING
+TPR    136.07 +2.46% vs yesterday's close 132.80 at 16:03 ET  
+TREX   58.74 +7.31% vs yesterday's close 54.74 at 16:00 ET  MOVING
+TRIN   17.98 +1.01% vs yesterday's close 17.80 at 16:00 ET  
+TRP    62.83 +1.47% vs yesterday's close 61.92 at 16:00 ET  
+TRVI   15.31 +6.84% vs yesterday's close 14.33 at 16:00 ET  MOVING
+TSCO   37.40 +2.89% vs yesterday's close 36.35 at 16:00 ET  
+TTD    14.93 +15.47% vs yesterday's close 12.93 at 16:00 ET  MOVING
+TTEK   41.09 +1.99% vs yesterday's close 40.29 at 16:00 ET  
+TVTX   51.63 +4.09% vs yesterday's close 49.60 at 16:00 ET  MOVING
+TW     128.25 +0.41% vs yesterday's close 127.73 at 16:00 ET  
+TWI    5.04 +2.23% vs yesterday's close 4.93 at 16:00 ET  
+TXN    295.73 +6.62% vs yesterday's close 277.36 at 16:00 ET  MOVING
+TXT    85.41 +2.24% vs yesterday's close 83.54 at 16:00 ET  
+UAL    120.38 +6.78% vs yesterday's close 112.74 at 16:00 ET  MOVING
+UGP    5.49 +1.29% vs yesterday's close 5.42 at 16:00 ET  
+ULCC   8.35 +12.38% vs yesterday's close 7.43 at 16:00 ET  MOVING
+UMAC   13.48 +13.28% vs yesterday's close 11.90 at 16:00 ET  MOVING
+UMC    14.89 +7.51% vs yesterday's close 13.85 at 16:00 ET  MOVING
+UNM    80.23 +4.53% vs yesterday's close 76.75 at 16:00 ET  MOVING
+UNP    297.01 +2.36% vs yesterday's close 290.16 at 16:00 ET  
+URGN   26.31 +6.30% vs yesterday's close 24.75 at 16:00 ET  MOVING
+USA    6.06 +1.68% vs yesterday's close 5.96 at 16:00 ET  
+USFD   109.94 +3.07% vs yesterday's close 106.67 at 16:02 ET  MOVING
+UTI    21.95 +10.14% vs yesterday's close 19.93 at 16:00 ET  MOVING
+UUUU   7.31 +9.76% vs yesterday's close 6.66 at 16:00 ET  MOVING
+VCEL   58.39 +6.90% vs yesterday's close 54.62 at 16:00 ET  MOVING
+VCTR   126.80 +6.34% vs yesterday's close 119.24 at 16:00 ET  MOVING
+VCYT   25.92 +7.28% vs yesterday's close 24.16 at 16:00 ET  MOVING
+VET    10.23 -2.11% vs yesterday's close 10.45 at 16:00 ET  
+VFC    20.88 +2.60% vs yesterday's close 20.35 at 16:00 ET  
+VIA    42.55 +12.80% vs yesterday's close 37.72 at 16:00 ET  MOVING
+VIR    13.64 +11.75% vs yesterday's close 12.21 at 16:00 ET  MOVING
+VIRT   56.60 +4.99% vs yesterday's close 53.91 at 16:00 ET  MOVING
+VIST   57.74 +0.56% vs yesterday's close 57.42 at 16:00 ET  
+VKTX   28.99 +8.01% vs yesterday's close 26.84 at 16:00 ET  MOVING
+VLRS   8.38 +5.67% vs yesterday's close 7.93 at 16:00 ET  MOVING
+VLTO   118.06 +0.83% vs yesterday's close 117.09 at 16:00 ET  
+VLY    14.30 +1.56% vs yesterday's close 14.08 at 16:00 ET  
+VMRK   66.14 +0.96% vs yesterday's close 65.51 at 16:00 ET  
+VNO    36.65 +2.32% vs yesterday's close 35.82 at 16:00 ET  
+VNT    43.88 +3.91% vs yesterday's close 42.23 at 16:00 ET  MOVING
+VOYG   27.90 +16.35% vs yesterday's close 23.98 at 16:00 ET  MOVING
+VRA    8.05 +14.18% vs yesterday's close 7.05 at 16:00 ET  MOVING
+VRDN   30.19 +5.97% vs yesterday's close 28.49 at 16:00 ET  MOVING
+VRTX   550.87 +0.69% vs yesterday's close 547.09 at 16:00 ET  
+VSAT   74.37 +16.29% vs yesterday's close 63.95 at 16:00 ET  MOVING
+VSNT   35.09 +4.16% vs yesterday's close 33.69 at 16:00 ET  MOVING
+VSXY   113.52 +5.06% vs yesterday's close 108.05 at 16:00 ET  MOVING
+VTR    89.49 +0.83% vs yesterday's close 88.75 at 16:03 ET  
+VTRS   20.49 +2.91% vs yesterday's close 19.91 at 16:00 ET  
+VYX    9.89 +1.44% vs yesterday's close 9.75 at 16:00 ET  
+W      116.87 +4.59% vs yesterday's close 111.74 at 16:00 ET  MOVING
+WAB    298.19 +5.15% vs yesterday's close 283.59 at 16:00 ET  MOVING
+WCN    190.02 +0.50% vs yesterday's close 189.07 at 16:00 ET  
+WDC    289.78 +9.86% vs yesterday's close 263.78 at 16:00 ET  MOVING
+WEN    8.30 +1.84% vs yesterday's close 8.15 at 16:00 ET  
+WES    41.00 +2.89% vs yesterday's close 39.85 at 16:00 ET  
+WING   176.98 +8.39% vs yesterday's close 163.28 at 16:00 ET  MOVING
+WLTH   11.15 +4.89% vs yesterday's close 10.63 at 16:00 ET  MOVING
+WOLF   26.12 +9.79% vs yesterday's close 23.79 at 16:03 ET  MOVING
+WPC    65.90 +1.31% vs yesterday's close 65.05 at 16:00 ET  
+WPM    143.94 +5.60% vs yesterday's close 136.31 at 16:00 ET  MOVING
+WRBY   30.21 +18.56% vs yesterday's close 25.48 at 16:00 ET  MOVING
+WSC    20.63 +9.38% vs yesterday's close 18.86 at 16:00 ET  MOVING
+WSE    11.31 +1.43% vs yesterday's close 11.15 at 16:00 ET  
+WTRG   45.10 -0.77% vs yesterday's close 45.45 at 16:00 ET  
+WTTR   15.07 -6.86% vs yesterday's close 16.18 at 16:00 ET  MOVING
+WULF   12.38 +8.88% vs yesterday's close 11.37 at 16:00 ET  MOVING
+WYNN   86.70 +4.32% vs yesterday's close 83.11 at 16:00 ET  MOVING
+XE     11.16 +7.00% vs yesterday's close 10.43 at 16:00 ET  MOVING
+XENE   40.45 +3.27% vs yesterday's close 39.17 at 16:00 ET  MOVING
+XERS   15.86 +4.34% vs yesterday's close 15.20 at 16:00 ET  MOVING
+XIFR   7.32 +0.00% vs yesterday's close 7.32 at 16:00 ET  
+XNCR   38.59 +7.94% vs yesterday's close 35.75 at 16:00 ET  MOVING
+XPO    188.03 +6.26% vs yesterday's close 176.95 at 16:00 ET  MOVING
+XYZ    88.56 +3.60% vs yesterday's close 85.48 at 16:04 ET  MOVING
+YPF    38.09 -1.47% vs yesterday's close 38.66 at 16:00 ET  
+YSS    7.11 +13.58% vs yesterday's close 6.26 at 16:00 ET  MOVING
+ZION   66.25 +2.30% vs yesterday's close 64.76 at 16:00 ET  
+ZLAB   26.86 +5.42% vs yesterday's close 25.48 at 16:00 ET  MOVING
+ZTS    82.32 +3.68% vs yesterday's close 79.40 at 16:00 ET  MOVING
+ZVRA   12.14 +4.75% vs yesterday's close 11.59 at 16:00 ET  MOVING
+
+  2026-11-10 08:58 ET  GOOG,GOOGL  Yahoo Finance GoodRx stock rises on Google Cloud healthcare AI partnership
+      https://finance.yahoo.com/healthcare/articles/goodrx-stock-rises-google-cloud-135839792.html?.tsrc=rss
+  2026-11-10 08:52 ET  APP,APPS,TTD Yahoo Finance Digital Turbine Plunges 23% Despite Revenue Beat as Margins Shrink and Profit Outlook Stays Put; Unity Slides 2%, AppLovin Dips
+      tags: earnings  https://247wallst.com/investing/2026/11/10/digital-turbine-plunges-23-despite-revenue-beat-as-margins-shrink-and-profit-outlook-stays-put-unity-slides-2-applovin-dips/?.tsrc=rss
+  2026-11-10 08:51 ET  PLD         Yahoo Finance Form 8.3 Prologis, Inc
+      https://finance.yahoo.com/markets/stocks/articles/form-8-3-prologis-inc-135100530.html?.tsrc=rss
+  2026-11-10 08:49 ET  NVDA        Yahoo Finance S&P 500 market positioning risks ahead of CPI and NVIDIA earnings
+      tags: earnings, macro  https://finance.yahoo.com/markets/stocks/articles/p-500-market-positioning-risks-134950222.html?.tsrc=rss
+  2026-11-10 08:48 ET  TXN         Yahoo Finance What Did Texas Instruments Say Before Its Stock Took Off?
+      https://www.trefis.com/stock/txn/articles/623991/what-did-texas-instruments-say-before-its-stock-took-off/2026-11-10?.tsrc=rss
+  2026-11-10 08:47 ET  WPC         Yahoo Finance 5 High Yield REITs That Pay You Tax Free Inside a Roth
+      https://247wallst.com/investing/2026/11/10/5-high-yield-reits-that-pay-you-tax-free-inside-a-roth/?.tsrc=rss
+  2026-11-10 08:47 ET  RPRX,SNY    Yahoo Finance 3 Biotech Stocks That Actually Pay Dividends and Keep Raising Them
+      https://247wallst.com/investing/2026/11/10/3-biotech-stocks-that-actually-pay-dividends-and-keep-raising-them/?.tsrc=rss
+  2026-11-10 08:45 ET  INTC        Yahoo Finance Intel Can Catch Taiwan Semiconductor on Physics, Not Economics
+      https://247wallst.com/investing/2026/11/10/intel-can-catch-taiwan-semiconductor-on-physics-not-economics/?.tsrc=rss
+  2026-11-10 08:45 ET  IRDM,LUNR,RKLB Yahoo Finance Rocket Lab Imploded, Falling 45% in 6 Months: Here’s Why One Analyst Predicts 160% Returns From Today
+      https://247wallst.com/investing/2026/11/10/rocket-lab-imploded-falling-45-in-6-months-heres-why-one-analyst-predicts-160-returns-from-today/?.tsrc=rss
+  2026-11-10 08:45 ET  AMZN,GOOG,GOOGL Yahoo Finance Amazon’s AWS Strength Outpowers Its Tailwainds So I Accumulate
+      https://247wallst.com/investing/2026/11/10/amazons-aws-strength-outpowers-its-tailwainds-so-i-accumulate/?.tsrc=rss
+  2026-11-10 08:44 ET  AAPL,WDC    Yahoo Finance Qualcomm vs. Western Digital: Which Tech Stock Is a Better Buy for 2027?
+      https://www.fool.com/coverage/better-buy/2026/11/10/qualcomm-vs-western-digital-which-tech-stock-is-a-better-buy-for-2027/?.tsrc=rss
+  2026-11-10 08:43 ET  PRAA        Yahoo Finance PRA Group: 3 Key Takeaways for Long-Term Investors
+      https://www.fool.com/earnings/takeaways/2026/11/10/pra-group-3-key-takeaways-for-long-term-investors/?.tsrc=rss
+  2026-11-10 08:41 ET  PENN        Yahoo Finance PENN Q3 2026 deep dive: retail and interactive growth offset margin challenges
+      https://finance.yahoo.com/markets/stocks/articles/penn-q3-2026-deep-dive-134136700.html?.tsrc=rss
+  2026-11-10 08:40 ET  TTD         Yahoo Finance Trade Desk Q3 Results Beat Expectations, But Analyst Flags Revenue Composition Concerns
+      tags: earnings, analyst  https://stocktwits.com/news-articles/markets/equity/trade-desk-q3-results-beat-expectations-but-analyst-flags-revenue-composition-concerns/cNGuSsQR9Jb?.tsrc=rss
+  2026-11-10 08:37 ET  NVDA        Yahoo Finance HIVE Digital Technologies sees contracted GPU cloud revenue reaches about $185M as quarterly sales rise
+      https://www.proactiveinvestors.com/companies/news/1101511/hive-digital-technologies-sees-contracted-gpu-cloud-revenue-reaches-about-185m-as-quarterly-sales-rise-1101511.html?.tsrc=rss
+  2026-11-10 08:36 ET  NG          Yahoo Finance Morgan Stanley Picks this UK Grid Operator as Top Utility for Europe in 2027
+      https://finance.yahoo.com/energy/articles/morgan-stanley-picks-uk-grid-133655839.html?.tsrc=rss
+  2026-11-10 08:36 ET  NVDA        Yahoo Finance Investor Cathie Wood Buys The Dip In Nvidia Stock
+      https://www.cryptoprowl.com/releases/investor-cathie-wood-buys-the-dip-in-nvidia-stock-7794?.tsrc=rss
+  2026-11-10 08:35 ET  COMP,DDOG   Yahoo Finance Cloudflare Is Up 11% in a Week. Is Its “Even Higher Gear” Really That Good?
+      tags: earnings  https://www.tikr.com/blog/cloudflare-is-up-11-in-a-week-is-its-even-higher-gear-really-that-good?ref=yahoofinance&tlnk=yf-261110-cwvr6m3c&.tsrc=rss
+  2026-11-10 08:35 ET  AMZN,NVDA   Yahoo Finance Andy Jassy Just Delivered Great News for Amazon Stock Investors
+      https://www.fool.com/investing/2026/11/10/andy-jassy-just-delivered-great-news-for-amazon-st/?.tsrc=rss
+  2026-11-10 08:33 ET  PLNT        Yahoo Finance PLNT Q3 2026 deep dive: pricing tests, marketing shifts, and international expansion shape outlook
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/plnt-q3-2026-deep-dive-133336480.html?.tsrc=rss
+  2026-11-10 08:33 ET  NVDA,TXN    Yahoo Finance Qualcomm Price Prediction: Automotive Boom Could Spark a Surprise Rebound
+      tags: earnings  https://247wallst.com/investing/2026/11/10/qualcomm-price-prediction-automotive-boom-could-spark-a-surprise-rebound/?.tsrc=rss
+  2026-11-10 08:32 ET  RKLB        Yahoo Finance Rocket Lab Retreats On Mixed Q3 Report, Analysts Say Neutron Timing Is Key
+      tags: earnings, analyst  https://finance.yahoo.com/m/65594b35-71af-3a07-97af-789de95f007e/rocket-lab-retreats-on-mixed.html?.tsrc=rss
+  2026-11-10 08:32 ET  AMZN,MSFT,NVDA Yahoo Finance 28th China Hi-Tech Fair to Open November 26, Bringing Together Global Technology Leaders
+      https://finance.yahoo.com/technology/articles/28th-china-hi-tech-fair-133200451.html?.tsrc=rss
+  2026-11-10 08:31 ET  KO,PG       Yahoo Finance Meet Wall Street’s Safest Dividend Stocks: 3 Companies That Have Paid Through Recessions, Wars and Market Crashes
+      tags: capital  https://247wallst.com/investing/2026/11/10/meet-wall-streets-safest-dividend-stocks-3-companies-that-have-paid-through-recessions-wars-and-market-crashes/?.tsrc=rss
+  2026-11-10 08:31 ET  LITE,MRVL,NVDA Yahoo Finance “The Next Trillion Dollar Company”: Marvell Is Up 82% in 2026. Take Profits, or Buy More?
+      https://www.tikr.com/blog/the-next-trillion-dollar-company-marvell-is-up-82-in-2026-take-profits-or-buy-more?ref=yahoofinance&tlnk=yf-261110-5j6q8r54&.tsrc=rss
+  2026-11-10 08:30 ET  AMZN,GOOG,GOOGL Yahoo Finance NEWU expands internationally with the launch of NEWU Americas Inc. in New York
+      https://finance.yahoo.com/technology/ai/articles/newu-expands-internationally-launch-newu-133000047.html?.tsrc=rss
+  2026-11-10 08:30 ET  BKSY        Yahoo Finance BlackSky Wins Seven-Figure Contract With New Major International Ministry of Defense to Deliver Assured Real-Time Intelligence
+      https://finance.yahoo.com/technology/ai/articles/blacksky-wins-seven-figure-contract-133000620.html?.tsrc=rss
+  2026-11-10 08:30 ET  DRS         Yahoo Finance Leonardo DRS Awarded NAVAIR Contract to Produce DAIRCM Aircraft Survivability System
+      https://finance.yahoo.com/technology/articles/leonardo-drs-awarded-navair-contract-133000270.html?.tsrc=rss
+  2026-11-10 08:30 ET  FISV        Yahoo Finance Clover Helps Small Businesses Get Discovered and Sell Anywhere in the Age of AI Shopping
+      https://finance.yahoo.com/small-business/articles/clover-helps-small-businesses-discovered-133000912.html?.tsrc=rss
+  2026-11-10 08:30 ET  FLY         Yahoo Finance Firefly Aerospace Signs Multi-Launch Agreement with Synspective for up to 10 Alpha Missions Through 2030
+      https://finance.yahoo.com/technology/articles/firefly-aerospace-signs-multi-launch-133000770.html?.tsrc=rss
+  2026-11-10 08:30 ET  GOOG,GOOGL  Yahoo Finance RESAAS Announces Integration with Google Cloud, Connecting Proprietary Real Estate Data to Google's Gemini AI
+      https://finance.yahoo.com/technology/ai/articles/resaas-announces-integration-google-cloud-133000184.html?.tsrc=rss
+  2026-11-10 08:30 ET  JPM         Yahoo Finance CBRE Group, Inc. to Present at the J.P. Morgan 2026 Ultimate Services Investor Conference
+      https://finance.yahoo.com/real-estate/articles/cbre-group-inc-present-j-133000596.html?.tsrc=rss
+  2026-11-10 08:30 ET  MSFT        Yahoo Finance reAlpha Names Russell Sinclair Head of Product, Reuniting Prevu’s Platform Architect with the Company’s Product Organization
+      https://finance.yahoo.com/real-estate/articles/realpha-names-russell-sinclair-head-133000004.html?.tsrc=rss
+  2026-11-10 08:30 ET  NVDA        Yahoo Finance Rackspace and Together AI Announce Strategic Agreement to Support Enterprise AI Inference
+      https://finance.yahoo.com/technology/ai/articles/rackspace-together-ai-announce-strategic-133000918.html?.tsrc=rss
+  2026-11-10 08:30 ET  NVDA        Yahoo Finance Commvault to Help Enterprises Put More Data to Work Safely for AI with NVIDIA
+      https://finance.yahoo.com/technology/ai/articles/commvault-help-enterprises-put-more-133000893.html?.tsrc=rss
+  2026-11-10 08:30 ET  SBGI        Yahoo Finance Sinclair, Inc. To Appear at Upcoming Investor Conferences
+      https://finance.yahoo.com/media-advertising/articles/sinclair-inc-appear-upcoming-investor-133000505.html?.tsrc=rss
+  2026-11-10 08:30 ET  SUPN        Yahoo Finance Supernus, Inc. to Participate in the 2026 Jefferies Global Healthcare Conference in London
+      tags: people  https://finance.yahoo.com/healthcare/articles/supernus-inc-participate-2026-jefferies-133000480.html?.tsrc=rss
+  2026-11-10 08:30 ET  TECK        Yahoo Finance Galantas Gold Appoints Senior Vice President of Operations
+      tags: people  https://finance.yahoo.com/markets/commodities/articles/galantas-gold-appoints-senior-vice-133000726.html?.tsrc=rss
+  2026-11-10 08:29 ET  CEG,OKLO    Yahoo Finance Oklo Soars 14% in a Week on a Narrower Loss and a Deal for 27 Reactors’ Worth of Forgings
+      tags: deal  https://www.tikr.com/blog/oklo-soars-14-in-a-week-on-a-narrower-loss-and-a-deal-for-27-reactors-worth-of-forgings?ref=yahoofinance&tlnk=yf-261110-mcf497h7&.tsrc=rss
+  2026-11-10 08:29 ET  NVDA        Yahoo Finance If I Had $1,000 to Invest Today, I'd Buy This Trillion-Dollar Stock Instead of SpaceX
+      https://www.fool.com/investing/2026/11/10/if-i-1000-invest-buy-trillion-dollar-stock-spacex/?.tsrc=rss
+  2026-11-10 08:28 ET  QBTS        Yahoo Finance D-Wave Soars 14% in a Week, Rigetti Up 22%, IonQ Up 25% on IonQ’s Raised Guidance
+      tags: earnings  https://www.tikr.com/blog/d-wave-soars-14-in-a-week-rigetti-up-22-ionq-up-25-on-ionqs-raised-guidance?ref=yahoofinance&tlnk=yf-261110-xpmj7grw&.tsrc=rss
+  2026-11-10 08:27 ET  NVDA        Yahoo Finance This Short Seller Flagged Jensen Huang’s Ties to Alice Huang 6 Months Before Nvidia’s Scandal
+      tags: legal  https://247wallst.com/investing/2026/11/10/this-short-seller-flagged-jensen-huangs-ties-to-alice-huang-6-months-before-nvidias-scandal/?.tsrc=rss
+  2026-11-10 08:27 ET  FLY,RKLB    Yahoo Finance Rocket Lab Just Gained 13% in a Week: Take Profits, or Buy More?
+      https://www.tikr.com/blog/rocket-lab-just-gained-13-in-a-week-take-profits-or-buy-more?ref=yahoofinance&tlnk=yf-261110-rcpx3wgx&.tsrc=rss
+  2026-11-10 08:26 ET  GOOG,GOOGL,MSFT,NVDA Yahoo Finance Update: Anthropic Targeting to Raise Up to $64.40 Billion From IPO
+      https://finance.yahoo.com/markets/stocks/articles/anthropic-targeting-raise-64-40-132633453.html?.tsrc=rss
+  2026-11-10 08:20 ET  NVDA        Yahoo Finance 3 Things You Need to Know Before Buying SpaceX
+      tags: capital  https://www.fool.com/investing/2026/11/10/3-things-you-need-to-know-before-buying-spacex/?.tsrc=rss
+  2026-11-10 08:19 ET  BIP,BIPC    Yahoo Finance Brookfield Infrastructure: 3 Key Takeaways for Long-Term Investors
+      https://www.fool.com/earnings/takeaways/2026/11/10/brookfield-infrastructure-3-key-takeaways-for-long-term-investors/?.tsrc=rss
+  2026-11-10 08:18 ET  GOOG,GOOGL  Yahoo Finance APME FX: AI, Oil and Chips Lead Its Investment Research
+      https://finance.yahoo.com/technology/ai/articles/apme-fx-ai-oil-chips-131800240.html?.tsrc=rss
+  2026-11-10 08:17 ET  RIOT,WULF   Yahoo Finance RIOT Stock Gains After Jefferies Upgrade, JP Morgan Price Target Hike: Analysts See Favorable Economics In Corsicana Data Center Deal
+      tags: analyst, deal  https://stocktwits.com/news-articles/markets/equity/riot-stock-gains-jefferies-upgrade-jp-morgan-price-target-hike/cNGuS4mR976?.tsrc=rss
+  2026-11-10 08:15 ET  AMZN,NVDA   Yahoo Finance Could Jensen Huang's Affair Be the Most Expensive in Human History?
+      tags: people  https://www.benzinga.com/markets/prediction-markets/26/11/63086371/jensen-huang-affair?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss
+  2026-11-10 08:15 ET  GSAT        Yahoo Finance MDA SPACE AND GLOBALSTAR COMPLETE INITIAL ON-ORBIT FUNCTIONAL TESTS FOR GLOBALSTAR 2-R MISSION
+      https://finance.yahoo.com/technology/articles/mda-space-globalstar-complete-initial-131500714.html?.tsrc=rss
+  2026-11-10 08:15 ET  KO,NVDA     Yahoo Finance Coca-Cola's Dividend Has Grown 64 Years in a Row. I'd Buy It in November and Never Sell.
+      tags: capital  https://www.fool.com/investing/2026/11/10/coca-colas-dividend-has-grown-64-years-in-a-row-id/?.tsrc=rss
+  2026-11-10 08:15 ET  NVDA,STEP   Yahoo Finance Mercor Raises $750 Million Series D at $20 Billion Valuation to Help Enterprises Own Their Intelligence
+      https://finance.yahoo.com/technology/ai/articles/mercor-raises-750-million-series-131500640.html?.tsrc=rss
+  2026-11-10 08:13 ET  AAPL,MSFT,NVDA Yahoo Finance Apple Is Above $5 Trillion After Its First-Ever Close Above $350
+      tags: analyst, regulatory  https://247wallst.com/investing/2026/11/10/apple-is-above-5-trillion-after-its-first-ever-close-above-350/?.tsrc=rss
+  2026-11-10 08:13 ET  BBVA        Yahoo Finance BBVA deploys Riskfuel's neural pricing for structured product design
+      https://finance.yahoo.com/news/bbva-deploys-riskfuels-neural-pricing-131300966.html?.tsrc=rss
+  2026-11-10 08:12 ET  GOOG,GOOGL  Yahoo Finance Anthropic Retracts Its $70-to-$80 IPO Price Range Hours After It Leaked
+      https://247wallst.com/investing/2026/11/10/anthropic-retracts-its-70-to-80-ipo-price-range-hours-after-it-leaked/?.tsrc=rss
+  2026-11-10 08:12 ET  GOOG,GOOGL  Yahoo Finance Gix Internet: Quantum X Labs Expands AI-Powered Quantum Error Correction Program to Three IBM Quantum Processors
+      https://finance.yahoo.com/technology/ai/articles/gix-internet-quantum-x-labs-131200495.html?.tsrc=rss
+  2026-11-10 08:11 ET  EMR,GE,HON,RTX,SPGI Yahoo Finance Which Dates Could Move Honeywell Stock Most?
+      https://www.trefis.com/stock/hon/articles/624114/which-dates-could-move-honeywell-stock-most/2026-11-10?.tsrc=rss
+  2026-11-10 08:11 ET  FIS,GPN     Yahoo Finance The Dates That Matter Most For Visa Stock
+      https://www.trefis.com/stock/v/articles/624113/the-dates-that-matter-most-for-visa-stock/2026-11-10?.tsrc=rss
+  2026-11-10 08:11 ET  BDX,CAH,COR,HSIC Yahoo Finance Can Cardinal Health Stock Repeat Its Last Five Years?
+      https://www.trefis.com/stock/cah/articles/624067/can-cardinal-health-stock-repeat-its-last-five-years/2026-11-10?.tsrc=rss
+  2026-11-10 08:11 ET  JNJ,LLY,SPGI Yahoo Finance Can You Still Buy Merck Stock Today?
+      https://www.trefis.com/stock/mrk/articles/624061/can-you-still-buy-merck-stock-today/2026-11-10?.tsrc=rss
+  2026-11-10 08:11 ET  AMZN,GOOG,GOOGL,MSFT,SPGI Yahoo Finance What Is Driving Palantir Stock?
+      https://www.trefis.com/stock/pltr/articles/624108/what-is-driving-palantir-stock/2026-11-10?.tsrc=rss
+  2026-11-10 08:11 ET  INTC,SPGI   Yahoo Finance What Sent Intel Stock Higher?
+      https://www.trefis.com/stock/intc/articles/624109/what-sent-intel-stock-higher/2026-11-10?.tsrc=rss
+  2026-11-10 08:11 ET  COMP,EYE,SPGI,WRBY Yahoo Finance Why Is Warby Parker Stock Going Up?
+      https://www.trefis.com/stock/wrby/articles/624066/why-is-warby-parker-stock-going-up/2026-11-10?.tsrc=rss
+  2026-11-10 08:11 ET  AMZN,BBY,COMP,NDAQ,SPGI,TGT Yahoo Finance What Moved Best Buy Stock?
+      https://www.trefis.com/stock/bby/articles/624103/what-moved-best-buy-stock/2026-11-10?.tsrc=rss
+  2026-11-10 08:11 ET  COHR,LITE,MRVL Yahoo Finance Who Is Paying For AOI's Cash Burn?
+      https://www.trefis.com/stock/aaoi/articles/624048/who-is-paying-for-aois-cash-burn/2026-11-10?.tsrc=rss
+  2026-11-10 08:11 ET  COMP,FOSL,SPGI,TPR,VFC,VRA Yahoo Finance Why Did Ralph Lauren Stock Jump?
+      https://www.trefis.com/stock/rl/articles/624102/why-did-ralph-lauren-stock-jump/2026-11-10?.tsrc=rss
+  2026-11-10 08:10 ET  COHR        Yahoo Finance US Stock Market Today: S&P 500 Futures Edge Higher On Key CPI Focus
+      tags: macro  https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-131015557.html?.tsrc=rss
+  2026-11-10 08:09 ET  IRTC        Yahoo Finance IRTC Q3 2026 deep dive: market reacts to cautious outlook after VitalConnect acquisition
+      tags: earnings, deal  https://finance.yahoo.com/healthcare/articles/irtc-q3-2026-deep-dive-130936419.html?.tsrc=rss
+  2026-11-10 08:09 ET  SANM        Yahoo Finance Sanmina (SANM) Stock Looks Discounted Following Its 271% Five Year Run
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/sanmina-sanm-stock-looks-discounted-130910920.html?.tsrc=rss
+  2026-11-10 08:08 ET  UUUU        Yahoo Finance Canadian Stock Market Today: TSX Futures Nudge Higher On Crucial US Inflation Test
+      tags: macro  https://finance.yahoo.com/markets/stocks/articles/canadian-stock-market-today-tsx-130817662.html?.tsrc=rss
+  2026-11-10 08:08 ET  SLDB        Yahoo Finance Solid Biosciences to Participate in the 2026 Jefferies Global Healthcare Conference
+      tags: people  https://finance.yahoo.com/healthcare/articles/solid-biosciences-participate-2026-jefferies-130800275.html?.tsrc=rss
+  2026-11-10 08:07 ET  TPC         Yahoo Finance AT&T (T) Stock May Be 34% Below Fair Value After Care Reshoring Plan
+      https://finance.yahoo.com/markets/stocks/articles/t-t-stock-may-34-130743874.html?.tsrc=rss
+  2026-11-10 08:05 ET  MKSI        Yahoo Finance Can KLA Stock Rally 50% After This Dip?
+      https://www.trefis.com/stock/klac/articles/623936/can-kla-stock-rally-50-after-this-dip/2026-11-10?.tsrc=rss
+  2026-11-10 08:05 ET  AAPL,AMZN,GOOG,GOOGL,MSFT,SPGI Yahoo Finance Can Alphabet Stock Rise 30% From Here?
+      https://www.trefis.com/stock/googl/articles/623929/can-alphabet-stock-rise-30-from-here/2026-11-10?.tsrc=rss
+  2026-11-10 08:05 ET  FLUT,SPGI   Yahoo Finance CME vs. S&P Global: Which Financial Stock Is a Better Buy for 2027?
+      https://www.fool.com/coverage/better-buy/2026/11/10/cme-vs-sp-global-which-financial-stock-is-a-better-buy-for-2027/?.tsrc=rss
+  2026-11-10 08:05 ET  LMT         Yahoo Finance Merlin Awarded $8.9 Million Task Order To Advance USSOCOM C-130J Autonomy Program from Design Into Integration
+      https://finance.yahoo.com/technology/articles/merlin-awarded-8-9-million-130500494.html?.tsrc=rss
+  2026-11-10 08:04 ET  RKLB        Yahoo Finance Premarket movers: Sanmina, AAON surge; Hims & Hers, Rocket Lab fall
+      tags: capital, macro  https://finance.yahoo.com/markets/stocks/articles/premarket-movers-sanmina-aaon-surge-130416925.html?.tsrc=rss
+  2026-11-10 08:03 ET  TTD         Yahoo Finance Trade Desk: 3 Key Takeaways for Long-Term Investors
+      https://www.fool.com/earnings/takeaways/2026/11/10/trade-desk-3-key-takeaways-for-long-term-investors/?.tsrc=rss
+  2026-11-10 08:01 ET  CNH         Yahoo Finance CNH Industrial NV (CNH) Q3 2026 Earnings Call Highlights: Construction JV With Kobelco, Margin ...
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/cnh-industrial-nv-cnh-q3-130155205.html?.tsrc=rss
+  2026-11-10 08:01 ET  NVAX,SNY    Yahoo Finance NVAX Q3 2026 deep dive: Sanofi milestone and cost controls shape outlook
+      tags: earnings  https://finance.yahoo.com/healthcare/articles/nvax-q3-2026-deep-dive-130136291.html?.tsrc=rss
+  2026-11-10 08:00 ET  ACHV        Yahoo Finance AchieveRx Reports Third Quarter 2026 Financial Results and Provides Business Updates
+      tags: earnings, people  https://finance.yahoo.com/healthcare/articles/achieverx-reports-third-quarter-2026-130000140.html?.tsrc=rss
+  2026-11-10 08:00 ET  AMZN,MSFT   Yahoo Finance Obsidian Security Announces Industry’s First Context-Aware Runtime Decision Engine to Enforce AI Agent Actions, Across Coding Tools, Gateways and Third-Party Applications
+      tags: regulatory  https://finance.yahoo.com/technology/ai/articles/obsidian-security-announces-industry-first-130000250.html?.tsrc=rss
+  2026-11-10 08:00 ET  AON         Yahoo Finance ClimateTech Connect Unveils 2027 Advisory Council and Opens Global Pitch Competition Entries
+      https://finance.yahoo.com/technology/articles/climatetech-connect-unveils-2027-advisory-130000313.html?.tsrc=rss
+  2026-11-10 08:00 ET  BCS         Yahoo Finance Barclays Survey Finds Americans Are Cutting Back, Not Cutting Out, the Holidays
+      https://finance.yahoo.com/economy/articles/barclays-survey-finds-americans-cutting-130000269.html?.tsrc=rss
+  2026-11-10 08:00 ET  CMI         Yahoo Finance Cummins Announces S29 Engine for Mining Applications
+      https://finance.yahoo.com/energy/articles/cummins-announces-s29-engine-mining-130000899.html?.tsrc=rss
+  2026-11-10 08:00 ET  COMP        Yahoo Finance Cartus Launches Cost Simulator, Redefining Global Mobility Cost Management
+      https://finance.yahoo.com/small-business/articles/cartus-launches-cost-simulator-redefining-130000197.html?.tsrc=rss
+  2026-11-10 08:00 ET  CRS         Yahoo Finance Carpenter Technology Corporation Announces Senior Leadership Appointments
+      tags: people  https://finance.yahoo.com/markets/stocks/articles/carpenter-technology-corporation-announces-senior-130000277.html?.tsrc=rss
+  2026-11-10 08:00 ET  FOUR        Yahoo Finance Shift4 Joins the Bilt Neighborhood to Connect Payments and Loyalty Through Bilt Neighborhood OS for Sports Teams and Merchants
+      https://finance.yahoo.com/small-business/articles/shift4-joins-bilt-neighborhood-connect-130000710.html?.tsrc=rss
+  2026-11-10 08:00 ET  JNJ         Yahoo Finance Johnson & Johnson Announces CAPLYTA (lumateperone) Shows Significant and Rapid Improvement in Bipolar Mania in Second Pivotal Phase 3 Study
+      tags: earnings  https://finance.yahoo.com/healthcare/articles/johnson-johnson-announces-caplyta-lumateperone-130000995.html?.tsrc=rss
+  2026-11-10 08:00 ET  KO          Yahoo Finance Telynet's ReDI Connects Field Sales and Digital Ordering in New York's Coca-Cola System
+      https://finance.yahoo.com/small-business/articles/telynets-redi-connects-field-sales-130000068.html?.tsrc=rss
+  2026-11-10 08:00 ET  LLY         Yahoo Finance Life doesn't slow down, and Foundayo™ (orforglipron) patient Leanne Morgan is done waiting
+      https://finance.yahoo.com/healthcare/articles/life-doesnt-slow-down-foundayo-130000001.html?.tsrc=rss
+  2026-11-10 08:00 ET  LOW         Yahoo Finance Lowe's Becomes Exclusive Home Improvement Partner of Bilt, Making Homeownership More Rewarding Through Bilt Neighborhood OS
+      https://finance.yahoo.com/real-estate/articles/lowes-becomes-exclusive-home-improvement-130000930.html?.tsrc=rss
+  2026-11-10 08:00 ET  LQDA        Yahoo Finance Liquidia Corporation to Present at 2026 Jefferies Global Healthcare Conference
+      https://finance.yahoo.com/healthcare/articles/liquidia-corporation-present-2026-jefferies-130000763.html?.tsrc=rss
+  2026-11-10 08:00 ET  MSFT        Yahoo Finance IBM and Microsoft Announce a New AI Agent Platform Designed for Industry-Specific Transformation
+      https://finance.yahoo.com/technology/ai/articles/ibm-microsoft-announce-ai-agent-130000185.html?.tsrc=rss
+  2026-11-10 08:00 ET  MSFT        Yahoo Finance Microsoft, IBM team up on AI agent platform
+      https://www.ciodive.com/news/microsoft-ibm-team-up-ai-agent-platform/874152/?.tsrc=rss
+  2026-11-10 08:00 ET  MSFT        Yahoo Finance Druva Expands AI Resilience to Recover AI Agents Across the Enterprise
+      https://finance.yahoo.com/technology/ai/articles/druva-expands-ai-resilience-recover-130000038.html?.tsrc=rss
+  2026-11-10 08:00 ET  MSFT,PTON   Yahoo Finance Bay Emerges From Stealth With $50M After Fortune 100 Companies Used Its Platform to Triple Autonomous AI Agent Use
+      https://finance.yahoo.com/technology/ai/articles/bay-emerges-stealth-50m-fortune-130000718.html?.tsrc=rss
+  2026-11-10 08:00 ET  NTLA        Yahoo Finance Intellia Therapeutics to Present at Jefferies Global Healthcare Conference in London
+      https://finance.yahoo.com/healthcare/articles/intellia-therapeutics-present-jefferies-global-130000893.html?.tsrc=rss
+  2026-11-10 08:00 ET  RKLB        Yahoo Finance Twin Satellites Built by Rocket Lab for NASA's ESCAPADE Mission Complete Successful Trans-Mars Injection Burns, Setting Course for the Red Planet
+      https://finance.yahoo.com/technology/articles/twin-satellites-built-rocket-lab-130000313.html?.tsrc=rss
+  2026-11-10 08:00 ET  RKT         Yahoo Finance October Marks the First Month in 3 Years With a Decline in U.S. Home-Sale Prices, According to Redfin
+      https://finance.yahoo.com/real-estate/articles/october-marks-first-month-3-130000260.html?.tsrc=rss
+  2026-11-10 08:00 ET  ROK         Yahoo Finance Rockwell Automation Introduces PanelView Pro to Deliver High-Performance Visualization for Modern Manufacturing
+      https://finance.yahoo.com/technology/articles/rockwell-automation-introduces-panelview-pro-130000402.html?.tsrc=rss
+  2026-11-10 08:00 ET  SCHW        Yahoo Finance Charles Schwab Employees Pack More Than One Million Meals and Support Communities Nationwide During Annual Season of Giving
+      https://finance.yahoo.com/small-business/articles/charles-schwab-employees-pack-more-130000222.html?.tsrc=rss
+  2026-11-10 08:00 ET  SMX         Yahoo Finance SMX Advances Development of its Scientific Intelligence, an AI-Powered Platform Intended to Create a Comprehensive Codex for Chemical Agents, Additives and Supplements
+      https://finance.yahoo.com/technology/ai/articles/smx-advances-development-scientific-intelligence-130000529.html?.tsrc=rss
+  2026-11-10 08:00 ET  SYRE        Yahoo Finance Spyre Therapeutics to Participate in Upcoming Investor Conferences
+      tags: regulatory  https://finance.yahoo.com/healthcare/articles/spyre-therapeutics-participate-upcoming-investor-130000091.html?.tsrc=rss
+  2026-11-10 08:00 ET  UAL         Yahoo Finance United Airlines Named Title Sponsor of "Somebody Feed Phil" & Launches Airline Ticket Giveaway Tied to Season 9 Debut
+      https://finance.yahoo.com/media-advertising/articles/united-airlines-named-title-sponsor-130000520.html?.tsrc=rss
+  2026-11-10 08:00 ET  VRTX        Yahoo Finance Vortex Energy Mobilizes Field Crews and Commences Ground Gravity Survey at Robinsons River Salt Project
+      tags: deal  https://finance.yahoo.com/energy/articles/vortex-energy-mobilizes-field-crews-130000507.html?.tsrc=rss
+  2026-11-10 08:00 ET  VSAT        Yahoo Finance Viasat Selected by U.S. Space Force, in partnership with Golden Dome for America, for the Space Data Network Backbone (SDN-B) development
+      https://finance.yahoo.com/technology/articles/viasat-selected-u-space-force-130000990.html?.tsrc=rss
+  2026-11-10 07:59 ET  COMP        Yahoo Finance Posthaste: Why an AI crash could be worse than the dot-com bubble bursting — much worse
+      https://financialpost.com/news/ai-crash-could-be-worse-than-the-dot-com-bust/?.tsrc=rss
+  2026-11-10 07:58 ET  BROS        Yahoo Finance Dutch Bros® Rolls Out the Pink Carpet for Third Annual National Passenger Princess Day
+      https://finance.yahoo.com/media-advertising/articles/dutch-bros-rolls-pink-carpet-125800655.html?.tsrc=rss
+  2026-11-10 07:55 ET  TMUS        Yahoo Finance BofA Cuts ASTS Price Target To $45 From $80 — Maintains ‘Neutral’ Rating
+      tags: analyst  https://stocktwits.com/news-articles/markets/equity/bof-a-cuts-asts-price-target-to-45-from-80-maintains-neutral-rating/cNGuKmHR97C?.tsrc=rss
+  2026-11-10 07:52 ET  BAM         Yahoo Finance GFL Environmental shares slide 14% as board rebuffs buyout bids
+      tags: deal  https://finance.yahoo.com/markets/stocks/articles/gfl-environmental-shares-slide-14-125228023.html?.tsrc=rss
+! 2026-11-10 07:51 ET  ALH         SEC EDGAR     Alliance Laundry Holdings Inc. filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1317685/000162828026072509/0001628280-26-072509-index.htm
+  2026-11-10 07:50 ET  APP,TTD     Yahoo Finance The Trade Desk Soars 19% in a Week as Its Quarter Lands “Well Ahead of Our Expectations”
+      https://www.tikr.com/blog/the-trade-desk-soars-19-in-a-week-as-its-quarter-lands-well-ahead-of-our-expectations?ref=yahoofinance&tlnk=yf-261110-j757ghvw&.tsrc=rss
+  2026-11-10 07:50 ET  COMP,PBR,PBR.A Yahoo Finance US Equity Futures Mixed Pre-Bell as Fed Governor Christopher Waller Leans Towards Rate Hike in December
+      tags: macro  https://finance.yahoo.com/economy/policy/articles/us-equity-futures-mixed-pre-125006982.html?.tsrc=rss
+  2026-11-10 07:49 ET  GOOG,GOOGL  Yahoo Finance Google Stock Is Now Cheaper Than What Berkshire Hathaway Paid. Is It Time to Buy?
+      https://www.tikr.com/blog/google-stock-is-now-cheaper-than-what-berkshire-hathaway-paid-is-it-time-to-buy?ref=yahoofinance&tlnk=yf-261110-hp3c6mq6&.tsrc=rss
+  2026-11-10 07:48 ET  BNL         Yahoo Finance Implied Volatility Surging for Broadstone Net Lease Stock Options
+      https://finance.yahoo.com/markets/options/articles/implied-volatility-surging-broadstone-net-124800425.html?.tsrc=rss
+  2026-11-10 07:47 ET  ASO,DECK,RIOT,TIGO,TREX Yahoo Finance Buy, Sell, or Hold? Tuesday’s Top Upgrades and Downgrades: Cloudflare, Deckers Outdoors, DraftKings, MongoDB, Nike, Oneok, Philip Morris International, Riot Platforms, Wix.com, and More
+      tags: analyst, macro  https://247wallst.com/investing/2026/11/10/buy-sell-or-hold-tuesdays-top-upgrades-and-downgrades-cloudflare-deckers-outdoors-draftkings-mongodb-nike-oneok-philip-morris-international-riot-platforms-wix-com-and-more/?.tsrc=rss
+  2026-11-10 07:46 ET  MRVL,NVDA   Yahoo Finance What could NVIDIA’s latest risks mean for the AI chip ecosystem?
+      https://finance.yahoo.com/technology/ai/articles/could-nvidia-latest-risks-mean-124641710.html?.tsrc=rss
+  2026-11-10 07:46 ET  CNH         Yahoo Finance Is CNH Industrials Stock Worth Buying After Q3 2026 Results?
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/cnh-industrials-stock-worth-buying-124600663.html?.tsrc=rss
+  2026-11-10 07:45 ET  USFD        Yahoo Finance USFD Q3 2026 deep dive: productivity gains, specialty expansion, and margin stability amid macro pressures
+      https://finance.yahoo.com/markets/stocks/articles/usfd-q3-2026-deep-dive-124536414.html?.tsrc=rss
+  2026-11-10 07:45 ET  XYZ         Yahoo Finance Block Hits a New High, Up 15% in a Week. Can Dorsey’s “Mini AGI” Keep It Running?
+      https://www.tikr.com/blog/block-hits-a-new-high-up-15-in-a-week-can-dorseys-mini-agi-keep-it-running?ref=yahoofinance&tlnk=yf-261110-ghqjmhh2&.tsrc=rss
+  2026-11-10 07:45 ET  AS          Yahoo Finance MasterCraft Boat Holdings, Inc. (MCFT) Q1 Earnings and Revenues Surpass Estimates
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/mastercraft-boat-holdings-inc-mcft-124501444.html?.tsrc=rss
+  2026-11-10 07:45 ET  CSCO,DELL   Yahoo Finance Should You Buy, Sell or Hold HPE Stock at a P/E Multiple of 10.08X?
+      https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-hpe-stock-124500626.html?.tsrc=rss
+  2026-11-10 07:44 ET  NEM         Yahoo Finance Summit Royalties Celebrates One-Year Anniversary of Public Listing and Highlights Accomplishments
+      tags: people  https://finance.yahoo.com/markets/stocks/articles/summit-royalties-celebrates-one-anniversary-124400101.html?.tsrc=rss
+  2026-11-10 07:43 ET  COMP,FTNT   Yahoo Finance Zscaler Sinks 11% in a Week as Security Stocks Slide. Dan Ives Sees Budgets “Potentially Double”
+      tags: earnings  https://www.tikr.com/blog/zscaler-sinks-11-in-a-week-as-security-stocks-slide-dan-ives-sees-budgets-potentially-double?ref=yahoofinance&tlnk=yf-261110-9cxf7w38&.tsrc=rss
+  2026-11-10 07:42 ET  AAPL,MSFT   Yahoo Finance Time to Buy Nvidia-Heavy ETFs as CEO Huang's Affair Turns Into a Spy Plot?
+      tags: legal, people  https://finance.yahoo.com/markets/stocks/articles/time-buy-nvidia-heavy-etfs-124200029.html?.tsrc=rss
+  2026-11-10 07:42 ET  CSCO,TLS    Yahoo Finance TLS Q3 Earnings Beat Estimates on Identity Strength, Guidance Raised
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/tls-q3-earnings-beat-estimates-124200163.html?.tsrc=rss
+  2026-11-10 07:41 ET  BXMT        Yahoo Finance Blackstone Mortgage Trust Is 46% Off Its High. Its CEO Bought $1 Million: “An Attractive Entry Point”
+      tags: people  https://www.tikr.com/blog/blackstone-mortgage-trust-is-46-off-its-high-its-ceo-bought-1-million-an-attractive-entry-point?ref=yahoofinance&tlnk=yf-261110-v5c8wc8q&.tsrc=rss
+  2026-11-10 07:41 ET  LLY,VKTX    Yahoo Finance The FDA Ordered GLP-1 Vision-Loss Warnings For Some Products. Shares of Eli Lilly and Novo Nordisk Were Unfazed.
+      tags: regulatory  https://www.ibtimes.com/fda-eye-risk-warnings-glp-1-drug-shares-rebound-3809592?.tsrc=rss
+  2026-11-10 07:40 ET  AAPL,GOOG,GOOGL,MSFT Yahoo Finance Cloud AI Today - FlowX.AI and Google Cloud Partner to Boost AI Deployments
+      https://finance.yahoo.com/technology/ai/articles/cloud-ai-today-flowx-ai-124043727.html?.tsrc=rss
+  2026-11-10 07:40 ET  AON         Yahoo Finance Can Marsh Sustain Consulting Momentum Despite an Expected Q4 Slowdown?
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/marsh-sustain-consulting-momentum-despite-124000833.html?.tsrc=rss
+  2026-11-10 07:40 ET  COMP,SNDK   Yahoo Finance Sandisk Stock Has Collapsed by 65%, but It's Still Undergoing an 8-for-1 Stock Split on Nov. 19. Here's Why I'm Still Not Buying Shares Amidst This Nasdaq Market Slump.
+      tags: capital  https://www.fool.com/investing/2026/11/10/sandisk-stock-has-collapsed-65-and-is-undergoing-a/?.tsrc=rss
+  2026-11-10 07:40 ET  CSCO        Yahoo Finance Will Semtech's SGP.32 eSIM Launch Expand Its Cellular IoT Business?
+      https://finance.yahoo.com/technology/articles/semtechs-sgp-32-esim-launch-124000837.html?.tsrc=rss
+  2026-11-10 07:40 ET  GPN         Yahoo Finance Global Payments Bets on AI and Visa to Win More Transactions
+      https://finance.yahoo.com/technology/ai/articles/global-payments-bets-ai-visa-124000569.html?.tsrc=rss
+  2026-11-10 07:39 ET  APPS        Yahoo Finance APPS Stock Eyes Worst Day In Two Years — CEO Says AI-Driven Open Web Traffic Declines Shifting Ads To Apps
+      tags: earnings, people  https://stocktwits.com/news-articles/markets/equity/apps-stock-eyes-worst-day-in-two-years-ceo-says-ai-driven-open-web-traffic-declines-shifting-ads-to-apps/cNGuK30R97z?.tsrc=rss
+  2026-11-10 07:35 ET  GOOG,GOOGL,LITE,SNDK Yahoo Finance S&P 500: Just Three Of Nov. 5's 20 Biggest Losers Have Recovered Their Losses
+      https://finance.yahoo.com/m/9a37b2c1-4285-3079-a1ca-57e262925bd6/s%26p-500%3A-just-three-of-nov..html?.tsrc=rss
+  2026-11-10 07:32 ET  MSFT        Yahoo Finance Microsoft Reportedly Pushes Back Against Trump’s Plan To Ban Chinese Optical Transceivers – Flags Challenges To Data Center Rollout
+      https://stocktwits.com/news-articles/markets/equity/microsoft-against-trumps-plan-to-ban-chinese-optical-transceivers/cNGu0CWR97y?.tsrc=rss
+  2026-11-10 07:32 ET  QBTS        Yahoo Finance D-Wave Quantum Earnings Miss As Bookings Boom
+      tags: earnings  https://finance.yahoo.com/m/4189a561-2f0f-3f4b-811a-2e7a5470ea62/d-wave-quantum-earnings-miss.html?.tsrc=rss
+  2026-11-10 07:30 ET  MPWR        Yahoo Finance Here's How Much a $1000 Investment in Monolithic Power Made 10 Years Ago Would Be Worth Today
+      https://finance.yahoo.com/markets/stocks/articles/heres-much-1000-investment-monolithic-123002307.html?.tsrc=rss
+  2026-11-10 07:30 ET  CXM         Yahoo Finance Sprinklr Announces Date of Third Quarter Financial Results
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/sprinklr-announces-date-third-quarter-123000229.html?.tsrc=rss
+  2026-11-10 07:30 ET  PAR         Yahoo Finance FSC Franchise Co. Selects PAR Technology for Loyalty, Ordering, and Catering Partner Across Its Restaurant Brands
+      https://finance.yahoo.com/small-business/articles/fsc-franchise-co-selects-par-123000876.html?.tsrc=rss
+  2026-11-10 07:30 ET  UUUU        Yahoo Finance Manhattan Uranium Compiles 336 Historical Holes at October Project, Uravan Mineral Belt; Identifies Priority Drill Targets Including 1.16% eU3O8 over 4.8 ft
+      https://finance.yahoo.com/energy/articles/manhattan-uranium-compiles-336-historical-123000081.html?.tsrc=rss
+  2026-11-10 07:30 ET  ZTS         Yahoo Finance Zoetis to Participate in the Jefferies Global Healthcare Conference in London
+      https://finance.yahoo.com/healthcare/articles/zoetis-participate-jefferies-global-healthcare-123000442.html?.tsrc=rss
+  2026-11-10 07:29 ET  LMT,RKLB    Yahoo Finance The Pentagon Offers Rocket Lab a $150 Million Loan to Speed Up Its Neutron Rocket
+      tags: earnings  https://247wallst.com/investing/2026/11/10/the-pentagon-offers-rocket-lab-a-150-million-loan-to-speed-up-its-neutron-rocket/?.tsrc=rss
+  2026-11-10 07:29 ET  SOLV        Yahoo Finance SOLV Q3 2026 deep dive: ERP transition, separation milestones, and margin focus define quarter
+      tags: earnings  https://finance.yahoo.com/healthcare/articles/solv-q3-2026-deep-dive-122936726.html?.tsrc=rss
+  2026-11-10 07:28 ET  INTC        Yahoo Finance AMD Just Guided to More Revenue Than Intel. A Decade Ago Intel Was 12x Its Size
+      tags: earnings  https://www.tikr.com/blog/amd-just-guided-to-more-revenue-than-intel-a-decade-ago-intel-was-12x-its-size?ref=yahoofinance&tlnk=yf-261110-xq8qqc84&.tsrc=rss
+  2026-11-10 07:26 ET  COMP        Yahoo Finance Nasdaq-100 Correction: 2 Proven Winners That Can Buck Historic Volatility
+      https://www.fool.com/investing/2026/11/10/nasdaq-100-correction-2-proven-winners-that-can-buck-historic-volatility/?.tsrc=rss
+  2026-11-10 07:25 ET  GPN         Yahoo Finance Global Payments adds Visa IDX API to Adaptive Authentication
+      https://www.electronicpaymentsinternational.com/news/global-payments-adds-visa-idx-api-to-adaptive-authentication/?.tsrc=rss
+  2026-11-10 07:24 ET  CSCO        Yahoo Finance Cisco Just Jumped 5% Into an Earnings Report That Has Moved the Stock 8% or More Three Times Running
+      tags: earnings  https://247wallst.com/investing/2026/11/10/cisco-just-jumped-5-into-an-earnings-report-that-has-moved-the-stock-8-or-more-three-times-running/?.tsrc=rss
+  2026-11-10 07:22 ET  GOOG,GOOGL  Yahoo Finance Sundar Pichai Just Delivered Stunning News About Google Cloud
+      https://www.fool.com/investing/2026/11/10/sundar-pichai-just-delivered-stunning-news-about-g/?.tsrc=rss
+  2026-11-10 07:22 ET  VRA         Yahoo Finance Vera Bradley (VRA) Surges 14.2%: Is This an Indication of Further Gains?
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/vera-bradley-vra-surges-14-122200013.html?.tsrc=rss
+  2026-11-10 07:21 ET  COMP        Yahoo Finance Market Rotation Splits Stock Futures Ahead of Crucial CPI Report
+      tags: macro  https://finance.yahoo.com/m/8bdd03a8-f617-3801-819f-e59016452f77/market-rotation-splits-stock.html?.tsrc=rss
+  2026-11-10 07:20 ET  AI          Yahoo Finance BigBear.ai Expands Gross Margin by 878 Bps: What Drives the Gains?
+      https://finance.yahoo.com/technology/ai/articles/bigbear-ai-expands-gross-margin-122000431.html?.tsrc=rss
+  2026-11-10 07:18 ET  SNDK        Yahoo Finance Sandisk Appears a Highly Lucrative Investment After Recent AI Meltdown
+      https://finance.yahoo.com/technology/articles/sandisk-appears-highly-lucrative-investment-121800753.html?.tsrc=rss
+  2026-11-10 07:17 ET  BXMT,NLY,RITM Yahoo Finance 4 Mortgage REITs Yield Over 10%. Are Their Dividends Safe?
+      https://247wallst.com/investing/2026/11/10/4-mortgage-reits-yield-over-10-are-their-dividends-safe/?.tsrc=rss
+  2026-11-10 07:16 ET  AAPL,MPWR   Yahoo Finance The Nasdaq-100 Just Had Its Best Day Since March Without Nvidia’s Help
+      tags: legal, people  https://247wallst.com/investing/2026/11/10/the-nasdaq-100-just-had-its-best-day-since-march-without-nvidias-help/?.tsrc=rss
+  2026-11-10 07:15 ET  AMZN,GOOG,GOOGL,MSFT Yahoo Finance Microsoft is Already Winning the Regulatory Shift Rewarding Incumbents
+      https://247wallst.com/investing/2026/11/10/microsoft-is-already-winning-the-regulatory-shift-rewarding-incumbents/?.tsrc=rss
+  2026-11-10 07:15 ET  AMZN,GOOG,GOOGL Yahoo Finance Alphabet and Amazon Custom Silicon: Full-Stack Vertical Integration Vs. Compute Cost-Arbitrage
+      https://247wallst.com/investing/2026/11/10/alphabet-and-amazon-custom-silicon-full-stack-vertical-integration-vs-compute-cost-arbitrage/?.tsrc=rss
+  2026-11-10 07:15 ET  IOT,QBTS    Yahoo Finance D-Wave Quantum Inc. (QBTS) Reports Q3 Loss, Beats Revenue Estimates
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/d-wave-quantum-inc-qbts-121502121.html?.tsrc=rss
+  2026-11-10 07:15 ET  TECH        Yahoo Finance Humacyte, Inc. (HUMA) Reports Q3 Loss, Tops Revenue Estimates
+      tags: earnings  https://finance.yahoo.com/healthcare/articles/humacyte-inc-huma-reports-q3-121501726.html?.tsrc=rss
+  2026-11-10 07:13 ET  ALH         Yahoo Finance Alliance Laundry: Q3 Earnings Snapshot
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/alliance-laundry-q3-earnings-snapshot-121307037.html?.tsrc=rss
+  2026-11-10 07:12 ET  SBH         Yahoo Finance Sally Beauty: Fiscal Q4 Earnings Snapshot
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/sally-beauty-fiscal-q4-earnings-121252871.html?.tsrc=rss
+  2026-11-10 07:11 ET  ACN         Yahoo Finance Accenture (ACN) Following WSIB Win Has An Undervalued Narrative To Defend
+      https://finance.yahoo.com/markets/stocks/articles/accenture-acn-following-wsib-win-121157753.html?.tsrc=rss
+  2026-11-10 07:11 ET  OKLO        Yahoo Finance Oklo Stock and Its Manufacturing Deal Have The Bull Case Changed?
+      tags: deal  https://finance.yahoo.com/markets/stocks/articles/oklo-stock-manufacturing-deal-bull-121155848.html?.tsrc=rss
+  2026-11-10 07:11 ET  OLN         Yahoo Finance Innospec's Q3 Earnings Beat Estimates on Chemicals Strength
+      tags: earnings, analyst  https://finance.yahoo.com/markets/stocks/articles/innospecs-q3-earnings-beat-estimates-121100933.html?.tsrc=rss
+  2026-11-10 07:10 ET  KGC         Yahoo Finance Kinross Gold (TSX:K) Stock Looks Below Fair Value Despite Recent Caution
+      tags: earnings, legal  https://finance.yahoo.com/markets/stocks/articles/kinross-gold-tsx-k-stock-121033559.html?.tsrc=rss
+! 2026-11-10 07:10 ET  SRRK        SEC EDGAR     Scholar Rock Holding Corp filed a 8-K: material agreement, earnings results, Regulation FD disclosure
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1727196/000119312526454423/0001193125-26-454423-index.htm
+  2026-11-10 07:10 ET  ALH         Yahoo Finance Alliance Laundry Holdings (ALH) Q3 Earnings and Revenues Surpass Estimates
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/alliance-laundry-holdings-alh-q3-121002635.html?.tsrc=rss
+  2026-11-10 07:10 ET  DINO        Yahoo Finance Buy 5 Growth Stocks to Enhance Your Portfolio Returns in November
+      https://finance.yahoo.com/markets/stocks/articles/buy-5-growth-stocks-enhance-121000840.html?.tsrc=rss
+  2026-11-10 07:09 ET  AAPL        Yahoo Finance Apple (AAPL) Pushes AI Timelines Higher As Siri Engineering Leadership May Change
+      tags: people  https://finance.yahoo.com/technology/ai/articles/apple-aapl-pushes-ai-timelines-120944045.html?.tsrc=rss
+  2026-11-10 07:08 ET  AEM,B,KGC,NEM Yahoo Finance Newmont Stock Up 26% YTD: Should You Buy, Sell or Hold the Stock?
+      https://finance.yahoo.com/markets/stocks/articles/newmont-stock-26-ytd-buy-120800954.html?.tsrc=rss
+  2026-11-10 07:07 ET  APH,GLW     Yahoo Finance GLW Stock Rises 32.5% in a Year: Is There Still Room to Grow?
+      https://finance.yahoo.com/markets/stocks/articles/glw-stock-rises-32-5-120700282.html?.tsrc=rss
+  2026-11-10 07:07 ET  GLW,SANM    Yahoo Finance SANM Q4 Earnings Beat Estimates on AI Growth, Strong Execution
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/sanm-q4-earnings-beat-estimates-120700252.html?.tsrc=rss
+  2026-11-10 07:05 ET  PZZA        Yahoo Finance PZZA Q3 2026 deep dive: management launches 'Unbox Better' amid continued sales pressure
+      https://finance.yahoo.com/markets/stocks/articles/pzza-q3-2026-deep-dive-120536138.html?.tsrc=rss
+  2026-11-10 07:05 ET  GOOG,GOOGL,MSFT Yahoo Finance Google, Nvidia, AMD And Others To Invest $26B In Anthropic Alongside IPO
+      https://stocktwits.com/news-articles/markets/equity/google-nvidia-amd-to-invest-26-b-in-anthropic-alongside-ipo/cNGu0BtR97U?.tsrc=rss
+  2026-11-10 07:05 ET  LMT         Yahoo Finance Why Lockheed Martin Rallied in October
+      tags: earnings  https://www.fool.com/investing/2026/11/10/why-lockheed-martin-rallied-in-october/?.tsrc=rss
+  2026-11-10 07:05 ET  SRRK        Yahoo Finance Scholar Rock Holding Corporation (SRRK) Reports Q3 Loss, Beats Revenue Estimates
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/scholar-rock-holding-corporation-srrk-120502475.html?.tsrc=rss
+  2026-11-10 07:05 ET  IONS        Yahoo Finance Ionis to present at upcoming investor conferences
+      https://finance.yahoo.com/healthcare/articles/ionis-present-upcoming-investor-conferences-120500538.html?.tsrc=rss
+  2026-11-10 07:04 ET  MSFT        Yahoo Finance Microsoft pushes Trump to halt Chinese data center component ban: Reuters
+      tags: halt  https://finance.yahoo.com/technology/ai/articles/microsoft-pushes-trump-halt-chinese-120408623.html?.tsrc=rss
+! 2026-11-10 07:01 ET  QBTS        SEC EDGAR     D-Wave Quantum Inc. filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1907982/000190798226000180/0001907982-26-000180-index.htm
+! 2026-11-10 07:00 ET  LQDA        SEC EDGAR     Liquidia Corp filed a 8-K: earnings results, other events
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1819576/000110465926124770/0001104659-26-124770-index.htm
+  2026-11-10 07:00 ET  MCD         Yahoo Finance McDonald's Expands Uber Partnership in 14 Markets
+      https://finance.yahoo.com/media-advertising/articles/mcdonalds-expands-uber-partnership-14-120006950.html?.tsrc=rss
+  2026-11-10 07:00 ET  ALH         Yahoo Finance Alliance Laundry Reports Third Quarter 2026 Results
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/alliance-laundry-reports-third-quarter-120000970.html?.tsrc=rss
+  2026-11-10 07:00 ET  AMZN        Yahoo Finance TempraMed Granted U.S. Patent for Pen Agnostic, VIVI Cap Smart(TM) Further Strengthens Global Intellectual Property Position
+      https://finance.yahoo.com/healthcare/articles/tempramed-granted-u-patent-pen-120000297.html?.tsrc=rss
+  2026-11-10 07:00 ET  ARIS        Yahoo Finance Aris Mining Increases Segovia Gold Reserves by 28% to 1.9 Million Ounces
+      https://finance.yahoo.com/markets/commodities/articles/aris-mining-increases-segovia-gold-120000347.html?.tsrc=rss
+  2026-11-10 07:00 ET  JPM         Yahoo Finance Moody’s Corporation to Present at the J.P. Morgan Ultimate Services Investor Conference on November 17, 2026
+      https://finance.yahoo.com/markets/stocks/articles/moody-corporation-present-j-p-120000295.html?.tsrc=rss
+  2026-11-10 07:00 ET  JPM         Yahoo Finance JPMorgan Announces Cash Distributions for the JPMorgan ETFs
+      https://finance.yahoo.com/markets/stocks/articles/jpmorgan-announces-cash-distributions-jpmorgan-120000557.html?.tsrc=rss
+  2026-11-10 07:00 ET  KLRA        Yahoo Finance Kailera Therapeutics to Present at ObesityWeek 2026
+      tags: regulatory  https://finance.yahoo.com/healthcare/articles/kailera-therapeutics-present-obesityweek-2026-120000213.html?.tsrc=rss
+  2026-11-10 07:00 ET  LEGN        Yahoo Finance Legend Biotech Reports Third Quarter 2026 Results and Recent Highlights
+      tags: earnings  https://finance.yahoo.com/healthcare/articles/legend-biotech-reports-third-quarter-120000970.html?.tsrc=rss
+  2026-11-10 07:00 ET  MRNA        Yahoo Finance Moderna to Present at Upcoming Conference in November 2026
+      https://finance.yahoo.com/healthcare/articles/moderna-present-upcoming-conference-november-120000607.html?.tsrc=rss
+  2026-11-10 07:00 ET  NRIX        Yahoo Finance Nurix Therapeutics to Participate in Upcoming Investor Conferences
+      tags: regulatory  https://finance.yahoo.com/healthcare/articles/nurix-therapeutics-participate-upcoming-investor-120000337.html?.tsrc=rss
+  2026-11-10 07:00 ET  NTRA        Yahoo Finance Natera Announces Clinical Collaboration with Incyte on Interventional Phase II Study in Colorectal Cancer
+      tags: regulatory  https://finance.yahoo.com/healthcare/articles/natera-announces-clinical-collaboration-incyte-120000911.html?.tsrc=rss
+  2026-11-10 07:00 ET  OUST        Yahoo Finance Indra Selects Ouster’s Digital Lidar for Its Global Electronic Toll Collection Projects
+      https://finance.yahoo.com/technology/articles/indra-selects-ouster-digital-lidar-120000133.html?.tsrc=rss
+  2026-11-10 07:00 ET  QBTS        Yahoo Finance D-Wave Reports Third Quarter 2026 Results
+      tags: earnings  https://finance.yahoo.com/technology/ai/articles/d-wave-reports-third-quarter-120000587.html?.tsrc=rss
+  2026-11-10 07:00 ET  ROK         Yahoo Finance Rockwell Automation to Present at Baird’s 2026 Global Industrial Conference
+      tags: people  https://finance.yahoo.com/technology/articles/rockwell-automation-present-baird-2026-120000702.html?.tsrc=rss
+  2026-11-10 07:00 ET  SRRK        Yahoo Finance Scholar Rock Reports Third Quarter 2026 Financial Results and Recent Business Highlights
+      tags: earnings  https://finance.yahoo.com/healthcare/articles/scholar-rock-reports-third-quarter-120000974.html?.tsrc=rss
+  2026-11-10 06:56 ET  COMP        Yahoo Finance Fed’s Waller Backs Big Rate Increase if Inflation Remains Stubborn
+      tags: macro  https://finance.yahoo.com/m/761079c5-5e20-3b79-b289-486f7349e41c/fed%E2%80%99s-waller-backs-big-rate.html?.tsrc=rss
+  2026-11-10 06:55 ET  SBH         Yahoo Finance Sally Beauty (SBH) Surpasses Q4 Earnings and Revenue Estimates
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/sally-beauty-sbh-surpasses-q4-115501092.html?.tsrc=rss
+  2026-11-10 06:52 ET  AMZN        Yahoo Finance Market Chatter: Amazon, Two Managers Face Potential Trial Over Chinese Imports in Italy
+      https://finance.yahoo.com/markets/stocks/articles/market-chatter-amazon-two-managers-115231212.html?.tsrc=rss
+  2026-11-10 06:51 ET  SBH         Yahoo Finance Sally Beauty (NYSE:SBH) reports Q3 CY2026 in line with expectations
+      https://finance.yahoo.com/markets/stocks/articles/sally-beauty-nyse-sbh-reports-115131968.html?.tsrc=rss
+! 2026-11-10 06:50 ET  SBH         SEC EDGAR     Sally Beauty Holdings, Inc. filed a 8-K: earnings results, Regulation FD disclosure
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1368458/000136845826000018/0001368458-26-000018-index.htm
+  2026-11-10 06:50 ET  INTC        Yahoo Finance Chip Stocks and Nvidia Trade Places as Normal Service Resumes
+      https://finance.yahoo.com/m/923499dc-8e00-3f3b-bf12-512d15457c26/chip-stocks-and-nvidia-trade.html?.tsrc=rss
+  2026-11-10 06:49 ET  HALO        Yahoo Finance HALO Q3 2026 deep dive: royalty expansion and next-gen platform investments drive outlook update
+      tags: earnings  https://finance.yahoo.com/healthcare/articles/halo-q3-2026-deep-dive-114936596.html?.tsrc=rss
+  2026-11-10 06:45 ET  NIQ         Yahoo Finance NIQ Launches New Shelf Architect Capability to Help Manufacturers Drive Store-Level Assortment Growth
+      https://finance.yahoo.com/small-business/articles/niq-launches-shelf-architect-capability-114500488.html?.tsrc=rss
+  2026-11-10 06:45 ET  SBH         Yahoo Finance Sally Beauty Holdings Reports Fourth Quarter and Full Year 2026 Results; Delivers Sales, Operating Earnings and Double-Digit EPS Growth in the Fourth Quarter
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/sally-beauty-holdings-reports-fourth-114500719.html?.tsrc=rss
+  2026-11-10 06:43 ET  HIG         Yahoo Finance Accelerant Q3 Earnings: Will Underwriting Weakness Spoil the Show?
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/accelerant-q3-earnings-underwriting-weakness-114300293.html?.tsrc=rss
+  2026-11-10 06:42 ET  CBRS        Yahoo Finance Cerebras Q3 Earnings Preview: What To Expect From Upcoming Report
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/cerebras-q3-earnings-preview-expect-114201820.html?.tsrc=rss
+  2026-11-10 06:41 ET  PRVA        Yahoo Finance PRVA Q3 2026 deep dive: acquisitions and provider growth drive expansion, profitability lags expectations
+      tags: earnings  https://finance.yahoo.com/healthcare/articles/prva-q3-2026-deep-dive-114136710.html?.tsrc=rss
+  2026-11-10 06:41 ET  RKLB        Yahoo Finance Rocket Lab Shares Fall Over 5% After Q3 Earnings Miss Despite 73% Revenue Growth and Record Backlog
+      tags: earnings  https://investorshub.advfn.com/market-news/article/39613/rocket-lab-shares-fall-over-5-after-q3-earnings-miss-despite-73-revenue-growth-and-record-backlog?.tsrc=rss
+  2026-11-10 06:40 ET  LQDA        Yahoo Finance Liquidia Corporation (LQDA) Q3 Earnings and Revenues Beat Estimates
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/liquidia-corporation-lqda-q3-earnings-114001622.html?.tsrc=rss
+  2026-11-10 06:36 ET  RKLB,SNDK   Yahoo Finance Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Tuesday; Rocket Lab, AMD to Open Lower
+      https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-113659846.html?.tsrc=rss
+  2026-11-10 06:30 ET  MS          Yahoo Finance Morgan Stanley agrees to acquire transfer agent platform Vinyl Equity
+      tags: deal  https://www.privatebankerinternational.com/news/morgan-stanley-acquire-vinyl-equity/?.tsrc=rss
+  2026-11-10 06:30 ET  CBRS        Yahoo Finance Bilt Selects Cerebras to Deliver Faster AI Experiences to More than Eight Million Members
+      https://finance.yahoo.com/technology/ai/articles/bilt-selects-cerebras-deliver-faster-113000771.html?.tsrc=rss
+  2026-11-10 06:30 ET  LOW         Yahoo Finance Bilt Introduces the Operating System for Neighborhoods, Bilt Neighborhood OS™, Connecting Businesses and Communities to Power Local Commerce
+      https://finance.yahoo.com/small-business/articles/bilt-introduces-operating-system-neighborhoods-113000855.html?.tsrc=rss
+  2026-11-10 06:30 ET  LQDA        Yahoo Finance Liquidia Corporation Reports Third Quarter 2026 Financial Results
+      tags: earnings  https://finance.yahoo.com/healthcare/articles/liquidia-corporation-reports-third-quarter-113000044.html?.tsrc=rss
+  2026-11-10 06:26 ET  RKLB        Yahoo Finance Why Rocket Lab Stock Crashed After Earnings
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/why-rocket-lab-stock-crashed-112654272.html?.tsrc=rss
+  2026-11-10 06:24 ET  RKLB        Yahoo Finance Nvidia, Hims & Hers, JBS, Take-Two, and More Stocks That Explain Today’s Market
+      https://finance.yahoo.com/m/7a09187f-b3a7-3224-bf52-479775b74718/nvidia%2C-hims-%26-hers%2C-jbs%2C.html?.tsrc=rss
+  2026-11-10 06:23 ET  RKLB        Yahoo Finance Rocket Lab's Record $3.6 Billion Backlog Can't Lift the Stock
+      https://finance.yahoo.com/markets/stocks/articles/rocket-labs-record-3-6-112348874.html?.tsrc=rss
+  2026-11-10 06:21 ET  CAPR        Yahoo Finance CAPR Stock Edges Higher Ahead Of Q3 Earnings, But Retail’s Attention Remains Firmly Fixed On Nov. 22 FDA Decision For Deramiocel
+      tags: earnings, regulatory  https://stocktwits.com/news-articles/markets/equity/capr-stock-edges-higher-ahead-of-q3-earnings-nov-22-fda-decision-deramiocel/cNGuL2UR97D?.tsrc=rss
+  2026-11-10 06:21 ET  AXON        Yahoo Finance Axon Is Down 52% From Its August High. Northland Still Sees $540
+      tags: earnings  https://www.tikr.com/blog/axon-is-down-52-from-its-august-high-northland-still-sees-540?ref=yahoofinance&tlnk=yf-261110-48c45fp3&.tsrc=rss
+  2026-11-10 06:18 ET  SUZ         Yahoo Finance Suzano Publishes First Report Aligned With Taskforce on Nature-related Financial Disclosures Recommendations
+      https://finance.yahoo.com/energy/articles/suzano-publishes-first-report-aligned-111800963.html?.tsrc=rss
+  2026-11-10 06:16 ET  FLY,LMT,LUNR,VOYG Yahoo Finance NASA Says Bezos’ Blue Origin Can Compete For Up to $10 Billion in Moon Base Contracts, As Musk’s SpaceX Soars
+      https://247wallst.com/investing/2026/11/10/nasa-says-bezos-blue-origin-can-compete-for-up-to-10-billion-in-moon-base-contracts-as-musks-spacex-soars/?.tsrc=rss
+  2026-11-10 06:13 ET  CEG         Yahoo Finance AI Is Creating a Power Crisis. Constellation Energy Just Showed How It Plans to Cash In.
+      https://www.fool.com/investing/2026/11/10/ai-is-creating-a-power-crisis-constellation-energy-just-showed-how-it-plans-to-cash-in/?.tsrc=rss
+  2026-11-10 06:13 ET  COMP        Yahoo Finance This Vanguard ETF Has Outperformed the S&P 500 and Nasdaq Composite
+      https://www.fool.com/investing/2026/11/10/this-vanguard-etf-has-outperformed-the-sp-500-and/?.tsrc=rss
+  2026-11-10 06:12 ET  CRMD        Yahoo Finance CorMedix to Acquire Heron Assets, Adding Four Products and Targeting Up to $60 Million in Savings
+      tags: deal  https://www.marketbeat.com/instant-alerts/event-cormedix-to-acquire-heron-assets-adding-four-products-and-targeting-up-to-60-million-in-savings-2026-11-10/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss
+  2026-11-10 06:12 ET  COMP        Yahoo Finance CPI, Crude Views Support Wall Street Pre-Bell; Asia, Europe Up
+      tags: macro  https://finance.yahoo.com/economy/articles/cpi-crude-views-support-wall-111250477.html?.tsrc=rss
+  2026-11-10 06:10 ET  BBY         Yahoo Finance Best Buy (BBY) Stock Looks Cheap Based On Future Cash Flow
+      https://finance.yahoo.com/markets/stocks/articles/best-buy-bby-stock-looks-111053080.html?.tsrc=rss
+  2026-11-10 06:10 ET  KGC         Yahoo Finance Kinross Gold (TSX:K) Faces A Fresh Lawsuit As Its Undervalued Case Holds
+      tags: legal  https://finance.yahoo.com/markets/stocks/articles/kinross-gold-tsx-k-faces-111045738.html?.tsrc=rss
+  2026-11-10 06:10 ET  CXM         Yahoo Finance Our Pick Of The Best Founder Led Stocks In November 2026
+      tags: macro  https://finance.yahoo.com/markets/stocks/articles/pick-best-founder-led-stocks-111010588.html?.tsrc=rss
+  2026-11-10 06:10 ET  AAPL        Yahoo Finance TSMC Sales Jump Again -- Nvidia and Apple Orders Keep the AI Chip Boom Going
+      https://finance.yahoo.com/technology/ai/articles/tsmc-sales-jump-again-nvidia-111006983.html?.tsrc=rss
+  2026-11-10 06:09 ET  GILD,LLY    Yahoo Finance Gilead Sciences Stock Hits a New All-Time High: Is it Still a Good Buy?
+      tags: earnings  https://www.fool.com/investing/2026/11/10/gilead-sciences-stock-hits-a-new-all-time-high-is-it-still-a-good-buy/?.tsrc=rss
+  2026-11-10 06:08 ET  MCD         Yahoo Finance What Does McDonald's (MCD) New Sugar Free Lawsuit Mean For Customers And Investors?
+      tags: legal  https://finance.yahoo.com/markets/stocks/articles/does-mcdonalds-mcd-sugar-free-110801877.html?.tsrc=rss
+  2026-11-10 06:06 ET  AAPL,AMZN   Yahoo Finance Direxion Daily S&P 500 Bull 3X (SPXL) Adds Apple and Nvidia on Friday
+      https://finance.yahoo.com/markets/stocks/articles/direxion-daily-p-500-bull-110628696.html?.tsrc=rss
+  2026-11-10 06:06 ET  AAPL        Yahoo Finance iShares Global Tech ETF (IXN) Sells $26.8 Million of Apple on Nov. 6
+      https://finance.yahoo.com/markets/stocks/articles/ishares-global-tech-etf-ixn-110623167.html?.tsrc=rss
+  2026-11-10 06:06 ET  COST,KO     Yahoo Finance State Street Consumer Staples SPDR (XLP) Sells Walmart and Costco on Nov. 6
+      https://finance.yahoo.com/markets/stocks/articles/state-street-consumer-staples-spdr-110619139.html?.tsrc=rss
+  2026-11-10 06:06 ET  APP,ROP,TXN Yahoo Finance First Trust NASDAQ-100 Tech (QTEC) Buys $5.1 Million More AppLovin on Friday
+      https://finance.yahoo.com/markets/stocks/articles/first-trust-nasdaq-100-tech-110615305.html?.tsrc=rss
+  2026-11-10 06:06 ET  AAPL,AMZN   Yahoo Finance Proshares Trust (TQQQ) Sells Apple and Nvidia on Friday
+      https://finance.yahoo.com/markets/stocks/articles/proshares-trust-tqqq-sells-apple-110610717.html?.tsrc=rss
+  2026-11-10 06:06 ET  CSCO,JNJ    Yahoo Finance iShares MSCI USA Momentum Factor ETF (MTUM) Adds AMD and Micron on Nov. 6
+      https://finance.yahoo.com/markets/stocks/articles/ishares-msci-usa-momentum-factor-110606011.html?.tsrc=rss
+  2026-11-10 06:06 ET  AAPL,AMZN   Yahoo Finance What iShares Russell 3000 ETF (IWV) Bought: Apple Leads on Nov. 6
+      https://finance.yahoo.com/markets/stocks/articles/ishares-russell-3000-etf-iwv-110601335.html?.tsrc=rss
+  2026-11-10 06:05 ET  ATI,USFD    Yahoo Finance What State Street SPDR S&P MidCap 400 ETF (MDY) Sold: TechnipFMC Leads on Friday
+      https://finance.yahoo.com/markets/stocks/articles/state-street-spdr-p-midcap-110557710.html?.tsrc=rss
+  2026-11-10 06:05 ET  AAPL,HON,INTC,TMUS Yahoo Finance What Goldman Sachs Nasdaq-100 Premium Income (GPIQ) Bought: Honeywell Leads on Nov. 6
+      https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-nasdaq-100-premium-110552738.html?.tsrc=rss
+  2026-11-10 06:05 ET  AAPL,AMZN   Yahoo Finance State Street SPDR Portfolio S&P 500 ETF (SPYM) Adds Apple and Nvidia on Nov. 6
+      https://finance.yahoo.com/markets/stocks/articles/state-street-spdr-portfolio-p-110545295.html?.tsrc=rss
+  2026-11-10 06:05 ET  AAPL        Yahoo Finance iShares Russell 1000 Growth (IWF) Adds Fox and NVIDIA on Friday
+      https://finance.yahoo.com/markets/stocks/articles/ishares-russell-1000-growth-iwf-110540866.html?.tsrc=rss
+  2026-11-10 06:05 ET  ACN,MRNA,PTC Yahoo Finance What Invesco S&P 500 Equal Weight ETF (RSP) Bought: Moderna Leads on Nov. 6
+      https://finance.yahoo.com/markets/stocks/articles/invesco-p-500-equal-weight-110532032.html?.tsrc=rss
+  2026-11-10 06:05 ET  CAT,GS      Yahoo Finance Spdr Dow Jones Industrial Average ETF (DIA) Buys $36 Million More GS on Friday
+      https://finance.yahoo.com/markets/stocks/articles/spdr-dow-jones-industrial-average-110530396.html?.tsrc=rss
+  2026-11-10 06:05 ET  MRNA        Yahoo Finance iShares Russell Mid-Cap (IWR) Adds Fox and Marathon Petroleum on Nov. 6
+      https://finance.yahoo.com/markets/stocks/articles/ishares-russell-mid-cap-iwr-110526731.html?.tsrc=rss
+  2026-11-10 06:05 ET  STX         Yahoo Finance Capital Group Div Value (CGDV) Buys $69.5 Million More FTAI Aviation on Nov. 6
+      https://finance.yahoo.com/markets/stocks/articles/capital-group-div-value-cgdv-110522934.html?.tsrc=rss
+  2026-11-10 06:05 ET  AAPL        Yahoo Finance What Direxion Daily Technology Bull 3X ETF (TECL) Bought: AAPL Leads on Nov. 6
+      https://finance.yahoo.com/markets/stocks/articles/direxion-daily-technology-bull-3x-110515219.html?.tsrc=rss
+  2026-11-10 06:04 ET  AAPL,DE     Yahoo Finance Capital Group Growth (CGGR) Adds Rocket and Deere on Nov. 6
+      https://finance.yahoo.com/markets/stocks/articles/capital-group-growth-cggr-adds-110455926.html?.tsrc=rss
+  2026-11-10 06:04 ET  JPM         Yahoo Finance What State Street Fin. Select Sector SPDR (XLF) Sold: Berkshire Leads on Friday
+      https://finance.yahoo.com/markets/stocks/articles/state-street-fin-select-sector-110451080.html?.tsrc=rss
+  2026-11-10 06:04 ET  AAPL        Yahoo Finance State Street Tech Select SPDR (XLK) Adds Apple and Nvidia on Nov. 6
+      https://finance.yahoo.com/markets/stocks/articles/state-street-tech-select-spdr-110445538.html?.tsrc=rss
+  2026-11-10 06:04 ET  FROG        Yahoo Finance What iShares Russell 2000 Index Fund (IWM) Sold: Glaukos Leads on Nov. 6
+      https://finance.yahoo.com/markets/stocks/articles/ishares-russell-2000-index-fund-110441849.html?.tsrc=rss
+  2026-11-10 06:04 ET  AAPL        Yahoo Finance What Invesco NASDAQ 100 ETF (QQQM) Bought: Apple Leads on Nov. 6
+      https://finance.yahoo.com/markets/stocks/articles/invesco-nasdaq-100-etf-qqqm-110436999.html?.tsrc=rss
+  2026-11-10 06:04 ET  INTC        Yahoo Finance What iShares PHLX SOX Semiconductor (SOXX) Sold: AMD Leads on Nov. 6
+      https://finance.yahoo.com/markets/stocks/articles/ishares-phlx-sox-semiconductor-soxx-110416469.html?.tsrc=rss
+  2026-11-10 06:03 ET  ALAB        Yahoo Finance ETFs Are Net Sellers of Astera Labs (ALAB) on Nov. 6
+      https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-astera-labs-110351652.html?.tsrc=rss
+  2026-11-10 06:03 ET  MCHP        Yahoo Finance ETFs Are Net Sellers of Microchip Technology (MCHP) on Nov. 6
+      https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-microchip-technology-110337733.html?.tsrc=rss
+  2026-11-10 06:03 ET  TER         Yahoo Finance ETFs Are Net Sellers of Teradyne (TER) on Nov. 6
+      https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-teradyne-ter-110332108.html?.tsrc=rss
+  2026-11-10 06:03 ET  MRVL        Yahoo Finance ETFs Are Net Sellers of Marvell Technology (MRVL) on Nov. 6
+      https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-marvell-technology-110325216.html?.tsrc=rss
+  2026-11-10 06:03 ET  MPWR        Yahoo Finance ETFs Are Net Sellers of Monolithic Power (MPWR) on Friday
+      https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-monolithic-power-110306006.html?.tsrc=rss
+  2026-11-10 06:02 ET  INTC        Yahoo Finance ETFs Are Net Sellers of Intel (INTC) on Friday
+      https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-intel-intc-110239849.html?.tsrc=rss
+  2026-11-10 06:02 ET  TXN         Yahoo Finance ETFs Are Net Sellers of Texas Instruments (TXN) on Nov. 6
+      https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-texas-instruments-110227376.html?.tsrc=rss
+  2026-11-10 06:02 ET  BCAX        Yahoo Finance Bicara Therapeutics Inc (BCAX) Q3 2026 Earnings Call Highlights: Strong Enrollment Momentum and ...
+      tags: earnings  https://finance.yahoo.com/healthcare/articles/bicara-therapeutics-inc-bcax-q3-110210680.html?.tsrc=rss
+  2026-11-10 06:02 ET  NG          Yahoo Finance European gas prices hit 1-month lows as Trump pauses Iran strikes
+      https://finance.yahoo.com/energy/articles/european-gas-prices-hit-1-110210007.html?.tsrc=rss
+  2026-11-10 06:02 ET  IONS        Yahoo Finance Ionis Pharmaceuticals Inc (IONS) (Q3 2026) Earnings Call Highlights: DAWNZERA Momentum and ...
+      tags: earnings  https://finance.yahoo.com/healthcare/articles/ionis-pharmaceuticals-inc-ions-q3-110201512.html?.tsrc=rss
+  2026-11-10 06:01 ET  COST        Yahoo Finance ETFs Bought $69.5 Million of Costco (COST) on Friday
+      https://finance.yahoo.com/markets/stocks/articles/etfs-bought-69-5-million-110159336.html?.tsrc=rss
+  2026-11-10 06:01 ET  CAH         Yahoo Finance CAH Q3 CY2026 deep dive: specialty growth and contract renewals drive guidance increase
+      tags: earnings  https://finance.yahoo.com/healthcare/articles/cah-q3-cy2026-deep-dive-110136336.html?.tsrc=rss
+  2026-11-10 06:01 ET  CSCO        Yahoo Finance 60 ETFs Add to Cisco (CSCO) Holdings on Nov. 6
+      https://finance.yahoo.com/markets/stocks/articles/60-etfs-add-cisco-csco-110133431.html?.tsrc=rss
+  2026-11-10 06:01 ET  DE          Yahoo Finance ETFs Bought $86.4 Million of Deere (DE) on Nov. 6
+      https://finance.yahoo.com/markets/stocks/articles/etfs-bought-86-4-million-110126316.html?.tsrc=rss
+  2026-11-10 06:01 ET  RKT         Yahoo Finance ETFs Are Buying Rocket Cos. (RKT) on Nov. 6
+      https://finance.yahoo.com/markets/stocks/articles/etfs-buying-rocket-cos-rkt-110123207.html?.tsrc=rss
+  2026-11-10 06:01 ET  STX         Yahoo Finance Seagate Launches the FireCuda Forge, Powered by New Alkemi Intelligent Platform to Deliver Both SSD-Grade Responsiveness and HDD Capacity
+      https://finance.yahoo.com/technology/articles/seagate-launches-firecuda-forge-powered-110100296.html?.tsrc=rss
+  2026-11-10 06:00 ET  AI,KBR      Yahoo Finance KBR Delivers AI-Powered Operations and Engineering Solution to Enhance Plant Performance at Indorama
+      https://finance.yahoo.com/technology/ai/articles/kbr-delivers-ai-powered-operations-110000982.html?.tsrc=rss
+  2026-11-10 06:00 ET  MRVL        Yahoo Finance Marvel Announces Final Shank3 Data: MB-204 Highly Effective at Reversing Autism Behaviours
+      https://finance.yahoo.com/healthcare/articles/marvel-announces-final-shank3-data-110000305.html?.tsrc=rss
+  2026-11-10 06:00 ET  TRIN        Yahoo Finance Codexis Enters into $60 Million Term Loan Facility with Trinity Capital
+      https://finance.yahoo.com/healthcare/articles/codexis-enters-60-million-term-110000617.html?.tsrc=rss
+  2026-11-10 05:59 ET  BOBS        Yahoo Finance Is the Options Market Predicting a Spike in Bob's Discount Furniture Stock?
+      https://finance.yahoo.com/markets/options/articles/options-market-predicting-spike-bobs-105900747.html?.tsrc=rss
+  2026-11-10 05:53 ET  TNDM        Yahoo Finance TNDM Q3 2026 deep dive: business model transition, product launches, and leadership change
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/tndm-q3-2026-deep-dive-105336307.html?.tsrc=rss
+  2026-11-10 05:45 ET  COMP        Yahoo Finance Nasdaq Market Correction: History Is Clear About What Happens Next
+      https://www.fool.com/investing/2026/11/10/nasdaq-market-correction-history-clear-about-what-next/?.tsrc=rss
+  2026-11-10 05:35 ET  NNE,OKLO,XE Yahoo Finance Wedbush Expands Equity Research Coverage into Advanced Nuclear Energy, Led by Director of Equity Research Seth Basham
+      https://finance.yahoo.com/energy/articles/wedbush-expands-equity-research-coverage-103500078.html?.tsrc=rss
+  2026-11-10 05:31 ET  MRVL        Yahoo Finance As AI hardware sells off, is this chip designer now deeply undervalued?
+      https://finance.yahoo.com/technology/ai/articles/ai-hardware-sells-off-chip-103151585.html?.tsrc=rss
+  2026-11-10 05:30 ET  CNH         Yahoo Finance CNH to sell 70% stake in construction equipment business to Kobelco
+      https://www.worldconstructionnetwork.com/news/cnh-sell-70-construction-equipment-kobelco/?.tsrc=rss
+  2026-11-10 05:29 ET  LFST        Yahoo Finance LFST Q3 2026 deep dive: specialty services, clinician expansion, and EHR transition shape outlook
+      tags: earnings  https://finance.yahoo.com/healthcare/articles/lfst-q3-2026-deep-dive-102936681.html?.tsrc=rss
+  2026-11-10 05:28 ET  COMP        Yahoo Finance Why Anthropic Is Right to Push Ahead With IPO Amid AI Turmoil
+      https://finance.yahoo.com/m/ed865207-f772-385e-aa48-d6468b52d2cd/why-anthropic-is-right-to.html?.tsrc=rss
+  2026-11-10 05:25 ET  LULU,RCL    Yahoo Finance 3 Consumer Stocks Trading Under 17 Times Earnings
+      tags: earnings  https://www.fool.com/investing/2026/11/10/3-consumer-stocks-trading-under-17-times-earnings/?.tsrc=rss
+  2026-11-10 05:20 ET  CAPR,FLY,QBTS,RKLB Yahoo Finance US Stock Futures Mixed As Investors Await CPI Data — AMD, CRWV, RKLB Stocks In Focus
+      tags: macro  https://stocktwits.com/news-articles/markets/equity/us-stock-futures-mixed-as-investors-await-cpi-data-amd-crwv-rklb-stocks-in-focus/cNGug0DR97u?.tsrc=rss
+  2026-11-10 05:20 ET  IVZ         Yahoo Finance Should Invesco S&P 500 Pure Value ETF (RPV) Be on Your Investing Radar?
+      https://finance.yahoo.com/markets/stocks/articles/invesco-p-500-pure-value-102002534.html?.tsrc=rss
+  2026-11-10 05:18 ET  INTC        Yahoo Finance Down from highs: Why GlobalFoundries is an essential chip play
+      https://finance.yahoo.com/technology/articles/down-highs-why-globalfoundries-essential-101838395.html?.tsrc=rss
+  2026-11-10 05:17 ET  VIR         Yahoo Finance Vir Biotechnology’s hepatitis D drug scores in Phase II and Phase III trials
+      https://www.clinicaltrialsarena.com/news/vir-eclipse-1-trial-meets-primary-endpoint/?.tsrc=rss
+  2026-11-10 05:13 ET  ABNB        Yahoo Finance At 12x earnings: Is this cash-rich travel platform a deep-value buy?
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/12x-earnings-cash-rich-travel-101319544.html?.tsrc=rss
+  2026-11-10 05:08 ET  SGI         Yahoo Finance Somnigroup International (SGI) Stock Could Be A Bargain Despite Its 82% Run
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/somnigroup-international-sgi-stock-could-100805616.html?.tsrc=rss
+  2026-11-10 05:07 ET  MHK         Yahoo Finance Learn Why The Bull Case For Mohawk Industries Stock Could Change Following Earnings And Buyback
+      tags: earnings, capital  https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-mohawk-100729876.html?.tsrc=rss
+  2026-11-10 05:06 ET  TGT         Yahoo Finance Is Target (TGT) Fully Valued Following BofA's Sales Growth Call?
+      https://finance.yahoo.com/markets/stocks/articles/target-tgt-fully-valued-following-100644679.html?.tsrc=rss
+  2026-11-10 05:02 ET  NRG,TGTX    Yahoo Finance Company News for Nov 10, 2026
+      https://finance.yahoo.com/markets/stocks/articles/company-news-nov-10-2026-100200913.html?.tsrc=rss
+  2026-11-10 05:00 ET  KVYO        Yahoo Finance Sports business exec Peter Kenyon on scoring business wins amid losses
+      tags: people  https://www.marketingbrew.com/stories/peter-kenyon-williams-f1-sports-business?utm_source=&utm_medium=syndication&utm_campaign=feed&.tsrc=rss
+  2026-11-10 04:49 ET  PRKS        Yahoo Finance PRKS Q3 2026 deep dive: weather impacts attendance but pass sales and forward bookings improve
+      https://finance.yahoo.com/markets/stocks/articles/prks-q3-2026-deep-dive-094936334.html?.tsrc=rss
+  2026-11-10 04:44 ET  ING         Yahoo Finance Sterling today: Pound slips as dollar steadies on Fed tightening bets
+      tags: macro  https://finance.yahoo.com/markets/currencies/articles/sterling-today-pound-slips-dollar-094410990.html?.tsrc=rss
+  2026-11-10 04:41 ET  ZTS         Yahoo Finance ZTS Q3 2026 deep dive: competitive pressures and margin headwinds weigh on outlook
+      https://finance.yahoo.com/markets/stocks/articles/zts-q3-2026-deep-dive-094136976.html?.tsrc=rss
+  2026-11-10 04:38 ET  MS          Yahoo Finance Morgan Stanley downgrades flatexDEGIRO as customer growth slows, slashes target
+      tags: analyst  https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-downgrades-flatexdegiro-customer-093831842.html?.tsrc=rss
+  2026-11-10 04:12 ET  KT          Yahoo Finance KT Q3 Earnings Call Highlights
+      tags: earnings  https://www.marketbeat.com/instant-alerts/transcript-kt-q3-earnings-call-highlights-2026-11-10/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss
+  2026-11-10 04:09 ET  FOUR        Yahoo Finance FOUR Q3 2026 deep dive: macro pressures and strategic shifts weigh on outlook
+      https://finance.yahoo.com/markets/stocks/articles/four-q3-2026-deep-dive-090936572.html?.tsrc=rss
+  2026-11-10 04:09 ET  MET         Yahoo Finance MetLife (MET) Agrees To Divest MetLife UK Limited
+      tags: deal  https://finance.yahoo.com/markets/stocks/articles/metlife-met-agrees-divest-metlife-090925539.html?.tsrc=rss
+  2026-11-10 04:09 ET  NTLA        Yahoo Finance 3 Gene Editing Stocks Retail Investors Are Watching After BioAdvance
+      https://finance.yahoo.com/healthcare/articles/3-gene-editing-stocks-retail-090910936.html?.tsrc=rss
+  2026-11-10 04:08 ET  SGRY        Yahoo Finance Surgery Partners (SGRY) Stock Could Be 13% Overvalued On Cash Flow
+      https://finance.yahoo.com/markets/stocks/articles/surgery-partners-sgry-stock-could-090855424.html?.tsrc=rss
+  2026-11-10 04:08 ET  GTN         Yahoo Finance Missed Gray Media's Run? Here's The Bet Holders Made
+      https://finance.yahoo.com/markets/stocks/articles/missed-gray-medias-run-heres-090826889.html?.tsrc=rss
+  2026-11-10 04:08 ET  SGI         Yahoo Finance Should Lowered Guidance Require Action From Somnigroup International Stock Investors?
+      tags: earnings, deal, capital  https://finance.yahoo.com/markets/stocks/articles/lowered-guidance-require-action-somnigroup-090823519.html?.tsrc=rss
+  2026-11-10 04:05 ET  HE          Yahoo Finance Hawaiian Electric Industries Inc (HE) (Q3 2026) Earnings Call Highlights: Liquidity Surges, ...
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/hawaiian-electric-industries-inc-q3-090539000.html?.tsrc=rss
+  2026-11-10 04:03 ET  PTON        Yahoo Finance ‘You Get Screwed by Those People’: Ramsey Torches Affirm the Morning After Its Record $14.4 Billion Quarter
+      https://247wallst.com/personal-finance/2026/11/10/you-get-screwed-by-those-people-ramsey-torches-affirm-the-morning-after-its-record-14-4-billion-quarter/?.tsrc=rss
+  2026-11-10 04:02 ET  ROIV        Yahoo Finance Roivant Sciences Ltd (ROIV) (Q2 2026) Earnings Call Highlights: LISRIA Launch Delivers $31 ...
+      tags: earnings  https://finance.yahoo.com/healthcare/articles/roivant-sciences-ltd-roiv-q2-090205096.html?.tsrc=rss
+  2026-11-10 04:00 ET  NAVN,WSE    Yahoo Finance Wise Selects Navan to Modernize Global Travel Program
+      https://finance.yahoo.com/small-business/articles/wise-selects-navan-modernize-global-090000184.html?.tsrc=rss
+  2026-11-10 03:54 ET  NRG         Yahoo Finance NRG to sell six natural gas assets to LS Power for $4bn
+      tags: deal  https://www.power-technology.com/news/nrg-sell-six-assets-ls-power/?.tsrc=rss
+  2026-11-10 03:45 ET  VTRS        Yahoo Finance VTRS Q3 2026 deep dive: new product launches and Pacira acquisition shape outlook
+      tags: deal  https://finance.yahoo.com/healthcare/articles/vtrs-q3-2026-deep-dive-084536703.html?.tsrc=rss
+  2026-11-10 03:31 ET  ACN         Yahoo Finance Accenture Stock Rallied 31.5% Since October 6. Is Cognizant Now the Better Buy?
+      https://www.tikr.com/blog/accenture-stock-rallied-31-5-since-october-6-is-cognizant-now-the-better-buy?ref=yahoofinance&tlnk=yf-261110-9jr8vc6p&.tsrc=rss
+  2026-11-10 03:12 ET  SGI         Yahoo Finance Somnigroup International (SGI) Resets Guidance As Valuation Hinges On Its Recovery Story
+      tags: earnings, capital  https://finance.yahoo.com/markets/stocks/articles/somnigroup-international-sgi-resets-guidance-081259364.html?.tsrc=rss
+  2026-11-10 03:10 ET  FG          Yahoo Finance Earnings Beat May Reshape The Case For F&G Annuities And Life Stock
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/earnings-beat-may-reshape-case-081044190.html?.tsrc=rss
+  2026-11-10 03:01 ET  RTX         Yahoo Finance New Strong Buy Stocks for November 10th
+      https://finance.yahoo.com/markets/stocks/articles/strong-buy-stocks-november-10th-080100512.html?.tsrc=rss
+  2026-11-10 03:00 ET  HNGE        Yahoo Finance Bull of the Day: Hinge Health, Inc. (HNGE)
+      tags: earnings  https://finance.yahoo.com/healthcare/articles/bull-day-hinge-health-inc-080000087.html?.tsrc=rss
+  2026-11-10 03:00 ET  AI,TXN      Yahoo Finance TI redefines embedded development with agentic AI in its CCStudio™ ecosystem, empowering engineers to accelerate innovation
+      https://finance.yahoo.com/technology/ai/articles/ti-redefines-embedded-development-agentic-080000148.html?.tsrc=rss
+  2026-11-10 02:46 ET  LITE,MRVL   Yahoo Finance A $28 Billion Fund Bought These 3 Stocks
+      https://www.tikr.com/blog/a-28-billion-fund-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261110-f3j83vgc&.tsrc=rss
+  2026-11-10 02:44 ET  JPM         Yahoo Finance Meta’s Muse “Looks a Lot More Like Malware,” and Chase Just Blocked It
+      https://www.tikr.com/blog/metas-muse-looks-a-lot-more-like-malware-and-chase-just-blocked-it?ref=yahoofinance&tlnk=yf-261110-hh43m27r&.tsrc=rss
+  2026-11-10 02:25 ET  MRNA        Yahoo Finance Why is Moderna (MRNA) stock soaring today
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/why-moderna-mrna-stock-soaring-072536859.html?.tsrc=rss
+  2026-11-10 02:17 ET  SOLV        Yahoo Finance Solventum (SOLV) stock trades up, here is why
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/solventum-solv-stock-trades-why-071736474.html?.tsrc=rss
+  2026-11-10 02:10 ET  JPM         Yahoo Finance JPMorgan (JPM) Stock May Be 31% Undervalued On Senate Probe News
+      tags: legal  https://finance.yahoo.com/markets/stocks/articles/jpmorgan-jpm-stock-may-31-071018836.html?.tsrc=rss
+  2026-11-10 02:10 ET  DOX         Yahoo Finance New Strong Sell Stocks for November 10th
+      https://finance.yahoo.com/markets/stocks/articles/strong-sell-stocks-november-10th-071000580.html?.tsrc=rss
+  2026-11-10 02:10 ET  LLY         Yahoo Finance 4BIO Capital leads $60M Series A financing of Oyster Therapeutics (formerly Kesmalea Therapeutics) to advance next-generation targeted protein degraders for Alzheimer’s and other neurodegenerative diseases
+      tags: regulatory  https://finance.yahoo.com/healthcare/articles/4bio-capital-leads-60m-series-071000110.html?.tsrc=rss
+  2026-11-10 02:09 ET  IAG         Yahoo Finance 3 Canadian Undervalued Stocks Trading At Least 32% Below Cash Flow Value
+      https://finance.yahoo.com/markets/stocks/articles/3-canadian-undervalued-stocks-trading-070947878.html?.tsrc=rss
+  2026-11-10 02:09 ET  ELAN        Yahoo Finance Elanco (ELAN) shares skyrocket, what you need to know
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/elanco-elan-shares-skyrocket-know-070936315.html?.tsrc=rss
+  2026-11-10 02:09 ET  TRVI        Yahoo Finance Trevi Therapeutics Inc (TRVI) Q3 2026 Earnings Call Highlights: Strong Cash Position, FDA ...
+      tags: earnings, regulatory  https://finance.yahoo.com/healthcare/articles/trevi-therapeutics-inc-trvi-q3-070922591.html?.tsrc=rss
+  2026-11-10 02:09 ET  QUBT        Yahoo Finance Quantum Computing Inc (QUBT) (Q3 2026) Earnings Call Highlights: Record $9. ...
+      tags: earnings  https://finance.yahoo.com/technology/ai/articles/quantum-computing-inc-qubt-q3-070904369.html?.tsrc=rss
+  2026-11-10 02:08 ET  ITT         Yahoo Finance Why ITT (ITT) Is Up 6.2% And What's Next
+      tags: earnings, capital  https://finance.yahoo.com/markets/stocks/articles/why-itt-itt-6-2-070828489.html?.tsrc=rss
+  2026-11-10 02:07 ET  RKLB        Yahoo Finance Rocket Lab Corp (RKLB) Q3 2026 Earnings Call Highlights: Record Revenue and Backlog Surge as ...
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/rocket-lab-corp-rklb-q3-070725351.html?.tsrc=rss
+  2026-11-10 02:07 ET  RDDT        Yahoo Finance These 5 Internet Platform Stocks Run on Advertising Dollars
+      https://www.fool.com/investing/2026/11/10/these-5-internet-platform-stocks-run-on-advertising-dollars/?.tsrc=rss
+  2026-11-10 02:06 ET  BBY         Yahoo Finance Best Buy Stock Gets Fresh Analyst Support as Value Appeal Draws Investor Interest
+      tags: earnings, capital  https://finance.yahoo.com/markets/stocks/articles/best-buy-stock-gets-fresh-070657553.html?.tsrc=rss
+  2026-11-10 02:06 ET  VOYG        Yahoo Finance Voyager Technologies (VOYG) Stock Sees Modest Fair Value Cut As Analysts Trim Targets
+      tags: analyst  https://finance.yahoo.com/markets/stocks/articles/voyager-technologies-voyg-stock-sees-070650242.html?.tsrc=rss
+  2026-11-10 02:02 ET  ABCL        Yahoo Finance AbCellera (ABCL) Q3 2026 Earnings Call Transcript
+      tags: earnings  https://www.fool.com/earnings/call-transcripts/2026/11/10/abcellera-abcl-q3-2026-earnings-call-transcript/?.tsrc=rss
+  2026-11-10 02:01 ET  SWKS        Yahoo Finance Skyworks Introduces Scalable Multi-Core Audio DSP Family for Automotive Platforms from Entry-Level to Premium Vehicles
+      https://finance.yahoo.com/technology/ai/articles/skyworks-introduces-scalable-multi-core-070100643.html?.tsrc=rss
+  2026-11-10 02:00 ET  ING         Yahoo Finance Progress on share buyback programme
+      tags: capital  https://finance.yahoo.com/markets/stocks/articles/progress-share-buyback-programme-070000661.html?.tsrc=rss
+  2026-11-10 02:00 ET  LLY         Yahoo Finance London biotech Oyster harvests $60M for tau-targeting brain drugs
+      https://www.biopharmadive.com/news/oyster-venture-financing-tau-targeted-protein-degraders/874160/?.tsrc=rss
+  2026-11-10 02:00 ET  LLY         Yahoo Finance Kesmalea Therapeutics Announces $60 Million Series A Financing to Advance Next-Generation Targeted Protein Degraders for Alzheimer’s and Other Neurodegenerative Diseases and Rebrands as Oyster Therapeutics
+      https://finance.yahoo.com/healthcare/articles/kesmalea-therapeutics-announces-60-million-070000534.html?.tsrc=rss
+  2026-11-10 02:00 ET  SUNB        Yahoo Finance Transaction in Own Shares
+      https://finance.yahoo.com/news/transaction-own-shares-070000305.html?.tsrc=rss
+  2026-11-10 01:56 ET  INTC        Yahoo Finance SoftBank Logs $7 Billion Loss After US Data Center Costs Swell
+      https://finance.yahoo.com/technology/ai/articles/softbank-logs-7-billion-loss-065612363.html?.tsrc=rss
+  2026-11-10 01:47 ET  TRVI        Yahoo Finance Trevi Therapeutics (TRVI) Q3 2026 Earnings Call Transcript
+      tags: earnings  https://www.fool.com/earnings/call-transcripts/2026/11/10/trevi-therapeutics-trvi-q3-2026-earnings-call-transcript/?.tsrc=rss
+  2026-11-10 01:46 ET  TTD         Yahoo Finance The Trade Desk (TTD) Q3 2026 Earnings Call Transcript
+      tags: earnings  https://www.fool.com/earnings/call-transcripts/2026/11/10/the-trade-desk-ttd-q3-2026-earnings-call-transcript/?.tsrc=rss
+  2026-11-10 01:45 ET  NVAX,SNY    Yahoo Finance Novavax (NVAX) stock trades up, here is why
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/novavax-nvax-stock-trades-why-064536035.html?.tsrc=rss
+  2026-11-10 01:44 ET  RTX,TXN     Yahoo Finance Best Income Stocks to Buy for November 10th
+      https://finance.yahoo.com/markets/stocks/articles/best-income-stocks-buy-november-064400296.html?.tsrc=rss
+  2026-11-10 01:37 ET  ELF         Yahoo Finance Why is e.l.f. Beauty (ELF) stock soaring today
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/why-e-l-f-beauty-063736114.html?.tsrc=rss
+  2026-11-10 01:33 ET  CSQR        Yahoo Finance Csquare (CSQR) Q3 2026 Earnings Call Transcript
+      tags: earnings  https://www.fool.com/earnings/call-transcripts/2026/11/10/csquare-csqr-q3-2026-earnings-call-transcript/?.tsrc=rss
+  2026-11-10 01:33 ET  SANM        Yahoo Finance Sanmina (SANM) Q4 2026 Earnings Call Transcript
+      tags: earnings  https://www.fool.com/earnings/call-transcripts/2026/11/10/sanmina-sanm-q4-2026-earnings-call-transcript/?.tsrc=rss
+  2026-11-10 01:15 ET  WULF        Yahoo Finance WULF, HUT, CIFR Stocks Get Price Target Cuts From Jefferies: Here’s Why The Analyst Is Still Bullish On These AI Infra Firms
+      tags: analyst  https://stocktwits.com/news-articles/markets/equity/wulf-hut-cifr-stocks-get-price-target-cuts-from-jefferies-here-s-why-the-analyst-is-still-bullish-on-these-ai-infra-firms/cNGuIUkR97m?.tsrc=rss
+  2026-11-10 01:14 ET  GFR         Yahoo Finance Greenfire Resources (GFR) Stock Looks Expensive After a $2.9B Deal
+      tags: deal  https://finance.yahoo.com/markets/stocks/articles/greenfire-resources-gfr-stock-looks-061412173.html?.tsrc=rss
+  2026-11-10 01:13 ET  SNDK        Yahoo Finance Sandisk And 2 Cash Flow Stocks To Watch
+      https://finance.yahoo.com/markets/stocks/articles/sandisk-2-cash-flow-stocks-061328934.html?.tsrc=rss
+  2026-11-10 01:13 ET  NWL         Yahoo Finance Newell Brands (NWL) Jumped, What Is Behind The Fresh Attention?
+      tags: earnings, capital  https://finance.yahoo.com/markets/stocks/articles/newell-brands-nwl-jumped-behind-061307915.html?.tsrc=rss
+  2026-11-10 01:12 ET  CLDX        Yahoo Finance Celldex Therapeutics Targets 2027 Filing for Barzolvolimab After Phase 3 Results
+      tags: earnings  https://www.marketbeat.com/instant-alerts/event-celldex-therapeutics-targets-2027-filing-for-barzolvolimab-after-phase-3-results-2026-11-10/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss
+  2026-11-10 01:11 ET  BBY         Yahoo Finance Is Best Buy (BBY) Undervalued As Value Metrics And Earnings Views Draw Fresh Interest?
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/best-buy-bby-undervalued-value-061158710.html?.tsrc=rss
+  2026-11-10 01:11 ET  PGNY        Yahoo Finance Progyny (PGNY) Stock Gets Fair Value Bump After Strong Results And Raised Guidance
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/progyny-pgny-stock-gets-fair-061158112.html?.tsrc=rss
+  2026-11-10 01:11 ET  ACAD        Yahoo Finance Acadia Pharmaceuticals Fell While Sales Rose
+      tags: earnings  https://finance.yahoo.com/healthcare/articles/acadia-pharmaceuticals-fell-while-sales-061113288.html?.tsrc=rss
+  2026-11-10 01:11 ET  SUPN        Yahoo Finance Supernus (SUPN) Stock Still Looks Undervalued As Its 127% 5 Year Run Continues
+      tags: earnings, deal  https://finance.yahoo.com/markets/stocks/articles/supernus-supn-stock-still-looks-061100855.html?.tsrc=rss
+  2026-11-10 01:10 ET  LITE,MRVL   Yahoo Finance Even After a Cut, B. Riley’s $250 Target Says Marvell’s Selloff Went Too Far
+      tags: deal  https://www.tikr.com/blog/even-after-a-cut-b-rileys-250-target-says-marvells-selloff-went-too-far?ref=yahoofinance&tlnk=yf-261110-xgr49jxm&.tsrc=rss
+  2026-11-10 01:01 ET  CSX,UNP     Yahoo Finance Zacks Industry Outlook Highlights Union Pacific, CSX and Norfolk Southern
+      tags: capital  https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-union-060100564.html?.tsrc=rss
+  2026-11-10 00:50 ET  LLY         Yahoo Finance Zacks Industry Outlook Highlights Eli Lilly, Novartis and Bayer
+      tags: earnings  https://finance.yahoo.com/healthcare/articles/zacks-industry-outlook-highlights-eli-055000179.html?.tsrc=rss
+  2026-11-10 00:44 ET  GDYN,HAS,VRA Yahoo Finance Zacks.com featured highlights include Grid Dynamics, Vera Bradley, Hasbro, Climb Global and Vince
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-grid-054400771.html?.tsrc=rss
+  2026-11-10 00:29 ET  HNGE        Yahoo Finance Hinge Health and Tripadvisor have been highlighted as Zacks Bull and Bear of the Day
+      tags: earnings  https://finance.yahoo.com/healthcare/articles/hinge-health-tripadvisor-highlighted-zacks-052900190.html?.tsrc=rss
+  2026-11-09 23:50 ET  SNDK,STX    Yahoo Finance Seagate Dropped 15% in a Week: Morgan Stanley Says It Could Double in the Next 12 Months
+      https://www.tikr.com/blog/seagate-dropped-15-in-a-week-morgan-stanley-says-it-could-double-in-the-next-12-months?ref=yahoofinance&tlnk=yf-261110-mxmghqrr&.tsrc=rss
+  2026-11-09 23:46 ET  CEG         Yahoo Finance Vertiv Sinks 11% in a Week as Midterm Sweep Hits Data Center Stocks
+      tags: earnings  https://www.tikr.com/blog/vertiv-sinks-11-in-a-week-as-midterm-sweep-hits-data-center-stocks?ref=yahoofinance&tlnk=yf-261110-jvw54r6j&.tsrc=rss
+  2026-11-09 22:14 ET  JPM         Yahoo Finance Anthropic Plans IPO Live Stream With Amodei, JPMorgan CEO Dimon
+      tags: capital, people  https://finance.yahoo.com/technology/ai/articles/anthropic-plans-ipo-live-stream-031454541.html?.tsrc=rss
+  2026-11-09 22:11 ET  TGTX        Yahoo Finance TG Therapeutics, Inc. Q3 2026 Earnings Call Summary
+      tags: earnings  https://app.moby.co/home/research/tools/earningsCalendar/earnings-tg-therapeutics-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss
+  2026-11-09 22:06 ET  QUBT        Yahoo Finance Quantum Computing, Inc. Q3 2026 Earnings Call Summary
+      tags: earnings  https://app.moby.co/home/research/tools/earningsCalendar/earnings-quantum-computing-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss
+  2026-11-09 21:40 ET  LINC        Yahoo Finance Lincoln Educational Services Corporation Q3 2026 Earnings Call Summary
+      tags: earnings  https://app.moby.co/home/research/tools/earningsCalendar/earnings-lincoln-educational-services-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss
+  2026-11-09 21:22 ET  B           Yahoo Finance Barrick Mining Corporation Q3 2026 Earnings Call Summary
+      tags: earnings  https://app.moby.co/home/research/tools/earningsCalendar/earnings-barrick-mining-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss
+  2026-11-09 21:20 ET  IONS        Yahoo Finance Ionis Pharmaceuticals, Inc. Q3 2026 Earnings Call Summary
+      tags: earnings  https://app.moby.co/home/research/tools/earningsCalendar/earnings-ionis-pharmaceuticals-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss
+  2026-11-09 21:08 ET  SGI         Yahoo Finance Somnigroup International Inc Q3 2026 Earnings Call Summary
+      tags: earnings  https://app.moby.co/home/research/tools/earningsCalendar/earnings-somnigroup-international-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss
+  2026-11-09 21:05 ET  WTTR        Yahoo Finance Select Water Solutions, Inc. Q3 2026 Earnings Call Summary
+      tags: earnings  https://app.moby.co/home/research/tools/earningsCalendar/earnings-select-water-solutions-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss
+  2026-11-09 20:55 ET  IMVT        Yahoo Finance Immunovant, Inc. Q2 2027 Earnings Call Summary
+      tags: earnings  https://app.moby.co/home/research/tools/earningsCalendar/earnings-immunovant-inc-q2-2027-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss
+  2026-11-09 20:36 ET  APPS        Yahoo Finance Digital Turbine, Inc. Q2 2027 Earnings Call Summary
+      tags: earnings  https://app.moby.co/home/research/tools/earningsCalendar/earnings-digital-turbine-inc-q2-2027-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss
+  2026-11-09 19:16 ET  MET         SEC EDGAR     METLIFE INC filed a 8-K: material agreement, new debt
+      https://www.sec.gov/Archives/edgar/data/1099219/000119312526454038/0001193125-26-454038-index.htm
+  2026-11-09 19:04 ET  CKX         SEC EDGAR     CKX LANDS, INC. filed a 8-K: material agreement, unregistered share sale
+      https://www.sec.gov/Archives/edgar/data/352955/000143774926035972/0001437749-26-035972-index.htm
+  2026-11-09 17:45 ET  WSC         SEC EDGAR     WillScot Holdings Corp filed a 8-K: other events
+      https://www.sec.gov/Archives/edgar/data/1647088/000164708826000075/0001647088-26-000075-index.htm
+  2026-11-09 16:27 ET  JBS         Yahoo Finance JBS Profit Hit as China Quotas Overshadow US Beef Improvement
+      https://finance.yahoo.com/markets/stocks/articles/jbs-profit-hit-china-quotas-212737896.html?.tsrc=rss
+  2026-11-09 10:08 ET  RIOT        Yahoo Finance Morgan Stanley raises Riot target to $41, cuts Cipher, Hut 8, Galaxy and Applied Digital
+      https://blockspace.media/insight/morgan-stanley-raises-riot-target/?.tsrc=rss
+  2026-11-09 08:10 ET  ALOY        Yahoo Finance America’s Rare Earth Clock Is Running Out, But the Bottleneck Isn’t Where You Think
+      https://www.marketbeat.com/articles/americas-rare-earth-clock-is-running-out-but-the-bottleneck-isnt-where-you-think/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss
+  2026-11-09 07:35 ET  TEAM        Yahoo Finance Atlassian Tanks After Huge Run as Guidance Disappoints, But Strength Remains
+      tags: earnings, analyst  https://www.marketbeat.com/articles/atlassian-tanks-after-huge-run-as-guidance-disappoints-but-strength-remains/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss
+Checked 2026-11-10 09:02 ET. Headlines are leads, not facts; open the story before acting. Not financial advice.
