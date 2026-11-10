@@ -1,0 +1,14 @@
+{
+ "skill": "trader-scanner",
+ "command": "python trader-scanner/scan.py orb--now",
+ "exit_code": 2,
+ "seconds": 0.4,
+ "started": "2026-11-10 00:51:30",
+ "time_zone": "New York",
+ "python": "3.13.18",
+ "changed_files": [],
+ "exit_code_meaning": "0 = the scan found something, 1 = it found nothing or could not run (the reason is printed)",
+ "stdout": "",
+ "stderr": "usage: scan.py [-h] {universe,daily,orb} ...\nscan.py: error: argument cmd: invalid choice: 'orb--now' (choose from 'universe', 'daily', 'orb')\n",
+ "github_run_id": "42764711933"
+}
