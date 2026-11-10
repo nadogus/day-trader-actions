@@ -1,0 +1,14 @@
+{
+ "skill": "trader-scanner",
+ "command": "python trader-scanner/scan.py orb --now 2026-11-09",
+ "exit_code": 1,
+ "seconds": 0.1,
+ "started": "2026-11-10 00:50:44",
+ "time_zone": "New York",
+ "python": "3.13.18",
+ "changed_files": [],
+ "exit_code_meaning": "0 = the scan found something, 1 = it found nothing or could not run (the reason is printed)",
+ "stdout": "",
+ "stderr": "scan.py: It is 12:00 AM ET: the 15-minute opening range runs 9:30 to 9:45 AM and the first bar after it closes at 9:50 AM. Run orb again after 9:50 AM.\n",
+ "github_run_id": "42764635625"
+}

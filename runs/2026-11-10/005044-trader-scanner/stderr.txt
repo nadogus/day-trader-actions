@@ -1,0 +1,1 @@
+scan.py: It is 12:00 AM ET: the 15-minute opening range runs 9:30 to 9:45 AM and the first bar after it closes at 9:50 AM. Run orb again after 9:50 AM.
