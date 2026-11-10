@@ -1,0 +1,26 @@
+name: Pelosi (hourly on weekdays)
+
+# trader-pelosi SKILL.md: "ptr.py new --member pelosi --read" ... "checking every
+# hour on weekdays is plenty: run it with /loop 1h or a scheduled task."
+on:
+  schedule:
+    - cron: "5 * * * 1-5"              # every hour at :05, Mon-Fri, New York
+      timezone: "America/New_York"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trader-pelosi
+  cancel-in-progress: false
+
+jobs:
+  pelosi:
+    uses: ./.github/workflows/_chain.yml
+    with:
+      pdftotext: true
+      items: |
+        trader-pelosi|new --member pelosi --read|ok=0,1
+      timeout: 15
+    secrets: inherit

@@ -1,0 +1,28 @@
+name: ORB (10:15 New York)
+
+# trader-scanner SKILL.md: "After 9:50 AM ET (10:15 is the classic): scan.py orb."
+# README: "python3 trader-scanner/scan.py orb --at 10:15". The cut is 10:15 even
+# if GitHub starts the job late. Then news, as in the README flow (scanner -> news).
+on:
+  schedule:
+    - cron: "15 10 * * 1-5"            # Mon-Fri 10:15 New York (DST handled by GitHub)
+      timezone: "America/New_York"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trader-data
+  cancel-in-progress: false
+
+jobs:
+  orb:
+    uses: ./.github/workflows/_chain.yml
+    with:
+      trading_day_only: true
+      items: |
+        trader-scanner|orb --at 10:15|okwrite=trader/watchlist.json
+        trader-news||needs=trader/watchlist.json|ok=0,1
+      timeout: 30
+    secrets: inherit

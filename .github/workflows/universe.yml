@@ -1,0 +1,24 @@
+name: Universe (weekly)
+
+# trader-scanner SKILL.md: "Once a week or so: scan.py universe."
+on:
+  schedule:
+    - cron: "0 7 * * 1"                # Monday 07:00 New York, before the daily scan
+      timezone: "America/New_York"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trader-data
+  cancel-in-progress: false
+
+jobs:
+  universe:
+    uses: ./.github/workflows/_chain.yml
+    with:
+      items: |
+        trader-scanner|universe
+      timeout: 15
+    secrets: inherit

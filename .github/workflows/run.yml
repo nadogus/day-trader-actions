@@ -1,0 +1,92 @@
+name: Run a skill (manual)
+
+# Plumbing only: runs ONE original tool with the arguments you type, unchanged.
+# No schedule is defined here: the original repository defines none.
+# No Claude / Anthropic API, no paid service, no broker. trader-broker is not offered.
+on:
+  workflow_dispatch:
+    inputs:
+      skill:
+        description: "Which tool"
+        type: choice
+        options:
+          - trader-scanner
+          - trader-news
+          - trader-entry
+          - trader-exit
+          - trader-timemachine
+          - trader-budget
+          - trader-risk
+          - trader-alerts
+          - trader-analyst
+          - trader-pelosi
+      args:
+        description: "The tool's own arguments, as in the README (e.g. daily | orb --at 10:15 | TSLA | index --member pelosi)"
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trader-data
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: Code (main)
+        uses: actions/checkout@v5
+
+      - name: Data (results branch -> data/, holds trader/ and runs/)
+        run: |
+          if git ls-remote --exit-code --heads origin results >/dev/null; then
+            git fetch --depth 1 origin results:refs/remotes/origin/results
+            git worktree add -B results data origin/results
+          else
+            git worktree add --orphan -b results data
+          fi
+
+      - name: Python 3.13
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - name: pdftotext (the README's optional reader for PTR PDFs)
+        if: inputs.skill == 'trader-pelosi'
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+
+      - name: Run
+        id: run
+        env:
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+          SKILL: ${{ inputs.skill }}
+          ARGS: ${{ inputs.args }}
+        run: python .github/automation/run_skill.py --data data "$SKILL" "$ARGS"
+
+      - name: Artifact
+        if: always() && steps.run.outputs.run_dir != ''
+        uses: actions/upload-artifact@v5
+        with:
+          name: ${{ steps.run.outputs.artifact }}-run${{ github.run_id }}
+          path: ${{ steps.run.outputs.run_dir }}
+          retention-days: 90
+
+      - name: Save to the results branch
+        if: always() && steps.run.outputs.run_dir != ''
+        working-directory: data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -q -m "${{ inputs.skill }}: ${{ steps.run.outputs.run_rel }}"
+          for i in 1 2 3; do
+            if git push -q origin HEAD:results; then exit 0; fi
+            sleep 5
+            git pull -q --rebase origin results || true
+          done
+          echo "::error::could not push to the results branch"
+          exit 1

@@ -1,0 +1,30 @@
+name: Daily (before the open)
+
+# trader-scanner SKILL.md: "Before the open: scan.py daily."
+# trader-news SKILL.md: "a scheduled task each morning before the open."
+# trader-analyst SKILL.md: "Run it for ... the tickers on trader/watchlist.json."
+# README flow: scanner -> news; news / analyst / pelosi (on a schedule).
+on:
+  schedule:
+    - cron: "0 8 * * 1-5"              # Mon-Fri 08:00 New York (DST handled by GitHub)
+      timezone: "America/New_York"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trader-data
+  cancel-in-progress: false
+
+jobs:
+  daily:
+    uses: ./.github/workflows/_chain.yml
+    with:
+      trading_day_only: true
+      items: |
+        trader-scanner|daily|okwrite=trader/watchlist.json
+        trader-news||needs=trader/watchlist.json|ok=0,1
+        trader-analyst|@watchlist|needs=trader/watchlist.json|sec=1|ok=0,1
+      timeout: 60
+    secrets: inherit

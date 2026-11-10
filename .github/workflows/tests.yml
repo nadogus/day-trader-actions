@@ -1,0 +1,42 @@
+name: Testler (Python 3.13, cevrimdisi)
+
+# Tum modullerin (broker dahil) kayitli ornek verilerle cevrimdisi testleri.
+# Ag, anahtar veya broker kullanmaz.
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+      - name: Birim testleri
+        run: |
+          python --version
+          python -m unittest discover -s tests -v
+      - name: Calistirici sozdizimi
+        run: python -m py_compile .github/automation/run.py
+      - name: Cevrimdisi duman testi (scanner, entry, exit, news, analyst, pelosi, alerts)
+        run: |
+          set -e
+          F=tests/fixtures
+          python trader-scanner/scan.py universe --offline $F/trader-scanner/symdir --no-write
+          python trader-scanner/scan.py daily --offline $F/trader-scanner/daily-spark-2026-10-19.json --now "2026-10-19 09:00" --no-write
+          python trader-scanner/scan.py orb --offline $F/trader-scanner/wall5m-2026-10-19.json.gz --now "2026-10-19 10:15" --min-price 0 --no-write --show 5
+          python trader-alerts/alerts.py clock --now "2026-10-19 10:15"
+          python trader-news/news.py --tickers TSLA AAPL KO --offline $F/trader-news --now 2026-10-19T15:00:00Z --dry-run --state /tmp/news.json --all --hours 2000 || [ $? -eq 1 ]
+          python trader-analyst/facts.py AAPL --offline $F/trader-analyst
+          python trader-pelosi/ptr.py index --offline $F/trader-pelosi/2026FD.zip --member pelosi
+          python trader-pelosi/ptr.py parse $F/trader-pelosi/ptr-20035143.txt
+          python trader-entry/entry.py check TSLA --offline $F/trader-entry/TSLA-2026-10-19-5m.json --now "2026-10-19 10:15" --write /tmp/entry.json
+          python trader-exit/exit.py plan --from /tmp/entry.json --now "2026-10-19 10:15" --write /tmp/plan.json
