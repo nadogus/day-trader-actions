@@ -178,6 +178,9 @@ def main(argv=None):
     os.makedirs(out_dir, exist_ok=True)
     csv_path = os.path.join(out_dir, "trades.csv")
 
+    stale = os.path.join(out_dir, "today.md")
+    if os.path.exists(stale):
+        os.remove(stale)  # never re-post an old day's report
     is_open, why = em.trading_day(day)
     if not is_open:
         print("%s is not a trading day (%s): nothing to test." % (day, why))
@@ -262,6 +265,29 @@ def main(argv=None):
     print(head)
     for r in new_rows:
         print("  %-6s %-10s %s %s %s" % (r["symbol"], r["status"], r["trigger_time"], r["outcome"], r["r_net"]))
+    # the daily report posted to the GitHub issue (shadow.yml)
+    ts = stats(traded)
+    day_first3 = sorted(traded, key=lambda r: r["trigger_time"])[:3]
+    f3 = stats(day_first3)
+    allt = stats([r for r in rows if r["status"] == "traded"])
+    n_days = len({r["date"] for r in rows})
+    rep = ["## %s gölge takip (sanal, para yok)" % day.isoformat(), "",
+           "Tarama sonucu: %d hisse, işleme dönüşen: %d." % (len(new_rows), len(traded)), ""]
+    if ts:
+        wins = sum(1 for r in traded if fnum(r["r_net"]) > 0)
+        rep += ["- **Bugün, tüm sinyaller:** %d işlem, %d kazanç / %d kayıp, toplam **%+.1fR**" % (
+                    ts["n"], wins, ts["n"] - wins, ts["total"]),
+                "- **Bugün, ilk 3 sinyal:** toplam **%+.1fR** (%s)" % (
+                    f3["total"], ", ".join("%s %s" % (r["symbol"], r["r_net"]) for r in day_first3))]
+    else:
+        rep.append("- Bugün işlem yok.")
+    if allt:
+        rep += ["- **Başlangıçtan beri (%d gün):** %d işlem, kazanma %%%.0f, ortalama %+.2fR, toplam %+.1fR, en kötü düşüş %.1fR" % (
+                    n_days, allt["n"], allt["win_rate"], allt["avg"], allt["total"], allt["max_dd"])]
+    rep += ["", "Ayrıntı: `results` dalı, `shadow/summary.md` ve `shadow/trades.csv`.",
+            "1R = giriş ile stop arasındaki fark. Tek gün bir şey kanıtlamaz."]
+    with open(os.path.join(out_dir, "today.md"), "w", encoding="utf-8") as fh:
+        fh.write("\n".join(rep) + "\n")
     if os.environ.get("GITHUB_STEP_SUMMARY"):
         with open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8") as fh:
             fh.write("## Bugün: %s\n\n" % head + "\n".join(summary) + "\n")

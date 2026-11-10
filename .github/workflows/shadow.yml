@@ -18,6 +18,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: trader-data
@@ -71,3 +72,18 @@ jobs:
           done
           echo "::error::could not push to the results branch"
           exit 1
+
+      - name: Daily report (comment on the "Gölge takip raporu" issue)
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TITLE: "Gölge takip raporu"
+        run: |
+          [ -f data/shadow/today.md ] || { echo "No report today."; exit 0; }
+          n=$(gh issue list --state open --search "\"$TITLE\" in:title" --json number,title \
+                -q ".[] | select(.title == env.TITLE) | .number" | head -1)
+          if [ -z "$n" ]; then
+            n=$(gh issue create --title "$TITLE" --body "Her işlem günü kapanıştan sonra (16:20 New York) gölge takip sonucu buraya yorum olarak yazılır. Bildirim almak için bu issue'ya abone ol (Subscribe)." | grep -o '[0-9]*$')
+          fi
+          gh issue comment "$n" --body-file data/shadow/today.md
+          echo "Report posted to issue #$n"
