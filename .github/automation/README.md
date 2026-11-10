@@ -15,6 +15,7 @@ değiştirilmeden kopyalandı. Tek ek `.github/` klasörüdür.
 | `daily.yml` | Pzt-Cum 08:00 | `scan.py daily`, sonra `news.py`, sonra `facts.py <watchlist sembolleri>` | scanner: "Before the open"; news: "each morning before the open"; analyst: "the tickers on trader/watchlist.json" |
 | `orb.yml` | Pzt-Cum 10:15 | `scan.py orb --at 10:15`, sonra `news.py` | scanner: "10:15 is the classic"; README akışı scanner -> news |
 | `pelosi.yml` | Pzt-Cum her saat :05 | `ptr.py new --member pelosi --read` | pelosi SKILL.md: "every hour on weekdays is plenty" |
+| `shadow.yml` | Pzt-Cum 16:20 | gölge takip: 10:15 ORB listesine orijinal `entry.py check` ve `exit.py plan`, sonra günün gerçek 5 dakikalık mumları | sanal, broker yok |
 | `tests.yml` | her push | `python -m unittest discover -s tests -v` | README |
 | `run.yml` | elle | seçilen aracı yazılan argümanlarla | |
 
@@ -52,3 +53,20 @@ Settings > Secrets and variables > Actions > New repository secret:
 `SEC_USER_AGENT` = "Ad Soyad e-posta". Yoksa `trader-analyst` adımı açık bir
 uyarıyla bekler. `trader-news` orijinal davranışıyla SEC kısmını atlar ve
 bunu yazar. Diğer adımlar çalışmaya devam eder. Secret hiçbir yere yazdırılmaz.
+
+## Gölge takip (shadow.yml)
+
+Para, broker ve emir yok. Her işlem gününün kapanışından sonra 10:15 ORB
+listesindeki her hisse için orijinal `trader-entry` (giriş oldu mu, nerede) ve
+`trader-exit` (stop = açılış aralığı ortası, hedef = 2R) çalışır. Sonra günün
+gerçek 5 dakikalık mumlarında önce stop mu hedef mi geldiğine bakılır:
+
+- Aynı mumda ikisi birden: stop sayılır (kötümser varsayım).
+- Stop ya da hedefin ötesine boşlukla açılış: o mumun açılışından çıkılır.
+- Hiçbiri: 15:55'te kapanır.
+- Taraf başı %0.05 maliyet düşülür.
+
+Sonuçlar `results` dalında: `shadow/trades.csv` (her hisse bir satır) ve
+`shadow/summary.md` (kazanma oranı, ortalama R, toplam R, en kötü düşüş; ayrıca
+her günün ilk 3 sinyali). Geçmiş bir gün elle yeniden çalıştırılabilir
+(Actions > Shadow test > Run workflow > tarih).

@@ -1,0 +1,73 @@
+name: Shadow test (after the close)
+
+# Gölge takip: no broker, no orders, no money. After the close it takes the
+# 10:15 ORB watchlist, runs the ORIGINAL trader-entry and trader-exit on each
+# hit, and walks the day's real 5-minute bars to see whether the stop or the
+# target came first. Results: shadow/trades.csv and shadow/summary.md on the
+# results branch. See .github/automation/shadow.py.
+on:
+  schedule:
+    - cron: "20 16 * * 1-5"            # Mon-Fri 16:20 New York, after the 16:00 close
+      timezone: "America/New_York"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Session date YYYY-MM-DD (empty = today, New York)"
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trader-data
+  cancel-in-progress: false
+
+jobs:
+  shadow:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Code (main)
+        uses: actions/checkout@v5
+
+      - name: Data (results branch -> data/)
+        run: |
+          if git ls-remote --exit-code --heads origin results >/dev/null; then
+            git fetch --depth 1 origin results:refs/remotes/origin/results
+            git worktree add -B results data origin/results
+          else
+            git worktree add --orphan -b results data
+          fi
+
+      - name: Python 3.13
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - name: Shadow test
+        env:
+          DAY: ${{ inputs.date }}
+        run: |
+          if [ -n "$DAY" ]; then
+            python .github/automation/shadow.py --data data --date "$DAY"
+          else
+            python .github/automation/shadow.py --data data
+          fi
+
+      - name: Save to the results branch
+        if: always()
+        working-directory: data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add -A shadow
+          if git diff --cached --quiet; then echo "Nothing to save."; exit 0; fi
+          git commit -q -m "shadow: run ${{ github.run_id }}"
+          for i in 1 2 3 4 5; do
+            if git push -q origin HEAD:results; then echo "Saved to results."; exit 0; fi
+            sleep $((i * 5))
+            git pull -q --rebase origin results || true
+          done
+          echo "::error::could not push to the results branch"
+          exit 1

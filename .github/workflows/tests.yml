@@ -25,7 +25,7 @@ jobs:
           python --version
           python -m unittest discover -s tests -v
       - name: Calistirici sozdizimi
-        run: python -m py_compile .github/automation/run_skill.py .github/automation/run_chain.py
+        run: python -m py_compile .github/automation/run_skill.py .github/automation/run_chain.py .github/automation/shadow.py
       - name: Cevrimdisi duman testi (scanner, entry, exit, news, analyst, pelosi, alerts)
         run: |
           set -e
@@ -40,3 +40,11 @@ jobs:
           python trader-pelosi/ptr.py parse $F/trader-pelosi/ptr-20035143.txt
           python trader-entry/entry.py check TSLA --offline $F/trader-entry/TSLA-2026-10-19-5m.json --now "2026-10-19 10:15" --write /tmp/entry.json
           python trader-exit/exit.py plan --from /tmp/entry.json --now "2026-10-19 10:15" --write /tmp/plan.json
+      - name: Golge takip (cevrimdisi, 60 gunluk ornek veri)
+        run: |
+          set -e
+          mkdir -p /tmp/c60
+          python -c "import gzip,shutil;shutil.copyfileobj(gzip.open('tests/fixtures/trader-timemachine/TSLA-60d5m.json.gz'),open('/tmp/c60/TSLA.json','wb'))"
+          echo '{"mode":"orb","as_of":"2026-10-09 10:15 ET","hits":[{"symbol":"TSLA"}]}' > /tmp/wl.json
+          python .github/automation/shadow.py --data /tmp/sd --date 2026-10-09 --offline /tmp/c60 --watchlist /tmp/wl.json
+          grep -q "2026-10-09,TSLA,traded,9:50 AM,387.5800,384.2500,394.2400,3.3300,10:00,384.2500,stop" /tmp/sd/shadow/trades.csv
