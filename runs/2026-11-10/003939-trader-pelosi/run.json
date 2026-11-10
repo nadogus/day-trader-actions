@@ -1,0 +1,18 @@
+{
+ "skill": "trader-pelosi",
+ "command": "python trader-pelosi/ptr.py new --member pelosi --read",
+ "exit_code": 0,
+ "seconds": 0.9,
+ "started": "2026-11-10 00:39:39",
+ "time_zone": "New York",
+ "python": "3.13.18",
+ "changed_files": [
+  "trader/state/pelosi.json",
+  "trader/state/ptr-pdfs/20035553.pdf",
+  "trader/state/ptr-pdfs/20035780.pdf"
+ ],
+ "exit_code_meaning": "new: 0 = new filings, 1 = nothing new, 2 = error",
+ "stdout": "NEW Periodic Transaction Report: Hon. Nancy Pelosi (CA11) filed 2026-11-06, doc 20035780\n    https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035780.pdf\nNEW Periodic Transaction Report: Hon. Nancy Pelosi (CA11) filed 2026-10-02, doc 20035553\n    https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035553.pdf\nHon. Nancy Pelosi (CA11), Member. PTR 20035780, filed 2026-11-06.\n  - spouse sale, Warner Bros. Discovery, Inc. - Series A Common Stock (WBD), $50,001 - $100,000, traded 2026-10-07, disclosed 30 days later\n      Cash proceeds from Warner Bros Discovery merger with Paramount Skydance.\nPublic disclosure under the STOCK Act, filed up to 45 days after the trade. Amounts are ranges. Not inside information.\nHon. Nancy Pelosi (CA11), Member. PTR 20035553, filed 2026-10-02.\n  - spouse purchase, REOF XXX, LLC, $500,001 - $1,000,000, traded 2026-09-08, disclosed 24 days later\n      Investment in LLC which is acquiring and managing a commercial office property at 225 Bush Street in San Francisco, CA.\nPublic disclosure under the STOCK Act, filed up to 45 days after the trade. Amounts are ranges. Not inside information.\n",
+ "stderr": "",
+ "github_run_id": "42763483064"
+}
