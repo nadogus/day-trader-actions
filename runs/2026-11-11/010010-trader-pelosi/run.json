@@ -1,0 +1,16 @@
+{
+ "skill": "trader-pelosi",
+ "command": "python trader-pelosi/ptr.py new --member pelosi --read",
+ "exit_code": 1,
+ "seconds": 0.3,
+ "started": "2026-11-11 01:00:10",
+ "time_zone": "New York",
+ "python": "3.13.18",
+ "changed_files": [
+  "trader/state/pelosi.json"
+ ],
+ "exit_code_meaning": "new: 0 = new filings, 1 = nothing new, 2 = error",
+ "stdout": "Nothing new since 2026-11-11T04:59:57.\n",
+ "stderr": "",
+ "github_run_id": "42969344706"
+}
