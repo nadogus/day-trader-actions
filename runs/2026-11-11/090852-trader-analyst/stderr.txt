@@ -1,0 +1,35 @@
+facts: SPOT: no quarterly revenue or net income in the XBRL facts
+facts: SMX: no quarterly revenue or net income in the XBRL facts
+facts: PBR: no quarterly revenue or net income in the XBRL facts
+facts: EMBJ: no quarterly revenue or net income in the XBRL facts
+facts: AER: no quarterly revenue or net income in the XBRL facts
+facts: SNY: no quarterly revenue or net income in the XBRL facts
+facts: IBN: SEC has no data at https://data.sec.gov/api/xbrl/companyfacts/CIK0001103838.json (no XBRL filings for this CIK?)
+facts: PBR.A: no quarterly revenue or net income in the XBRL facts
+facts: BUD: no quarterly revenue or net income in the XBRL facts
+facts: FER: no quarterly revenue or net income in the XBRL facts
+facts: MT: no quarterly revenue or net income in the XBRL facts
+facts: HDB: no quarterly revenue or net income in the XBRL facts
+facts: FMX: no quarterly revenue or net income in the XBRL facts
+facts: DB: no quarterly revenue or net income in the XBRL facts
+facts: TIGO: no quarterly revenue or net income in the XBRL facts
+facts: ABVX: no quarterly revenue or net income in the XBRL facts
+facts: SAN: no quarterly revenue or net income in the XBRL facts
+facts: SECZ: no quarterly revenue or net income in the XBRL facts
+facts: VIST: no quarterly revenue or net income in the XBRL facts
+facts: OZK: SEC has no data at https://data.sec.gov/api/xbrl/companyfacts/CIK0001569650.json (no XBRL filings for this CIK?)
+facts: ATAT: no quarterly revenue or net income in the XBRL facts
+facts: MFG: no quarterly revenue or net income in the XBRL facts
+facts: YPF: no quarterly revenue or net income in the XBRL facts
+facts: BBVA: no quarterly revenue or net income in the XBRL facts
+facts: TANH: no quarterly revenue or net income in the XBRL facts
+facts: RNW: no quarterly revenue or net income in the XBRL facts
+facts: GILT: no quarterly revenue or net income in the XBRL facts
+facts: AEG: no quarterly revenue or net income in the XBRL facts
+facts: UGP: no quarterly revenue or net income in the XBRL facts
+facts: IHS: no quarterly revenue or net income in the XBRL facts
+facts: VET: no quarterly revenue or net income in the XBRL facts
+facts: SFL: no quarterly revenue or net income in the XBRL facts
+facts: HIMX: no quarterly revenue or net income in the XBRL facts
+facts: GRFS: no quarterly revenue or net income in the XBRL facts
+facts: ACB: no quarterly revenue or net income in the XBRL facts

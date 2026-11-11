@@ -1,0 +1,57 @@
+Daily scan, Wed 2026-11-11 09:03 ET, closes through 2026-11-10 (Yahoo spark, daily closes only).
+Fetched 5,933 of 5,933 charts. 1,528 passed the liquidity filter ($5+ and 1,000,000+ shares), 2 had under 30 days; 1,526 scanned.
+331 charts matched a setup: 195 20-day closing-high breakout, 45 bull flag, 36 reclaimed the 20-day average, 61 oversold (RSI under 30), 14 oversold bounce.
+Most traded first (price x volume):
+  NVDA      $168.89  RSI  23.9  oversold (RSI under 30)
+  SNDK      $859.99  RSI  29.4  oversold (RSI under 30)
+  AMZN      $270.87  RSI  61.4  20-day closing-high breakout
+  AVGO      $331.98  RSI  49.1  reclaimed the 20-day average
+  INTC       $58.13  RSI  28.8  oversold (RSI under 30)
+  LLY     $1,432.29  RSI  69.8  20-day closing-high breakout
+  BRK.B     $583.34  RSI  77.8  20-day closing-high breakout
+  TTWO      $224.64  RSI  64.3  20-day closing-high breakout
+  NOW        $99.61  RSI  27.0  oversold (RSI under 30)
+  QCOM      $173.53  RSI  49.9  reclaimed the 20-day average
+  KO         $96.91  RSI  68.0  20-day closing-high breakout
+  PG        $168.66  RSI  67.9  20-day closing-high breakout
+  NET       $305.80  RSI  50.9  reclaimed the 20-day average
+  BAC        $50.68  RSI  42.8  reclaimed the 20-day average
+  GE        $337.91  RSI  62.8  20-day closing-high breakout
+  HIMS       $19.13  RSI  29.5  oversold (RSI under 30)
+  MCD       $282.17  RSI  76.3  20-day closing-high breakout
+  CLX       $106.60  RSI  80.1  20-day closing-high breakout
+  PEP       $143.61  RSI  65.8  20-day closing-high breakout
+  TTD        $15.42  RSI  71.1  20-day closing-high breakout
+  DIS       $119.21  RSI  70.6  20-day closing-high breakout
+  HUM       $438.06  RSI  61.0  20-day closing-high breakout
+  SPOT      $606.22  RSI  62.6  bull flag
+  VZ         $46.31  RSI  56.1  20-day closing-high breakout
+  ICE       $176.36  RSI  68.8  20-day closing-high breakout
+  AXON      $302.54  RSI  22.2  oversold (RSI under 30)
+  FTNT      $123.57  RSI  27.9  oversold (RSI under 30), oversold bounce
+  HLT       $379.76  RSI  72.3  20-day closing-high breakout
+  TMUS      $169.08  RSI  60.0  20-day closing-high breakout
+  TEAM      $148.60  RSI  25.6  oversold (RSI under 30)
+  UAL       $120.56  RSI  64.7  20-day closing-high breakout
+  KDP        $37.59  RSI  68.2  20-day closing-high breakout
+  DDOG      $178.40  RSI  28.2  oversold (RSI under 30)
+  SMX        $19.25  RSI  69.0  20-day closing-high breakout
+  CHTR      $134.06  RSI  65.8  20-day closing-high breakout
+  MAR       $428.26  RSI  74.8  20-day closing-high breakout
+  SBUX      $109.95  RSI  67.6  20-day closing-high breakout
+  CME       $309.09  RSI  66.1  20-day closing-high breakout
+  RCL       $339.85  RSI  70.7  20-day closing-high breakout
+  FISV       $63.32  RSI  81.9  bull flag
+  ECHO      $104.16  RSI  61.7  20-day closing-high breakout
+  BSX        $44.70  RSI  51.7  reclaimed the 20-day average
+  RIOT       $18.08  RSI  59.2  20-day closing-high breakout
+  MARA        $7.34  RSI  45.1  reclaimed the 20-day average
+  CMG        $35.92  RSI  68.5  20-day closing-high breakout, bull flag
+  DVN        $43.41  RSI  34.0  oversold bounce
+  PSA       $335.93  RSI  70.0  bull flag
+  CI        $303.13  RSI  57.2  reclaimed the 20-day average
+  CAH       $276.79  RSI  76.3  20-day closing-high breakout
+  CNC        $70.19  RSI  53.2  reclaimed the 20-day average
+  ... and 281 more in the watchlist (--show N for more).
+Wrote trader/watchlist.json (mode daily, 331 hits).
+A scan is a list of charts that match a rule, not a list of stocks to buy. Next: pick one chart, then /trader-news TICKER.

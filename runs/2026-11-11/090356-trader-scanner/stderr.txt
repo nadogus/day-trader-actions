@@ -1,0 +1,6 @@
+Fetching daily closes for 5,933 symbols (297 spark requests)...
+  spark 50 of 297 requests
+  spark 100 of 297 requests
+  spark 150 of 297 requests
+  spark 200 of 297 requests
+  spark 250 of 297 requests
