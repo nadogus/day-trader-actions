@@ -1,0 +1,57 @@
+Opening-range breakout scan, Wed 2026-11-11 10:15 AM ET: 15-minute range (9:30 to 9:45 AM), 5-minute bars, Yahoo.
+Fetched 5,933 of 5,933 charts; 2,183 usable (459 under the price / volume floor); 1,483 candidates, 200 confirmed with real highs and lows.
+PARTIAL: 1,283 more candidates were not checked (only the 200 most traded are; --max-confirm 0 checks all).
+85 of the 200 checked charts closed above their opening-range high by 10:15 AM:
+   9:50 AM  AAPL      $353.68  range 349.33 to 353.43  +0.07% over
+   9:50 AM  ABT       $110.15  range 109.00 to 110.10  +0.05% over
+   9:50 AM  AFRM       $67.57  range 65.82 to 67.35  +0.33% over
+   9:50 AM  ALNY      $154.56  range 151.85 to 153.36  +0.78% over
+   9:50 AM  AZN       $185.05  range 183.74 to 185.01  +0.02% over
+   9:50 AM  CBOE      $368.01  range 359.85 to 368.00  +0.00% over
+   9:50 AM  CHTR      $134.89  range 130.25 to 134.00  +0.66% over
+   9:50 AM  CMCSA      $24.76  range 24.40 to 24.72  +0.18% over
+   9:50 AM  CRM       $215.54  range 213.50 to 215.24  +0.14% over
+   9:50 AM  DAL        $91.92  range 91.06 to 91.86  +0.05% over
+   9:50 AM  ERAS       $16.20  range 15.58 to 16.09  +0.68% over
+   9:50 AM  FISV       $63.68  range 62.31 to 63.20  +0.76% over
+   9:50 AM  GILD      $170.17  range 168.37 to 170.14  +0.02% over
+   9:50 AM  IBKR       $81.58  range 79.70 to 81.38  +0.26% over
+   9:50 AM  ICE       $177.29  range 175.15 to 177.10  +0.11% over
+   9:50 AM  INTU      $339.90  range 335.80 to 339.72  +0.05% over
+   9:50 AM  JNJ       $278.46  range 276.67 to 278.38  +0.03% over
+   9:50 AM  KDP        $37.67  range 36.99 to 37.66  +0.03% over
+   9:50 AM  KO         $96.71  range 95.65 to 96.61  +0.10% over
+   9:50 AM  LMT       $604.42  range 597.49 to 603.97  +0.07% over
+   9:50 AM  LOW       $229.80  range 227.33 to 229.79  +0.00% over
+   9:50 AM  MDLN       $41.93  range 40.55 to 41.74  +0.45% over
+   9:50 AM  PDD        $79.28  range 78.16 to 79.16  +0.15% over
+   9:50 AM  PFE        $29.20  range 28.95 to 29.18  +0.07% over
+   9:50 AM  PGR       $231.28  range 229.27 to 231.06  +0.10% over
+   9:50 AM  PYPL       $58.96  range 57.85 to 58.86  +0.17% over
+   9:50 AM  REGN      $908.16  range 900.03 to 907.70  +0.05% over
+   9:50 AM  SPOT      $602.91  range 596.29 to 602.69  +0.04% over
+   9:50 AM  T          $22.05  range 21.84 to 22.00  +0.23% over
+   9:50 AM  TOST       $34.24  range 33.45 to 34.09  +0.43% over
+   9:50 AM  VEEV      $311.00  range 305.93 to 310.98  +0.01% over
+   9:50 AM  VZ         $46.36  range 45.95 to 46.26  +0.22% over
+   9:50 AM  ZM         $94.57  range 92.01 to 94.50  +0.08% over
+   9:55 AM  AAL        $14.02  range 13.88 to 13.99  +0.18% over
+   9:55 AM  AXON      $311.21  range 301.58 to 310.49  +0.23% over
+   9:55 AM  BA        $173.94  range 172.18 to 173.36  +0.33% over
+   9:55 AM  BX        $123.42  range 121.63 to 122.69  +0.59% over
+   9:55 AM  CFG        $65.59  range 64.95 to 65.56  +0.05% over
+   9:55 AM  DKNG       $19.83  range 19.00 to 19.73  +0.51% over
+   9:55 AM  DVN        $44.13  range 43.51 to 44.06  +0.16% over
+   9:55 AM  FRO        $45.38  range 44.62 to 45.36  +0.04% over
+   9:55 AM  GE        $340.18  range 336.78 to 339.99  +0.06% over
+   9:55 AM  LNG       $297.35  range 292.30 to 297.00  +0.12% over
+   9:55 AM  MO         $76.32  range 75.53 to 76.31  +0.01% over
+   9:55 AM  MSI       $528.87  range 524.45 to 528.61  +0.05% over
+   9:55 AM  MU        $779.98  range 763.05 to 779.49  +0.06% over
+   9:55 AM  SRE        $78.71  range 78.24 to 78.65  +0.08% over
+   9:55 AM  TTD        $16.39  range 15.08 to 16.18  +1.27% over
+   9:55 AM  VMC       $286.78  range 284.57 to 286.64  +0.05% over
+   9:55 AM  XOM       $165.72  range 164.46 to 165.68  +0.02% over
+  ... and 35 more in the watchlist (--show N for more).
+Wrote trader/watchlist.json (mode orb, 85 hits).
+A scan is a list of charts that match a rule, not a list of stocks to buy. Next: pick one chart, then /trader-news TICKER and /trader-entry TICKER.
