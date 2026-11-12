@@ -1,0 +1,787 @@
+ABNB   184.15 +1.67% vs yesterday's close 181.13 at 11:22 ET  
+ALAB   233.20 +0.99% vs yesterday's close 230.91 at 11:22 ET  
+ALL    266.11 +1.50% vs yesterday's close 262.18 at 11:22 ET  
+AMZN   270.90 +1.78% vs yesterday's close 266.17 at 11:22 ET  
+APLD   17.50 -2.29% vs yesterday's close 17.91 at 11:22 ET  
+AXTI   45.85 -2.38% vs yesterday's close 46.97 at 11:22 ET  
+BKNG   164.67 +2.78% vs yesterday's close 160.21 at 11:22 ET  
+BLK    1,234.70 +0.68% vs yesterday's close 1,226.31 at 11:22 ET  
+BP     45.37 +0.24% vs yesterday's close 45.26 at 11:22 ET  
+CARR   54.87 +0.53% vs yesterday's close 54.58 at 11:22 ET  
+CBRS   103.50 +2.39% vs yesterday's close 101.08 at 11:22 ET  
+CCJ    73.50 -1.10% vs yesterday's close 74.32 at 11:22 ET  
+CIEN   298.00 +0.66% vs yesterday's close 296.04 at 11:22 ET  
+CIFR   7.35 +3.40% vs yesterday's close 7.11 at 11:22 ET  MOVING
+CLS    265.46 +9.28% vs yesterday's close 242.92 at 11:22 ET  MOVING
+CSCO   101.82 +1.05% vs yesterday's close 100.76 at 11:22 ET  
+DDOG   182.57 -0.98% vs yesterday's close 184.38 at 11:22 ET  
+DELL   367.93 -1.54% vs yesterday's close 373.68 at 11:22 ET  
+DIS    119.28 -0.31% vs yesterday's close 119.65 at 11:22 ET  
+DOCN   91.94 +5.50% vs yesterday's close 87.15 at 11:22 ET  MOVING
+DVN    45.82 +1.94% vs yesterday's close 44.95 at 11:22 ET  
+ENS    151.19 +2.40% vs yesterday's close 147.65 at 11:22 ET  
+EQIX   1,074.57 +0.61% vs yesterday's close 1,068.06 at 11:22 ET  
+ETSY   89.76 +1.60% vs yesterday's close 88.35 at 11:22 ET  
+EXPE   269.63 +3.79% vs yesterday's close 259.79 at 11:22 ET  MOVING
+FIG    18.98 +0.05% vs yesterday's close 18.97 at 11:22 ET  
+FIGR   27.02 +11.70% vs yesterday's close 24.19 at 11:23 ET  MOVING
+FROG   111.66 +1.96% vs yesterday's close 109.51 at 11:22 ET  
+FTAI   191.04 -0.02% vs yesterday's close 191.08 at 11:21 ET  
+GEV    840.72 +4.02% vs yesterday's close 808.24 at 11:23 ET  MOVING
+GLW    120.56 +0.09% vs yesterday's close 120.46 at 11:22 ET  
+GOOG   296.48 +2.01% vs yesterday's close 290.63 at 11:23 ET  
+GWW    1,512.98 +1.78% vs yesterday's close 1,486.53 at 11:22 ET  
+HIMS   20.39 -2.02% vs yesterday's close 20.81 at 11:23 ET  
+HLT    376.47 -0.12% vs yesterday's close 376.91 at 11:22 ET  
+HONA   169.75 +0.13% vs yesterday's close 169.53 at 11:22 ET  
+HPE    50.66 +0.81% vs yesterday's close 50.25 at 11:23 ET  
+HUBS   218.39 +7.64% vs yesterday's close 202.88 at 11:22 ET  MOVING
+HUT    62.41 +2.21% vs yesterday's close 61.06 at 11:23 ET  
+INSM   118.97 -1.47% vs yesterday's close 120.75 at 11:22 ET  
+ISRG   442.42 -1.58% vs yesterday's close 449.53 at 11:23 ET  
+LNG    310.23 +1.88% vs yesterday's close 304.51 at 11:22 ET  
+MDB    339.02 +0.27% vs yesterday's close 338.12 at 11:23 ET  
+MPC    412.65 +2.44% vs yesterday's close 402.84 at 11:22 ET  
+MRVL   168.84 +0.03% vs yesterday's close 168.80 at 11:23 ET  
+MSFT   528.36 +1.39% vs yesterday's close 521.12 at 11:23 ET  
+NRG    99.08 +1.62% vs yesterday's close 97.50 at 11:22 ET  
+NVDA   166.60 -4.10% vs yesterday's close 173.73 at 11:23 ET  MOVING
+ODFL   174.51 +2.35% vs yesterday's close 170.50 at 11:22 ET  
+OKTA   180.07 -1.19% vs yesterday's close 182.25 at 11:22 ET  
+OXY    58.34 +1.91% vs yesterday's close 57.24 at 11:23 ET  
+PBR    18.00 +1.04% vs yesterday's close 17.82 at 11:23 ET  
+PBR.A  15.80 +0.67% vs yesterday's close 15.70 at 11:22 ET  
+PR     22.73 +1.81% vs yesterday's close 22.32 at 11:23 ET  
+PSX    262.92 +1.64% vs yesterday's close 258.68 at 11:22 ET  
+QCOM   183.23 +3.77% vs yesterday's close 176.57 at 11:23 ET  MOVING
+RCL    332.29 -0.86% vs yesterday's close 335.18 at 11:23 ET  
+RIOT   18.69 +2.24% vs yesterday's close 18.28 at 11:23 ET  
+ROK    411.48 +1.30% vs yesterday's close 406.19 at 11:23 ET  
+RVTY   158.19 -0.04% vs yesterday's close 158.25 at 11:22 ET  
+SANM   172.06 +8.04% vs yesterday's close 159.25 at 11:23 ET  MOVING
+SE     73.73 -0.35% vs yesterday's close 73.99 at 11:22 ET  
+SHOP   149.71 +0.30% vs yesterday's close 149.26 at 11:22 ET  
+SITM   483.39 +2.29% vs yesterday's close 472.56 at 11:21 ET  
+SMCI   28.84 -5.23% vs yesterday's close 30.43 at 11:23 ET  MOVING
+STX    555.46 +0.68% vs yesterday's close 551.72 at 11:23 ET  
+SWKS   92.70 +5.77% vs yesterday's close 87.64 at 11:22 ET  MOVING
+SYF    72.96 +1.31% vs yesterday's close 72.02 at 11:22 ET  
+TJX    136.23 +0.20% vs yesterday's close 135.96 at 11:23 ET  
+TOST   34.03 -0.21% vs yesterday's close 34.10 at 11:23 ET  
+TSEM   161.03 +1.36% vs yesterday's close 158.87 at 11:23 ET  
+TWST   109.45 -10.72% vs yesterday's close 122.59 at 11:23 ET  MOVING
+TXG    59.35 -4.34% vs yesterday's close 62.05 at 11:22 ET  MOVING
+VG     13.34 +5.33% vs yesterday's close 12.66 at 11:22 ET  MOVING
+VLO    374.71 +3.02% vs yesterday's close 363.71 at 11:23 ET  MOVING
+VRT    213.94 +3.60% vs yesterday's close 206.51 at 11:23 ET  MOVING
+VST    135.79 +1.75% vs yesterday's close 133.45 at 11:23 ET  
+WAT    466.60 -0.91% vs yesterday's close 470.90 at 11:22 ET  
+WDC    314.98 +0.53% vs yesterday's close 313.31 at 11:23 ET  
+WMB    70.14 +1.76% vs yesterday's close 68.92 at 11:23 ET  
+WULF   13.76 +3.00% vs yesterday's close 13.36 at 11:23 ET  MOVING
+
+  2026-11-12 11:16 ET  NVDA        Yahoo Finance Nvidia CEO Huang quits after affair with suspected China spy
+      tags: people  https://finance.yahoo.com/technology/ai/articles/nvidia-preparing-oust-ceo-jensen-002910155.html?.tsrc=rss
+  2026-11-12 11:16 ET  CBRS,NVDA   Yahoo Finance Nvidia's Valuation, Demand Outlook Mitigate Potential CEO Transition Risks, Wedbush Says
+      tags: people  https://finance.yahoo.com/markets/stocks/articles/nvidia-apos-valuation-demand-outlook-161621612.html?.tsrc=rss
+  2026-11-12 11:15 ET  NVDA        Yahoo Finance AMD and Broadcom emerge as winners amid Nvidia leadership uncertainty
+      https://finance.yahoo.com/markets/stocks/articles/amd-broadcom-emerge-winners-amid-161559077.html?.tsrc=rss
+  2026-11-12 11:11 ET  NVDA        Yahoo Finance NVDA support and resistance levels to watch amid shakeup
+      https://finance.yahoo.com/markets/stocks/articles/nvda-support-resistance-levels-watch-161142635.html?.tsrc=rss
+  2026-11-12 11:10 ET  APLD,CIFR,NVDA,WULF Yahoo Finance Applied Digital Sinks 8% as Nebius Outlook and NVIDIA CEO Exit Hit AI Data Center Stocks; Cipher Digital Falls 4%, TeraWulf Slides 3%
+      tags: earnings, people  https://247wallst.com/investing/2026/11/12/applied-digital-sinks-8-as-nebius-outlook-and-nvidia-ceo-exit-hit-ai-data-center-stocks-cipher-digital-falls-4-terawulf-slides-3/?.tsrc=rss
+  2026-11-12 11:09 ET  NVDA        Yahoo Finance Jensen Huang Just Resigned, and Nvidia Stock Has Fallen 35% From Its All-Time High. I Still Think It's a Buy.
+      tags: people  https://www.fool.com/investing/2026/11/12/jensen-huang-just-resigned-and-nvidia-stock-has-fallen-35-from-its-all-time-high-i-still-think-it-s-a-buy/?.tsrc=rss
+  2026-11-12 11:05 ET  NVDA        Yahoo Finance My Forever Portfolio: 5 Dividend-Paying Value Stocks That Are Too Cheap to Ignore
+      tags: capital  https://www.fool.com/investing/2026/11/12/my-forever-portfolio-5-dividend-paying-value-stock/?.tsrc=rss
+  2026-11-12 11:04 ET  NVDA        Yahoo Finance Why Micron Stock Dropped on Thursday
+      tags: people  https://www.fool.com/investing/2026/11/12/why-micron-stock-dropped-on-thursday/?.tsrc=rss
+  2026-11-12 11:03 ET  NVDA        Yahoo Finance Nvidia book author said there are only two real candidates to replace Jensen Huang
+      https://finance.yahoo.com/technology/articles/nvidia-book-author-said-only-160351501.html?.tsrc=rss
+  2026-11-12 11:03 ET  NVDA        Yahoo Finance Jensen Huang’s Exit From Nvidia Raises Execution, Governance And Broader AI Risks, Analysts Say — Citi Sees AI Demand Holding Strong
+      tags: earnings  https://stocktwits.com/news-articles/markets/equity/jensen-huang-s-exit-from-nvidia-raises-execution-governance-and-broader-ai-risks-analysts-say-citi-sees-ai-demand-holding-strong/cNGCGxzR9ar?.tsrc=rss
+  2026-11-12 11:03 ET  VRT         Yahoo Finance Bloom Energy Has Found an Unexpected Customer: AI
+      https://247wallst.com/investing/2026/11/12/bloom-energy-has-found-an-unexpected-customer-ai/?.tsrc=rss
+  2026-11-12 11:02 ET  DELL,HPE,NVDA,SMCI Yahoo Finance Super Micro Slides 7% Despite Gartner’s $957 Billion AI Server Forecast; Dell Falls 4%, Hewlett Packard Enterprise Dips
+      tags: earnings  https://247wallst.com/investing/2026/11/12/super-micro-slides-7-despite-gartners-957-billion-ai-server-forecast-dell-falls-4-hewlett-packard-enterprise-dips/?.tsrc=rss
+  2026-11-12 11:02 ET  GOOG,NVDA   Yahoo Finance Broadcom Rallies 5% as Traders Bet on Chip Rivals After Jensen Huang’s Exit; NVIDIA Falls 5%, AMD Climbs 2%
+      https://247wallst.com/investing/2026/11/12/broadcom-rallies-5-as-traders-bet-on-chip-rivals-after-jensen-huangs-exit-nvidia-falls-5-amd-climbs-2/?.tsrc=rss
+  2026-11-12 11:00 ET  NVDA        Yahoo Finance Jensen Huang resigns: What now for Nvidia after spying scandal turmoil?
+      tags: people  https://www.independent.co.uk/tech/nvidia-what-now-next-ceo-su-b3083931.html?.tsrc=rss
+  2026-11-12 11:00 ET  AMZN,GOOG,MSFT Yahoo Finance How Low Can Alphabet Stock Go?
+      https://www.trefis.com/stock/googl/articles/624528/how-low-can-alphabet-stock-go/2026-11-12?.tsrc=rss
+  2026-11-12 10:59 ET  VST         Yahoo Finance Is Constellation Energy Stock Increasing Your Market Risk?
+      https://www.trefis.com/stock/ceg/articles/624599/is-constellation-energy-stock-increasing-your-market-risk/2026-11-12?.tsrc=rss
+  2026-11-12 10:55 ET  AMZN,GOOG   Yahoo Finance Why Yahoo CEO Jim Lanzone loves being the underdog
+      tags: people  https://finance.yahoo.com/video/why-yahoo-ceo-jim-lanzone-loves-being-the-underdog-155534878.html?.tsrc=rss
+  2026-11-12 10:50 ET  CSCO,MSFT   Yahoo Finance Jensen Huang Resigns, Leaving CFO Colette Kress to Run Nvidia
+      tags: people  https://finance.yahoo.com/markets/stocks/articles/jensen-huang-resigns-leaving-cfo-155030892.html?.tsrc=rss
+  2026-11-12 10:46 ET  AMZN,GOOG   Yahoo Finance Has Trade Desk Stock Become A Different Bet?
+      https://www.trefis.com/stock/ttd/articles/624647/has-trade-desk-stock-become-a-different-bet/2026-11-12?.tsrc=rss
+  2026-11-12 10:45 ET  AMZN,GOOG,MDB,MSFT Yahoo Finance Will MongoDB Stock Ever Get Back To Its Old High?
+      https://www.trefis.com/stock/mdb/articles/624752/will-mongodb-stock-ever-get-back-to-its-old-high/2026-11-12?.tsrc=rss
+  2026-11-12 10:45 ET  AMZN        Yahoo Finance What Will Decide Home Depot Stock Over The Next Six Months?
+      https://www.trefis.com/stock/hd/articles/624753/what-will-decide-home-depot-stock-over-the-next-six-months/2026-11-12?.tsrc=rss
+  2026-11-12 10:45 ET  GOOG        Yahoo Finance Meta Nose-Dived 12% Over a Month: This Pro Analyst Expects 60% Gains Within 12 Months
+      https://247wallst.com/investing/2026/11/12/meta-nose-dived-12-over-a-month-this-pro-analyst-expects-60-gains-within-12-months/?.tsrc=rss
+  2026-11-12 10:45 ET  AMZN,GOOG,MSFT Yahoo Finance Alphabet’s Misunderstood TPUs Are a Hidden Catalyst Investors Haven’t Yet Noticed
+      https://247wallst.com/investing/2026/11/12/alphabets-misunderstood-tpus-are-a-hidden-catalyst-investors-havent-yet-noticed/?.tsrc=rss
+  2026-11-12 10:45 ET  GOOG        Yahoo Finance Nvidia Might Not Be The Biggest Threat to AMD’s Current Market Position
+      tags: earnings  https://247wallst.com/investing/2026/11/12/nvidia-might-not-be-the-biggest-threat-to-amds-currnet-market-position/?.tsrc=rss
+  2026-11-12 10:44 ET  SE          Yahoo Finance Asian Equities Traded in the US as American Depositary Receipts Drop Sharply in Thursday Trading
+      https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-154418495.html?.tsrc=rss
+  2026-11-12 10:43 ET  ROK         Yahoo Finance Rockwell Automation Introduces LogixEdge Controllers for Software-Defined Automation
+      https://finance.yahoo.com/technology/articles/rockwell-automation-introduces-logixedge-controllers-154300506.html?.tsrc=rss
+  2026-11-12 10:41 ET  QCOM        Yahoo Finance SpaceX's New Deal with Qualcomm Aims to Take on Mobile Carriers. History Says It's Going to Be an Uphill Battle.
+      tags: deal  https://www.fool.com/investing/2026/11/12/spacex-s-new-deal-with-qualcomm-aims-to-take-on-mobile-carriers-history-says-it-s-going-to-be-an-uphill-battle/?.tsrc=rss
+  2026-11-12 10:38 ET  CSCO,MSFT   Yahoo Finance Who is NVIDIA’s new CEO Colette Kress?
+      tags: people  https://finance.yahoo.com/markets/stocks/articles/nvidia-ceo-colette-kress-153831193.html?.tsrc=rss
+  2026-11-12 10:36 ET  HONA        Yahoo Finance Is Honeywell Aerospace Stock Really Expensive?
+      https://www.trefis.com/stock/hona/articles/624674/is-honeywell-aerospace-stock-really-expensive/2026-11-12?.tsrc=rss
+  2026-11-12 10:33 ET  MSFT        Yahoo Finance If This Tech Giant Doubles, Here’s What $10,000 Could Become
+      tags: earnings  https://247wallst.com/investing/2026/11/12/if-this-tech-giant-doubles-heres-what-10000-could-become/?.tsrc=rss
+  2026-11-12 10:26 ET  CSCO,MSFT   Yahoo Finance Who is Colette Kress, Nvidia's interim CEO?
+      tags: people  https://www.usatoday.com/story/tech/2026/11/12/nvidia-appoints-colette-kress-as-interim-ceo/92740030007/?.tsrc=rss
+  2026-11-12 10:26 ET  CIEN,CSCO,DELL,HPE Yahoo Finance The Open Question Under Arista Networks Stock's Price
+      https://www.trefis.com/stock/anet/articles/624676/the-open-question-under-arista-networks-stocks-price/2026-11-12?.tsrc=rss
+  2026-11-12 10:25 ET  CCJ         Yahoo Finance BLAST RESOURCES ANNOUNCES APPOINTMENT OF ANDY YACKULIC AS CHIEF EXECUTIVE OFFICER
+      tags: people  https://finance.yahoo.com/markets/stocks/articles/blast-resources-announces-appointment-andy-152500587.html?.tsrc=rss
+  2026-11-12 10:22 ET  BLK         Yahoo Finance Securitize and Ethena Open 24/7 BlackRock BUIDL Liquidity Facility With $50 Million Funded
+      https://unchainedcrypto.com/securitize-and-ethena-open-24-7-blackrock-buidl-liquidity-facility-with-50-million-funded/?.tsrc=rss
+  2026-11-12 10:20 ET  AMZN        Yahoo Finance Autonomous Mobile Robot Market - Share, Trends, and Growth Forecast (2026-2031) | AI Navigation and Warehouse Automation Propel 15.31% CAGR to USD 10.56 Billion
+      tags: earnings, capital  https://finance.yahoo.com/technology/articles/autonomous-mobile-robot-market-share-152000977.html?.tsrc=rss
+  2026-11-12 10:17 ET  HLT         Yahoo Finance Hilton Named No. 1 on World’s Best Workplaces List for Second Consecutive Year, Remains Only Hospitality Company Ever to Top the Prestigious List
+      https://finance.yahoo.com/small-business/articles/hilton-named-no-1-world-132600220.html?.tsrc=rss
+  2026-11-12 10:13 ET  ABNB,BKNG,EXPE Yahoo Finance How Has Booking Holdings' Story Changed?
+      https://www.trefis.com/stock/bkng/articles/624762/how-has-booking-holdings-story-changed/2026-11-12?.tsrc=rss
+  2026-11-12 10:13 ET  HIMS        Yahoo Finance Which Dates Could Move Hims & Hers Stock Most?
+      https://www.trefis.com/stock/hims/articles/624759/which-dates-could-move-hims-hers-stock-most/2026-11-12?.tsrc=rss
+  2026-11-12 10:13 ET  HIMS        Yahoo Finance What Does Progyny's Falling Multiple Really Say?
+      https://www.trefis.com/stock/pgny/articles/624711/what-does-progynys-falling-multiple-really-say-2/2026-11-12?.tsrc=rss
+  2026-11-12 10:13 ET  QCOM        Yahoo Finance How Much Should One Number Worry Qualcomm Stock Holders?
+      https://www.trefis.com/stock/qcom/articles/624743/how-much-should-one-number-worry-qualcomm-stock-holders/2026-11-12?.tsrc=rss
+  2026-11-12 10:12 ET  GEV         Yahoo Finance 67% Upside for GE Vernova? Morgan Stanley Thinks So, and Here’s How
+      tags: analyst  https://www.tikr.com/blog/67-upside-for-ge-vernova-morgan-stanley-thinks-so-and-heres-how?ref=yahoofinance&tlnk=yf-261112-hhmf23rf&.tsrc=rss
+  2026-11-12 10:11 ET  GOOG        Yahoo Finance Reddit Sinks 6% as Traffic Falls 13% on Google’s AI Overviews: “Not Traffic Drivers”
+      https://www.tikr.com/blog/reddit-sinks-6-as-traffic-falls-13-on-googles-ai-overviews-not-traffic-drivers?ref=yahoofinance&tlnk=yf-261112-487fvggf&.tsrc=rss
+  2026-11-12 10:11 ET  DDOG,OKTA   Yahoo Finance Palo Alto Networks Heads 3 Top Cybersecurity Stocks To Watch
+      https://finance.yahoo.com/technology/articles/palo-alto-networks-heads-3-151123464.html?.tsrc=rss
+  2026-11-12 10:10 ET  CSCO,MSFT   Yahoo Finance Jensen Huang Is Out at Nvidia. Who Could Replace Him?
+      tags: people  https://finance.yahoo.com/m/5251e781-71ed-3546-a665-e29ad4f132c2/jensen-huang-is-out-at.html?.tsrc=rss
+  2026-11-12 10:09 ET  DIS         Yahoo Finance Walt Disney (DIS) Just Gave Investors Something To Think About
+      https://finance.yahoo.com/markets/stocks/articles/walt-disney-dis-just-gave-150945933.html?.tsrc=rss
+  2026-11-12 10:09 ET  AMZN        Yahoo Finance Future Ready 2030: Amazon Is Helping More People Build Skills for New Careers in AI, Robotics, and Beyond
+      https://finance.yahoo.com/technology/ai/articles/future-ready-2030-amazon-helping-150900487.html?.tsrc=rss
+  2026-11-12 10:08 ET  AMZN,GOOG,MSFT Yahoo Finance Meta Is Handing Its AI Data Center Buildout to an Amazon Veteran
+      https://247wallst.com/investing/2026/11/12/meta-is-handing-its-ai-data-center-buildout-to-an-amazon-veteran/?.tsrc=rss
+  2026-11-12 10:07 ET  TWST        Yahoo Finance Full-Year Revenue Guidance and Strong Quarter Drove Twist Bioscience Corporation (TWST) Higher in Q3
+      tags: earnings  https://finance.yahoo.com/healthcare/articles/full-revenue-guidance-strong-quarter-150737117.html?.tsrc=rss
+  2026-11-12 10:05 ET  GOOG        Yahoo Finance Alphabet and Meta Platforms Pay Dividends. Is Either of Them Worth Owning for Income?
+      https://www.fool.com/investing/2026/11/12/alphabet-meta-platforms-dividends-owning-income/?.tsrc=rss
+  2026-11-12 10:01 ET  QCOM        Yahoo Finance Qualcomm CEO: AI won't replace your smartphone anytime soon
+      tags: people  https://finance.yahoo.com/technology/article/qualcomm-ceo-ai-wont-replace-your-smartphone-anytime-soon-150140110.html?.tsrc=rss
+  2026-11-12 10:01 ET  GLW         Yahoo Finance Cell Culture Protein Surface Coating - Global Strategic Business Report 2026: Capitalize on the $2.1B Market by 2032 as Corning, Merck, Sartorius and Thermo Fisher Accelerate Competition
+      tags: capital  https://finance.yahoo.com/healthcare/articles/cell-culture-protein-surface-coating-150100836.html?.tsrc=rss
+  2026-11-12 10:00 ET  CSCO        Yahoo Finance Can Nokia's Expanded One New Zealand Deal Accelerate Its AI Growth?
+      tags: deal  https://finance.yahoo.com/technology/ai/articles/nokias-expanded-one-zealand-deal-150000404.html?.tsrc=rss
+  2026-11-12 10:00 ET  MSFT        Yahoo Finance atQor Named Finalist for 2026 Microsoft Partner of the Year Award in - Agents
+      https://finance.yahoo.com/technology/ai/articles/atqor-named-finalist-2026-microsoft-150000518.html?.tsrc=rss
+  2026-11-12 10:00 ET  MSFT        Yahoo Finance BDO Recognized by Microsoft for Helping Organizations Build the Governance Foundation of AI
+      https://finance.yahoo.com/technology/ai/articles/bdo-recognized-microsoft-helping-organizations-150000005.html?.tsrc=rss
+  2026-11-12 09:58 ET  QCOM        Yahoo Finance Can Intel's Altera Partnership Drive Growth in Edge and Physical AI?
+      https://finance.yahoo.com/technology/ai/articles/intels-altera-partnership-drive-growth-145800104.html?.tsrc=rss
+  2026-11-12 09:57 ET  HUBS        Yahoo Finance HubSpot stock rises 6% on sweeping CEO and CFO leadership overhaul
+      tags: people  https://finance.yahoo.com/markets/stocks/articles/hubspot-stock-rises-6-sweeping-145738653.html?.tsrc=rss
+  2026-11-12 09:53 ET  INSM        Yahoo Finance Stanley Druckenmiller’s Next 13F Likely Lands Monday. 3 Positions to Watch
+      https://www.tikr.com/blog/stanley-druckenmillers-next-13f-likely-lands-monday-3-positions-to-watch?ref=yahoofinance&tlnk=yf-261112-pjfjf9mc&.tsrc=rss
+  2026-11-12 09:53 ET  APLD        Yahoo Finance Nebius Sinks 15% as Capex Swells and 2027 Outlook Takes a “Conservative Approach” to Build-Out
+      https://www.tikr.com/blog/nebius-sinks-15-as-capex-swells-and-2027-outlook-takes-a-conservative-approach-to-build-out?ref=yahoofinance&tlnk=yf-261112-f9g8h977&.tsrc=rss
+  2026-11-12 09:52 ET  TWST        Yahoo Finance This Biotech's Guidance Seemingly Beat Expectations — But A Twist Slammed The Stock
+      tags: earnings  https://finance.yahoo.com/m/1810e298-b5b4-375c-b674-fd09d669b389/this-biotech%27s-guidance.html?.tsrc=rss
+  2026-11-12 09:52 ET  SHOP        Yahoo Finance Shopify (SHOP) Positioned as Key Beneficiary of AI Discovery and Agentic Checkout
+      https://finance.yahoo.com/markets/stocks/articles/shopify-shop-positioned-key-beneficiary-145210911.html?.tsrc=rss
+  2026-11-12 09:50 ET  OXY         Yahoo Finance Is TALO Worth Buying as Low Valuation Meets Offshore Execution Risk?
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/talo-worth-buying-low-valuation-145000807.html?.tsrc=rss
+  2026-11-12 09:47 ET  AMZN,NVDA   Yahoo Finance AI Infrastructure Numbers Keep Climbing While the Week's Headlines Turn to the Boardroom
+      https://finance.yahoo.com/technology/ai/articles/ai-infrastructure-numbers-keep-climbing-144700719.html?.tsrc=rss
+  2026-11-12 09:46 ET  MSFT        Yahoo Finance Recapping Anthropic’s 2026 – and how it’s just getting started
+      https://finance.yahoo.com/video/recapping-anthropics-2026--and-how-its-just-getting-started-152143955.html?.tsrc=rss
+  2026-11-12 09:45 ET  AMZN,MSFT   Yahoo Finance Jim Cramer Is Bullish on These 5 Stocks Amid Nvidia Controversy
+      https://finance.yahoo.com/markets/stocks/articles/jim-cramer-bullish-5-stocks-144546369.html?.tsrc=rss
+  2026-11-12 09:44 ET  DVN         Yahoo Finance Nvidia downgraded, AMD upgraded: Wall Street's top analyst calls
+      tags: analyst  https://finance.yahoo.com/news/amd-under-armour-downgraded-wall-133533194.html?.tsrc=rss
+  2026-11-12 09:41 ET  MSFT        Yahoo Finance 5 Shocking Facts About Colette Kress, Nvidia’s New Interim CEO
+      tags: legal, people  https://beincrypto.com/colette-kress-nvidia-new-ceo-surprising-facts/?.tsrc=rss
+  2026-11-12 09:34 ET  CSCO        Yahoo Finance Digital Grid Solutions Market Report 2026: Size, Share, Trends, and Forecast to 2030 | Accelerate AI, Cloud, and Renewable Integration with Siemens, Hitachi Energy, IBM, and Cisco
+      tags: earnings, capital, macro  https://finance.yahoo.com/energy/articles/digital-grid-solutions-market-report-143400796.html?.tsrc=rss
+  2026-11-12 09:33 ET  DELL,HPE,SMCI Yahoo Finance Prediction: One AI Trend Could Send Dell Stock Higher
+      https://247wallst.com/investing/2026/11/12/prediction-one-ai-trend-could-send-dell-stock-higher/?.tsrc=rss
+  2026-11-12 09:30 ET  RCL         Yahoo Finance ROYAL CARIBBEAN CELEBRATES LEGEND OF THE SEAS IN VETERANS DAY NAMING CEREMONY
+      https://finance.yahoo.com/news/royal-caribbean-celebrates-legend-seas-143000100.html?.tsrc=rss
+  2026-11-12 09:27 ET  GOOG,MSFT   Yahoo Finance Global Online Collaborative Learning Platform Market Report 2026 | Capitalize on AI and Mobile Learning as Google, Microsoft, Coursera, and Udemy Drive Market to $68.69B by 2030
+      tags: capital  https://finance.yahoo.com/technology/articles/global-online-collaborative-learning-platform-142700206.html?.tsrc=rss
+  2026-11-12 09:25 ET  CSCO        Yahoo Finance Global Corporate Training Market Forecast and Strategies to 2035 | Capture the $858.87 Billion AI-Powered Training Market with Skillsoft, Cornerstone OnDemand and Cisco
+      tags: earnings, capital  https://finance.yahoo.com/technology/articles/global-corporate-training-market-forecast-142500317.html?.tsrc=rss
+  2026-11-12 09:21 ET  QCOM        Yahoo Finance Qualcomm CEO on tech stock meltdown: 'There is no AI correction' for us
+      tags: people  https://finance.yahoo.com/technology/article/qualcomm-ceo-on-tech-stock-meltdown-there-is-no-ai-correction-for-us-142155683.html?.tsrc=rss
+  2026-11-12 09:21 ET  CSCO        Yahoo Finance Global Airport Information Technology (IT) Spending Market Report 2026 | Capitalize on 9.3% CAGR Through 2030 as Siemens, Cisco, Thales and SITA Accelerate AI, Cloud and Biometrics
+      tags: capital  https://finance.yahoo.com/technology/articles/global-airport-information-technology-spending-142100947.html?.tsrc=rss
+  2026-11-12 09:20 ET  GOOG        Yahoo Finance AMD Swung 17% Down and Back in One Week: Take Profits, or Buy More?
+      tags: analyst  https://www.tikr.com/blog/amd-swung-17-down-and-back-in-one-week-take-profits-or-buy-more?ref=yahoofinance&tlnk=yf-261112-5wgr4f28&.tsrc=rss
+  2026-11-12 09:20 ET  MSFT        Yahoo Finance Artificial Intelligence (AI) Clinical Trial Optimization Global Market Report 2026 | Capitalize on 15.7% CAGR with IQVIA, NVIDIA, Microsoft and Oracle
+      tags: capital, regulatory  https://finance.yahoo.com/healthcare/articles/artificial-intelligence-ai-clinical-trial-142000510.html?.tsrc=rss
+  2026-11-12 09:19 ET  CSCO,DELL,HPE Yahoo Finance Was The Run In Dell Stock Hiding In Plain Sight?
+      https://www.trefis.com/stock/dell/articles/624598/was-the-run-in-dell-stock-hiding-in-plain-sight/2026-11-12?.tsrc=rss
+  2026-11-12 09:18 ET  VST         Yahoo Finance New Era Energy & Digital contracts up to 207 MW of power for Texas data center campus
+      https://www.proactiveinvestors.com/companies/news/1101682/new-era-energy-digital-contracts-up-to-207-mw-of-power-for-texas-data-center-campus-1101682.html?.tsrc=rss
+  2026-11-12 09:16 ET  CSCO,MSFT   Yahoo Finance AI in IT Operations Global Market Report 2026 | Capitalize on 22.3% CAGR with Microsoft, Cisco, IBM, and ServiceNow
+      tags: capital  https://finance.yahoo.com/technology/ai/articles/ai-operations-global-market-report-141600318.html?.tsrc=rss
+  2026-11-12 09:15 ET  AMZN        Yahoo Finance Min Jin Lee’s Contemporary Epic American Hagwon Selected as Amazon’s Best Book of 2026
+      https://finance.yahoo.com/media-advertising/articles/min-jin-lee-contemporary-epic-141500851.html?.tsrc=rss
+  2026-11-12 09:13 ET  GOOG        Yahoo Finance Nvidia Is Back Below $4 Trillion, and Microsoft Just Passed It
+      https://247wallst.com/investing/2026/11/12/nvidia-is-back-below-4-trillion-and-microsoft-just-passed-it/?.tsrc=rss
+  2026-11-12 09:12 ET  CSCO        Yahoo Finance Jensen Huang Resigns as Nvidia CEO Over Affairs Scandals. His Interim Replacement Has Been Announced.
+      tags: people  https://www.ibtimes.com/jensen-huang-resigns-nvidia-ceo-3809675?.tsrc=rss
+  2026-11-12 09:12 ET  SHOP        Yahoo Finance Why Should PayPal Stock Holders Watch This One Number?
+      https://www.trefis.com/stock/pypl/articles/624602/why-should-paypal-stock-holders-watch-this-one-number/2026-11-12?.tsrc=rss
+! 2026-11-12 09:11 ET  MRVL        SEC EDGAR     Marvell Technology, Inc. filed a 8-K: director or officer change
+      https://www.sec.gov/Archives/edgar/data/1835632/000183563226000026/0001835632-26-000026-index.htm
+  2026-11-12 09:11 ET  AMZN        Yahoo Finance Global Fifth Party Logistics (5PL) Market Report 2026 | Capitalize on AI-Led Growth to $21.99 Billion by 2030 as Amazon, UPS, DHL, Kuehne + Nagel and DSV Scale Orchestration
+      tags: capital  https://finance.yahoo.com/technology/articles/global-fifth-party-logistics-5pl-141100953.html?.tsrc=rss
+  2026-11-12 09:11 ET  GOOG        Yahoo Finance Reddit CEO on being 'quite literally the last' platform to require logins
+      tags: people  https://finance.yahoo.com/video/reddit-ceo-on-being-quite-literally-the-last-platform-to-require-logins-152647038.html?.tsrc=rss
+  2026-11-12 09:07 ET  QCOM        Yahoo Finance Silicon Motion Vs. Qualcomm: Which Chipmaker Has More Potential?
+      tags: earnings  https://finance.yahoo.com/technology/articles/silicon-motion-vs-qualcomm-chipmaker-140700645.html?.tsrc=rss
+  2026-11-12 09:06 ET  ALAB,DELL,SMCI Yahoo Finance Nvidia Sinks 11% on Report Board Will Oust Jensen Huang; Bernstein Downgrades: “We’ve Had Enough”
+      tags: analyst, people  https://www.tikr.com/blog/nvidia-sinks-11-on-report-board-will-oust-jensen-huang-bernstein-downgrades-weve-had-enough?ref=yahoofinance&tlnk=yf-261112-mw4r43fw&.tsrc=rss
+  2026-11-12 09:01 ET  GOOG        Yahoo Finance 'AI does not exist as we know it without Reddit,' CEO Huffman says
+      tags: people  https://finance.yahoo.com/video/ai-does-not-exist-as-we-know-it-without-reddit-ceo-huffman-says-140106972.html?.tsrc=rss
+  2026-11-12 09:01 ET  AMZN        Yahoo Finance Cloudinary and AWS Deepen Partnership to Bring Cloudinary’s Image and Video Platform to Amazon CloudFront
+      https://finance.yahoo.com/technology/articles/cloudinary-aws-deepen-partnership-bring-140100383.html?.tsrc=rss
+  2026-11-12 09:00 ET  MRVL        Yahoo Finance Ondas Holdings Inc. (ONDS) Reports Q3 Loss, Beats Revenue Estimates
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/ondas-holdings-inc-onds-reports-140001698.html?.tsrc=rss
+  2026-11-12 09:00 ET  CIEN        Yahoo Finance Ciena Announces Reporting Date and Web Broadcast for Fiscal Fourth Quarter and Year-End 2026 Results
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/ciena-announces-reporting-date-broadcast-140000532.html?.tsrc=rss
+  2026-11-12 09:00 ET  CSCO        Yahoo Finance Cohesity Earns Cisco Top Durable Growth and Innovation Partner Recognition for Second Consecutive Year
+      https://finance.yahoo.com/technology/ai/articles/cohesity-earns-cisco-top-durable-140000738.html?.tsrc=rss
+  2026-11-12 09:00 ET  GOOG        Yahoo Finance Tigo Energy and Google Cloud Pair AI-Powered Tools for Solar Installers and Utilities
+      https://finance.yahoo.com/energy/articles/tigo-energy-google-cloud-pair-140000756.html?.tsrc=rss
+  2026-11-12 09:00 ET  GOOG        Yahoo Finance Warby Parker Opens Preorders for First Intelligent Eyewear Collection
+      tags: people  https://finance.yahoo.com/technology/articles/warby-parker-opens-preorders-first-140000146.html?.tsrc=rss
+  2026-11-12 09:00 ET  HPE         Yahoo Finance HPE Addresses Industry Demand for Scalable HPC Solutions With World’s Fastest Hybrid Supercomputing Storage and Intelligent Rack Management
+      https://finance.yahoo.com/technology/articles/hpe-addresses-industry-demand-scalable-140000597.html?.tsrc=rss
+  2026-11-12 09:00 ET  MRVL        Yahoo Finance Marvell Appoints Three New Independent Directors to its Board
+      tags: people  https://finance.yahoo.com/technology/articles/marvell-appoints-three-independent-directors-140000664.html?.tsrc=rss
+  2026-11-12 08:56 ET  CSCO,DELL,HPE Yahoo Finance Can HPE Sustain Growth Amid Evolving AI Market Dynamics?
+      https://finance.yahoo.com/technology/ai/articles/hpe-sustain-growth-amid-evolving-135600296.html?.tsrc=rss
+  2026-11-12 08:54 ET  CSCO        Yahoo Finance Jensen Huang Resigns From Nvidia. How Will Stock React?
+      tags: people  https://beincrypto.com/jensen-huang-resigns-from-nvidia/?.tsrc=rss
+  2026-11-12 08:53 ET  TJX         Yahoo Finance The TJX Companies Q3 Earnings Coming Up: Key Factors to Watch
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/tjx-companies-q3-earnings-coming-135300037.html?.tsrc=rss
+  2026-11-12 08:52 ET  LNG,WMB     Yahoo Finance Can Williams Afford Its Spending Bill?
+      https://www.trefis.com/stock/wmb/articles/624695/can-williams-afford-its-spending-bill/2026-11-12?.tsrc=rss
+  2026-11-12 08:50 ET  QCOM        Yahoo Finance Broadcom and Qualcomm Each Lost at Least 9% Thursday. Only One Is Guiding for 93% Growth
+      https://www.tikr.com/blog/broadcom-and-qualcomm-each-lost-at-least-9-thursday-only-one-is-guiding-for-93-growth?ref=yahoofinance&tlnk=yf-261112-5c69f2v8&.tsrc=rss
+  2026-11-12 08:45 ET  DIS         Yahoo Finance Alliance Entertainment Holding Corporation (AENT) Tops Q1 Earnings and Revenue Estimates
+      tags: earnings  https://finance.yahoo.com/media-advertising/articles/alliance-entertainment-holding-corporation-aent-134501522.html?.tsrc=rss
+  2026-11-12 08:41 ET  OXY         Yahoo Finance Can Occidental Petroleum Stock Fall 30%?
+      https://www.trefis.com/stock/oxy/articles/624572/can-occidental-petroleum-stock-fall-30/2026-11-12?.tsrc=rss
+  2026-11-12 08:40 ET  TWST        Yahoo Finance Twist Bioscience: Fiscal Q4 Earnings Snapshot
+      tags: earnings  https://finance.yahoo.com/healthcare/articles/twist-bioscience-fiscal-q4-earnings-134024966.html?.tsrc=rss
+  2026-11-12 08:40 ET  DELL        Yahoo Finance Is Advanced Energy Industries (AEIS) Stock Outpacing Its Computer and Technology Peers This Year?
+      https://finance.yahoo.com/markets/stocks/articles/advanced-energy-industries-aeis-stock-134003930.html?.tsrc=rss
+  2026-11-12 08:38 ET  BLK         Yahoo Finance BlackRock's Private Markets Expansion: A Key Long-Term Growth Driver?
+      https://finance.yahoo.com/markets/stocks/articles/blackrocks-private-markets-expansion-key-133800531.html?.tsrc=rss
+  2026-11-12 08:35 ET  TWST        Yahoo Finance Twist Bioscience (TWST) Reports Q4 Loss, Beats Revenue Estimates
+      tags: earnings  https://finance.yahoo.com/healthcare/articles/twist-bioscience-twst-reports-q4-133501999.html?.tsrc=rss
+  2026-11-12 08:34 ET  QCOM        Yahoo Finance Qualcomm CEO: Elon Musk is serious about SpaceX's cellular network ambitions
+      tags: deal, people  https://finance.yahoo.com/markets/stocks/article/qualcomm-ceo-elon-musk-is-serious-about-spacexs-cellular-network-ambitions-133405046.html?.tsrc=rss
+  2026-11-12 08:33 ET  HPE         Yahoo Finance Baidu to Report Q3 Earnings: What's in Store for the Stock?
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/baidu-report-q3-earnings-whats-133300066.html?.tsrc=rss
+  2026-11-12 08:30 ET  WDC         Yahoo Finance Wall Street Bulls Look Optimistic About Western Digital (WDC): Should You Buy?
+      https://finance.yahoo.com/markets/stocks/articles/wall-street-bulls-look-optimistic-133003573.html?.tsrc=rss
+  2026-11-12 08:30 ET  ISRG        Yahoo Finance Brokers Suggest Investing in Intuitive Surgical (ISRG): Read This Before Placing a Bet
+      https://finance.yahoo.com/markets/stocks/articles/brokers-suggest-investing-intuitive-surgical-133002636.html?.tsrc=rss
+  2026-11-12 08:30 ET  VRT         Yahoo Finance Vertiv Introduces Medium-Voltage Power System to Help AI Data Centers Connect to the Grid Faster and Free Indoor Space for Compute
+      https://finance.yahoo.com/technology/ai/articles/vertiv-introduces-medium-voltage-power-133000368.html?.tsrc=rss
+  2026-11-12 08:29 ET  DVN         Yahoo Finance Bernstein cuts ConocoPhillips and Diamondback ratings as Iran de-escalation looms
+      tags: analyst  https://finance.yahoo.com/energy/articles/bernstein-cuts-conocophillips-diamondback-ratings-132928047.html?.tsrc=rss
+  2026-11-12 08:24 ET  QCOM        Yahoo Finance Qualcomm CEO on SpaceX deal: 'It's a great partnership' that will drive 'innovation'
+      tags: deal, people  https://finance.yahoo.com/video/qualcomm-ceo-on-spacex-deal-its-a-great-partnership-that-will-drive-innovation-132448818.html?.tsrc=rss
+  2026-11-12 08:23 ET  AMZN,DIS    Yahoo Finance Will Content Capex Weigh on Netflix's Free Cash Flow Trajectory?
+      https://finance.yahoo.com/media-advertising/articles/content-capex-weigh-netflixs-free-132300122.html?.tsrc=rss
+  2026-11-12 08:23 ET  CIFR,WULF   Yahoo Finance Cipher Digital Eyes 5.9 GW Pipeline: Can It Unlock Growth?
+      https://finance.yahoo.com/technology/ai/articles/cipher-digital-eyes-5-9-132300628.html?.tsrc=rss
+  2026-11-12 08:17 ET  CBRS        Yahoo Finance Cathie Wood Bought Cerebras Before It Fell 54%. Is She Wrong, or Early?
+      https://www.tikr.com/blog/cathie-wood-bought-cerebras-before-it-fell-54-is-she-wrong-or-early?ref=yahoofinance&tlnk=yf-261112-pr4qhh24&.tsrc=rss
+  2026-11-12 08:15 ET  DIS         Yahoo Finance Unlocking Q4 Potential of Disney (DIS): Exploring Wall Street Estimates for Key Metrics
+      https://finance.yahoo.com/markets/stocks/articles/unlocking-q4-potential-disney-dis-131502385.html?.tsrc=rss
+! 2026-11-12 08:08 ET  HUBS        SEC EDGAR     HUBSPOT INC filed a 8-K: director or officer change, Regulation FD disclosure
+      https://www.sec.gov/Archives/edgar/data/1404655/000119312526457055/0001193125-26-457055-index.htm
+  2026-11-12 08:00 ET  VST         Yahoo Finance Vistra Is Still Down 17% This Year: Did Earnings Just Mark the Bottom?
+      tags: earnings  https://www.tikr.com/blog/vistra-is-still-down-17-this-year-did-earnings-just-mark-the-bottom?ref=yahoofinance&tlnk=yf-261112-3r9gw5m6&.tsrc=rss
+  2026-11-12 08:00 ET  ABNB        Yahoo Finance Airbnb, Inc. (ABNB) is Attracting Investor Attention: Here is What You Should Know
+      https://finance.yahoo.com/markets/stocks/articles/airbnb-inc-abnb-attracting-investor-130004117.html?.tsrc=rss
+  2026-11-12 08:00 ET  MRVL        Yahoo Finance Marvell Technology, Inc. (MRVL) is Attracting Investor Attention: Here is What You Should Know
+      https://finance.yahoo.com/markets/stocks/articles/marvell-technology-inc-mrvl-attracting-130004541.html?.tsrc=rss
+  2026-11-12 08:00 ET  TOST        Yahoo Finance Toast, Inc. (TOST) Is a Trending Stock: Facts to Know Before Betting on It
+      https://finance.yahoo.com/markets/stocks/articles/toast-inc-tost-trending-stock-130003373.html?.tsrc=rss
+  2026-11-12 08:00 ET  APLD        Yahoo Finance XYZ Reality and McGough's New Documentary Proves Delivery Predictability on Live AI Factory Campus Build
+      https://finance.yahoo.com/technology/ai/articles/xyz-reality-mcgoughs-documentary-proves-130000386.html?.tsrc=rss
+  2026-11-12 08:00 ET  CCJ         Yahoo Finance Cosa Intersects Anomalous Radioactivity and Additional Prospective Geology at Darby Joint Venture with Denison Mines
+      tags: earnings  https://finance.yahoo.com/markets/commodities/articles/cosa-intersects-anomalous-radioactivity-additional-130000311.html?.tsrc=rss
+  2026-11-12 08:00 ET  DELL        Yahoo Finance The AI Summit New York 2026 Announces Keynote and Featured Speaker Lineup with Leaders from Google, L’Oréal and Dell Technologies
+      https://finance.yahoo.com/technology/ai/articles/ai-summit-york-2026-announces-130000796.html?.tsrc=rss
+  2026-11-12 08:00 ET  HUBS        Yahoo Finance HubSpot Announces Leadership Transition: Co-Founder Brian Halligan Returns as Chief Executive Officer to Lead a Refounding of the Company; Karen Burgess Named Next Chief Financial Officer
+      tags: people  https://finance.yahoo.com/technology/articles/hubspot-announces-leadership-transition-co-130000484.html?.tsrc=rss
+  2026-11-12 08:00 ET  TOST        Yahoo Finance Great Harvest Partners with Toast to Support Growth and Streamline Bakery Operations
+      https://finance.yahoo.com/small-business/articles/great-harvest-partners-toast-support-130000580.html?.tsrc=rss
+  2026-11-12 07:55 ET  AMZN        Yahoo Finance CRWV's Q3 Earnings Beat on Strong Pricing, Revenues Climb 168% Y/Y
+      tags: earnings  https://finance.yahoo.com/technology/ai/articles/crwvs-q3-earnings-beat-strong-125500323.html?.tsrc=rss
+  2026-11-12 07:44 ET  CCJ         Yahoo Finance CCJ's Share of Uranium Output Down 20% in Q3: Will 2026 Targets be Met?
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/ccjs-share-uranium-output-down-124400298.html?.tsrc=rss
+  2026-11-12 07:34 ET  ETSY        Yahoo Finance Chewy vs. Etsy: Which Consumer Stock Is a Better Buy for 2027?
+      https://www.fool.com/coverage/better-buy/2026/11/12/chewy-vs-etsy-which-consumer-stock-is-a-better-buy-for-2027/?.tsrc=rss
+  2026-11-12 07:24 ET  MPC         Yahoo Finance Patterson-UTI Expects Higher Rig Demand as 2027 Outlook Improves
+      https://finance.yahoo.com/energy/articles/patterson-uti-expects-higher-rig-122400146.html?.tsrc=rss
+  2026-11-12 07:22 ET  MPC         Yahoo Finance Halliburton Expands Geothermal Footprint With Sage Geosystems Deal
+      tags: deal  https://finance.yahoo.com/energy/articles/halliburton-expands-geothermal-footprint-sage-122200542.html?.tsrc=rss
+! 2026-11-12 07:19 ET  TWST        SEC EDGAR     Twist Bioscience Corp filed a 8-K: earnings results
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1581280/000158128026000053/0001581280-26-000053-index.htm
+  2026-11-12 07:15 ET  TWST        Yahoo Finance Twist Bioscience Announces Fiscal 2026 Fourth Quarter and Full Year Financial Results
+      tags: earnings  https://finance.yahoo.com/healthcare/articles/twist-bioscience-announces-fiscal-2026-121500674.html?.tsrc=rss
+  2026-11-12 07:12 ET  EQIX        Yahoo Finance Is Equinix (EQIX) Reasonable With Cash Flow Riding On Expansion?
+      https://finance.yahoo.com/markets/stocks/articles/equinix-eqix-reasonable-cash-flow-121236575.html?.tsrc=rss
+  2026-11-12 07:11 ET  DELL,HPE    Yahoo Finance Nebul Picks NetApp Novus: Why It Matters for NTAP's AI Growth
+      https://finance.yahoo.com/technology/ai/articles/nebul-picks-netapp-novus-why-121100773.html?.tsrc=rss
+  2026-11-12 07:10 ET  CLS         Yahoo Finance TSX futures subdued amid reports Nvidia board preparing ouster of CEO Jensen Huang
+      tags: people, macro  https://finance.yahoo.com/markets/stocks/articles/tsx-futures-subdued-amid-reports-121009808.html?.tsrc=rss
+  2026-11-12 07:10 ET  OXY         Yahoo Finance Occidental Petroleum Q3 Earnings Beat Estimates on Strong Oil Prices
+      tags: earnings  https://finance.yahoo.com/energy/articles/occidental-petroleum-q3-earnings-beat-121000987.html?.tsrc=rss
+  2026-11-12 06:25 ET  SMCI        Yahoo Finance Buy 3 Top-Ranked Undervalued AI Infrastructure Giants to Boost Gains
+      https://finance.yahoo.com/technology/ai/articles/buy-3-top-ranked-undervalued-112500072.html?.tsrc=rss
+  2026-11-12 06:13 ET  CCJ         Yahoo Finance 3 AI Power Stocks With Earnings Growth Over 21%
+      tags: earnings  https://finance.yahoo.com/technology/ai/articles/3-ai-power-stocks-earnings-111348197.html?.tsrc=rss
+! 2026-11-12 06:06 ET  ENS         SEC EDGAR     EnerSys filed a 8-K: earnings results, other events
+      tags: earnings  https://www.sec.gov/Archives/edgar/data/1289308/000162828026073041/0001628280-26-073041-index.htm
+  2026-11-12 06:05 ET  MPC,VLO     Yahoo Finance What iShares Global Energy ETF (IXC) Sold: Exxon Mobil Leads on Nov. 10
+      https://finance.yahoo.com/markets/stocks/articles/ishares-global-energy-etf-ixc-110558884.html?.tsrc=rss
+  2026-11-12 06:04 ET  ENS         Yahoo Finance Avantis U.S. Small Cap Value ETF (AVUV) Buys $11.5 Million More Enersys on Tuesday
+      https://finance.yahoo.com/markets/stocks/articles/avantis-u-small-cap-value-110441771.html?.tsrc=rss
+  2026-11-12 06:03 ET  VST         Yahoo Finance ETFs Are Net Sellers of Vistra (VST) on Nov. 10
+      https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-vistra-vst-110321263.html?.tsrc=rss
+  2026-11-12 05:53 ET  QCOM        Yahoo Finance Semiconductor ETFs to Buy as Qualcomm Plunges Despite Q4 Earnings Beat
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/semiconductor-etfs-buy-qualcomm-plunges-105300424.html?.tsrc=rss
+  2026-11-12 05:35 ET  SHOP        Yahoo Finance The 3 Best Stocks to Invest $3,000 in Right Now
+      https://www.fool.com/investing/2026/11/12/the-3-best-stocks-to-invest-3000-in-right-now/?.tsrc=rss
+  2026-11-12 05:11 ET  CLS         Yahoo Finance Our Pick Of The Best Canadian Undervalued Tech Stocks In November 2026
+      https://finance.yahoo.com/technology/articles/pick-best-canadian-undervalued-tech-101145145.html?.tsrc=rss
+  2026-11-12 05:09 ET  VG          Yahoo Finance What Is Venture Global (VG) Signaling With Plaquemines LNG And AI Power Plans?
+      https://finance.yahoo.com/energy/articles/venture-global-vg-signaling-plaquemines-100919460.html?.tsrc=rss
+  2026-11-12 05:08 ET  MPC         Yahoo Finance Marathon Petroleum (MPC) Posts Stronger Q3 Results, Is It Still 12% Undervalued?
+      tags: earnings, analyst  https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-posts-stronger-100843023.html?.tsrc=rss
+  2026-11-12 05:03 ET  BLK         Yahoo Finance UK AI chip start-up Fractile raises $720m at $7bn valuation
+      https://www.verdict.co.uk/fractile-raises-720m/?.tsrc=rss
+  2026-11-12 05:00 ET  CCJ         Yahoo Finance The Best Uranium Stocks to Buy and Hold as Nuclear Power Expands
+      https://www.fool.com/investing/2026/11/12/best-uranium-stocks-buy-hold-nuclear-ccj-ues/?.tsrc=rss
+  2026-11-12 04:14 ET  HONA        Yahoo Finance 3 Hydrogen Stocks To Watch In November 2026
+      tags: analyst  https://finance.yahoo.com/energy/articles/3-hydrogen-stocks-watch-november-091412059.html?.tsrc=rss
+  2026-11-12 04:12 ET  EQIX        Yahoo Finance Green Bond Raise Might Change The Case For Investing In Equinix (EQIX)
+      tags: people  https://finance.yahoo.com/markets/stocks/articles/green-bond-raise-might-change-091211255.html?.tsrc=rss
+  2026-11-12 04:10 ET  CBRS        Yahoo Finance Should You Buy Anthropic IPO Stock? Here’s What History Says
+      https://www.fool.com/investing/2026/11/12/should-you-buy-anthropic-ipo-stock-here-s-what-history-says/?.tsrc=rss
+  2026-11-12 03:40 ET  EQIX        Yahoo Finance Laing O’Rourke explores sale of Middle East arm
+      https://www.worldconstructionnetwork.com/news/liang-o-rourke-middle-east/?.tsrc=rss
+  2026-11-12 03:22 ET  MDB         Yahoo Finance Best Growth Stocks to Buy for November 12th
+      https://finance.yahoo.com/markets/stocks/articles/best-growth-stocks-buy-november-082200294.html?.tsrc=rss
+  2026-11-12 03:14 ET  SHOP,TOST   Yahoo Finance Bernstein names its top payments stock picks
+      https://finance.yahoo.com/markets/stocks/articles/bernstein-names-top-payments-stock-081430921.html?.tsrc=rss
+  2026-11-12 03:14 ET  QCOM        Yahoo Finance 3 AI Stocks With Up To 30% Revenue Growth
+      https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-30-revenue-081403000.html?.tsrc=rss
+  2026-11-12 03:11 ET  TWST        Yahoo Finance Twist Bioscience Stock Has The Bull Case Changed After MRD Panel Launch?
+      https://finance.yahoo.com/markets/stocks/articles/twist-bioscience-stock-bull-case-081141991.html?.tsrc=rss
+  2026-11-12 03:11 ET  SMCI        Yahoo Finance Top 3 AI Infrastructure Stocks To Watch In November 2026
+      tags: analyst  https://finance.yahoo.com/technology/ai/articles/top-3-ai-infrastructure-stocks-081108648.html?.tsrc=rss
+  2026-11-12 02:55 ET  APLD        Yahoo Finance Morgan Stanley Just Cut Its Applied Digital Target From $41 to $25
+      https://www.tikr.com/blog/morgan-stanley-just-cut-its-applied-digital-target-from-41-to-25?ref=yahoofinance&tlnk=yf-261112-9jp376x8&.tsrc=rss
+  2026-11-12 02:14 ET  MPC         Yahoo Finance Is Marathon Petroleum (MPC) Too Pricey For Its Future Cash Flow?
+      https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-too-pricey-071435697.html?.tsrc=rss
+  2026-11-12 02:14 ET  CCJ         Yahoo Finance Energy Fuels Dips Post Q3 Earnings Miss: How to Play the Stock?
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/energy-fuels-dips-post-q3-071400711.html?.tsrc=rss
+  2026-11-12 02:12 ET  SITM        Yahoo Finance Cognex Sees Strong 2026 Growth as AI and Automation Fuel Demand
+      tags: people  https://www.marketbeat.com/instant-alerts/event-cognex-sees-strong-2026-growth-as-ai-and-automation-fuel-demand-2026-11-12/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss
+  2026-11-12 01:15 ET  BKNG        Yahoo Finance Kaohsiung Mayor Shares Secret of How the City Is Turning Concerts into Tourism Wins
+      https://finance.yahoo.com/small-business/articles/kaohsiung-mayor-shares-secret-city-061500593.html?.tsrc=rss
+  2026-11-12 00:56 ET  BLK         Yahoo Finance 5 Days of Bitcoin ETF Outflows, Brought to You Mostly by BlackRock
+      https://beincrypto.com/blackrock-bitcoin-etf-outflows-five-days/?.tsrc=rss
+  2026-11-12 00:18 ET  ABNB        Yahoo Finance Airbnb (ABNB) And The AI Travel Deal That Could Rewire Trip Booking
+      tags: deal  https://finance.yahoo.com/technology/ai/articles/airbnb-abnb-ai-travel-deal-051841667.html?.tsrc=rss
+  2026-11-12 00:12 ET  ROK         Yahoo Finance Rockwell Automation Sees Up to 9% Organic Growth as Orders Surge
+      tags: people  https://www.marketbeat.com/instant-alerts/event-rockwell-automation-sees-up-to-9-organic-growth-as-orders-surge-2026-11-11/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss
+  2026-11-11 23:33 ET  DDOG        Yahoo Finance Palantir Grew Revenue 96%. Its Stock Fell 7% Because Bookings Rose Just 6%
+      https://www.tikr.com/blog/palantir-grew-revenue-96-its-stock-fell-7-because-bookings-rose-just-6?ref=yahoofinance&tlnk=yf-261112-h664ccgf&.tsrc=rss
+  2026-11-11 22:52 ET  MRVL        Yahoo Finance Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027?
+      https://www.fool.com/coverage/better-buy/2026/11/11/advanced-micro-devices-vs-marvell-technology-which-artificial-intelligence-stock-is-a-better-buy-going-into-2027/?.tsrc=rss
+  2026-11-11 22:18 ET  DOCN        Yahoo Finance DigitalOcean (DOCN) Stock Looks Fairly Priced After Strong Q3 Growth
+      https://finance.yahoo.com/markets/stocks/articles/digitalocean-docn-stock-looks-fairly-031813611.html?.tsrc=rss
+  2026-11-11 21:19 ET  BKNG        Yahoo Finance Could Booking Holdings (BKNG) Lose Travel Search Ground To New AI Gatekeepers?
+      tags: deal  https://finance.yahoo.com/technology/ai/articles/could-booking-holdings-bkng-lose-021954415.html?.tsrc=rss
+  2026-11-11 21:18 ET  CLS         Yahoo Finance 3 Canadian Growth Stocks To Own In November 2026
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/3-canadian-growth-stocks-own-021817704.html?.tsrc=rss
+  2026-11-11 21:16 ET  SHOP        Yahoo Finance Shopify (SHOP) Earnings And AI Commerce Story Put Valuation Back In Focus
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/shopify-shop-earnings-ai-commerce-021613556.html?.tsrc=rss
+  2026-11-11 21:14 ET  HPE         Yahoo Finance What Comes Next For Hewlett Packard Enterprise After A 118% Gain
+      tags: regulatory, macro  https://finance.yahoo.com/markets/stocks/articles/comes-next-hewlett-packard-enterprise-021455177.html?.tsrc=rss
+  2026-11-11 20:27 ET  OXY         Yahoo Finance Should You Pick Occidental Stock Over Its Competitors?
+      https://www.trefis.com/stock/oxy/articles/624270/should-you-pick-occidental-stock-over-its-competitors/2026-11-11?.tsrc=rss
+  2026-11-11 20:12 ET  ALAB,MRVL   Yahoo Finance How Much Could You Lose In Credo Stock?
+      https://www.trefis.com/stock/crdo/articles/624229/how-much-could-you-lose-in-credo-stock/2026-11-11?.tsrc=rss
+  2026-11-11 20:12 ET  STX         Yahoo Finance Seagate Technology Holdings (STX) Gains Fresh Backing As AI Storage Demand Tests Its Valuation
+      tags: earnings  https://finance.yahoo.com/technology/ai/articles/seagate-technology-holdings-stx-gains-011222679.html?.tsrc=rss
+  2026-11-11 20:11 ET  APLD        Yahoo Finance Applied Digital (APLD) Could Be 71% Undervalued After CoreWeave Lifted AI Sentiment
+      https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-could-71-011156493.html?.tsrc=rss
+  2026-11-11 20:10 ET  TSEM        Yahoo Finance Tower Semiconductor (TSEM) Stock Could Be Priced About Right On Earnings
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/tower-semiconductor-tsem-stock-could-011053397.html?.tsrc=rss
+  2026-11-11 20:10 ET  SHOP        Yahoo Finance How Investors May Respond To Shopify (SHOP) Mixed Earnings And AI Push
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-shopify-shop-011010918.html?.tsrc=rss
+  2026-11-11 20:00 ET  BKNG        Yahoo Finance International Travel Beckons, but Value Calls the Shots, Agoda Finds
+      https://finance.yahoo.com/small-business/articles/international-travel-beckons-value-calls-010000303.html?.tsrc=rss
+  2026-11-11 19:20 ET  CIEN,SANM   Yahoo Finance Nvidia Export Curbs Could Shift AI Demand Toward These Data Center Stocks
+      https://finance.yahoo.com/technology/ai/articles/nvidia-export-curbs-could-shift-002027068.html?.tsrc=rss
+  2026-11-11 18:47 ET  AXTI        Yahoo Finance What Propelled AXT Inc.’s (AXTI) 19.5% Rally?
+      https://finance.yahoo.com/markets/stocks/articles/propelled-axt-inc-axti-19-234754017.html?.tsrc=rss
+  2026-11-11 18:20 ET  ABNB        Yahoo Finance Airbnb vs. MercadoLibre: Which Consumer Stock Is a Better Buy for 2027?
+      https://www.fool.com/coverage/better-buy/2026/11/11/airbnb-vs-mercadolibre-which-consumer-stock-is-a-better-buy-for-2027/?.tsrc=rss
+  2026-11-11 17:46 ET  MRVL        Yahoo Finance Jensen Huang’s Shattered Credibility
+      https://finance.yahoo.com/m/80125fba-5845-34fe-9803-74227d221b81/jensen-huang%E2%80%99s-shattered.html?.tsrc=rss
+  2026-11-11 17:25 ET  GEV         Yahoo Finance GE Vernova Fell 25% on Data Center Fears. Only About 20% of Its Gas Turbine Customers Are Data Centers. Time to Buy?
+      https://www.fool.com/investing/2026/11/11/ge-vernova-fell-25-on-data-center-fears-only-about/?.tsrc=rss
+  2026-11-11 17:20 ET  BLK         Yahoo Finance Crypto Market Today, Nov. 11: 2. Bitcoin Climbs Back Above $74,000 as Wall Street's Crypto Outlook Begins to Shift
+      https://www.fool.com/coverage/stock-market-today/2026/11/11/crypto-market-today-nov-11-2-bitcoin-climbs-back-above-usd74-000-as-wall-street-s-crypto-outlook-begins-to-shift/?.tsrc=rss
+  2026-11-11 17:14 ET  APLD        Yahoo Finance Stock Market Today, Nov. 11: CoreWeave Surges 25% on Beat-and-Raise Quarter
+      https://www.fool.com/coverage/stock-market-today/2026/11/11/stock-market-today-nov-11-coreweave-surges-25-on-beat-and-raise-quarter/?.tsrc=rss
+  2026-11-11 17:13 ET  EQIX        Yahoo Finance Equinix (EQIX) Lands First Silicon Spin Quantum Computer And €2.5 Billion Green Bond
+      tags: capital  https://finance.yahoo.com/technology/ai/articles/equinix-eqix-lands-first-silicon-221322778.html?.tsrc=rss
+  2026-11-11 16:58 ET  ENS         Yahoo Finance EnerSys beats EPS but misses on revenue, stock slips
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/enersys-beats-eps-misses-revenue-215844652.html?.tsrc=rss
+  2026-11-11 16:50 ET  OKTA        Yahoo Finance Why Okta (OKTA) Outpaced the Stock Market Today
+      https://finance.yahoo.com/markets/stocks/articles/why-okta-okta-outpaced-stock-215001241.html?.tsrc=rss
+  2026-11-11 16:48 ET  VRT         Yahoo Finance The Reason To Buy Vertiv Stock Today
+      https://www.trefis.com/stock/vrt/articles/624240/the-reason-to-buy-vertiv-stock-today/2026-11-11?.tsrc=rss
+  2026-11-11 16:43 ET  GEV         Yahoo Finance AI Stocks, Neoclouds Rebound From SoftBank Bump, Get CoreWeave Lift
+      tags: earnings  https://finance.yahoo.com/m/70db5656-a3a8-363b-9a8f-fe7f4b584fee/ai-stocks%2C-neoclouds-rebound.html?.tsrc=rss
+  2026-11-11 16:42 ET  BLK         Yahoo Finance Is the iShares Silver Trust a Buy After Falling Nearly 60% From Its High?
+      https://www.fool.com/investing/2026/11/11/is-the-ishares-silver-trust-a-buy-after-falling-mo/?.tsrc=rss
+  2026-11-11 16:39 ET  CLS,SANM    Yahoo Finance What Does Flex's Record Sales Growth Really Show?
+      https://www.trefis.com/stock/flex/articles/624359/what-does-flexs-record-sales-growth-really-show/2026-11-11?.tsrc=rss
+  2026-11-11 16:30 ET  ENS         Yahoo Finance EnerSys (ENS) Q2 Earnings Top Estimates
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/enersys-ens-q2-earnings-top-213002189.html?.tsrc=rss
+  2026-11-11 16:26 ET  ENS         Yahoo Finance EnerSys: Fiscal Q2 Earnings Snapshot
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/enersys-fiscal-q2-earnings-snapshot-212629101.html?.tsrc=rss
+  2026-11-11 16:20 ET  SHOP        Yahoo Finance Advance Auto Parts vs. Shopify: Which Consumer Stock Is a Better Buy for 2027?
+      https://www.fool.com/coverage/better-buy/2026/11/11/advance-auto-parts-vs-shopify-which-consumer-stock-is-a-better-buy-for-2027/?.tsrc=rss
+  2026-11-11 16:17 ET  ENS         Yahoo Finance EnerSys Announces Dividend of $0.2875 per Share for the Third Quarter of Fiscal Year 2027
+      tags: capital  https://finance.yahoo.com/markets/stocks/articles/enersys-announces-dividend-0-2875-211700330.html?.tsrc=rss
+  2026-11-11 16:15 ET  ENS         Yahoo Finance EnerSys Reports Second Quarter Fiscal Year 2027 Results
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/enersys-reports-second-quarter-fiscal-211500080.html?.tsrc=rss
+  2026-11-11 16:11 ET  CLS         Yahoo Finance Canadian AI-buildout stocks: hardware, power, engineering and software
+      https://finance.yahoo.com/technology/ai/articles/canadian-ai-buildout-stocks-hardware-211135535.html?.tsrc=rss
+  2026-11-11 16:00 ET  CBRS        Yahoo Finance Keynote: Paul Abrahimzadeh, Partner, 1789 Capital, 6th Palm Beach CorpGov Forum
+      https://finance.yahoo.com/small-business/articles/keynote-paul-abrahimzadeh-partner-1789-210020323.html?.tsrc=rss
+  2026-11-11 15:48 ET  WULF        Yahoo Finance Inside CoreWeave’s Earnings! Plus, TeraWulf’s Naz Khan & SpaceX’s Anthropic Contract Cut?
+      tags: earnings  https://blockspace.media/podcast/inside-coreweaves-earnings-plus-terawulfs-naz-khan-spacexs-anthropic-contract-cut/?.tsrc=rss
+  2026-11-11 15:46 ET  WULF        Yahoo Finance TeraWulf COO: 83% of Revenue Now Comes From AI as Lake Mariner Nears Completion
+      tags: earnings  https://blockspace.media/short/terawulf-coo-83-of-revenue-now-comes-from-ai-as-lake-mariner-nears-completion/?.tsrc=rss
+  2026-11-11 15:37 ET  HUT         Yahoo Finance Hut 8: 3 Key Takeaways for Long-Term Investors
+      https://www.fool.com/earnings/takeaways/2026/11/11/hut-8-3-key-takeaways-for-long-term-investors/?.tsrc=rss
+  2026-11-11 15:37 ET  STX         Yahoo Finance Morgan Stanley sees 129% tech company rebound brewing after crash
+      https://www.thestreet.com/investing/stocks/stx-seagate-morgan-stanley-stock-analysis?.tsrc=rss
+  2026-11-11 15:22 ET  ABNB        Yahoo Finance Should You Invest in Airbnb (ABNB) Based on Bullish Wall Street Views?
+      https://finance.yahoo.com/markets/stocks/articles/invest-airbnb-abnb-based-bullish-202243348.html?.tsrc=rss
+  2026-11-11 15:21 ET  GLW         Yahoo Finance Owens Corning Inc (OC) is Attracting Investor Attention: Here is What You Should Know
+      https://finance.yahoo.com/markets/stocks/articles/owens-corning-inc-oc-attracting-202144978.html?.tsrc=rss
+  2026-11-11 15:21 ET  OKTA        Yahoo Finance Okta, Inc. (OKTA) is Attracting Investor Attention: Here is What You Should Know
+      https://finance.yahoo.com/markets/stocks/articles/okta-inc-okta-attracting-investor-202144364.html?.tsrc=rss
+  2026-11-11 15:21 ET  VST         Yahoo Finance Vistra Corp. (VST) is Attracting Investor Attention: Here is What You Should Know
+      https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-attracting-investor-202121257.html?.tsrc=rss
+  2026-11-11 15:21 ET  MPC         Yahoo Finance Here is What to Know Beyond Why Marathon Petroleum Corporation (MPC) is a Trending Stock
+      https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-marathon-petroleum-202120528.html?.tsrc=rss
+  2026-11-11 15:19 ET  MRVL        Yahoo Finance Marvell Acquires Lumentum in Blockbuster $80 Billion Deal
+      tags: deal  https://247wallst.com/videos/marvell-acquires-lumentum-in-blockbuster-80-billion-deal/?.tsrc=rss
+  2026-11-11 15:09 ET  CBRS        Yahoo Finance 3 Growth Stocks With At Least 18% Revenue Growth
+      https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-least-18-200905110.html?.tsrc=rss
+  2026-11-11 15:07 ET  ABNB        Yahoo Finance Are Consumer Discretionary Stocks Lagging  Airbnb (ABNB) This Year?
+      https://finance.yahoo.com/markets/stocks/articles/consumer-discretionary-stocks-lagging-airbnb-200711703.html?.tsrc=rss
+  2026-11-11 14:50 ET  BKNG        Yahoo Finance Booking Holdings vs. Target: Which Consumer Stock Is a Better Buy for 2027?
+      https://www.fool.com/coverage/better-buy/2026/11/11/booking-holdings-vs-target-which-consumer-stock-is-a-better-buy-for-2027/?.tsrc=rss
+  2026-11-11 14:24 ET  QCOM        Yahoo Finance Micron Stock Fell 30% in a Week. Bernstein Says It Could Nearly Double
+      https://www.tikr.com/blog/micron-stock-fell-30-in-a-week-bernstein-says-it-could-nearly-double?ref=yahoofinance&tlnk=yf-261111-vf93wfjf&.tsrc=rss
+  2026-11-11 14:21 ET  BKNG,EXPE   Yahoo Finance Expedia and Booking shares rise after United Airlines blocks AI booking
+      https://finance.yahoo.com/markets/stocks/articles/expedia-booking-shares-rise-united-192100597.html?.tsrc=rss
+  2026-11-11 14:12 ET  HPE         Yahoo Finance Why Is Hewlett Packard Enterprise (HPE) Winning Clients With $2.1 Million Savings?
+      https://finance.yahoo.com/technology/articles/why-hewlett-packard-enterprise-hpe-191208238.html?.tsrc=rss
+  2026-11-11 14:03 ET  MRVL        Yahoo Finance Lumentum Stocks Jump 14.85% as AI Optics Rebound Narrows Marvell Deal Gap
+      tags: deal  https://finance.yahoo.com/markets/stocks/articles/lumentum-stocks-jump-14-85-190300667.html?.tsrc=rss
+  2026-11-11 13:54 ET  VRT         Yahoo Finance Vertiv Stocks Climb 6.9% as AI Data Center Rebound Lifts Power and Cooling Supplier
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/vertiv-stocks-climb-6-9-185408069.html?.tsrc=rss
+  2026-11-11 13:51 ET  WDC         Yahoo Finance Western Digital Stocks Climb 9.24% as AI Storage Names Rebound
+      https://finance.yahoo.com/markets/stocks/articles/western-digital-stocks-climb-9-185153190.html?.tsrc=rss
+  2026-11-11 13:51 ET  STX         Yahoo Finance Seagate Stocks Jump 11.36% as CoreWeave Results Revive Nearline Storage Demand
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/seagate-stocks-jump-11-36-185113535.html?.tsrc=rss
+  2026-11-11 13:32 ET  GEV         Yahoo Finance GE Vernova Stocks Rise Nearly 3% After SoftBank's $3.7 Billion Power-Equipment Charge
+      https://finance.yahoo.com/markets/stocks/articles/ge-vernova-stocks-rise-nearly-183214486.html?.tsrc=rss
+  2026-11-11 13:30 ET  OKTA        Yahoo Finance OKTA, Inc. Has Huge Unusual Put Option Activity Ahead of Q3 Earnings - Is OKTA Too Cheap?
+      tags: earnings  https://www.barchart.com/story/news/8785775/okta-inc-has-huge-unusual-put-option-activity-ahead-of-q3-earnings-is-okta-too-cheap?.tsrc=rss
+  2026-11-11 13:29 ET  DELL        Yahoo Finance Dell Stocks Jump 11.42% as CoreWeave's Bigger Spending Plan Revives AI Server Bets
+      https://finance.yahoo.com/markets/stocks/articles/dell-stocks-jump-11-42-182958094.html?.tsrc=rss
+  2026-11-11 13:14 ET  SMCI        Yahoo Finance Super Micro Computer (SMCI) Unveils H15 Servers As Export Scrutiny Draws Focus
+      https://finance.yahoo.com/technology/ai/articles/super-micro-computer-smci-unveils-181419192.html?.tsrc=rss
+  2026-11-11 13:09 ET  TJX         Yahoo Finance TJX (TJX) Stock Could Be 43% Overvalued Despite Strong Cash Flow
+      https://finance.yahoo.com/markets/stocks/articles/tjx-tjx-stock-could-43-180931102.html?.tsrc=rss
+  2026-11-11 13:09 ET  CBRS        Yahoo Finance Cerebras Systems Q3 2026 earnings preview: key metrics and risks to watch
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/cerebras-systems-q3-2026-earnings-180921297.html?.tsrc=rss
+  2026-11-11 13:02 ET  QCOM        Yahoo Finance Here’s Why Barclays’ Tom O’Malley Kept a Sell on Qualcomm (QCOM)
+      tags: analyst  https://finance.yahoo.com/markets/stocks/articles/why-barclays-tom-o-malley-180259184.html?.tsrc=rss
+  2026-11-11 13:01 ET  ABNB,BKNG,EXPE Yahoo Finance Airbnb and Travel Stocks Fall as OpenAI Acquisition Raises New AI Threat
+      tags: deal  https://finance.yahoo.com/m/c4858008-67d3-3265-bf27-e4a80959541c/airbnb-and-travel-stocks-fall.html?.tsrc=rss
+  2026-11-11 12:50 ET  QCOM        Yahoo Finance Qualcomm's AI data centre ambitions offer upside, but Bank of America remains cautious
+      tags: analyst  https://www.proactiveinvestors.com/companies/news/1101613/qualcomm-s-ai-data-centre-ambitions-offer-upside-but-bank-of-america-remains-cautious-1101613.html?.tsrc=rss
+  2026-11-11 12:49 ET  BLK         Yahoo Finance Anthropic's IPO Is Said to Be Multiple Times Oversubscribed
+      tags: capital  https://finance.yahoo.com/video/anthropics-ipo-said-multiple-times-174935934.html?.tsrc=rss
+  2026-11-11 12:45 ET  BLK         Yahoo Finance Major shareholder announcement - BlackRock, Inc.
+      https://finance.yahoo.com/markets/stocks/articles/major-shareholder-announcement-blackrock-inc-174500137.html?.tsrc=rss
+  2026-11-11 12:28 ET  PSX         Yahoo Finance Can HF Sinclair Capitalize on Tight Global Refined Product Supplies?
+      https://finance.yahoo.com/energy/articles/hf-sinclair-capitalize-tight-global-172800044.html?.tsrc=rss
+  2026-11-11 12:21 ET  CBRS        Yahoo Finance Ahead of Cerebras Earnings, Here's What Barchart Data Says Comes Next for CBRS Stock
+      tags: earnings  https://www.barchart.com/story/news/8784676/ahead-of-cerebras-earnings-here-s-what-barchart-data-says-comes-next-for-cbrs-stock?.tsrc=rss
+  2026-11-11 12:17 ET  PSX,VLO     Yahoo Finance Will Wider Heavy Crude Discounts Strengthen Phillips 66's Margins?
+      https://finance.yahoo.com/energy/articles/wider-heavy-crude-discounts-strengthen-171700183.html?.tsrc=rss
+  2026-11-11 12:15 ET  DELL        Yahoo Finance Why Is Dell Technologies (DELL) Talking Up 157 PB Storage And AI Racks?
+      https://finance.yahoo.com/technology/ai/articles/why-dell-technologies-dell-talking-171557642.html?.tsrc=rss
+  2026-11-11 12:15 ET  SMCI        Yahoo Finance Supermicro (SMCI) Stock May Be Undervalued Following Fresh AI Server Launches
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/supermicro-smci-stock-may-undervalued-171515034.html?.tsrc=rss
+  2026-11-11 12:14 ET  TJX         Yahoo Finance TJX Companies (TJX) Heads Into Earnings With Undervalued Or Priced In Questions
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/tjx-companies-tjx-heads-earnings-171436220.html?.tsrc=rss
+  2026-11-11 12:08 ET  VRT         Yahoo Finance FPS Declines 42% in a Month: Time to Buy the Stock Now?
+      https://finance.yahoo.com/markets/stocks/articles/fps-declines-42-month-time-170800439.html?.tsrc=rss
+  2026-11-11 12:05 ET  CLS,SANM    Yahoo Finance CLS vs. SANM: Which Stock is Better Positioned for the AI Boom?
+      https://finance.yahoo.com/markets/stocks/articles/cls-vs-sanm-stock-better-170500990.html?.tsrc=rss
+  2026-11-11 12:04 ET  HPE,STX     Yahoo Finance NetApp's Q2 Gross Margin Guide: Is Another Sequential Dip Ahead?
+      https://finance.yahoo.com/markets/stocks/articles/netapps-q2-gross-margin-guide-170400624.html?.tsrc=rss
+  2026-11-11 11:56 ET  APLD,CIFR,WULF Yahoo Finance Applied Digital Rallies 8% as CoreWeave’s Results Revive the AI Data Center Trade; Cipher Digital Jumps 10%, IREN Surges 9%
+      tags: earnings, macro  https://247wallst.com/investing/2026/11/11/applied-digital-rallies-8-as-coreweaves-results-revive-the-ai-data-center-trade-cipher-digital-jumps-10-iren-surges-9/?.tsrc=rss
+  2026-11-11 11:51 ET  SMCI        Yahoo Finance CoreWeave’s Rise Takes Super Micro Along for the Ride, Sending Stock Higher
+      https://finance.yahoo.com/m/729cc742-96bc-3aef-803f-8ae1649b767a/coreweave%E2%80%99s-rise-takes-super.html?.tsrc=rss
+  2026-11-11 11:45 ET  ABNB        Yahoo Finance Is Airbnb (ABNB) a Solid Growth Stock? 3 Reasons to Think "Yes"
+      tags: analyst  https://finance.yahoo.com/markets/stocks/articles/airbnb-abnb-solid-growth-stock-164502179.html?.tsrc=rss
+  2026-11-11 11:45 ET  VLO         Yahoo Finance 3 Reasons Why Growth Investors Shouldn't Overlook Valero Energy (VLO)
+      tags: analyst  https://finance.yahoo.com/markets/stocks/articles/3-reasons-why-growth-investors-164502537.html?.tsrc=rss
+  2026-11-11 11:43 ET  OXY         Yahoo Finance Occidental Petroleum Unveils Bold $6 Billion Debt Plan
+      https://finance.yahoo.com/energy/articles/occidental-petroleum-unveils-bold-6-164301424.html?.tsrc=rss
+  2026-11-11 11:34 ET  HUBS        Yahoo Finance The Man Behind MrBeast Burgers
+      https://myfirstmillion.videonest.co/videos/1787243/the-man-behind-mrbeast-burgers-ITq-3v04e-?.tsrc=rss
+  2026-11-11 11:22 ET  SMCI,VRT    Yahoo Finance Vertiv's Data Center Growth Fuels Revenue: Can It Beat APH and SMCI?
+      https://finance.yahoo.com/technology/articles/vertivs-data-center-growth-fuels-162200912.html?.tsrc=rss
+  2026-11-11 11:14 ET  GEV,VRT     Yahoo Finance AI Spending Will Slow. GE Vernova Stock Can Rise Anyway.
+      https://finance.yahoo.com/m/0a60be01-c44e-3261-8966-1a6d0f9b9328/ai-spending-will-slow.-ge.html?.tsrc=rss
+  2026-11-11 11:06 ET  PSX,VLO     Yahoo Finance PBF Energy Is Now Undervalued: Is This a Strong Entry Point?
+      https://finance.yahoo.com/markets/stocks/articles/pbf-energy-now-undervalued-strong-160600490.html?.tsrc=rss
+  2026-11-11 10:57 ET  STX,WDC     Yahoo Finance Seagate Expands Storage Portfolio With FireCuda Forge Launch
+      https://finance.yahoo.com/technology/articles/seagate-expands-storage-portfolio-firecuda-155700464.html?.tsrc=rss
+  2026-11-11 10:55 ET  APLD        Yahoo Finance Applied Digital And Harwood: A Teaching Moment For AI Data Centers?
+      https://finance.yahoo.com/m/56c5fc4b-fe3b-3912-aa8a-4f249625bc68/applied-digital-and-harwood%3A.html?.tsrc=rss
+  2026-11-11 10:48 ET  VRT         Yahoo Finance Vertiv Beat Big, Then Got Crushed by the Midterms: Why Bernstein Sees 82% Upside
+      tags: analyst  https://www.tikr.com/blog/vertiv-beat-big-then-got-crushed-by-the-midterms-why-bernstein-sees-82-upside?ref=yahoofinance&tlnk=yf-261111-38p6m749&.tsrc=rss
+  2026-11-11 10:47 ET  OXY         Yahoo Finance Occidental Q3 Earnings Call Centers on Debt Cuts and Cash Flow
+      tags: earnings  https://finance.yahoo.com/energy/articles/occidental-q3-earnings-call-centers-154700470.html?.tsrc=rss
+  2026-11-11 10:40 ET  HPE         Yahoo Finance HPE or AGYS: Which Is the Better Value Stock Right Now?
+      https://finance.yahoo.com/markets/stocks/articles/hpe-agys-better-value-stock-154003732.html?.tsrc=rss
+  2026-11-11 10:40 ET  RVTY        Yahoo Finance ELV or RVTY: Which Is the Better Value Stock Right Now?
+      https://finance.yahoo.com/markets/stocks/articles/elv-rvty-better-value-stock-154003087.html?.tsrc=rss
+  2026-11-11 10:39 ET  WMB         Yahoo Finance Is Rising U.S. Natural Gas Demand Fueling a Pipeline Investment Boom?
+      https://finance.yahoo.com/energy/articles/rising-u-natural-gas-demand-153900975.html?.tsrc=rss
+  2026-11-11 10:38 ET  MPC         Yahoo Finance APA Raises 2026 Free Cash Flow Forecast to $2.9B After Q3 Results
+      tags: earnings  https://finance.yahoo.com/energy/articles/apa-raises-2026-free-cash-153800098.html?.tsrc=rss
+  2026-11-11 10:37 ET  VST         Yahoo Finance Vistra Has Lost 29% in a Year. CIBC Cut Its Target but Still Sees 30% Upside
+      tags: analyst  https://www.tikr.com/blog/vistra-has-lost-29-in-a-year-cibc-cut-its-target-but-still-sees-30-upside?ref=yahoofinance&tlnk=yf-261111-mwxgxv6h&.tsrc=rss
+  2026-11-11 10:34 ET  MPC         Yahoo Finance Diamondback and KKR to Acquire Five Point's 70% Stake in Deep Blue
+      tags: deal  https://finance.yahoo.com/energy/articles/diamondback-kkr-acquire-five-points-153400389.html?.tsrc=rss
+  2026-11-11 10:30 ET  GEV,VRT     Yahoo Finance JPMorgan grows wary on AI-exposed industrials, lowers price targets
+      tags: analyst  https://finance.yahoo.com/markets/stocks/articles/jpmorgan-grows-wary-ai-exposed-153040434.html?.tsrc=rss
+  2026-11-11 10:30 ET  VST         Yahoo Finance Here's What Key Metrics Tell Us About Vistra (VST) Q3 Earnings
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/heres-key-metrics-tell-us-153001178.html?.tsrc=rss
+  2026-11-11 10:28 ET  SMCI        Yahoo Finance Supermicro Begins Shipping New AMD-Powered AI Servers — Claims Up To 1.8x Higher AI Throughput
+      https://stocktwits.com/news-articles/markets/equity/supermicro-begins-shipping-new-amd-powered-ai-servers-claims-up-to-1-8x-higher-ai-throughput/cNGDsMrR9BA?.tsrc=rss
+  2026-11-11 10:20 ET  GLW         Yahoo Finance Global Ribbon Fiber Cables Market Report 2026 | Capitalize on 5G and AI Data Centers Driving $3.61B Market by 2030
+      tags: capital  https://finance.yahoo.com/technology/articles/global-ribbon-fiber-cables-market-152000414.html?.tsrc=rss
+  2026-11-11 09:48 ET  SE          Yahoo Finance MercadoLibre Stock Fell 20% in a Month After Hitting a New 52-Week Low. Is the Selling Overdone?
+      https://www.tikr.com/blog/mercadolibre-stock-fell-20-in-a-month-after-hitting-a-new-52-week-low-is-the-selling-overdone?ref=yahoofinance&tlnk=yf-261111-c7j8jrmq&.tsrc=rss
+  2026-11-11 09:12 ET  GLW         Yahoo Finance Is Corning (GLW) Undervalued After Its 28% One Month Slide?
+      https://finance.yahoo.com/markets/stocks/articles/corning-glw-undervalued-28-one-141221479.html?.tsrc=rss
+  2026-11-11 09:07 ET  WDC         Yahoo Finance Western Digital (WDC) Stock Looks Reasonable Despite AI Data Center Fears
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-stock-looks-140756640.html?.tsrc=rss
+  2026-11-11 09:05 ET  SMCI        Yahoo Finance Supermicro Now Shipping Next-Generation Servers Powered by 6th Gen AMD EPYC™ 9006 Series CPUs for Cloud, HPC, and Agentic AI Workloads
+      https://finance.yahoo.com/technology/ai/articles/supermicro-now-shipping-next-generation-140500238.html?.tsrc=rss
+  2026-11-11 09:00 ET  VG          Yahoo Finance VG Q3 Earnings Call Highlights Higher Outlook and AI Power Plans
+      tags: earnings  https://finance.yahoo.com/energy/articles/vg-q3-earnings-call-highlights-140000339.html?.tsrc=rss
+  2026-11-11 08:48 ET  EQIX        Yahoo Finance This data center stock remains a Top Pick, Deutsche Bank says
+      https://finance.yahoo.com/markets/stocks/articles/data-center-stock-remains-top-134821861.html?.tsrc=rss
+  2026-11-11 08:24 ET  SMCI        Yahoo Finance Super Micro Computer: Q1 Earnings Had Plenty to Cheer and Plenty to Worry About
+      tags: earnings  https://www.barchart.com/story/news/8775967/super-micro-computer-q1-earnings-had-plenty-to-cheer-and-plenty-to-worry-about?.tsrc=rss
+  2026-11-11 08:17 ET  EQIX        Yahoo Finance Iron Mountain Raises Its Dividend 15% as Data Center Revenue Surges 34%
+      tags: capital  https://247wallst.com/investing/2026/11/11/iron-mountain-raises-its-dividend-15-as-data-center-revenue-surges-34/?.tsrc=rss
+  2026-11-11 08:00 ET  TWST        Yahoo Finance Twist Bioscience Corporation Announces Inducement Grants under NASDAQ Listing Rule 5635(c)(4)
+      https://finance.yahoo.com/healthcare/articles/twist-bioscience-corporation-announces-inducement-130000067.html?.tsrc=rss
+  2026-11-11 07:08 ET  SYF         Yahoo Finance Synchrony Financial (SYF) Stock May Still Trade At A Discount On Earnings
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/synchrony-financial-syf-stock-may-120858037.html?.tsrc=rss
+  2026-11-11 06:35 ET  GEV         Yahoo Finance GE Vernova's Orders Jumped 96%. The Number Hiding Underneath Is Electrification's 9% Decline.
+      tags: earnings  https://www.fool.com/investing/2026/11/11/ge-vernovas-orders-jumped-96-the-number-hiding-und/?.tsrc=rss
+  2026-11-11 06:24 ET  ABNB        Yahoo Finance Airbnb Is Building Its Own AI Travel Agent, Co-Founder Says
+      https://finance.yahoo.com/video/airbnb-building-own-ai-travel-112447993.html?.tsrc=rss
+  2026-11-11 06:12 ET  SYF         Yahoo Finance Synchrony Financial Sees Several Paths to Double-Digit EPS Growth in 2027
+      tags: earnings  https://www.marketbeat.com/instant-alerts/event-synchrony-financial-sees-several-paths-to-double-digit-eps-growth-in-2027-2026-11-11/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss
+  2026-11-11 04:29 ET  MPC         Yahoo Finance BoE rate peak of 4.25% ‘will not be enough’, NIESR says in Autumn 2026 outlook
+      tags: earnings, macro  https://finance.yahoo.com/economy/policy/articles/boe-rate-peak-4-25-092907206.html?.tsrc=rss
+  2026-11-11 04:13 ET  PSX         Yahoo Finance 3 Oil And Gas Stocks Facing The Next Margin Test
+      https://finance.yahoo.com/energy/articles/3-oil-gas-stocks-facing-091307870.html?.tsrc=rss
+  2026-11-11 03:42 ET  BP          Yahoo Finance FTSE 100 today: Stocks gain as oil rebounds; Spirax tops gainers
+      https://finance.yahoo.com/markets/stocks/articles/ftse-100-today-stocks-rise-084246110.html?.tsrc=rss
+  2026-11-11 02:13 ET  SHOP        Yahoo Finance Shopify President: Q3 Was “the First Time” Shoppers Let AI Agents Buy. The Stock Fell 8.7% Anyway
+      https://www.tikr.com/blog/shopify-president-q3-was-the-first-time-shoppers-let-ai-agents-buy-the-stock-fell-8-7-anyway?ref=yahoofinance&tlnk=yf-261111-xv47xp96&.tsrc=rss
+  2026-11-11 02:11 ET  SYF         Yahoo Finance Synchrony Financial (SYF) Dropped, So What Is Behind The Latest Attention?
+      https://finance.yahoo.com/markets/stocks/articles/synchrony-financial-syf-dropped-behind-071129686.html?.tsrc=rss
+  2026-11-11 02:06 ET  OXY         Yahoo Finance Occidental Petroleum Corp (OXY) Q3 2026 Earnings Call Highlights: $2. ...
+      tags: earnings  https://finance.yahoo.com/energy/articles/occidental-petroleum-corp-oxy-q3-070618456.html?.tsrc=rss
+  2026-11-11 02:01 ET  SE          Yahoo Finance SE Stock Rises Overnight: Retail Shrugs Off Shopee Owner Sea’s EPS Miss — ‘Short-Term Pain For Long-Term Gain’
+      tags: earnings, capital  https://stocktwits.com/news-articles/markets/equity/se-stocks-shopee-owner-sea-e-commerce-q3-earnings-revenue/cNGDiavR9Jz?.tsrc=rss
+  2026-11-11 00:54 ET  SE          Yahoo Finance Sea: 3 Key Takeaways for Long-Term Investors
+      https://www.fool.com/earnings/takeaways/2026/11/11/sea-3-key-takeaways-for-long-term-investors/?.tsrc=rss
+  2026-11-11 00:54 ET  HPE         Yahoo Finance Zacks.com featured highlights include Avnet, Omnicell, Hewlett Packard and Lifetime Brands
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-avnet-055400351.html?.tsrc=rss
+  2026-11-11 00:24 ET  CLS         Yahoo Finance Celestica: 3 Key Takeaways for Long-Term Investors
+      https://www.fool.com/earnings/takeaways/2026/11/11/celestica-3-key-takeaways-for-long-term-investors/?.tsrc=rss
+  2026-11-11 00:14 ET  VG          Yahoo Finance Venture Global Q3 Earnings Call Highlights
+      tags: earnings  https://www.marketbeat.com/instant-alerts/transcript-venture-global-q3-earnings-call-highlights-2026-11-10/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss
+  2026-11-11 00:14 ET  SE          Yahoo Finance SEA Q3 Earnings Call Highlights
+      tags: earnings  https://www.marketbeat.com/instant-alerts/transcript-sea-q3-earnings-call-highlights-2026-11-10/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss
+  2026-11-10 23:51 ET  OXY         Yahoo Finance Occidental Petroleum (OXY) Q3 2026 Earnings Call Transcript
+      tags: earnings  https://www.fool.com/earnings/call-transcripts/2026/11/10/occidental-petroleum-oxy-q3-2026-earnings-call-transcript/?.tsrc=rss
+  2026-11-10 23:36 ET  SE          Yahoo Finance MercadoLibre Sinks 10% in a Week on a Profit Miss: “We Have Accepted a Lower Margin”
+      tags: earnings  https://www.tikr.com/blog/mercadolibre-sinks-10-in-a-week-on-a-profit-miss-we-have-accepted-a-lower-margin?ref=yahoofinance&tlnk=yf-261111-85wfpmq2&.tsrc=rss
+  2026-11-10 23:25 ET  VLO         Yahoo Finance Jim Cramer Ties CPI Relief to $40 Oil, but Brent Trades Over $92
+      tags: macro  https://beincrypto.com/jim-cramer-40-oil-cpi-relief/?.tsrc=rss
+  2026-11-10 22:16 ET  ALL         Yahoo Finance Allstate (ALL) Stock May Still Have Room As Q3 Earnings Beat
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/allstate-stock-may-still-room-031634806.html?.tsrc=rss
+  2026-11-10 22:05 ET  SE          Yahoo Finance Sea Ltd (SE) (Q3 2026) Earnings Call Highlights: Record $8. ...
+      tags: earnings, capital  https://finance.yahoo.com/markets/stocks/articles/sea-ltd-se-q3-2026-030511549.html?.tsrc=rss
+  2026-11-10 21:59 ET  CIFR        Yahoo Finance “That Stops When I’m Governor”: Cipher Digital and CleanSpark Sink Nearly 20% in a Week
+      https://www.tikr.com/blog/that-stops-when-im-governor-cipher-digital-and-cleanspark-sink-nearly-20-in-a-week?ref=yahoofinance&tlnk=yf-261111-ww2284cx&.tsrc=rss
+  2026-11-10 20:34 ET  ETSY        Yahoo Finance Did The Market Read eBay Stock Right?
+      https://www.trefis.com/stock/ebay/articles/623947/did-the-market-read-ebay-stock-right/2026-11-10?.tsrc=rss
+  2026-11-10 20:13 ET  CLS         Yahoo Finance Top 3 Canadian Growth Stocks To Watch In November 2026
+      tags: earnings, macro  https://finance.yahoo.com/markets/stocks/articles/top-3-canadian-growth-stocks-011301781.html?.tsrc=rss
+  2026-11-10 20:12 ET  CCJ         Yahoo Finance 3 Canadian Nuclear Stocks To Own In November 2026
+      tags: macro  https://finance.yahoo.com/energy/articles/3-canadian-nuclear-stocks-own-011234187.html?.tsrc=rss
+  2026-11-10 20:12 ET  AXTI        Yahoo Finance AXT (AXTI) Stock Seems Reasonably Valued As Record Revenue Reshapes Earnings
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/axt-axti-stock-seems-reasonably-011206493.html?.tsrc=rss
+  2026-11-10 20:00 ET  BKNG        Yahoo Finance Agoda's 2027 Asia Travel Pulse reveals appetite for all-in-one booking
+      https://finance.yahoo.com/small-business/articles/agodas-2027-asia-travel-pulse-010000684.html?.tsrc=rss
+  2026-11-10 18:50 ET  GEV         Yahoo Finance GE Vernova's Backlog Hit $197 Billion and the Stock Fell Anyway. Here's What a $10,000 Investment Could Be Worth by 2030.
+      https://www.fool.com/investing/2026/11/10/ge-vernovas-backlog-hit-197-billion-and-the-stock/?.tsrc=rss
+  2026-11-10 18:35 ET  VG          Yahoo Finance Venture Global (VG) Q3 2026 Earnings Call Transcript
+      tags: earnings  https://www.fool.com/earnings/call-transcripts/2026/11/10/venture-global-vg-q3-2026-earnings-call-transcript/?.tsrc=rss
+  2026-11-10 18:30 ET  SMCI        Yahoo Finance Dell Sinks 12% in a Week on Texas Data Center Fears: “A Moratorium, a Ban”
+      https://www.tikr.com/blog/dell-sinks-12-in-a-week-on-texas-data-center-fears-a-moratorium-a-ban?ref=yahoofinance&tlnk=yf-261110-pm2vw2xc&.tsrc=rss
+  2026-11-10 18:16 ET  SE          Yahoo Finance Sea (NYSE:SE) Stock Slips As Q3 Earnings Meet Margin And P E Doubts
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/sea-nyse-se-stock-slips-231644408.html?.tsrc=rss
+  2026-11-10 18:04 ET  NRG         SEC EDGAR     NRG ENERGY, INC. filed a 8-K: material agreement
+      https://www.sec.gov/Archives/edgar/data/1013871/000110465926125375/0001104659-26-125375-index.htm
+  2026-11-10 17:22 ET  ABNB        Yahoo Finance Redburn Says Its Cautious Airbnb (ABNB) Stance Was “Wrong Over The Past Year.” Here’s What Changed
+      tags: analyst  https://finance.yahoo.com/markets/stocks/articles/redburn-says-cautious-airbnb-abnb-222237944.html?.tsrc=rss
+  2026-11-10 17:21 ET  CCJ         Yahoo Finance 5 Stocks Analysts Just Upgraded
+      tags: analyst  https://finance.yahoo.com/markets/stocks/articles/5-stocks-analysts-just-upgraded-222146322.html?.tsrc=rss
+  2026-11-10 17:15 ET  VLO         Yahoo Finance How Investors May Respond To Valero Energy (VLO) Dividend Affirmation
+      tags: earnings, capital  https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-valero-energy-221552897.html?.tsrc=rss
+  2026-11-10 17:14 ET  OXY         Yahoo Finance What Occidental Petroleum (OXY) Said on Its Q3 Earnings Call
+      tags: earnings  https://www.marketbeat.com/instant-alerts/transcript-what-occidental-petroleum-oxy-said-on-its-q3-earnings-call-2026-11-10/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss
+  2026-11-10 16:55 ET  ABNB        Yahoo Finance Airbnb reduces customer support cost per booking 17%
+      tags: people  https://www.customerexperiencedive.com/news/airbnb-reduces-customer-support-cost-per-booking-17/874307/?.tsrc=rss
+  2026-11-10 16:32 ET  OXY         Yahoo Finance Enbridge vs. Occidental Petroleum: Does a Midstream or Upstream Energy Focus Make for a Better Stock Buy for 2027?
+      https://www.fool.com/coverage/better-buy/2026/11/10/enbridge-vs-occidental-petroleum-does-a-midstream-or-upstream-energy-focus-make-for-a-better-stock-buy-for-2027/?.tsrc=rss
+  2026-11-10 16:31 ET  GLW         Yahoo Finance Is Amphenol Stock Really Expensive?
+      https://www.trefis.com/stock/aph/articles/624011/is-amphenol-stock-really-expensive/2026-11-10?.tsrc=rss
+  2026-11-10 16:30 ET  PSX         Yahoo Finance Why Kinder Morgan's Chairman Just Bought $15 Million in Stock
+      https://www.marketbeat.com/articles/why-kinder-morgans-chairman-just-bought-15-million-in-stock/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss
+  2026-11-10 16:11 ET  VRT         Yahoo Finance Vertiv Holdings Co (VRT) Secures Infineon Supply Deal, Is The Valuation Gap Still Compelling?
+      tags: earnings, deal  https://finance.yahoo.com/markets/stocks/articles/vertiv-holdings-co-vrt-secures-211107866.html?.tsrc=rss
+  2026-11-10 16:10 ET  WULF        Yahoo Finance Has TeraWulf (WULF) Priced In Too Much AI Sales Growth?
+      https://finance.yahoo.com/markets/stocks/articles/terawulf-wulf-priced-too-much-211023674.html?.tsrc=rss
+  2026-11-10 16:06 ET  VG          Yahoo Finance Venture Global Inc (VG) (Q3 2026) Earnings Call Highlights: Record $2. ...
+      tags: earnings  https://finance.yahoo.com/energy/articles/venture-global-inc-vg-q3-210619802.html?.tsrc=rss
+  2026-11-10 16:05 ET  ALAB        Yahoo Finance Astera Labs Announces Upcoming Financial Conference Participation
+      https://finance.yahoo.com/technology/articles/astera-labs-announces-upcoming-financial-210500783.html?.tsrc=rss
+  2026-11-10 15:32 ET  OXY         Yahoo Finance Occidental's Debt Reduction, Carbon Strategy Support Outlook, UBS Says
+      https://finance.yahoo.com/energy/articles/occidental-apos-debt-reduction-carbon-203207354.html?.tsrc=rss
+  2026-11-10 15:20 ET  NRG         Yahoo Finance A $4 Billion Jolt: NRG Energy Powers Data Center Ambitions
+      tags: earnings, deal, capital  https://www.marketbeat.com/articles/a-4-billion-jolt-nrg-energy-powers-data-center-ambitions/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss
+  2026-11-10 15:11 ET  SE          Yahoo Finance Where Does Sea (NYSE:SE) Stock Stand Relative To Fair Value?
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/where-does-sea-nyse-se-201129210.html?.tsrc=rss
+  2026-11-10 15:10 ET  VRT         Yahoo Finance Does Earnings Beat Change The Bull Case For Vertiv Holdings Co (VRT)?
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/does-earnings-beat-change-bull-201034319.html?.tsrc=rss
+  2026-11-10 14:45 ET  TJX         Yahoo Finance TJX's softer Marmaxx sales unlikely to dent bullish investor sentiment, UBS says
+      tags: earnings  https://www.proactiveinvestors.com/companies/news/1101544/tjx-s-softer-marmaxx-sales-unlikely-to-dent-bullish-investor-sentiment-ubs-says-1101544.html?.tsrc=rss
+  2026-11-10 14:40 ET  ABNB,BKNG,EXPE Yahoo Finance Expedia, Booking and Airbnb fall as OpenAI reportedly buys AI travel platform
+      tags: deal  https://finance.yahoo.com/technology/ai/articles/expedia-booking-airbnb-fall-openai-194000702.html?.tsrc=rss
+  2026-11-10 14:33 ET  CBRS        Yahoo Finance Should You Buy, Sell, or Hold Cerebras Systems Stock Before Q3 Earnings?
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-cerebras-systems-193300221.html?.tsrc=rss
+  2026-11-10 14:22 ET  VLO         Yahoo Finance Rising Q3 transportation costs squeeze manufacturers, reward railroads and reshape trade
+      https://finance.yahoo.com/economy/articles/rising-q3-transportation-costs-squeeze-192213474.html?.tsrc=rss
+  2026-11-10 14:15 ET  SE          Yahoo Finance Sea (SE) Q3 2026 Earnings Call Transcript
+      tags: earnings  https://www.fool.com/earnings/call-transcripts/2026/11/10/sea-se-q3-2026-earnings-call-transcript/?.tsrc=rss
+  2026-11-10 14:13 ET  CIFR        Yahoo Finance 3 AI Stocks With Revenue Growth Over 41%
+      https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-revenue-growth-191330590.html?.tsrc=rss
+  2026-11-10 14:12 ET  NRG         Yahoo Finance NRG Q3 Earnings Call Focuses on Asset Sale and 2027 Outlook
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/nrg-q3-earnings-call-focuses-191200587.html?.tsrc=rss
+  2026-11-10 14:11 ET  SE          Yahoo Finance Is Sea (SE) Undervalued Following Its Revenue Beat And Mixed Q3 Earnings?
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/sea-se-undervalued-following-revenue-191140676.html?.tsrc=rss
+  2026-11-10 14:02 ET  APLD        Yahoo Finance CoreWeave Has “a Sentiment Problem.” Its Landlord Applied Digital Has $11 Billion Riding on It
+      tags: earnings  https://www.tikr.com/blog/coreweave-has-a-sentiment-problem-its-landlord-applied-digital-has-11-billion-riding-on-it?ref=yahoofinance&tlnk=yf-261110-fc3fh6pw&.tsrc=rss
+  2026-11-10 13:42 ET  SE          Yahoo Finance Sea Limited Stocks Jump 6.83% After Revenue Beat and New $1 Billion Buyback
+      tags: earnings, capital  https://finance.yahoo.com/markets/stocks/articles/sea-limited-stocks-jump-6-184235702.html?.tsrc=rss
+  2026-11-10 13:41 ET  PSX,VLO     Yahoo Finance Par Pacific Is Now Undervalued: Is It a Strong Entry Point?
+      https://finance.yahoo.com/markets/stocks/articles/par-pacific-now-undervalued-strong-184100364.html?.tsrc=rss
+  2026-11-10 13:33 ET  SE          Yahoo Finance Sector Update: Consumer Stocks Mixed Tuesday Afternoon
+      https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-tuesday-183348750.html?.tsrc=rss
+  2026-11-10 13:27 ET  GEV         Yahoo Finance Sector Update: Energy Stocks Mixed Tuesday Afternoon
+      https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-tuesday-182754599.html?.tsrc=rss
+  2026-11-10 13:15 ET  PSX         Yahoo Finance DTI Q3 Earnings Miss Estimates on Higher Costs Despite Sales Growth
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/dti-q3-earnings-miss-estimates-181500794.html?.tsrc=rss
+  2026-11-10 13:14 ET  SE          Yahoo Finance Sea Stock Earnings Miss Might Change The Case For Investing In Sea (SE)
+      tags: earnings, capital  https://finance.yahoo.com/markets/stocks/articles/sea-stock-earnings-miss-might-181420075.html?.tsrc=rss
+  2026-11-10 13:02 ET  HPE         Yahoo Finance Super Micro Falls 4% as NVIDIA’s Slide Drags AI Server Stocks; Dell Drops 6%, Hewlett Packard Enterprise Declines 2%
+      tags: earnings, legal, people  https://247wallst.com/investing/2026/11/10/super-micro-falls-4-as-nvidias-slide-drags-ai-server-stocks-dell-drops-6-hewlett-packard-enterprise-declines-2/?.tsrc=rss
+  2026-11-10 12:57 ET  OXY         Yahoo Finance Occidental Petroleum earnings: what to look for from OXY
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-earnings-look-oxy-175736497.html?.tsrc=rss
+  2026-11-10 12:49 ET  GEV         Yahoo Finance GE Vernova Advances Hydrogen Capabilities for Aeroderivative Gas Turbines with New Milestones
+      https://www.powermag.com/ge-vernova-advances-hydrogen-capabilities-for-aeroderivative-gas-turbines-with-new-milestones/?.tsrc=rss
+  2026-11-10 12:45 ET  HPE         Yahoo Finance Here’s The AMD Data Center Number Investors Need to Know
+      https://247wallst.com/investing/2026/11/10/heres-the-amd-data-center-number-investors-need-to-know/?.tsrc=rss
+  2026-11-10 12:40 ET  SANM        Yahoo Finance Stock Market Midday, Nov. 10: Stocks Slide on Hot Inflation Data
+      tags: macro  https://www.fool.com/coverage/stock-market-today/2026/11/10/stock-market-midday-nov-10-stocks-slide-on-hot-inflation-data/?.tsrc=rss
+  2026-11-10 12:38 ET  HPE         Yahoo Finance 4 Undervalued Stocks That Could Benefit from a Wall Street Rally
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/4-undervalued-stocks-could-benefit-173800059.html?.tsrc=rss
+  2026-11-10 12:25 ET  SANM        Yahoo Finance Sanmina (SANM) to report earnings tomorrow: here is what to expect
+      tags: earnings  https://finance.yahoo.com/markets/stocks/articles/sanmina-sanm-report-earnings-tomorrow-172536786.html?.tsrc=rss
+  2026-11-10 12:23 ET  CARR        Yahoo Finance Carrier Global Stock: Is Wall Street Bullish or Bearish?
+      https://www.barchart.com/story/news/8762766/carrier-global-stock-is-wall-street-bullish-or-bearish?.tsrc=rss
+  2026-11-10 12:19 ET  VST         Yahoo Finance Constellation CEO Sounds the Alarm: Data Center Demand Was a “Massive Overestimation.” Its Nuclear Contracts Run to the 2040s
+      tags: people  https://www.tikr.com/blog/constellation-ceo-sounds-the-alarm-data-center-demand-was-a-massive-overestimation-its-nuclear-contracts-run-to-the-2040s?ref=yahoofinance&tlnk=yf-261110-5c7rg268&.tsrc=rss
+  2026-11-10 12:15 ET  CBRS        Yahoo Finance These AI Growth Stocks Stand Out In November 2026
+      https://finance.yahoo.com/markets/stocks/articles/ai-growth-stocks-stand-november-171550246.html?.tsrc=rss
+  2026-11-10 12:05 ET  NRG,VST     Yahoo Finance Constellation and Vistra Get the Headlines. These 2 Power Producers Barely Get Mentioned.
+      https://www.fool.com/investing/2026/11/10/constellation-and-vistra-get-the-headlines-these-2/?.tsrc=rss
+  2026-11-10 11:47 ET  EQIX        Yahoo Finance Equinix Has Negative Free Cash Flow. So How Is Its Dividend Still Covered?
+      tags: earnings, capital  https://247wallst.com/investing/2026/11/10/equinix-has-negative-free-cash-flow-so-how-is-its-dividend-still-covered/?.tsrc=rss
+  2026-11-10 11:42 ET  NVDA,VRT    Yahoo Finance Tech investors need to 'zoom out' and look at the 'big picture' this week
+      https://finance.yahoo.com/video/tech-investors-need-to-zoom-out-and-look-at-the-big-picture-this-week-164246983.html?.tsrc=rss
+Checked 2026-11-12 11:22 ET. Headlines are leads, not facts; open the story before acting. Not financial advice.
