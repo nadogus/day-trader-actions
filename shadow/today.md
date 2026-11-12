@@ -1,10 +1,10 @@
-## 2026-11-11 gölge takip (sanal, para yok)
+## 2026-11-12 gölge takip (sanal, para yok)
 
-Tarama sonucu: 85 hisse, işleme dönüşen: 85.
+Tarama sonucu: 81 hisse, işleme dönüşen: 81.
 
-- **Bugün, tüm sinyaller:** 85 işlem, 42 kazanç / 43 kayıp, toplam **+7.2R**
-- **Bugün, ilk 3 sinyal:** toplam **+0.9R** (BLK -1.161, C 0.806, COP 1.303)
-- **Başlangıçtan beri (3 gün):** 396 işlem, kazanma %51, ortalama +0.08R, toplam +29.9R, en kötü düşüş -86.5R
+- **Bugün, tüm sinyaller:** 81 işlem, 38 kazanç / 43 kayıp, toplam **-2.7R**
+- **Bugün, ilk 3 sinyal:** toplam **+0.9R** (ALAB 0.340, CBRS -0.265, CIEN 0.787)
+- **Başlangıçtan beri (4 gün):** 477 işlem, kazanma %50, ortalama +0.06R, toplam +27.2R, en kötü düşüş -86.5R
 
 Ayrıntı: `results` dalı, `shadow/summary.md` ve `shadow/trades.csv`.
 1R = giriş ile stop arasındaki fark. Tek gün bir şey kanıtlamaz.
