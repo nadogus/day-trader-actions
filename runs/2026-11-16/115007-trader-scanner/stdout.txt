@@ -1,0 +1,57 @@
+Opening-range breakout scan, Mon 2026-11-16 10:15 AM ET: 15-minute range (9:30 to 9:45 AM), 5-minute bars, Yahoo.
+Fetched 5,930 of 5,930 charts; 2,195 usable (574 under the price / volume floor); 857 candidates, 200 confirmed with real highs and lows.
+PARTIAL: 657 more candidates were not checked (only the 200 most traded are; --max-confirm 0 checks all).
+92 of the 200 checked charts closed above their opening-range high by 10:15 AM:
+   9:50 AM  AEM       $178.05  range 173.97 to 176.85  +0.68% over
+   9:50 AM  AG         $13.23  range 12.93 to 13.19  +0.30% over
+   9:50 AM  AU         $87.54  range 85.48 to 86.75  +0.91% over
+   9:50 AM  B          $37.70  range 36.92 to 37.60  +0.27% over
+   9:50 AM  BHP        $77.82  range 76.70 to 77.72  +0.13% over
+   9:50 AM  BROS       $36.91  range 35.12 to 36.40  +1.40% over
+   9:50 AM  CDE        $13.62  range 13.34 to 13.59  +0.22% over
+   9:50 AM  CELH       $33.18  range 32.22 to 33.15  +0.09% over
+   9:50 AM  CLF        $12.61  range 12.10 to 12.49  +1.00% over
+   9:50 AM  CLS       $240.54  range 226.46 to 239.50  +0.43% over
+   9:50 AM  CPB        $23.72  range 23.02 to 23.66  +0.25% over
+   9:50 AM  DPZ       $348.27  range 345.34 to 348.10  +0.05% over
+   9:50 AM  ECHO       $99.91  range 98.00 to 99.62  +0.29% over
+   9:50 AM  FPS        $21.92  range 20.28 to 21.76  +0.74% over
+   9:50 AM  FTAI      $176.62  range 172.26 to 176.57  +0.03% over
+   9:50 AM  FWONK     $109.64  range 108.31 to 109.24  +0.37% over
+   9:50 AM  GFI        $36.38  range 35.66 to 36.22  +0.45% over
+   9:50 AM  GXO        $56.47  range 54.53 to 56.32  +0.28% over
+   9:50 AM  HL         $12.77  range 12.51 to 12.73  +0.31% over
+   9:50 AM  HNGE      $118.05  range 115.39 to 117.00  +0.90% over
+   9:50 AM  JD         $27.79  range 27.57 to 27.78  +0.02% over
+   9:50 AM  KGC        $20.84  range 20.38 to 20.74  +0.53% over
+   9:50 AM  LPLA      $292.49  range 287.33 to 292.45  +0.01% over
+   9:50 AM  LYFT       $17.44  range 17.01 to 17.36  +0.43% over
+   9:50 AM  NEM       $113.65  range 111.15 to 113.00  +0.58% over
+   9:50 AM  OKLO       $23.46  range 22.54 to 23.29  +0.73% over
+   9:50 AM  PAAS       $36.78  range 35.90 to 36.61  +0.45% over
+   9:50 AM  PCG        $13.56  range 13.37 to 13.54  +0.11% over
+   9:50 AM  POWL      $146.01  range 138.50 to 144.40  +1.12% over
+   9:50 AM  RBRK      $108.74  range 104.58 to 108.63  +0.10% over
+   9:50 AM  SCCO      $160.59  range 157.04 to 159.77  +0.51% over
+   9:50 AM  SEZL      $161.70  range 153.35 to 159.32  +1.49% over
+   9:50 AM  SNAP        $5.14  range 4.99 to 5.13  +0.29% over
+   9:50 AM  SNX       $234.76  range 228.44 to 234.52  +0.10% over
+   9:50 AM  SO         $94.47  range 93.15 to 94.44  +0.03% over
+   9:50 AM  TEL       $215.71  range 211.10 to 215.38  +0.15% over
+   9:50 AM  TSCO       $38.05  range 37.03 to 38.03  +0.07% over
+   9:50 AM  TSN        $65.03  range 60.46 to 64.93  +0.15% over
+   9:50 AM  UBER       $70.20  range 69.45 to 70.10  +0.14% over
+   9:50 AM  VRT       $192.94  range 188.71 to 192.69  +0.13% over
+   9:50 AM  WPM       $131.45  range 128.50 to 130.96  +0.37% over
+   9:55 AM  AA         $39.51  range 38.56 to 39.37  +0.36% over
+   9:55 AM  APH        $76.68  range 74.64 to 76.57  +0.15% over
+   9:55 AM  ASO        $70.50  range 68.13 to 69.86  +0.92% over
+   9:55 AM  CMCSA      $25.58  range 25.33 to 25.55  +0.14% over
+   9:55 AM  COIN      $121.97  range 118.72 to 121.80  +0.14% over
+   9:55 AM  MBGL       $24.08  range 23.44 to 24.07  +0.04% over
+   9:55 AM  NUE       $257.56  range 253.01 to 256.91  +0.25% over
+   9:55 AM  NXT        $94.00  range 90.69 to 93.59  +0.44% over
+   9:55 AM  PWR       $598.80  range 581.00 to 598.47  +0.06% over
+  ... and 42 more in the watchlist (--show N for more).
+Wrote trader/watchlist.json (mode orb, 92 hits).
+A scan is a list of charts that match a rule, not a list of stocks to buy. Next: pick one chart, then /trader-news TICKER and /trader-entry TICKER.
