@@ -1,0 +1,16 @@
+{
+ "skill": "trader-scanner",
+ "command": "python trader-scanner/scan.py universe",
+ "exit_code": 0,
+ "seconds": 1.2,
+ "started": "2026-11-16 09:43:30",
+ "time_zone": "New York",
+ "python": "3.13.18",
+ "changed_files": [
+  "trader/universe.txt"
+ ],
+ "exit_code_meaning": "0 = the scan found something, 1 = it found nothing or could not run (the reason is printed)",
+ "stdout": "Nasdaq Trader symbol directories, files of 2026-11-16 09:31 ET: 13,283 rows.\nKept 5,930 US-listed common stocks, ordinary shares and ADRs.\nDropped: 5,788 ETF, 378 not a plain ticker, 362 warrant, 250 unit, 170 note, 128 unit / warrant / right suffix, 104 right, 95 coupon, 38 test issue, 21 preferred, 15 depositary, 3 bond, 1 unit or right.\nWrote trader/universe.txt (one SYMBOL|Name a line).\n",
+ "stderr": "",
+ "github_run_id": "43888725494"
+}
