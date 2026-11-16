@@ -1,0 +1,17 @@
+facts: NU: no quarterly revenue or net income in the XBRL facts
+facts: PBR: no quarterly revenue or net income in the XBRL facts
+facts: JD: no quarterly revenue or net income in the XBRL facts
+facts: HTHT: no quarterly revenue or net income in the XBRL facts
+facts: IBN: SEC has no data at https://data.sec.gov/api/xbrl/companyfacts/CIK0001103838.json (no XBRL filings for this CIK?)
+facts: TCOM: no quarterly revenue or net income in the XBRL facts
+facts: KLAR: no quarterly revenue or net income in the XBRL facts
+facts: BEKE: no quarterly revenue or net income in the XBRL facts
+facts: HDB: no quarterly revenue or net income in the XBRL facts
+facts: PBR.A: no quarterly revenue or net income in the XBRL facts
+facts: BZ: no quarterly revenue or net income in the XBRL facts
+facts: IAG: no quarterly revenue or net income in the XBRL facts
+facts: TME: no quarterly revenue or net income in the XBRL facts
+facts: YMM: no quarterly revenue or net income in the XBRL facts
+facts: MFG: no quarterly revenue or net income in the XBRL facts
+facts: UGP: no quarterly revenue or net income in the XBRL facts
+facts: OXLC: no quarterly revenue or net income in the XBRL facts
