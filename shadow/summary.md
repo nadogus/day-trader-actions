@@ -1,20 +1,20 @@
 # Gölge takip özeti (sanal, para yok)
 
-Kural: orijinal ORB girişi, orijinal plan (stop = açılış aralığı ortası, hedef = 2R), 15:55'te kapanış. Aynı mumda stop ve hedef = stop sayılır. Taraf başı maliyet %0.05.
+Kural: orijinal ORB girişi, orijinal plan (stop = açılış aralığı ortası, hedef = 2R), 15:55'te kapanış. Liste 10:15'te çıktığı için ondan önce tetiklenenler 10:15 mumunun açılışından girilir (stop aynı, hedef yeni girişe göre 2R; fiyat o an stopun altındaysa işlem yok). Aynı mumda stop ve hedef = stop sayılır. Taraf başı maliyet %0.05.
 
-Gün sayısı: 6. Toplam tarama sonucu: 664, işleme dönüşen: 664.
+Gün sayısı: 7. Toplam tarama sonucu: 766, işleme dönüşen: 741.
 
 ## Tüm sinyaller
 
 | İşlem | Kazanma oranı | Ortalama R | Toplam R | Ort. kazanç R | Ort. kayıp R | En kötü düşüş R |
 | --- | --- | --- | --- | --- | --- | --- |
-| 664 | %42 | -0.12 | -82.9 | +1.06 | -0.99 | -191.0 |
+| 741 | %39 | -0.22 | -166.7 | +1.06 | -1.04 | -282.0 |
 
 ## Her günün ilk 3 sinyali (gerçekçi senaryo)
 
 | İşlem | Kazanma oranı | Ortalama R | Toplam R | Ort. kazanç R | Ort. kayıp R | En kötü düşüş R |
 | --- | --- | --- | --- | --- | --- | --- |
-| 18 | %44 | -0.18 | -3.2 | +0.76 | -0.93 | -5.3 |
+| 21 | %19 | -0.54 | -11.3 | +1.24 | -0.96 | -15.6 |
 
 ## Günlük
 
@@ -26,6 +26,7 @@ Gün sayısı: 6. Toplam tarama sonucu: 664, işleme dönüşen: 664.
 | 2026-11-12 | 81 | -2.7 |
 | 2026-11-13 | 95 | -40.9 |
 | 2026-11-16 | 92 | -69.1 |
+| 2026-11-17 | 77 | -83.8 |
 
 1R = giriş ile stop arasındaki fark. +2R = riske edilenin iki katı kazanç.
 Bu bir geçmiş kaydıdır, tahmin değildir.
