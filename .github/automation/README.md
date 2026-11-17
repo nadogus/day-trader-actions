@@ -64,6 +64,14 @@ gerçek 5 dakikalık mumlarında önce stop mu hedef mi geldiğine bakılır:
 - Stop ya da hedefin ötesine boşlukla açılış: o mumun açılışından çıkılır.
 - Hiçbiri: 15:55'te kapanır.
 - Taraf başı %0.05 maliyet düşülür.
+- Liste 10:15'te çıkar. Ondan önce tetiklenen kurulum eski tetik fiyatından
+  alınamaz: giriş 10:15 mumunun açılışından yapılır, stop aynı kalır, hedef
+  yeni girişe göre 2R olur. Fiyat o an stopun altındaysa işlem yok
+  (`status=stale`). `trades.csv`'deki `entry_time` gerçek giriş saatidir,
+  `trigger_time` sinyal saatidir. (11-17'den önceki günler bu kuraldan önce
+  eski yöntemle hesaplandı.)
+- "İlk 3 sinyal" gerçek saat sırasıyla seçilir (önceden metin sırasıydı:
+  "10:00 AM" "9:50 AM"den önce geliyordu).
 
 Sonuçlar `results` dalında: `shadow/trades.csv` (her hisse bir satır) ve
 `shadow/summary.md` (kazanma oranı, ortalama R, toplam R, en kötü düşüş; ayrıca
