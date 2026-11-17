@@ -35,7 +35,7 @@ import time
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 FIELDS = ["date", "symbol", "status", "trigger_time", "entry", "stop", "target", "risk",
-          "exit_time", "exit_price", "outcome", "r_gross", "r_net", "pct_net", "note"]
+          "exit_time", "exit_price", "outcome", "r_gross", "r_net", "pct_net", "note", "entry_time"]
 
 
 def load_entry_module():
@@ -53,6 +53,19 @@ def run_json(args):
         return p.returncode, json.loads(out), p.stderr.decode("utf-8", "replace")
     except ValueError:
         return p.returncode, None, (p.stderr.decode("utf-8", "replace") or out).strip()
+
+
+def clock_minutes(text):
+    """"9:50 AM" / "10:00 AM" / "15:55" -> minutes since midnight. Plain string
+    sorting is wrong here ("10:00 AM" < "9:50 AM"). Unknown/empty sorts last."""
+    text = (text or "").strip()
+    for fmt in ("%I:%M %p", "%H:%M"):
+        try:
+            t = datetime.datetime.strptime(text, fmt)
+            return t.hour * 60 + t.minute
+        except ValueError:
+            pass
+    return 24 * 60
 
 
 def hhmm(entry, ts):
@@ -93,6 +106,27 @@ def walk(bars, plan, day, entry_mod):
     return last[0], last[1], "flat"
 
 
+def first_three(day_rows):
+    """The day's first 3 signals by real clock time (ties: symbol)."""
+    return sorted(day_rows, key=lambda r: (clock_minutes(r["trigger_time"]), r["symbol"]))[:3]
+
+
+def late_entry(bars, day, entry_mod, at):
+    """The list is only known at `at` (10:15). A setup that triggered earlier
+    cannot be bought at its trigger price: the first fill you could really get
+    is the open of the first 5-minute bar that starts at or after `at`.
+    -> (bar_start "HH:MM", open price, previous bar start "HH:MM") or None"""
+    cut = clock_minutes(at)
+    for b in bars:
+        t = entry_mod.to_eastern(entry_mod.utc_of(b["t"]))
+        if t.date() != day:
+            continue
+        if t.hour * 60 + t.minute >= cut:
+            prev = t - datetime.timedelta(minutes=5)
+            return t.strftime("%H:%M"), float(b["o"]), prev.strftime("%H:%M")
+    return None
+
+
 def read_rows(path):
     if not os.path.exists(path):
         return []
@@ -128,11 +162,11 @@ def write_summary(path, rows, cost):
     days = sorted({r["date"] for r in rows})
     first3 = []
     for d in days:
-        day_rows = sorted((r for r in traded if r["date"] == d), key=lambda r: r["trigger_time"])
-        first3 += day_rows[:3]
+        first3 += first_three([r for r in traded if r["date"] == d])
     lines = ["# Gölge takip özeti (sanal, para yok)", "",
              "Kural: orijinal ORB girişi, orijinal plan (stop = açılış aralığı ortası, hedef = 2R), "
-             "15:55'te kapanış. Aynı mumda stop ve hedef = stop sayılır. Taraf başı maliyet %%%.2f." % (cost * 100), "",
+             "15:55'te kapanış. Liste 10:15'te çıktığı için ondan önce tetiklenenler 10:15 mumunun açılışından girilir "
+             "(stop aynı, hedef yeni girişe göre 2R; fiyat o an stopun altındaysa işlem yok). Aynı mumda stop ve hedef = stop sayılır. Taraf başı maliyet %%%.2f." % (cost * 100), "",
              "Gün sayısı: %d. Toplam tarama sonucu: %d, işleme dönüşen: %d." % (len(days), len(rows), len(traded)), ""]
 
     def block(title, rs):
@@ -167,6 +201,9 @@ def main(argv=None):
     ap.add_argument("--date", help="YYYY-MM-DD New York (default today)")
     ap.add_argument("--watchlist", help="default <data>/trader/watchlist.json")
     ap.add_argument("--offline", help="folder of saved Yahoo 5m charts <TICKER>.json (tests)")
+    ap.add_argument("--list-time", default="10:15",
+                    help="New York time the watchlist exists (default 10:15): setups that triggered earlier "
+                         "are entered at the open of the first bar from this time, not at their old trigger")
     ap.add_argument("--cost", type=float, default=0.0005, help="cost per side as a fraction (default 0.0005)")
     a = ap.parse_args(argv)
 
@@ -237,12 +274,36 @@ def main(argv=None):
             new_rows.append(row)
             continue
         plan["_bar_start"] = res["trigger"]["bar_start"]
+        notes = list(plan.get("warnings") or [])
+        entry_time = res["trigger"]["close_time"]
+        if clock_minutes(entry_time) < clock_minutes(a.list_time):
+            # triggered before the list existed: enter at the first real fill, same stop, same R multiple
+            late = late_entry(chart["bars"], day, em, a.list_time)
+            if late is None:
+                row.update(status="no entry", trigger_time=res["trigger"]["time"],
+                           note="no bar from %s to enter on" % a.list_time)
+                new_rows.append(row)
+                continue
+            bar_start, open_px, prev_start = late
+            stop0 = float(plan["stop"])
+            if open_px <= stop0:
+                row.update(status="stale", trigger_time=res["trigger"]["time"],
+                           note="at %s the price %.2f was already at/below the stop %.2f: setup dead, not bought"
+                                % (bar_start, open_px, stop0))
+                new_rows.append(row)
+                continue
+            plan = dict(plan)
+            plan["entry"] = open_px
+            plan["target"] = open_px + float(plan.get("target_r") or 2.0) * (open_px - stop0)
+            plan["_bar_start"] = prev_start
+            entry_time = bar_start
+            notes.append("late entry: triggered %s, bought at the %s open" % (res["trigger"]["time"], bar_start))
         t, px, outcome = walk(chart["bars"], plan, day, em)
         entry, stop = float(plan["entry"]), float(plan["stop"])
         risk = entry - stop
         row.update(status="traded" if px is not None else "no exit", trigger_time=res["trigger"]["time"],
                    entry="%.4f" % entry, stop="%.4f" % stop, target="%.4f" % float(plan["target"]),
-                   risk="%.4f" % risk, outcome=outcome, note="; ".join(plan.get("warnings") or []))
+                   risk="%.4f" % risk, outcome=outcome, note="; ".join(notes), entry_time=entry_time)
         if px is not None and risk > 0:
             gross = px - entry
             net = gross - a.cost * (entry + px)
@@ -251,7 +312,7 @@ def main(argv=None):
         new_rows.append(row)
 
     rows = [r for r in read_rows(csv_path) if r.get("date") != day.isoformat()] + new_rows
-    rows.sort(key=lambda r: (r["date"], r["trigger_time"], r["symbol"]))
+    rows.sort(key=lambda r: (r["date"], clock_minutes(r["trigger_time"]), r["symbol"]))
     with open(csv_path, "w", encoding="utf-8", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=FIELDS)
         w.writeheader()
@@ -267,7 +328,7 @@ def main(argv=None):
         print("  %-6s %-10s %s %s %s" % (r["symbol"], r["status"], r["trigger_time"], r["outcome"], r["r_net"]))
     # the daily report posted to the GitHub issue (shadow.yml)
     ts = stats(traded)
-    day_first3 = sorted(traded, key=lambda r: r["trigger_time"])[:3]
+    day_first3 = first_three(traded)
     f3 = stats(day_first3)
     allt = stats([r for r in rows if r["status"] == "traded"])
     n_days = len({r["date"] for r in rows})
