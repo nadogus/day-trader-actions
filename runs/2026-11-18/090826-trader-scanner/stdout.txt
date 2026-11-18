@@ -1,0 +1,57 @@
+Daily scan, Wed 2026-11-18 09:08 ET, closes through 2026-11-17 (Yahoo spark, daily closes only).
+Fetched 5,930 of 5,930 charts. 1,469 passed the liquidity filter ($5+ and 1,000,000+ shares); 1,469 scanned.
+262 charts matched a setup: 24 20-day closing-high breakout, 117 bull flag, 25 reclaimed the 20-day average, 94 oversold (RSI under 30), 17 oversold bounce.
+Most traded first (price x volume):
+  NVDA      $155.46  RSI  22.5  oversold (RSI under 30)
+  SPCX      $141.70  RSI  48.8  reclaimed the 20-day average
+  INTC       $55.17  RSI  29.6  oversold (RSI under 30)
+  LLY     $1,415.55  RSI  62.8  bull flag
+  CRM       $194.52  RSI  26.2  oversold (RSI under 30)
+  HD        $339.01  RSI  55.2  bull flag
+  SLS        $19.15  RSI  76.5  20-day closing-high breakout, reclaimed the 20-day average
+  MSTR       $96.50  RSI  26.8  oversold (RSI under 30)
+  NOW        $92.90  RSI  27.0  oversold (RSI under 30)
+  HOOD       $69.19  RSI  27.7  oversold (RSI under 30)
+  BABA       $86.65  RSI  26.0  oversold (RSI under 30)
+  SYK       $317.54  RSI  55.5  reclaimed the 20-day average
+  CHYM       $32.97  RSI  62.2  bull flag
+  IREN       $15.80  RSI  29.4  oversold (RSI under 30)
+  CBRS      $104.18  RSI  42.6  reclaimed the 20-day average
+  MCD       $275.82  RSI  64.9  bull flag
+  DDOG      $165.18  RSI  26.5  oversold (RSI under 30)
+  RTX       $198.00  RSI  52.5  reclaimed the 20-day average
+  COIN      $115.02  RSI  28.0  oversold (RSI under 30)
+  VIK        $94.28  RSI  65.2  20-day closing-high breakout
+  CMI       $433.97  RSI  28.0  oversold (RSI under 30), oversold bounce
+  CMCSA      $25.31  RSI  65.4  bull flag
+  TMUS      $167.90  RSI  56.5  bull flag
+  BILL       $64.88  RSI  84.8  20-day closing-high breakout
+  TSCO       $38.49  RSI  69.0  20-day closing-high breakout
+  NTRA      $287.47  RSI  28.2  oversold (RSI under 30)
+  ABNB      $180.94  RSI  54.5  bull flag
+  HCA       $501.19  RSI  59.6  bull flag
+  MMM       $180.88  RSI  52.9  bull flag
+  PWR       $598.53  RSI  48.6  reclaimed the 20-day average
+  CRCL       $54.63  RSI  26.3  oversold (RSI under 30)
+  ICE       $172.22  RSI  55.7  bull flag
+  TEAM      $140.98  RSI  24.8  oversold (RSI under 30)
+  CMG        $35.83  RSI  63.5  bull flag
+  AS         $30.24  RSI  51.5  reclaimed the 20-day average
+  CAH       $279.25  RSI  71.8  bull flag
+  AXON      $298.59  RSI  26.8  oversold (RSI under 30)
+  CVNA       $71.10  RSI  55.1  bull flag
+  HLT       $370.53  RSI  61.2  bull flag
+  FISV       $62.31  RSI  68.8  bull flag
+  EW        $105.43  RSI  72.9  bull flag
+  AON       $334.80  RSI  60.8  bull flag
+  MKSI      $206.44  RSI  44.8  reclaimed the 20-day average
+  CBOE      $370.07  RSI  68.9  bull flag
+  SE         $69.44  RSI  29.2  oversold (RSI under 30)
+  IR         $82.07  RSI  52.5  bull flag
+  CHTR      $138.50  RSI  66.5  bull flag
+  STZ       $144.12  RSI  61.8  bull flag
+  CPRT       $31.45  RSI  57.0  bull flag
+  TPR       $127.04  RSI  53.8  bull flag
+  ... and 212 more in the watchlist (--show N for more).
+Wrote trader/watchlist.json (mode daily, 262 hits).
+A scan is a list of charts that match a rule, not a list of stocks to buy. Next: pick one chart, then /trader-news TICKER.
