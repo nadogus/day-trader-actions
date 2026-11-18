@@ -765,3 +765,91 @@ date,symbol,status,trigger_time,entry,stop,target,risk,exit_time,exit_price,outc
 2026-11-17,NEE,traded,10:10 AM,84.9500,84.5400,85.7700,0.4100,15:50,84.5400,stop,-1.000,-1.207,-0.582,"late entry: triggered 10:10 AM, bought at the 10:15 open",10:15
 2026-11-17,RIVN,traded,10:10 AM,12.1950,12.1100,12.3650,0.0850,10:15,12.1100,stop,-1.000,-1.143,-0.797,"late entry: triggered 10:10 AM, bought at the 10:15 open",10:15
 2026-11-17,PYPL,traded,10:15 AM,58.9600,58.6200,59.6400,0.3400,10:40,58.6200,stop,-1.000,-1.173,-0.676,,10:15
+2026-11-18,CMG,traded,9:50 AM,36.3600,35.7700,37.5400,0.5900,15:55,37.0500,flat,1.169,1.107,1.797,"late entry: triggered 9:50 AM, bought at the 10:15 open",10:15
+2026-11-18,DASH,traded,9:50 AM,168.0300,166.3800,171.3300,1.6500,10:35,166.3800,stop,-1.000,-1.101,-1.081,"late entry: triggered 9:50 AM, bought at the 10:15 open",10:15
+2026-11-18,DIS,traded,9:50 AM,119.7200,117.8100,123.5400,1.9100,15:55,122.8450,flat,1.636,1.573,2.509,"late entry: triggered 9:50 AM, bought at the 10:15 open",10:15
+2026-11-18,EXPE,traded,9:50 AM,248.2250,243.7500,257.1750,4.4750,15:55,246.5100,flat,-0.383,-0.439,-0.791,"late entry: triggered 9:50 AM, bought at the 10:15 open",10:15
+2026-11-18,JD,traded,9:50 AM,25.1900,25.1600,25.2500,0.0300,10:15,25.1600,stop,-1.000,-1.839,-0.219,"late entry: triggered 9:50 AM, bought at the 10:15 open",10:15
+2026-11-18,MP,traded,9:50 AM,37.3800,35.1300,41.8800,2.2500,15:55,36.1050,flat,-0.567,-0.583,-3.509,"late entry: triggered 9:50 AM, bought at the 10:15 open",10:15
+2026-11-18,TJX,traded,9:50 AM,142.4400,137.4200,152.4800,5.0200,15:55,140.6600,flat,-0.355,-0.383,-1.349,"late entry: triggered 9:50 AM, bought at the 10:15 open",10:15
+2026-11-18,UNP,traded,9:50 AM,299.7900,297.4800,304.4100,2.3100,15:55,301.5400,flat,0.758,0.627,0.483,"late entry: triggered 9:50 AM, bought at the 10:15 open",10:15
+2026-11-18,USAR,traded,9:50 AM,7.2850,6.6300,8.5950,0.6550,14:00,6.6300,stop,-1.000,-1.011,-9.087,"late entry: triggered 9:50 AM, bought at the 10:15 open",10:15
+2026-11-18,VRNS,traded,9:50 AM,49.1850,49.0500,49.4550,0.1350,15:55,49.2200,flat,0.259,-0.105,-0.029,"late entry: triggered 9:50 AM, bought at the 10:15 open",10:15
+2026-11-18,AKAM,traded,9:55 AM,88.1300,85.1800,94.0300,2.9500,15:55,91.7150,flat,1.215,1.185,3.966,"late entry: triggered 9:55 AM, bought at the 10:15 open",10:15
+2026-11-18,ATI,traded,9:55 AM,176.8100,174.2400,181.9500,2.5700,15:55,180.9350,flat,1.605,1.535,2.232,"late entry: triggered 9:55 AM, bought at the 10:15 open",10:15
+2026-11-18,BKNG,traded,9:55 AM,154.0700,153.7000,154.8100,0.3700,10:15,153.7000,stop,-1.000,-1.416,-0.340,"late entry: triggered 9:55 AM, bought at the 10:15 open",10:15
+2026-11-18,CHKP,traded,9:55 AM,151.5150,149.2400,156.0650,2.2750,11:05,156.0650,target,2.000,1.932,2.902,"late entry: triggered 9:55 AM, bought at the 10:15 open",10:15
+2026-11-18,CLRO,traded,9:55 AM,7.0850,5.6200,10.0150,1.4650,15:55,7.1483,flat,0.043,0.038,0.793,"late entry: triggered 9:55 AM, bought at the 10:15 open",10:15
+2026-11-18,CSX,traded,9:55 AM,51.2050,51.0700,51.4750,0.1350,10:25,51.4750,target,2.000,1.620,0.427,"late entry: triggered 9:55 AM, bought at the 10:15 open",10:15
+2026-11-18,CVNA,traded,9:55 AM,72.7500,71.7900,74.6700,0.9600,11:10,71.7700,stop (gap),-1.021,-1.096,-1.446,"late entry: triggered 9:55 AM, bought at the 10:15 open",10:15
+2026-11-18,DLR,traded,9:55 AM,178.1000,176.7700,180.7600,1.3300,10:30,176.7700,stop,-1.000,-1.133,-0.846,"late entry: triggered 9:55 AM, bought at the 10:15 open",10:15
+2026-11-18,FIX,traded,9:55 AM,1144.8400,1122.5700,1189.3799,22.2700,15:55,1139.1700,flat,-0.255,-0.306,-0.595,"late entry: triggered 9:55 AM, bought at the 10:15 open",10:15
+2026-11-18,FTNT,traded,9:55 AM,129.7850,126.2700,136.8150,3.5150,15:55,131.9000,flat,0.602,0.564,1.529,"late entry: triggered 9:55 AM, bought at the 10:15 open",10:15
+2026-11-18,GE,traded,9:55 AM,328.3775,326.5700,331.9925,1.8075,10:40,326.5700,stop,-1.000,-1.181,-0.650,"late entry: triggered 9:55 AM, bought at the 10:15 open",10:15
+2026-11-18,HWM,traded,9:55 AM,217.5825,214.2300,224.2875,3.3525,15:55,221.4900,flat,1.166,1.100,1.695,"late entry: triggered 9:55 AM, bought at the 10:15 open",10:15
+2026-11-18,LULU,traded,9:55 AM,106.8400,104.5300,111.4600,2.3100,11:30,111.4600,target,2.000,1.953,4.222,"late entry: triggered 9:55 AM, bought at the 10:15 open",10:15
+2026-11-18,NSC,traded,9:55 AM,322.0400,320.5300,325.0600,1.5100,11:25,325.0600,target,2.000,1.786,0.837,"late entry: triggered 9:55 AM, bought at the 10:15 open",10:15
+2026-11-18,OKTA,traded,9:55 AM,185.1200,176.6900,201.9800,8.4300,15:55,195.7000,flat,1.255,1.232,5.612,"late entry: triggered 9:55 AM, bought at the 10:15 open",10:15
+2026-11-18,PANW,traded,9:55 AM,331.2400,313.8100,366.1000,17.4300,15:55,337.9500,flat,0.385,0.366,1.925,"late entry: triggered 9:55 AM, bought at the 10:15 open",10:15
+2026-11-18,PRMB,traded,9:55 AM,22.6450,22.1000,23.7350,0.5450,15:55,22.9450,flat,0.550,0.509,1.224,"late entry: triggered 9:55 AM, bought at the 10:15 open",10:15
+2026-11-18,RBLX,traded,9:55 AM,46.2000,44.6800,49.2400,1.5200,15:55,47.0600,flat,0.566,0.535,1.761,"late entry: triggered 9:55 AM, bought at the 10:15 open",10:15
+2026-11-18,RIVN,traded,9:55 AM,11.9600,11.7700,12.3400,0.1900,11:10,11.7700,stop,-1.000,-1.062,-1.688,"late entry: triggered 9:55 AM, bought at the 10:15 open",10:15
+2026-11-18,ROST,traded,9:55 AM,227.3450,223.9000,234.2350,3.4450,15:55,228.1600,flat,0.237,0.170,0.258,"late entry: triggered 9:55 AM, bought at the 10:15 open",10:15
+2026-11-18,RTX,stale,9:55 AM,,,,,,,,,,,"at 10:15 the price 195.63 was already at/below the stop 196.94: setup dead, not bought",
+2026-11-18,S,traded,9:55 AM,22.4900,21.5400,24.3900,0.9500,15:55,23.3850,flat,0.942,0.918,3.878,"late entry: triggered 9:55 AM, bought at the 10:15 open",10:15
+2026-11-18,SGI,traded,9:55 AM,60.7100,58.8600,64.4100,1.8500,15:55,62.1350,flat,0.770,0.737,2.246,"late entry: triggered 9:55 AM, bought at the 10:15 open",10:15
+2026-11-18,TSCO,traded,9:55 AM,38.7450,38.1600,39.9150,0.5850,15:55,39.0250,flat,0.479,0.412,0.622,"late entry: triggered 9:55 AM, bought at the 10:15 open",10:15
+2026-11-18,WELL,traded,9:55 AM,247.9000,244.4000,254.9000,3.5000,15:55,246.9300,flat,-0.277,-0.348,-0.491,"late entry: triggered 9:55 AM, bought at the 10:15 open",10:15
+2026-11-18,WWD,traded,9:55 AM,312.8950,309.1200,320.4450,3.7750,13:10,320.4450,target,2.000,1.916,2.312,"late entry: triggered 9:55 AM, bought at the 10:15 open",10:15
+2026-11-18,ALAB,traded,10:00 AM,218.2150,213.8000,227.0450,4.4150,10:30,213.8000,stop,-1.000,-1.049,-2.122,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,AMZN,traded,10:00 AM,264.1400,261.3600,269.7000,2.7800,15:55,268.1900,flat,1.457,1.361,1.433,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,BBY,traded,10:00 AM,98.9700,97.8100,101.2900,1.1600,12:20,101.2900,target,2.000,1.914,2.243,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,BKR,traded,10:00 AM,47.7600,47.5000,48.2800,0.2600,10:20,47.5000,stop,-1.000,-1.183,-0.644,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,BMNR,traded,10:00 AM,16.0600,15.7700,16.6400,0.2900,10:40,15.7700,stop,-1.000,-1.055,-1.905,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,BURL,traded,10:00 AM,247.2100,242.5900,256.4500,4.6200,15:55,248.7000,flat,0.323,0.269,0.502,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,CDNS,traded,10:00 AM,314.8250,310.2000,324.0750,4.6250,11:10,310.2000,stop,-1.000,-1.068,-1.568,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,CELH,traded,10:00 AM,32.9200,32.2200,34.3200,0.7000,10:45,32.2200,stop,-1.000,-1.047,-2.225,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,CIFR,traded,10:00 AM,6.7550,6.4600,7.3450,0.2950,10:45,6.4600,stop,-1.000,-1.022,-4.465,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,CLH,traded,10:00 AM,283.7950,279.4800,292.4250,4.3150,15:55,284.0800,flat,0.066,0.000,0.000,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,CLS,traded,10:00 AM,246.5500,238.6400,262.3700,7.9100,15:55,245.1600,flat,-0.176,-0.207,-0.663,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,CRWD,traded,10:00 AM,230.7650,221.7500,248.7950,9.0150,15:55,237.9100,flat,0.793,0.767,2.995,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,DECK,traded,10:00 AM,82.8800,81.5300,85.5800,1.3500,15:55,83.8100,flat,0.689,0.627,1.022,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,DHI,traded,10:00 AM,145.0000,143.3400,148.3200,1.6600,15:55,144.4600,flat,-0.325,-0.412,-0.472,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,EMR,traded,10:00 AM,161.0800,158.7800,165.6800,2.3000,15:55,161.8150,flat,0.320,0.249,0.356,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,ETR,traded,10:00 AM,108.7800,107.7700,110.8000,1.0100,15:55,108.0700,flat,-0.703,-0.810,-0.752,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,F,stale,10:00 AM,,,,,,,,,,,"at 10:15 the price 11.30 was already at/below the stop 11.31: setup dead, not bought",
+2026-11-18,FSLR,traded,10:00 AM,155.6900,153.9000,159.2700,1.7900,10:35,153.9000,stop,-1.000,-1.086,-1.249,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,GNRC,traded,10:00 AM,193.3650,189.0000,202.0950,4.3650,12:20,202.0950,target,2.000,1.955,4.413,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,HON,traded,10:00 AM,219.5200,218.3300,221.9000,1.1900,11:50,221.9000,target,2.000,1.815,0.984,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,HSY,traded,10:00 AM,174.4550,173.8600,175.6450,0.5950,11:50,175.6450,target,2.000,1.706,0.582,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,KDP,traded,10:00 AM,34.8350,34.7900,34.9250,0.0450,10:15,34.7900,stop,-1.000,-1.774,-0.229,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,LOW,traded,10:00 AM,218.1800,215.2000,224.1400,2.9800,15:55,222.2800,flat,1.376,1.302,1.778,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,MELI,stale,10:00 AM,,,,,,,,,,,"at 10:15 the price 1434.00 was already at/below the stop 1439.00: setup dead, not bought",
+2026-11-18,MNST,traded,10:00 AM,44.9100,44.6100,45.5100,0.3000,15:55,45.0550,flat,0.483,0.333,0.223,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,PH,traded,10:00 AM,920.8400,919.2600,924.0001,1.5800,10:15,919.2600,stop,-1.000,-1.582,-0.271,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,RDDT,traded,10:00 AM,96.7100,95.5700,98.9900,1.1400,10:30,95.5700,stop,-1.000,-1.084,-1.278,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,RIOT,traded,10:00 AM,18.0000,17.5600,18.8800,0.4400,11:55,17.5600,stop,-1.000,-1.040,-2.543,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,SMCI,traded,10:00 AM,24.5700,24.2000,25.3100,0.3700,10:45,24.2000,stop,-1.000,-1.066,-1.605,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,SN,traded,10:00 AM,226.7400,222.2500,235.7200,4.4900,15:55,229.7500,flat,0.670,0.620,1.227,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,TGT,traded,10:00 AM,167.3200,163.9400,174.0800,3.3800,15:55,166.0000,flat,-0.391,-0.440,-0.889,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,TT,traded,10:00 AM,406.7500,404.0700,412.1100,2.6800,12:20,412.1100,target,2.000,1.847,1.217,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,UAL,traded,10:00 AM,108.4050,107.4900,110.2350,0.9150,10:35,107.4900,stop,-1.000,-1.118,-0.944,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,UBER,traded,10:00 AM,69.3600,68.8800,70.3200,0.4800,10:20,68.8800,stop,-1.000,-1.144,-0.792,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,UPS,traded,10:00 AM,110.4100,109.5700,112.0900,0.8400,15:55,110.8700,flat,0.548,0.416,0.316,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,VIK,traded,10:00 AM,99.8350,96.4300,106.6450,3.4050,15:55,100.2800,flat,0.131,0.101,0.346,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,VRTX,traded,10:00 AM,537.8500,535.0100,543.5299,2.8400,10:15,535.0100,stop,-1.000,-1.189,-0.628,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,VST,traded,10:00 AM,127.9700,127.3900,129.1300,0.5800,10:20,127.3900,stop,-1.000,-1.220,-0.553,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,WSM,traded,10:00 AM,256.5700,251.8500,266.0100,4.7200,15:55,260.2350,flat,0.776,0.722,1.328,"late entry: triggered 10:00 AM, bought at the 10:15 open",10:15
+2026-11-18,DT,traded,10:05 AM,44.7200,43.7500,46.6600,0.9700,15:55,45.2600,flat,0.557,0.510,1.107,"late entry: triggered 10:05 AM, bought at the 10:15 open",10:15
+2026-11-18,EBAY,traded,10:05 AM,120.0900,118.9100,122.4500,1.1800,15:55,121.6200,flat,1.297,1.194,1.173,"late entry: triggered 10:05 AM, bought at the 10:15 open",10:15
+2026-11-18,LEN,traded,10:05 AM,83.2800,82.2200,85.4000,1.0600,15:55,82.9100,flat,-0.349,-0.427,-0.544,"late entry: triggered 10:05 AM, bought at the 10:15 open",10:15
+2026-11-18,MDLN,traded,10:05 AM,38.5800,37.7200,40.3000,0.8600,15:55,39.0500,flat,0.547,0.501,1.118,"late entry: triggered 10:05 AM, bought at the 10:15 open",10:15
+2026-11-18,NET,traded,10:05 AM,299.3200,287.8000,322.3600,11.5200,15:55,302.1900,flat,0.249,0.223,0.858,"late entry: triggered 10:05 AM, bought at the 10:15 open",10:15
+2026-11-18,TEM,traded,10:05 AM,63.8850,63.8400,63.9750,0.0450,10:15,63.8400,stop (same bar as target),-1.000,-2.419,-0.170,"late entry: triggered 10:05 AM, bought at the 10:15 open",10:15
+2026-11-18,WMT,traded,10:05 AM,126.5750,126.0700,127.5850,0.5050,11:00,126.0700,stop,-1.000,-1.250,-0.499,"late entry: triggered 10:05 AM, bought at the 10:15 open",10:15
+2026-11-18,ZS,traded,10:05 AM,193.1900,187.0600,205.4500,6.1300,15:55,198.2900,flat,0.832,0.800,2.539,"late entry: triggered 10:05 AM, bought at the 10:15 open",10:15
+2026-11-18,ARGX,traded,10:10 AM,959.4300,954.7600,968.7700,4.6700,10:15,954.7600,stop,-1.000,-1.205,-0.587,"late entry: triggered 10:10 AM, bought at the 10:15 open",10:15
+2026-11-18,FE,traded,10:10 AM,47.4950,47.2000,48.0850,0.2950,15:55,47.7650,flat,0.915,0.754,0.468,"late entry: triggered 10:10 AM, bought at the 10:15 open",10:15
+2026-11-18,MDB,traded,10:10 AM,306.4650,302.3300,314.7350,4.1350,10:35,302.3300,stop,-1.000,-1.074,-1.449,"late entry: triggered 10:10 AM, bought at the 10:15 open",10:15
+2026-11-18,SNOW,traded,10:15 AM,277.7600,273.9700,285.3400,3.7900,10:35,273.9700,stop,-1.000,-1.073,-1.464,,10:15
+2026-11-18,SPCX,traded,10:15 AM,144.9100,143.0000,148.7300,1.9100,15:40,143.0000,stop,-1.000,-1.075,-1.417,,10:15
