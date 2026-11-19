@@ -1,0 +1,57 @@
+Opening-range breakout scan, Thu 2026-11-19 10:15 AM ET: 15-minute range (9:30 to 9:45 AM), 5-minute bars, Yahoo.
+Fetched 5,930 of 5,930 charts; 2,237 usable (548 under the price / volume floor); 867 candidates, 200 confirmed with real highs and lows.
+PARTIAL: 667 more candidates were not checked (only the 200 most traded are; --max-confirm 0 checks all).
+98 of the 200 checked charts closed above their opening-range high by 10:15 AM:
+   9:50 AM  ADI       $394.04  range 388.53 to 392.89  +0.29% over
+   9:50 AM  AKAM       $95.86  range 92.11 to 95.09  +0.81% over
+   9:50 AM  ALAB      $235.27  range 225.81 to 234.60  +0.28% over
+   9:50 AM  AMBA       $62.17  range 58.55 to 61.62  +0.89% over
+   9:50 AM  AMD       $554.47  range 537.09 to 552.00  +0.45% over
+   9:50 AM  APO       $120.07  range 117.46 to 119.44  +0.52% over
+   9:50 AM  BABA       $87.76  range 83.25 to 87.62  +0.16% over
+   9:50 AM  BLK     $1,186.00  range 1,175.48 to 1,182.96  +0.26% over
+   9:50 AM  BMNR       $16.37  range 16.08 to 16.33  +0.22% over
+   9:50 AM  BX        $118.11  range 114.90 to 117.48  +0.54% over
+   9:50 AM  C         $119.22  range 117.88 to 119.04  +0.16% over
+   9:50 AM  CLS       $262.34  range 251.06 to 259.78  +0.99% over
+   9:50 AM  CME       $309.67  range 307.74 to 309.47  +0.06% over
+   9:50 AM  COF       $187.51  range 184.95 to 187.02  +0.26% over
+   9:50 AM  CORZ       $14.87  range 14.51 to 14.79  +0.54% over
+   9:50 AM  CRWV       $52.35  range 50.06 to 52.17  +0.34% over
+   9:50 AM  DLR       $180.76  range 178.45 to 180.70  +0.03% over
+   9:50 AM  ETN       $346.06  range 341.35 to 345.49  +0.16% over
+   9:50 AM  FLEX       $79.82  range 77.43 to 79.59  +0.28% over
+   9:50 AM  FN        $337.20  range 324.82 to 334.72  +0.74% over
+   9:50 AM  FSLR      $157.69  range 151.81 to 156.88  +0.52% over
+   9:50 AM  FUTU       $90.07  range 85.52 to 88.97  +1.24% over
+   9:50 AM  GAP        $19.78  range 19.35 to 19.62  +0.79% over
+   9:50 AM  GNRC      $217.32  range 207.47 to 214.29  +1.42% over
+   9:50 AM  GS        $889.97  range 879.98 to 886.87  +0.35% over
+   9:50 AM  HPE        $48.02  range 46.70 to 47.71  +0.65% over
+   9:50 AM  HSBC       $85.72  range 85.29 to 85.56  +0.19% over
+   9:50 AM  IBKR       $79.06  range 78.12 to 79.01  +0.06% over
+   9:50 AM  INTC       $59.15  range 57.28 to 59.00  +0.25% over
+   9:50 AM  JD         $25.67  range 25.04 to 25.61  +0.23% over
+   9:50 AM  JPM       $328.14  range 325.87 to 327.42  +0.22% over
+   9:50 AM  KEYS      $297.19  range 291.01 to 296.56  +0.21% over
+   9:50 AM  KKR        $95.06  range 93.70 to 94.58  +0.51% over
+   9:50 AM  LULU      $109.50  range 108.26 to 109.45  +0.05% over
+   9:50 AM  LYG         $5.12  range 5.10 to 5.12  +0.10% over
+   9:50 AM  MSFT      $525.35  range 518.42 to 524.78  +0.11% over
+   9:50 AM  NOK         $7.84  range 7.73 to 7.82  +0.19% over
+   9:50 AM  NTAP      $179.65  range 175.50 to 179.64  +0.01% over
+   9:50 AM  NTSK       $25.85  range 24.25 to 25.81  +0.14% over
+   9:50 AM  NUE       $253.28  range 249.87 to 252.76  +0.21% over
+   9:50 AM  NXPI      $261.33  range 255.29 to 259.25  +0.80% over
+   9:50 AM  ON         $69.82  range 68.64 to 69.63  +0.27% over
+   9:50 AM  P         $112.42  range 103.50 to 112.24  +0.16% over
+   9:50 AM  PDD        $87.09  range 82.02 to 86.15  +1.09% over
+   9:50 AM  PURR        $8.98  range 8.28 to 8.88  +1.18% over
+   9:50 AM  PYPL       $57.99  range 57.50 to 57.93  +0.10% over
+   9:50 AM  QCOM      $170.70  range 163.28 to 169.50  +0.71% over
+   9:50 AM  SKHY      $129.71  range 127.59 to 129.58  +0.10% over
+   9:50 AM  SMCI       $25.80  range 25.10 to 25.59  +0.80% over
+   9:50 AM  SPOT      $602.70  range 581.83 to 600.88  +0.30% over
+  ... and 48 more in the watchlist (--show N for more).
+Wrote trader/watchlist.json (mode orb, 98 hits).
+A scan is a list of charts that match a rule, not a list of stocks to buy. Next: pick one chart, then /trader-news TICKER and /trader-entry TICKER.
