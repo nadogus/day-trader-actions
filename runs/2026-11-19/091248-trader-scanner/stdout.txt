@@ -1,0 +1,57 @@
+Daily scan, Thu 2026-11-19 09:12 ET, closes through 2026-11-18 (Yahoo spark, daily closes only).
+Fetched 5,930 of 5,930 charts. 1,472 passed the liquidity filter ($5+ and 1,000,000+ shares), 2 had under 30 days; 1,470 scanned.
+410 charts matched a setup: 77 20-day closing-high breakout, 139 bull flag, 67 reclaimed the 20-day average, 133 oversold (RSI under 30), 31 oversold bounce.
+Most traded first (price x volume):
+  NVDA      $150.96  RSI  21.2  oversold (RSI under 30)
+  AMD       $530.14  RSI  50.4  reclaimed the 20-day average
+  UNH       $349.91  RSI  28.6  oversold (RSI under 30)
+  INTC       $54.67  RSI  29.3  oversold (RSI under 30)
+  LLY     $1,382.75  RSI  55.6  bull flag
+  TTWO      $216.61  RSI  53.4  reclaimed the 20-day average
+  TJX       $140.30  RSI  53.3  reclaimed the 20-day average
+  COST    $1,096.62  RSI  68.9  bull flag
+  MSTR       $90.32  RSI  24.4  oversold (RSI under 30)
+  DIS       $122.36  RSI  69.5  20-day closing-high breakout
+  TGT       $165.93  RSI  60.1  20-day closing-high breakout
+  CAT       $558.77  RSI  29.7  oversold (RSI under 30)
+  CRM       $190.40  RSI  24.5  oversold (RSI under 30)
+  NOW        $90.59  RSI  25.6  oversold (RSI under 30)
+  HD        $337.64  RSI  53.9  bull flag
+  FCX        $51.45  RSI  26.3  oversold (RSI under 30)
+  BABA       $84.37  RSI  24.2  oversold (RSI under 30)
+  IREN       $15.24  RSI  28.7  oversold (RSI under 30)
+  COF       $184.30  RSI  29.9  oversold (RSI under 30)
+  HWM       $221.15  RSI  53.4  bull flag
+  NET       $300.91  RSI  49.5  reclaimed the 20-day average
+  LOW       $222.78  RSI  58.9  bull flag
+  GE        $328.10  RSI  54.8  bull flag
+  HOOD       $69.17  RSI  27.6  oversold (RSI under 30)
+  COIN      $110.51  RSI  26.2  oversold (RSI under 30)
+  OKTA      $195.61  RSI  52.5  reclaimed the 20-day average
+  BA        $162.91  RSI  29.7  oversold (RSI under 30)
+  VIK       $100.37  RSI  73.2  20-day closing-high breakout
+  UNP       $300.90  RSI  54.3  reclaimed the 20-day average
+  TMUS      $164.02  RSI  51.4  bull flag
+  AAOI       $40.79  RSI  29.6  oversold (RSI under 30)
+  HON       $222.70  RSI  53.6  reclaimed the 20-day average
+  AKAM       $91.70  RSI  51.5  reclaimed the 20-day average
+  SHW       $346.60  RSI  52.4  bull flag
+  DDOG      $167.11  RSI  27.8  oversold (RSI under 30), oversold bounce
+  CMI       $427.16  RSI  26.6  oversold (RSI under 30)
+  AAL        $13.01  RSI  49.1  bull flag
+  LYV       $181.56  RSI  59.6  reclaimed the 20-day average
+  SPOT      $605.84  RSI  59.3  bull flag
+  EBAY      $121.46  RSI  55.0  reclaimed the 20-day average
+  RCL       $320.65  RSI  56.2  bull flag, reclaimed the 20-day average
+  ASTS       $25.49  RSI  29.6  oversold (RSI under 30)
+  TSCO       $39.01  RSI  70.7  20-day closing-high breakout
+  NTRA      $289.50  RSI  29.0  oversold (RSI under 30), oversold bounce
+  ORLY       $93.37  RSI  62.9  20-day closing-high breakout
+  WSM       $260.09  RSI  55.5  reclaimed the 20-day average
+  CMG        $36.95  RSI  67.4  20-day closing-high breakout, bull flag
+  TEAM      $135.05  RSI  22.7  oversold (RSI under 30)
+  BMNR       $15.47  RSI  29.9  oversold (RSI under 30)
+  CMCSA      $25.24  RSI  64.3  bull flag
+  ... and 360 more in the watchlist (--show N for more).
+Wrote trader/watchlist.json (mode daily, 410 hits).
+A scan is a list of charts that match a rule, not a list of stocks to buy. Next: pick one chart, then /trader-news TICKER.
