@@ -34,6 +34,7 @@ import tempfile
 import time
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+MIN_RISK = 0.01  # one cent: below this, entry is "at the stop" and R is meaningless (cost / ~0 risk)
 FIELDS = ["date", "symbol", "status", "trigger_time", "entry", "stop", "target", "risk",
           "exit_time", "exit_price", "outcome", "r_gross", "r_net", "pct_net", "note", "entry_time"]
 
@@ -286,7 +287,7 @@ def main(argv=None):
                 continue
             bar_start, open_px, prev_start = late
             stop0 = float(plan["stop"])
-            if open_px <= stop0:
+            if open_px - stop0 < MIN_RISK - 1e-9:
                 row.update(status="stale", trigger_time=res["trigger"]["time"],
                            note="at %s the price %.2f was already at/below the stop %.2f: setup dead, not bought"
                                 % (bar_start, open_px, stop0))
@@ -301,10 +302,14 @@ def main(argv=None):
         t, px, outcome = walk(chart["bars"], plan, day, em)
         entry, stop = float(plan["entry"]), float(plan["stop"])
         risk = entry - stop
-        row.update(status="traded" if px is not None else "no exit", trigger_time=res["trigger"]["time"],
+        status = "traded" if px is not None else "no exit"
+        if risk < MIN_RISK - 1e-9:
+            status, px = "no risk", None
+            notes.append("entry %.4f is within a cent of the stop %.4f: no real risk, not counted" % (entry, stop))
+        row.update(status=status, trigger_time=res["trigger"]["time"],
                    entry="%.4f" % entry, stop="%.4f" % stop, target="%.4f" % float(plan["target"]),
                    risk="%.4f" % risk, outcome=outcome, note="; ".join(notes), entry_time=entry_time)
-        if px is not None and risk > 0:
+        if px is not None:
             gross = px - entry
             net = gross - a.cost * (entry + px)
             row.update(exit_time=t, exit_price="%.4f" % px, r_gross="%.3f" % (gross / risk),
