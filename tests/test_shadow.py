@@ -111,6 +111,17 @@ class ShadowTest(unittest.TestCase):
         self.assertEqual(rows["DEAD"]["status"], "stale")
         self.assertEqual(rows["DEAD"]["r_net"], "")
 
+    def test_early_trigger_opening_on_the_stop_is_not_bought(self):
+        # 19 Nov DLR: the 10:15 open was a hair above the stop (float noise), risk ~0,
+        # and the 0.1% cost divided by ~0 risk gave -24518R. Within a cent of the stop = stale.
+        edge = day_bars(OR, {3: (99.4, 100.5, 99.3, 100.4), 4: (100.4, 100.7, 100.3, 100.6),
+                             9: (99.000001, 99.1, 98.9, 99.0)})
+        for i in range(10, 78):
+            edge[i] = flat_bar(99.0)
+        rows = self.run_day({"EDGE": edge})
+        self.assertEqual(rows["EDGE"]["status"], "stale")
+        self.assertEqual(rows["EDGE"]["r_net"], "")
+
     def test_trigger_after_the_list_keeps_its_own_price(self):
         # drift flat, then a close above 100.0 at the 10:30 bar (index 12)
         late = day_bars(OR, {12: (100.0, 100.7, 99.9, 100.6)})
