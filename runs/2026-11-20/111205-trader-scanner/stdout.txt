@@ -1,0 +1,57 @@
+Opening-range breakout scan, Fri 2026-11-20 10:15 AM ET: 15-minute range (9:30 to 9:45 AM), 5-minute bars, Yahoo.
+Fetched 5,930 of 5,930 charts; 2,295 usable (587 under the price / volume floor); 1,623 candidates, 200 confirmed with real highs and lows.
+PARTIAL: 1,423 more candidates were not checked (only the 200 most traded are; --max-confirm 0 checks all).
+115 of the 200 checked charts closed above their opening-range high by 10:15 AM:
+   9:50 AM  ACN       $225.75  range 220.89 to 224.86  +0.40% over
+   9:50 AM  APG        $41.70  range 41.06 to 41.62  +0.19% over
+   9:50 AM  BABA       $84.08  range 82.98 to 84.07  +0.01% over
+   9:50 AM  BHP        $68.98  range 67.86 to 68.69  +0.42% over
+   9:50 AM  CAT       $533.66  range 524.50 to 529.63  +0.76% over
+   9:50 AM  CBRS       $88.84  range 83.01 to 87.56  +1.46% over
+   9:50 AM  CDNS      $301.91  range 295.12 to 301.27  +0.21% over
+   9:50 AM  CMI       $419.57  range 412.05 to 418.94  +0.15% over
+   9:50 AM  CVX       $207.38  range 205.94 to 207.35  +0.01% over
+   9:50 AM  DVN        $42.11  range 41.60 to 42.03  +0.19% over
+   9:50 AM  HWM       $219.15  range 212.74 to 216.37  +1.29% over
+   9:50 AM  IBM       $229.47  range 223.77 to 228.52  +0.42% over
+   9:50 AM  INSM      $149.10  range 142.42 to 147.47  +1.11% over
+   9:50 AM  INTC       $54.78  range 53.48 to 54.48  +0.55% over
+   9:50 AM  KEYS      $282.86  range 272.82 to 282.83  +0.01% over
+   9:50 AM  LIN       $513.96  range 510.54 to 513.47  +0.10% over
+   9:50 AM  LNG       $297.03  range 292.00 to 296.00  +0.35% over
+   9:50 AM  MSFT      $499.20  range 490.88 to 498.36  +0.17% over
+   9:50 AM  ORLY       $94.58  range 93.37 to 94.45  +0.14% over
+   9:50 AM  PH        $906.63  range 898.54 to 906.29  +0.04% over
+   9:50 AM  PWR       $571.41  range 561.17 to 569.94  +0.26% over
+   9:50 AM  PYPL       $54.67  range 53.31 to 54.49  +0.33% over
+   9:50 AM  RBLX       $47.27  range 45.25 to 47.10  +0.35% over
+   9:50 AM  RKLB       $49.84  range 48.81 to 49.76  +0.16% over
+   9:50 AM  SAP       $203.12  range 200.90 to 203.04  +0.04% over
+   9:50 AM  SLB        $47.62  range 46.96 to 47.50  +0.25% over
+   9:50 AM  SNPS      $426.89  range 418.38 to 424.94  +0.46% over
+   9:50 AM  SPOT      $594.96  range 580.00 to 594.79  +0.03% over
+   9:50 AM  TEAM      $138.91  range 131.04 to 136.00  +2.14% over
+   9:50 AM  VST       $121.82  range 119.80 to 121.72  +0.08% over
+   9:55 AM  AMZN      $257.69  range 251.12 to 256.51  +0.46% over
+   9:55 AM  ASTS       $25.50  range 24.27 to 25.25  +0.99% over
+   9:55 AM  BA        $163.48  range 160.15 to 163.41  +0.04% over
+   9:55 AM  BKR        $46.33  range 45.42 to 46.24  +0.19% over
+   9:55 AM  CL         $99.14  range 98.18 to 99.08  +0.06% over
+   9:55 AM  COP       $136.10  range 134.40 to 135.90  +0.15% over
+   9:55 AM  EBAY      $119.42  range 117.71 to 119.19  +0.20% over
+   9:55 AM  GOOG      $277.87  range 271.06 to 277.19  +0.25% over
+   9:55 AM  GOOGL     $280.36  range 272.83 to 279.52  +0.30% over
+   9:55 AM  INTU      $299.56  range 284.06 to 298.00  +0.52% over
+   9:55 AM  JCI       $134.52  range 132.49 to 134.27  +0.19% over
+   9:55 AM  MKSI      $199.13  range 193.12 to 199.06  +0.04% over
+   9:55 AM  MRK       $136.15  range 133.79 to 135.53  +0.46% over
+   9:55 AM  NOW        $91.09  range 87.33 to 90.82  +0.30% over
+   9:55 AM  NVO        $38.89  range 38.44 to 38.88  +0.03% over
+   9:55 AM  TSEM      $124.03  range 118.68 to 123.39  +0.52% over
+   9:55 AM  TSLA      $371.37  range 365.14 to 370.34  +0.28% over
+   9:55 AM  TSM       $341.78  range 335.23 to 339.56  +0.65% over
+   9:55 AM  TTWO      $211.55  range 203.18 to 210.00  +0.74% over
+   9:55 AM  U          $46.81  range 45.26 to 46.50  +0.67% over
+  ... and 65 more in the watchlist (--show N for more).
+Wrote trader/watchlist.json (mode orb, 115 hits).
+A scan is a list of charts that match a rule, not a list of stocks to buy. Next: pick one chart, then /trader-news TICKER and /trader-entry TICKER.
