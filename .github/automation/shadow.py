@@ -13,6 +13,7 @@ then walks the day's real 5-minute bars after the entry bar:
   - both inside one bar     -> counted as the STOP (pessimistic: 5-minute bars hide the order)
   - neither by flat_by      -> closed at the 15:50 bar's close (15:55)
 A cost per side (default 0.05 %) is taken off every trade for slippage/spread.
+A trade whose risk (entry - stop) is below one cent or the round-trip cost is "no risk": not counted.
 
     python .github/automation/shadow.py --data data                  # today (New York)
     python .github/automation/shadow.py --data data --date 2026-11-10
@@ -34,8 +35,34 @@ import tempfile
 import time
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+ONE_CENT = 0.01  # risk floor; see min_risk()
 FIELDS = ["date", "symbol", "status", "trigger_time", "entry", "stop", "target", "risk",
           "exit_time", "exit_price", "outcome", "r_gross", "r_net", "pct_net", "note", "entry_time"]
+
+
+def min_risk(entry, cost):
+    """Smallest risk that counts as a trade: one cent AND the round-trip cost (so cost can never exceed 1R)."""
+    return max(ONE_CENT, 2.0 * cost * entry)
+
+
+def no_risk_note(risk, floor):
+    return "risk %.4f is below the minimum %.4f (round-trip cost): not counted" % (risk, floor)
+
+
+def reclassify(rows, cost):
+    """Old rows traded with a risk below the minimum become 'no risk' (self-healing of old data)."""
+    for r in rows:
+        if r.get("status") != "traded":
+            continue
+        risk, entry = fnum(r.get("risk")), fnum(r.get("entry"))
+        if risk is None or entry is None:
+            continue
+        floor = min_risk(entry, cost)
+        if risk < floor - 1e-9:
+            r.update(status="no risk", exit_time="", exit_price="", r_gross="", r_net="", pct_net="")
+            note = no_risk_note(risk, floor)
+            r["note"] = "%s; %s" % (r["note"], note) if r.get("note") else note
+    return rows
 
 
 def load_entry_module():
@@ -166,7 +193,7 @@ def write_summary(path, rows, cost):
     lines = ["# Gölge takip özeti (sanal, para yok)", "",
              "Kural: orijinal ORB girişi, orijinal plan (stop = açılış aralığı ortası, hedef = 2R), "
              "15:55'te kapanış. Liste 10:15'te çıktığı için ondan önce tetiklenenler 10:15 mumunun açılışından girilir "
-             "(stop aynı, hedef yeni girişe göre 2R; fiyat o an stopun altındaysa işlem yok). Aynı mumda stop ve hedef = stop sayılır. Taraf başı maliyet %%%.2f." % (cost * 100), "",
+             "(stop aynı, hedef yeni girişe göre 2R; fiyat o an stopun altındaysa işlem yok). Aynı mumda stop ve hedef = stop sayılır. Taraf başı maliyet %%%.2f. Riski gidiş-dönüş maliyetinden (veya 1 sentten) küçük olan işlem sayılmaz." % (cost * 100), "",
              "Gün sayısı: %d. Toplam tarama sonucu: %d, işleme dönüşen: %d." % (len(days), len(rows), len(traded)), ""]
 
     def block(title, rs):
@@ -286,10 +313,17 @@ def main(argv=None):
                 continue
             bar_start, open_px, prev_start = late
             stop0 = float(plan["stop"])
-            if open_px <= stop0:
+            if open_px <= stop0 + 1e-9:
                 row.update(status="stale", trigger_time=res["trigger"]["time"],
                            note="at %s the price %.2f was already at/below the stop %.2f: setup dead, not bought"
                                 % (bar_start, open_px, stop0))
+                new_rows.append(row)
+                continue
+            floor = min_risk(open_px, a.cost)
+            if open_px - stop0 < floor - 1e-9:
+                row.update(status="no risk", trigger_time=res["trigger"]["time"], entry="%.4f" % open_px,
+                           stop="%.4f" % stop0, risk="%.4f" % (open_px - stop0), entry_time=bar_start,
+                           note=no_risk_note(open_px - stop0, floor))
                 new_rows.append(row)
                 continue
             plan = dict(plan)
@@ -301,17 +335,23 @@ def main(argv=None):
         t, px, outcome = walk(chart["bars"], plan, day, em)
         entry, stop = float(plan["entry"]), float(plan["stop"])
         risk = entry - stop
-        row.update(status="traded" if px is not None else "no exit", trigger_time=res["trigger"]["time"],
+        status = "traded" if px is not None else "no exit"
+        floor = min_risk(entry, a.cost)
+        if risk < floor - 1e-9:
+            status, px = "no risk", None
+            notes.append(no_risk_note(risk, floor))
+        row.update(status=status, trigger_time=res["trigger"]["time"],
                    entry="%.4f" % entry, stop="%.4f" % stop, target="%.4f" % float(plan["target"]),
                    risk="%.4f" % risk, outcome=outcome, note="; ".join(notes), entry_time=entry_time)
-        if px is not None and risk > 0:
+        if px is not None:
             gross = px - entry
             net = gross - a.cost * (entry + px)
             row.update(exit_time=t, exit_price="%.4f" % px, r_gross="%.3f" % (gross / risk),
                        r_net="%.3f" % (net / risk), pct_net="%.3f" % (100.0 * net / entry))
         new_rows.append(row)
 
-    rows = [r for r in read_rows(csv_path) if r.get("date") != day.isoformat()] + new_rows
+    old_rows = reclassify([r for r in read_rows(csv_path) if r.get("date") != day.isoformat()], a.cost)
+    rows = old_rows + new_rows
     rows.sort(key=lambda r: (r["date"], clock_minutes(r["trigger_time"]), r["symbol"]))
     with open(csv_path, "w", encoding="utf-8", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=FIELDS)

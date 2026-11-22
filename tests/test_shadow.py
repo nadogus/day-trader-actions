@@ -111,6 +111,70 @@ class ShadowTest(unittest.TestCase):
         self.assertEqual(rows["DEAD"]["status"], "stale")
         self.assertEqual(rows["DEAD"]["r_net"], "")
 
+    def test_early_trigger_opening_a_hair_above_the_stop_is_no_risk(self):
+        # 19 Nov DLR: the 10:15 open was a hair above the stop (float noise), risk ~0,
+        # and the 0.1% cost divided by ~0 risk gave -24518R. Risk below the round-trip cost = "no risk".
+        edge = day_bars(OR, {3: (99.4, 100.5, 99.3, 100.4), 4: (100.4, 100.7, 100.3, 100.6),
+                             9: (99.000001, 99.1, 98.9, 99.0)})
+        for i in range(10, 78):
+            edge[i] = flat_bar(99.0)
+        rows = self.run_day({"EDGE": edge})
+        self.assertEqual(rows["EDGE"]["status"], "no risk")
+        self.assertEqual(rows["EDGE"]["r_net"], "")
+
+    def test_normal_trade_with_risk_below_round_trip_cost_is_no_risk(self):
+        # narrow opening range 99.9-100.0 -> stop 99.95; trigger close 100.03 after the list:
+        # risk 0.08 is below the minimum 2 * 0.0005 * 100.03 = 0.10
+        narrow = [(99.95, 100.0, 99.9, 99.95)] * 3
+        bars = day_bars(narrow, {12: (100.0, 100.05, 99.98, 100.03)})
+        rows = self.run_day({"TINY": bars})
+        r = rows["TINY"]
+        self.assertEqual(r["status"], "no risk")
+        self.assertEqual(r["r_net"], "")
+        self.assertEqual(r["exit_price"], "")
+        self.assertIn("below the minimum", r["note"])
+
+    def test_reclassify_old_rows(self):
+        bad = {"status": "traded", "entry": "1096.6400", "stop": "1096.5100", "risk": "0.1300",
+               "exit_time": "3:55 PM", "exit_price": "1095.0", "r_gross": "-12.0", "r_net": "-9.434",
+               "pct_net": "-0.2", "note": ""}
+        good = {"status": "traded", "entry": "100.0000", "stop": "99.0000", "risk": "1.0000",
+                "exit_time": "3:55 PM", "exit_price": "101.0", "r_gross": "1.000", "r_net": "0.900",
+                "pct_net": "0.9", "note": ""}
+        broken = dict(good, risk="n/a")
+        shadow.reclassify([bad, good, broken], 0.0005)
+        self.assertEqual(bad["status"], "no risk")
+        for k in ("exit_time", "exit_price", "r_gross", "r_net", "pct_net"):
+            self.assertEqual(bad[k], "")
+        self.assertIn("below the minimum", bad["note"])
+        self.assertEqual(good["status"], "traded")
+        self.assertEqual(good["r_net"], "0.900")
+        self.assertEqual(broken["status"], "traded")
+
+    def test_real_fixture_tsla_late_entry_row(self):
+        # replaces the brittle grep in the workflow: parse the CSV instead of matching a text line
+        import gzip
+        charts = os.path.join(self.tmp, "c60")
+        os.makedirs(charts)
+        src = os.path.join(FIX, "trader-timemachine", "TSLA-60d5m.json.gz")
+        with gzip.open(src) as fi, open(os.path.join(charts, "TSLA.json"), "wb") as fo:
+            shutil.copyfileobj(fi, fo)
+        wl = os.path.join(self.tmp, "wl.json")
+        with open(wl, "w", encoding="utf-8") as fh:
+            json.dump({"mode": "orb", "as_of": "2026-10-09 10:15 ET", "hits": [{"symbol": "TSLA"}]}, fh)
+        data = os.path.join(self.tmp, "sd")
+        with contextlib.redirect_stdout(io.StringIO()):
+            code = shadow.main(["--data", data, "--date", "2026-10-09", "--offline", charts, "--watchlist", wl])
+        self.assertEqual(code, 0)
+        with open(os.path.join(data, "shadow", "trades.csv"), encoding="utf-8", newline="") as fh:
+            r = {x["symbol"]: x for x in csv.DictReader(fh)}["TSLA"]
+        self.assertEqual(r["status"], "traded")
+        self.assertEqual(r["trigger_time"], "9:50 AM")
+        self.assertEqual(r["entry_time"], "10:15")
+        self.assertEqual(r["entry"], "384.7750")
+        self.assertEqual(r["stop"], "384.2500")
+        self.assertEqual(r["outcome"], "target")
+
     def test_trigger_after_the_list_keeps_its_own_price(self):
         # drift flat, then a close above 100.0 at the 10:30 bar (index 12)
         late = day_bars(OR, {12: (100.0, 100.7, 99.9, 100.6)})
