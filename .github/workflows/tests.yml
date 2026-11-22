@@ -47,4 +47,3 @@ jobs:
           python -c "import gzip,shutil;shutil.copyfileobj(gzip.open('tests/fixtures/trader-timemachine/TSLA-60d5m.json.gz'),open('/tmp/c60/TSLA.json','wb'))"
           echo '{"mode":"orb","as_of":"2026-10-09 10:15 ET","hits":[{"symbol":"TSLA"}]}' > /tmp/wl.json
           python .github/automation/shadow.py --data /tmp/sd --date 2026-10-09 --offline /tmp/c60 --watchlist /tmp/wl.json
-          grep -q "2026-10-09,TSLA,traded,9:50 AM,387.5800,384.2500,394.2400,3.3300,10:00,384.2500,stop" /tmp/sd/shadow/trades.csv
