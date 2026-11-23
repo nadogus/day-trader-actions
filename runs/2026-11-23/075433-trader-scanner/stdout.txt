@@ -1,0 +1,4 @@
+Nasdaq Trader symbol directories, files of 2026-11-23 07:00 ET: 13,305 rows.
+Kept 5,924 US-listed common stocks, ordinary shares and ADRs.
+Dropped: 5,822 ETF, 378 not a plain ticker, 359 warrant, 249 unit, 170 note, 128 unit / warrant / right suffix, 102 right, 95 coupon, 38 test issue, 21 preferred, 15 depositary, 3 bond, 1 unit or right.
+Wrote trader/universe.txt (one SYMBOL|Name a line).
