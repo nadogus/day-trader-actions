@@ -1,0 +1,57 @@
+Opening-range breakout scan, Mon 2026-11-23 10:15 AM ET: 15-minute range (9:30 to 9:45 AM), 5-minute bars, Yahoo.
+Fetched 5,924 of 5,924 charts; 2,361 usable (638 under the price / volume floor); 1,443 candidates, 200 confirmed with real highs and lows.
+PARTIAL: 1,243 more candidates were not checked (only the 200 most traded are; --max-confirm 0 checks all).
+68 of the 200 checked charts closed above their opening-range high by 10:15 AM:
+   9:50 AM  ACN       $223.82  range 221.22 to 223.62  +0.09% over
+   9:50 AM  ADBE      $220.73  range 218.00 to 220.57  +0.07% over
+   9:50 AM  ALNY      $150.84  range 146.85 to 150.00  +0.56% over
+   9:50 AM  ARGX      $957.08  range 948.01 to 955.62  +0.15% over
+   9:50 AM  CBRS       $99.54  range 92.68 to 99.00  +0.54% over
+   9:50 AM  CME       $307.60  range 302.34 to 307.55  +0.02% over
+   9:50 AM  DASH      $162.52  range 158.52 to 161.75  +0.48% over
+   9:50 AM  HCA       $481.60  range 473.00 to 479.40  +0.46% over
+   9:50 AM  ISRG      $413.70  range 407.34 to 413.57  +0.03% over
+   9:50 AM  JNJ       $270.42  range 267.36 to 270.29  +0.05% over
+   9:50 AM  KYMR      $148.71  range 135.95 to 145.05  +2.52% over
+   9:50 AM  LYV       $177.93  range 175.70 to 177.68  +0.14% over
+   9:50 AM  MCD       $273.02  range 271.00 to 272.78  +0.09% over
+   9:50 AM  PG        $169.48  range 167.49 to 169.09  +0.23% over
+   9:50 AM  RVMD      $168.42  range 165.50 to 168.17  +0.15% over
+   9:50 AM  SAP       $203.62  range 200.84 to 202.68  +0.46% over
+   9:50 AM  SPGI      $449.97  range 445.64 to 449.62  +0.08% over
+   9:50 AM  TXN       $295.25  range 287.00 to 295.10  +0.05% over
+   9:50 AM  UL         $63.47  range 63.06 to 63.44  +0.05% over
+   9:50 AM  V         $410.11  range 404.01 to 410.02  +0.02% over
+   9:50 AM  VRTX      $528.95  range 517.70 to 528.20  +0.14% over
+   9:50 AM  WELL      $242.88  range 239.30 to 242.26  +0.26% over
+   9:55 AM  ABBV      $289.15  range 284.45 to 288.00  +0.40% over
+   9:55 AM  AMGN      $447.70  range 440.00 to 446.50  +0.27% over
+   9:55 AM  CTAS      $222.52  range 220.41 to 222.43  +0.04% over
+   9:55 AM  CVX       $208.48  range 205.34 to 208.10  +0.18% over
+   9:55 AM  F          $11.47  range 11.38 to 11.47  +0.00% over
+   9:55 AM  GILD      $170.48  range 166.98 to 169.48  +0.59% over
+   9:55 AM  HD        $342.68  range 339.25 to 342.48  +0.06% over
+   9:55 AM  LIN       $511.95  range 506.42 to 511.25  +0.14% over
+   9:55 AM  LLY     $1,371.52  range 1,344.00 to 1,363.15  +0.61% over
+   9:55 AM  MMM       $182.97  range 180.35 to 182.32  +0.35% over
+   9:55 AM  MSI       $528.85  range 523.78 to 528.07  +0.15% over
+   9:55 AM  NVDA      $164.95  range 156.93 to 164.80  +0.09% over
+   9:55 AM  NVO        $38.80  range 38.47 to 38.74  +0.15% over
+   9:55 AM  OXY        $54.03  range 53.44 to 54.00  +0.06% over
+   9:55 AM  REGN      $932.22  range 916.33 to 931.98  +0.03% over
+   9:55 AM  ROST      $218.29  range 211.99 to 217.34  +0.44% over
+   9:55 AM  TEL       $213.24  range 209.28 to 213.00  +0.11% over
+   9:55 AM  XOM       $159.04  range 157.15 to 158.90  +0.09% over
+  10:00 AM  BA        $160.83  range 159.10 to 160.70  +0.08% over
+  10:00 AM  CVS        $80.09  range 77.71 to 79.97  +0.15% over
+  10:00 AM  DVN        $41.76  range 41.40 to 41.76  +0.01% over
+  10:00 AM  IBM       $231.60  range 228.60 to 231.16  +0.19% over
+  10:00 AM  MU        $694.85  range 672.31 to 693.92  +0.13% over
+  10:00 AM  OKTA      $209.73  range 203.50 to 207.15  +1.25% over
+  10:05 AM  BSP        $47.00  range 43.13 to 46.60  +0.86% over
+  10:05 AM  CDNS      $304.44  range 297.24 to 303.99  +0.15% over
+  10:05 AM  DE        $625.70  range 619.15 to 625.68  +0.00% over
+  10:05 AM  FANG      $176.53  range 174.80 to 176.39  +0.08% over
+  ... and 18 more in the watchlist (--show N for more).
+Wrote trader/watchlist.json (mode orb, 68 hits).
+A scan is a list of charts that match a rule, not a list of stocks to buy. Next: pick one chart, then /trader-news TICKER and /trader-entry TICKER.
