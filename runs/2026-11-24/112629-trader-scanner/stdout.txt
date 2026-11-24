@@ -1,0 +1,57 @@
+Opening-range breakout scan, Tue 2026-11-24 10:15 AM ET: 15-minute range (9:30 to 9:45 AM), 5-minute bars, Yahoo.
+Fetched 5,924 of 5,924 charts; 2,246 usable (563 under the price / volume floor); 1,592 candidates, 200 confirmed with real highs and lows.
+PARTIAL: 1,392 more candidates were not checked (only the 200 most traded are; --max-confirm 0 checks all).
+148 of the 200 checked charts closed above their opening-range high by 10:15 AM:
+   9:50 AM  AAPL      $352.95  range 345.88 to 352.50  +0.13% over
+   9:50 AM  ABNB      $175.55  range 172.76 to 175.41  +0.08% over
+   9:50 AM  ACN       $232.32  range 223.76 to 231.19  +0.49% over
+   9:50 AM  ADBE      $231.79  range 222.43 to 230.95  +0.36% over
+   9:50 AM  ADP       $306.77  range 302.07 to 306.74  +0.01% over
+   9:50 AM  ADSK      $261.05  range 254.71 to 260.72  +0.13% over
+   9:50 AM  AKAM       $90.77  range 87.78 to 89.90  +0.97% over
+   9:50 AM  AMGN      $462.42  range 450.00 to 462.10  +0.07% over
+   9:50 AM  AMZN      $253.87  range 250.53 to 253.48  +0.15% over
+   9:50 AM  AXP       $309.15  range 305.00 to 309.00  +0.05% over
+   9:50 AM  B          $34.24  range 33.35 to 34.21  +0.09% over
+   9:50 AM  BAC        $48.52  range 47.81 to 48.49  +0.06% over
+   9:50 AM  BKNG      $147.60  range 143.86 to 146.55  +0.72% over
+   9:50 AM  BLK     $1,157.57  range 1,132.48 to 1,157.00  +0.05% over
+   9:50 AM  BMY        $61.77  range 59.69 to 61.72  +0.08% over
+   9:50 AM  BX        $118.86  range 114.74 to 118.81  +0.03% over
+   9:50 AM  CEG       $248.77  range 242.89 to 247.73  +0.42% over
+   9:50 AM  CME       $309.03  range 303.90 to 308.48  +0.18% over
+   9:50 AM  COP       $134.87  range 132.41 to 134.62  +0.19% over
+   9:50 AM  COR       $342.52  range 335.90 to 341.34  +0.34% over
+   9:50 AM  CPNG       $15.88  range 14.71 to 15.85  +0.19% over
+   9:50 AM  CRM       $192.07  range 183.89 to 190.50  +0.83% over
+   9:50 AM  CVX       $209.28  range 206.18 to 208.78  +0.24% over
+   9:50 AM  DDOG      $169.69  range 165.06 to 167.98  +1.02% over
+   9:50 AM  DIS       $121.25  range 119.21 to 120.81  +0.36% over
+   9:50 AM  DVN        $41.43  range 40.77 to 41.35  +0.18% over
+   9:50 AM  ELV       $385.71  range 376.94 to 384.31  +0.36% over
+   9:50 AM  EOG       $147.27  range 145.58 to 147.18  +0.06% over
+   9:50 AM  EQIX      $992.10  range 975.20 to 990.09  +0.20% over
+   9:50 AM  FCX        $47.97  range 47.12 to 47.94  +0.05% over
+   9:50 AM  FTNT      $132.82  range 129.68 to 132.65  +0.13% over
+   9:50 AM  HL         $11.20  range 10.89 to 11.15  +0.45% over
+   9:50 AM  HUM       $396.35  range 381.55 to 396.00  +0.09% over
+   9:50 AM  INTU      $279.77  range 270.70 to 278.48  +0.46% over
+   9:50 AM  IQV       $258.98  range 250.00 to 257.89  +0.42% over
+   9:50 AM  JPM       $317.24  range 314.00 to 317.15  +0.03% over
+   9:50 AM  LMT       $585.12  range 574.54 to 585.05  +0.01% over
+   9:50 AM  MA        $642.29  range 632.05 to 641.47  +0.13% over
+   9:50 AM  MCK     $1,065.00  range 1,043.00 to 1,064.81  +0.02% over
+   9:50 AM  MDT       $100.52  range 94.49 to 100.23  +0.29% over
+   9:50 AM  MMM       $186.01  range 183.43 to 185.59  +0.23% over
+   9:50 AM  MS        $172.91  range 170.60 to 172.87  +0.02% over
+   9:50 AM  MSFT      $493.82  range 488.43 to 493.09  +0.15% over
+   9:50 AM  NEM       $101.59  range 99.00 to 101.34  +0.24% over
+   9:50 AM  NET       $290.51  range 284.29 to 290.18  +0.11% over
+   9:50 AM  NFLX       $58.58  range 57.58 to 58.24  +0.57% over
+   9:50 AM  NOW        $92.12  range 89.62 to 91.81  +0.34% over
+   9:50 AM  OXY        $53.49  range 52.70 to 53.43  +0.10% over
+   9:50 AM  PFE        $28.07  range 27.38 to 28.02  +0.16% over
+   9:50 AM  PINS       $19.21  range 16.99 to 19.07  +0.74% over
+  ... and 98 more in the watchlist (--show N for more).
+Wrote trader/watchlist.json (mode orb, 148 hits).
+A scan is a list of charts that match a rule, not a list of stocks to buy. Next: pick one chart, then /trader-news TICKER and /trader-entry TICKER.
