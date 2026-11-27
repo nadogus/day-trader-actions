@@ -2,19 +2,19 @@
 
 Kural: orijinal ORB girişi, orijinal plan (stop = açılış aralığı ortası, hedef = 2R), 15:55'te kapanış. Liste 10:15'te çıktığı için ondan önce tetiklenenler 10:15 mumunun açılışından girilir (stop aynı, hedef yeni girişe göre 2R; fiyat o an stopun altındaysa işlem yok). Aynı mumda stop ve hedef = stop sayılır. Taraf başı maliyet %0.05. Riski gidiş-dönüş maliyetinden (veya 1 sentten) küçük olan işlem sayılmaz.
 
-Gün sayısı: 13. Toplam tarama sonucu: 1397, işleme dönüşen: 1290.
+Gün sayısı: 14. Toplam tarama sonucu: 1488, işleme dönüşen: 1380.
 
 ## Tüm sinyaller
 
 | İşlem | Kazanma oranı | Ortalama R | Toplam R | Ort. kazanç R | Ort. kayıp R | En kötü düşüş R |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1290 | %34 | -0.29 | -380.4 | +1.03 | -0.98 | -505.0 |
+| 1380 | %35 | -0.28 | -383.3 | +1.00 | -0.97 | -505.0 |
 
 ## Her günün ilk 3 sinyali (gerçekçi senaryo)
 
 | İşlem | Kazanma oranı | Ortalama R | Toplam R | Ort. kazanç R | Ort. kayıp R | En kötü düşüş R |
 | --- | --- | --- | --- | --- | --- | --- |
-| 39 | %31 | -0.38 | -14.8 | +1.03 | -1.00 | -20.3 |
+| 42 | %31 | -0.37 | -15.4 | +0.95 | -0.96 | -20.3 |
 
 ## Günlük
 
@@ -33,6 +33,7 @@ Gün sayısı: 13. Toplam tarama sonucu: 1397, işleme dönüşen: 1290.
 | 2026-11-23 | 62 | -1.7 |
 | 2026-11-24 | 142 | -48.8 |
 | 2026-11-25 | 97 | -14.5 |
+| 2026-11-27 | 90 | -2.9 |
 
 1R = giriş ile stop arasındaki fark. +2R = riske edilenin iki katı kazanç.
 Bu bir geçmiş kaydıdır, tahmin değildir.
