@@ -1,0 +1,57 @@
+Opening-range breakout scan, Fri 2026-11-27 10:15 AM ET: 15-minute range (9:30 to 9:45 AM), 5-minute bars, Yahoo.
+Fetched 5,924 of 5,924 charts; 2,132 usable (528 under the price / volume floor); 942 candidates, 200 confirmed with real highs and lows.
+PARTIAL: 742 more candidates were not checked (only the 200 most traded are; --max-confirm 0 checks all).
+91 of the 200 checked charts closed above their opening-range high by 10:15 AM:
+   9:50 AM  ACN       $243.01  range 239.20 to 242.51  +0.21% over
+   9:50 AM  ADP       $319.16  range 315.64 to 318.40  +0.24% over
+   9:50 AM  ANF       $183.94  range 173.55 to 183.75  +0.10% over
+   9:50 AM  AON       $348.11  range 343.48 to 347.59  +0.15% over
+   9:50 AM  ATAT       $41.01  range 39.60 to 40.88  +0.32% over
+   9:50 AM  BTI        $60.31  range 59.59 to 60.28  +0.04% over
+   9:50 AM  BUD        $79.28  range 78.47 to 79.20  +0.10% over
+   9:50 AM  CDW       $180.43  range 175.82 to 180.10  +0.18% over
+   9:50 AM  CHKP      $164.57  range 160.76 to 164.44  +0.08% over
+   9:50 AM  CHTR      $152.43  range 146.87 to 150.22  +1.47% over
+   9:50 AM  CL         $99.76  range 98.70 to 99.68  +0.08% over
+   9:50 AM  CMCSA      $26.07  range 25.73 to 26.02  +0.19% over
+   9:50 AM  CNH        $12.03  range 11.82 to 11.99  +0.33% over
+   9:50 AM  COST    $1,094.84  range 1,086.04 to 1,094.47  +0.03% over
+   9:50 AM  CVS        $82.72  range 81.35 to 82.66  +0.07% over
+   9:50 AM  DIS       $126.91  range 125.45 to 126.89  +0.02% over
+   9:50 AM  FER        $59.85  range 59.46 to 59.85  +0.01% over
+   9:50 AM  FISV       $60.91  range 59.84 to 60.87  +0.07% over
+   9:50 AM  HCA       $500.22  range 488.00 to 499.71  +0.10% over
+   9:50 AM  HDB        $28.57  range 28.14 to 28.49  +0.26% over
+   9:50 AM  HONA      $164.21  range 160.24 to 163.07  +0.70% over
+   9:50 AM  IBN        $35.98  range 35.48 to 35.85  +0.38% over
+   9:50 AM  INFY       $13.09  range 12.69 to 13.04  +0.38% over
+   9:50 AM  INSM      $170.68  range 170.25 to 170.66  +0.01% over
+   9:50 AM  KO         $97.18  range 96.50 to 97.10  +0.08% over
+   9:50 AM  MRK       $141.72  range 140.40 to 141.65  +0.05% over
+   9:50 AM  NTSK       $27.10  range 26.38 to 27.05  +0.18% over
+   9:50 AM  PEP       $144.49  range 143.55 to 144.43  +0.05% over
+   9:50 AM  PYPL       $58.83  range 58.00 to 58.66  +0.29% over
+   9:50 AM  TTWO      $230.51  range 226.61 to 230.50  +0.00% over
+   9:50 AM  UL         $66.46  range 65.96 to 66.42  +0.06% over
+   9:50 AM  URI     $1,050.83  range 1,032.50 to 1,047.76  +0.29% over
+   9:50 AM  V         $427.89  range 423.02 to 427.81  +0.02% over
+   9:50 AM  WELL      $249.03  range 245.16 to 248.67  +0.14% over
+   9:55 AM  AWK       $153.05  range 151.07 to 152.99  +0.04% over
+   9:55 AM  BILL       $61.68  range 61.52 to 61.67  +0.02% over
+   9:55 AM  COP       $138.16  range 135.73 to 137.61  +0.40% over
+   9:55 AM  CRWD      $212.99  range 205.77 to 211.27  +0.82% over
+   9:55 AM  DE        $656.75  range 645.26 to 653.85  +0.44% over
+   9:55 AM  DVN        $43.31  range 42.95 to 43.30  +0.02% over
+   9:55 AM  FANG      $184.39  range 182.50 to 184.14  +0.14% over
+   9:55 AM  KNTK       $60.05  range 58.56 to 59.75  +0.50% over
+   9:55 AM  KSS        $27.56  range 26.73 to 27.50  +0.22% over
+   9:55 AM  LNG       $307.26  range 302.20 to 306.99  +0.09% over
+   9:55 AM  P          $99.75  range 96.95 to 99.66  +0.09% over
+   9:55 AM  PANW      $352.79  range 338.57 to 351.81  +0.28% over
+   9:55 AM  PINS       $20.58  range 19.81 to 20.53  +0.27% over
+   9:55 AM  SHEL       $95.86  range 95.42 to 95.66  +0.20% over
+   9:55 AM  SLB        $49.66  range 49.38 to 49.65  +0.03% over
+   9:55 AM  SWKS       $85.81  range 83.42 to 84.97  +0.99% over
+  ... and 41 more in the watchlist (--show N for more).
+Wrote trader/watchlist.json (mode orb, 91 hits).
+A scan is a list of charts that match a rule, not a list of stocks to buy. Next: pick one chart, then /trader-news TICKER and /trader-entry TICKER.
